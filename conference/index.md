@@ -1,3 +1,9 @@
+---
+layout: default
+title: 2021 Conference
+parent: AppSec NZ Home 
+nav_order: 2
+---
 
 # AppSec New Zealand Conference 2021
 
