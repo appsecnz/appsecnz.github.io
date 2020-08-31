@@ -3,6 +3,8 @@ layout: default
 title: 2021 Conference
 description: AppSec New Zealand Conference Site
 parent: Home 
+has_children: true
+
 nav_order: 2
 ---
 
