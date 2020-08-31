@@ -255,7 +255,7 @@ If your company would like to provide special items to attendees, funding for pa
 Our pre-conference training is planned to include a mix of half-day, one-day, and two-day classes. Each Premier Sponsor package includes a number of "Training Passes," each valid for one half-day of training for one person. 
 
   - One pass can be redeemed for a 100% discount on a half-day class, 50% discount on a one-day class, or 25% discount on a two-day class 
-  - Passes may be combined - Use two for a 100% discount on a one-day class or 50% discount on a two-class; or use up to four toward a two-day class
+  - Passes may be combined - Use two for a 100% discount on a one-day class, or use up to four toward a two-day class
   - To redeem a pass, provide the name and email address of the pass's recipient, along with the class to which it should be applied. The recipient will be issued a single-use discount code, to use in registering for the specified class.
   - Sponsors are free to distribute these passes as they choose, provided they are not resold. If preferred, passes can be turned over to the conference's Diversity Fund committee, for award to applicants
   
