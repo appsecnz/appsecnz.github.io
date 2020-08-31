@@ -3,3 +3,5 @@ remote_theme: appsecnz/just-the-docs
 title: "AppSec New Zealand"
 color_scheme: "light"
 search_enabled: false
+
+url: "https://appsec.org.nz"
