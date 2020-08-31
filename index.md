@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AppSec New Zealand Home
+title: AppSec NZ Home
 nav_order: 1
 has_children: true
 ---
