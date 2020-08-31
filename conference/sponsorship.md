@@ -308,4 +308,4 @@ To claim these passes, sponsors must provide the names and email addresses of th
     one A5-size card with information on *actual current* vacancies for
     which candidates are actively being sought
 
-**All amounts listed are in New Zealand dollars (NZD)**
+**All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.**
