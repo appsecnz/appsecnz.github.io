@@ -87,9 +87,13 @@ In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, 
 |**Seating**|3 tables<br>6 chairs|2 tables<br>4 chairs|1 table<br>2 chairs|1 table<br>2 chairs|
 |**Rate**|$400|$300|$200|$200|
 
-Each booth space will be provided one power strip, and all tables will be fully draped.
+Each booth space will be provided one power strip, and all tables will be fully draped. Booths will be configured by the venue team on Thursday morning, and will be available for sponsor staff to set up after noon on Thursday. If desired, sponsors are welcome to staff their booths on Thursday afternoon, through the close of pre-conference training (5:30 p.m.).
 
-**Optional Video Displays:** We can provide 65" HDMI-compatible displays, on rolling stands, through the venue's A/V support team, for use in vendor exhibition booths. The cost is $375 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup.
+**Optional Video Displays:** 
+
+**65" TVs:** The venue's A/V support team can provide 65" HDMI-compatible displays on rolling stands, for use in sponsor exhibition booths. The cost is $395 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup. Platinum and Gold Sponsor booths can accommodate two (2) displays, while Silver/Bronze Sponsor booths can accommodate one (1).
+
+**Projector and Screen:** There is a permanently installed projector and screen, located in one corner of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one Gold Sponsor to reserve that corner booth and use the projector and screen during the main conference (Friday and Saturday). The cost for this option is $450.
 
 ## A La Carte Sponsorship Opportunities
 
