@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+remote_theme: appsecnz/just-the-docs
 
 title: "AppSec New Zealand"
 color_scheme: "light"
