@@ -14,25 +14,21 @@ nav_order: 7
 The 2021 AppSec New Zealand Conference will be held in Auckland on Friday and Saturday, 12-13 February, 2021, and is a security conference entirely dedicated to
 application security. The conference is once again being hosted by the University of Auckland with their support and assistance. The AppSec New Zealand Conference is a very low-cost event, and requires sponsor support to help be an instructive and quality event for the New Zealand community. AppSec New Zealand is strictly not for profit. The sponsorship money will be used to help make the AppSec New Zealand Conference a compelling, and valuable experience for all attendees.
 
-Sponsorship funds collected are to be used for things such as:
+Sponsorship funds collected are used for things such as:
 
-* Venue - Room use and on-site management fees
-* Name tags - We feel that getting to know people within the New Zealand community is important, and name tags make that possible
-* Promotion - We would like to reach a wider audience, by utilising paid advertising for the event
-* Printed Materials - Printed materials will include program information, room signs, and lanyards
-* Recognition items for speakers and trainers
-* Tea breaks, to promote a congenial environment for networking among application security professionals
+* **Venue -** Room use and on-site management fees
+* **Name tags -** We feel that getting to know people within the New Zealand community is important, and name tags make that possible
+* **Promotion -** We would like to reach a wider audience, by utilising paid advertising and online promotion for the event
+* **Printed Materials -** Printed materials will include participant badges (with agenda information), and information and room signage
+* **Recognition Items -** We love our speakers and trainers, and wish to show them our appreciation with small gifts
+* **Catering -** To promote a collegial environment for networking among application security professionals, we're scheduling three (3) catered tea breaks
+* **Administration -** While we do our best to keep administrative and operating costs low, we do need to cover ongoing expenses, such as insurance, accounting services, and storage fees
 
 ## Facts
 
 Last year, the conference's predecessor (OWASP New Zealand Day) was supported by 13 premier sponsors and attracted more than 800 attendees. Plenty of constructive (and positive!) feedback from the audience was received, and we are using this to make the conference more appealing to more people. For more information on the last New Zealand Day event, please visit: https://owasp.org/www-event-2020-NewZealandDay/.
 
-This year, the conference is organised and conducted by AppSec New Zealand, a NZ-based Incorporated Society (Registration #50041020). The primary purposes of AppSec New Zealand are to:
-
-* organise and conduct application security conferences, training, and other educational events; and
-* provide financial and other support for educational activities which advance awareness of, understanding of, and opportunities in application security.
-
-The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Web Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand (https://owasp.org.nz). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
+The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Web Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand ([owasp.org.nz](https://owasp.org.nz)). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
 ([sign up](https://lists.owasp.org/mailman/listinfo/owasp-newzealand)). 
 
 To lessen the potential impact of COVID-related restrictions on gatherings, the 2021 Conference will be limited to 500 total attendees.
@@ -41,20 +37,30 @@ AppSec conferences' regular attendees include IT project managers, IT security m
 IT security consultants, Web application architects and developers, QA
 managers, QA testers and system administrators.
 
+## About AppSec New Zealand
+
+This year, the conference is organised and conducted by AppSec New Zealand, a NZ-based Incorporated Society (Registration #50041020). The primary purposes of AppSec New Zealand are to:
+
+* organise and conduct application security conferences, training, and other educational events; and
+* provide financial and other support for educational activities which advance awareness of, understanding of, and opportunities in application security.
+
+
 ## How to Become a Sponsor
 
 To express interest in supporting the conference as a sponsor, please
 [contact us by email](mailto:john.dileo@appsec.org.nz).
 
 ## Premium Sponsorship Packages
-**All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.**
+
+All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
+{: style="font-weight: bold; font-size: small;" }
+
 
 |        |Platinum    |Gold    |Silver    |Bronze    |A La Carte    |
 |-------:|:----------:|:------:|:--------:|:--------:|:------------:|
 |**Enrolment Limit**| 2 | 8 | -- | -- |*Varies*|
 |**General Rate**|$6,500|$4,500|$3,000|$2,000|*Varies*|
 |**A La Carte Sponsorship Discount**|**15%**|**10%**|**5%**| -- | -- |
-|**Exhibition Space**|**6m x 3m**<br>3 tables<br>$400|**3m x 3m**<br>2 tables<br>$300|**2m x 2.5m**<br>1 table<br>$200|**2m x 2.5m**<br>1 table<br>$200|No|
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (2)**|**Yes (1)**|No|No|No|
 |**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|No|No|
@@ -71,15 +77,29 @@ To express interest in supporting the conference as a sponsor, please
 |**Recognition during Opening/Closing Sessions**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
 |**Promotional Items in Conference Tote Bags** (see notes)|**Yes (up to 3)**|**Yes (up to 2)**|**Yes (1)**|**Yes (1)**|*Varies*|
 
+## Exhibition Space
+
+In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, with booth space provided as part of each sponsorship package. Some sponsors, however, didn't wish to make use of the space provided. For this year's conference, we've made the exhibition space an optional add-on, so sponsors can decide whether to have a booth.
+
+|        |Platinum    |Gold    |Silver    |Bronze    |
+|-------:|:----------:|:------:|:--------:|:--------:|
+|**Booth Size**|**6m x 3m**|**3m x 3m**|**2m x 2.5m**|**2m x 2.5m**|
+|**Seating**|3 tables<br>6 chairs|2 tables<br>4 chairs|1 table<br>2 chairs|1 table<br>2 chairs|
+|**Rate**|$400|$300|$200|$200|
+
+Each booth space will be provided one power strip, and all tables will be fully draped.
+
+**Optional Video Displays:** We can provide 65" HDMI-compatible displays, on rolling stands, through the venue's A/V support team, for use in vendor exhibition booths. The cost is $375 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup.
+
 ## A La Carte Sponsorship Opportunities
 
-**1. Tea Breaks - Conference Days**
+**1. Tea Breaks - Conference Days (Friday/Saturday)**
 
-On Friday, we will have an afternoon tea break, and on Saturday, there will be both morning and afternoon tea breaks. This a la carte sponsorship will fully fund one tea break.
+On Friday, we will have an afternoon tea break, and on Saturday, there will be morning and afternoon tea breaks. This a la carte sponsorship will fully fund one tea break.
 
 **Sponsorships Available:** Three (3)
 
-**General Rate:** $6,000
+**General Rate:** $7,000
 
 **Benefits:**
 
@@ -120,11 +140,11 @@ On Thursday evening, the AppSec New Zealand Conference Committee will host a rec
 
 **3. T-Shirts for Participants**
 
-We will be distributing branded t-shirts to all event participants, including attendees, speakers, sponsor staff, trainers, and volunteers.
+We will be making branded t-shirts available to all event participants, including attendees, speakers, sponsor staff, trainers, and volunteers. For general participants, t-shirts can be purchased a discounted price of $5.00 each; speakers, trainers, volunteers, and sponsor pass holders will receive their shirts a no charge.
 
-**Sponsorships Available:** Two (2)
+**Sponsorships Available:** One (1)
 
-**General Rate:** $4,500
+**General Rate:** $6,000
 
 **Benefits:**
 
@@ -161,7 +181,7 @@ We will be distributing branded t-shirts to all event participants, including at
 
 **Sponsorships Available:** One (1)
 
-**General Rate:** $1,000
+**General Rate:** $1,250
 
 **Benefits:**
 
@@ -174,16 +194,16 @@ We will be distributing branded t-shirts to all event participants, including at
   - Written recognition as a leading sponsor, in pre-event publicity communications
   - Visual and verbal recognition of sponsor at opening and closing sessions of conference
 
-**6. Morning and Afternoon Tea Breaks - Training Day**
+**6. Tea Breaks - Training Days (Wednesday/Thursday)**
 
-**Sponsorships Available:** One (1)
+**Sponsorships Available:** Two (2)
 
 **General Rate:** $2,500
 
 **Benefits:**
 
-  - Opportunity to display your company's banner in the training facility lobby (see notes below) throughout the training day
-  - Recognition as sponsoring provider, on signs displayed on service tables during training day tea breaks
+  - Opportunity to display your company's banner in the training facility lobby (see notes below) throughout both training days
+  - Recognition as sponsoring provider, on signs displayed on service tables during both tea breaks on one training day
   - Four (4) complimentary tickets to the Pre-Conference Reception
   - Five (5) reserved passes for main Conference
   - Sponsor logo displayed on conference Web page, alongside Silver Sponsors
@@ -192,7 +212,7 @@ We will be distributing branded t-shirts to all event participants, including at
 
 **7. Diversity Fund Support**
 
-The AppSec New Zealand Conference Diversity and Financial Aid Fund has been established to provide financial assistance to students at New Zealand universities. Each Diversity Fund sponsorship is intended to cover travel expenses for one New Zealand student, from outside the Auckland area, who will be attending or presenting at the conference. Each Diversity Fund support recipient will receive funding for return airfare from their nearest domestic airport to Auckland International Airport, two night's accommodation in a lodging near the conference venue, and return shuttle transportation between the airport and the accommodation.
+The AppSec New Zealand Conference Diversity and Financial Aid Fund has been established to provide financial assistance to students at New Zealand universities, as well as those in the field who are currently unwaged. Each Diversity Fund sponsorship is intended to cover travel expenses for one New Zealand attendee, from outside the Auckland area, who will be attending or presenting at the conference. Each Diversity Fund support recipient will receive funding for return airfare from their nearest domestic airport to Auckland International Airport, three nights' accommodation in a lodging near the conference venue, return transportation between their residence and their departure airport, and return transportation between the airport and the accommodation.
 
 **Sponsorships Available:** No Limit
 
@@ -215,7 +235,7 @@ At the closing session of the conference, the AppSec New Zealand Conference Comm
 
   - Verbal recognition, at the time of the prize drawing, as the donor of the prize
 
-**10. Other Supporting Sponsorships**
+**9. Other Supporting Sponsorships**
 
 If your company would like to provide special items to attendees, funding for paid promotional advertising for the event, or other items that we haven't yet thought of, you are welcome to contact us to discuss your ideas.
 
@@ -230,6 +250,21 @@ If your company would like to provide special items to attendees, funding for pa
 
 ### Notes
 
+**Training Passes:**
+
+Our pre-conference training is planned to include a mix of half-day, one-day, and two-day classes. Each Premier Sponsor package includes a number of "Training Passes," each valid for one half-day of training for one person. 
+
+  - One pass can be redeemed for a 100% discount on a half-day class, 50% discount on a one-day class, or 25% discount on a two-day class 
+  - Passes may be combined - Use two for a 100% discount on a one-day class or 50% discount on a two-class; or use up to four toward a two-day class
+  - To redeem a pass, provide the name and email address of the pass's recipient, along with the class to which it should be applied. The recipient will be issued a single-use discount code, to use in registering for the specified class.
+  - Sponsors are free to distribute these passes as they choose, provided they are not resold. If preferred, passes can be turned over to the conference's Diversity Fund committee, for award to applicants
+  
+**Reserved Conference Passes:**
+
+Since attendance will be limited at the conference, a portion of the available registrations will be held back for direct issue to sponsor staff or sponsored attendees. Each sponsorship package specifies the number of reserved passes included. 
+
+To claim these passes, sponsors must provide the names and email addresses of those to whom they should be issued, no later than two weeks before the event (Thursday, 28 January). After this date, unclaimed passes will be returned to the general registration pool.
+
 **Sponsor Logos:**
 
   - Logos are to be provided by the respective sponsors, as digital files in both raster (JPEG, PNG) and vector (SVG) formats
@@ -237,7 +272,7 @@ If your company would like to provide special items to attendees, funding for pa
   - For lanyards and tote bags (including Platinum/Gold/Silver
     Sponsors), a single-colour version of the logo should also be
     provided, in a separate file. If a single-colour version of the logo
-    is not provided by the sponsor, the OWASP New Zealand Day Committee
+    is not provided by the sponsor, the AppSec New Zealand Conference Committee
     reserves the right to electronically convert the full-colour logo to
     a single-colour version, or omit the sponsor's logo from the
     imprinted items if that proves infeasible.
@@ -246,14 +281,14 @@ If your company would like to provide special items to attendees, funding for pa
 
   - Lobby and stage-side banners are to be provided by the respective
     sponsors, must be free-standing, and their size is subject to
-    approval by the OWASP New Zealand Day Committee.
+    approval by the AppSec New Zealand Conference Committee.
   - The conference venue includes two tracks, conducted in separate
     auditoriums; Platinum Sponsors may display one banner to the side of
     each auditorium's stage; Gold Sponsors may display a banner to the
     side of the stage in one auditorium. Gold Sponsors may express an
     auditorium preference, but final locations are at the discretion of
-    the OWASP New Zealand Day Committee.
-  - There will be a maximum of four (4) sponsor banners displayed in
+    the AppSec New Zealand Conference Committee.
+  - There will be a maximum of five (5) sponsor banners displayed in
     each auditorium, with placement priority given to Platinum Sponsors.
 
 **Promotional Items:**
