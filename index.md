@@ -1,3 +1,9 @@
+---
+layout: default
+title: AppSec New Zealand Home
+nav_order: 1
+has_children: true
+---
 
 # AppSec New Zealand
 
