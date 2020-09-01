@@ -37,6 +37,8 @@ AppSec conferences' regular attendees include IT project managers, IT security m
 IT security consultants, Web application architects and developers, QA
 managers, QA testers and system administrators.
 
+Throughout its 12 years of operation, the OWASP New Zealand Day conference attracted more than 90% of its attendees and presenters from within New Zealand. Given the likelihood border restrictions will continue in place next February, we anticipate few or no attendees or presenters from outside New Zealand this year. Nonetheless, we anticipate pre-registrations for the conference will once again sell out (at 1,100 tickets), and on-the-day attendance will be between 700 and 800.
+
 ## About AppSec New Zealand
 
 This year, the conference is organised and conducted by AppSec New Zealand, a NZ-based Incorporated Society (Registration #50041020). The primary purposes of AppSec New Zealand are to:
@@ -93,6 +95,14 @@ Each booth space will be provided one power strip, and all tables will be fully 
 **65" TVs:** The venue's A/V support team can provide 65" HDMI-compatible displays on rolling stands, for use in sponsor exhibition booths. The cost is $395 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup. Platinum and Gold Sponsor booths can accommodate two (2) displays, while Silver/Bronze Sponsor booths can accommodate one (1).
 
 **Projector and Screen:** There is a permanently installed projector and screen, located in one corner of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one Gold Sponsor to reserve that corner booth and use the projector and screen during the main conference (Friday and Saturday). The cost for this option is $450.
+
+## COVID-19 Contingencies
+
+Our event planning is operating in the confident outlook that Auckland (and, hopefully, all of New Zealand) will be at Alert Level 1 in February 2021. Despite that confidence, we are making plans to keep things moving if we're wrong.
+
+In the event Auckland is at COVID Alert Level 2 or higher at the time of the conference, it is our plan to convert the event to a fully online presentation, via live streaming. We also intend to follow the example of other recent conferences, and deliver attendee packs (t-shirts, tote bags, promotional materials, etc.) to them via post - to that end, a portion of the catering budget will be redirected to packing and shipping those items.
+
+Given a change in Alert Level can occur with little notice, and owing to the cancellation policies applying to many conference expenses, we anticipate some funds will be 'sunk' in fees for services we're unable to use - possibly including A/V and other charges related to Sponsor Exhibition booths. If we are forced to cancel the in-person event, we'll refund any portion of the Exhibition booth fee and optional A/V charges (see above) we're able to recover, up to 100%.
 
 ## A La Carte Sponsorship Opportunities
 
