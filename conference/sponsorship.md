@@ -98,7 +98,7 @@ Each booth space will be provided one power strip, and all tables will be fully 
 
 ## COVID-19 Contingencies
 
-Our event planning is operating in the confident outlook that Auckland (and, hopefully, all of New Zealand) will be at Alert Level 1 in February 2021. Despite that confidence, we are making plans to keep things moving if we're wrong.
+Our planning team is operating with the confident outlook that Auckland (and, hopefully, all of New Zealand) will be at Alert Level 1 in February 2021. Despite that confidence, we are making plans to keep things moving if we're wrong.
 
 In the event Auckland is at COVID Alert Level 2 or higher at the time of the conference, it is our plan to convert the event to a fully online presentation, via live streaming. We also intend to follow the example of other recent conferences, and deliver attendee packs (t-shirts, tote bags, promotional materials, etc.) to them via post - to that end, a portion of the catering budget will be redirected to packing and shipping those items.
 
