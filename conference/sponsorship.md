@@ -24,14 +24,14 @@ Sponsorship funds collected are used for things such as:
 * **Catering -** To promote a collegial environment for networking among application security professionals, we're scheduling three (3) catered tea breaks
 * **Administration -** While we do our best to keep administrative and operating costs low, we do need to cover ongoing expenses, such as insurance, accounting services, and storage fees
 
+With the addition of a second conference day and its two associated tea breaks, along with year-on-year increases to service fees and catering charges, the overall budget for this year's conference is approximately 35% larger than for last year's OWASP New Zealand Day event. The rates for our Premier Sponsorship packages have increased accordingly, to help us meet this ambitious funding target.
+
 ## Facts
 
 Last year, the conference's predecessor (OWASP New Zealand Day) was supported by 13 premier sponsors and attracted more than 800 attendees. Plenty of constructive (and positive!) feedback from the audience was received, and we are using this to make the conference more appealing to more people. For more information on the last New Zealand Day event, please visit: https://owasp.org/www-event-2020-NewZealandDay/.
 
 The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Web Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand ([owasp.org.nz](https://owasp.org.nz)). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
 ([sign up](https://lists.owasp.org/mailman/listinfo/owasp-newzealand)). 
-
-To lessen the potential impact of COVID-related restrictions on gatherings, the 2021 Conference will be limited to 500 total attendees.
 
 AppSec conferences' regular attendees include IT project managers, IT security managers,
 IT security consultants, Web application architects and developers, QA
@@ -55,11 +55,10 @@ To express interest in supporting the conference as a sponsor, please
 All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 {: style="font-weight: bold; font-size: small;" }
 
-
 |        |Platinum    |Gold    |Silver    |Bronze    |A La Carte    |
 |-------:|:----------:|:------:|:--------:|:--------:|:------------:|
 |**Enrolment Limit**| 2 | 8 | -- | -- |*Varies*|
-|**General Rate**|$6,500|$4,500|$3,000|$2,000|*Varies*|
+|**General Rate**|$7,000|$5,000|$3,500|$2,250|*Varies*|
 |**A La Carte Sponsorship Discount**|**15%**|**10%**|**5%**| -- | -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (2)**|**Yes (1)**|No|No|No|
@@ -302,7 +301,7 @@ To claim these passes, sponsors must provide the names and email addresses of th
   - Small imprinted items are also acceptable - pens, stress balls, USB
     keys, fidget spinners, etc.
   - Design of printed materials and imprinted items are subject to
-    approval by OWASP New Zealand Day Committee
+    approval by AppSec New Zealand Conference Committee
   - **RECRUITMENT:** In addition to the promotional item allowances
     included in Premium Sponsorship Packages, any sponsor may provide
     one A5-size card with information on *actual current* vacancies for
