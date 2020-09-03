@@ -74,7 +74,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Logo on Conference T-Shirts**|**Yes**|**Yes**|No|No|*Varies*|
 |**Logo on Room Signs**|**Yes**|**Yes**|**Yes**|No|*Varies*|
 |**Logo on Conference Tote Bags**|**Yes**|**Yes**|**Yes**|No|*Varies*|
-|**Logo on Conference Web Site**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
+|**Logo on Conference Website**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
 |**Mention in Pre-Conference Publicity**|**Yes**|**Yes**|**Yes**|**Yes**|*Varies*|
 |**Recognition during Opening/Closing Sessions**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
 |**Promotional Items in Conference Tote Bags** (see notes)|**Yes (up to 3)**|**Yes (up to 2)**|**Yes (1)**|**Yes (1)**|*Varies*|
