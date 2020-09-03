@@ -65,6 +65,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (2)**|**Yes (1)**|No|No|No|
 |**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|No|No|
+|**Sponsor Demo Room Use**|**90 minutes**|**45 minutes**|No|No|No|
 |**Company Description on Conference Web Page**|**300 words**|**200 words**|**150 words**|**100 words**|*Varies*|
 |**Pre-Conference Reception Tickets**|**8**|**6**|**4**|**2**|*Varies*|
 |**Reserved Conference Passes** (see notes)|**20**|**15**|**10**|**5**|*Varies*|
