@@ -12,7 +12,7 @@ nav_order: 7
 ## AppSec New Zealand Conference 2021
 
 The 2021 AppSec New Zealand Conference will be held in Auckland on Friday and Saturday, 12-13 February, 2021, and is a security conference entirely dedicated to
-application security. The conference is once again being hosted by the University of Auckland with their support and assistance. The AppSec New Zealand Conference is a very low-cost event, and requires sponsor support to help be an instructive and quality event for the New Zealand community. AppSec New Zealand is strictly not for profit. The sponsorship money will be used to help make the AppSec New Zealand Conference a compelling, and valuable experience for all attendees.
+application security. The conference is once again being hosted by the University of Auckland with their support and assistance. The AppSec New Zealand Conference is a very low-cost event, and requires sponsor support to help be an instructive and quality event for the New Zealand community. AppSec New Zealand is strictly not for profit. The sponsorship money will be used to help make the AppSec New Zealand Conference a compelling and valuable experience for all attendees.
 
 Sponsorship funds collected are used for things such as:
 
@@ -28,7 +28,7 @@ With the addition of a second conference day and its two associated tea breaks, 
 
 ## Facts
 
-Last year, the conference's predecessor (OWASP New Zealand Day) was supported by 13 premier sponsors and attracted more than 800 attendees. Plenty of constructive (and positive!) feedback from the audience was received, and we are using this to make the conference more appealing to more people. For more information on the last New Zealand Day event, please visit: https://owasp.org/www-event-2020-NewZealandDay/.
+Last year, the conference's predecessor (OWASP New Zealand Day) was supported by 13 premier sponsors and attracted more than 800 attendees. Plenty of constructive (and positive!) feedback from the audience was received, and we are using this to make the conference more appealing to more people. For more information on the last New Zealand Day event, please visit [the conference website](https://owasp.org/www-event-2020-NewZealandDay/).
 
 The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Web Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand ([owasp.org.nz](https://owasp.org.nz)). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
 ([sign up](https://lists.owasp.org/mailman/listinfo/owasp-newzealand)). 
