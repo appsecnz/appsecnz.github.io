@@ -59,7 +59,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 |        |Platinum    |Gold    |Silver    |Bronze    |A La Carte    |
 |-------:|:----------:|:------:|:--------:|:--------:|:------------:|
-|**Enrolment Limit**| 2 | 8 | -- | -- |*Varies*|
+|**Enrolment Limit**| 2<br />(**SOLD OUT**) | 8 | -- | -- |*Varies*|
 |**General Rate**|$7,000|$5,000|$3,500|$2,250|*Varies*|
 |**A La Carte Sponsorship Discount**|**15%**|**10%**|**5%**| -- | -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
@@ -154,7 +154,7 @@ On Thursday evening, the AppSec New Zealand Conference Committee will host a rec
 
 **3. T-Shirts for Participants**
 
-We will be making branded t-shirts available to all event participants, including attendees, speakers, sponsor staff, trainers, and volunteers. For general participants, t-shirts can be purchased a discounted price of $5.00 each; speakers, trainers, volunteers, and sponsor pass holders will receive their shirts a no charge.
+We will be making branded t-shirts available to all event participants, including attendees, speakers, sponsor staff, trainers, and volunteers. For general participants, t-shirts can be purchased a discounted price of $8.00 each (approx. 50% of full cost); speakers, trainers, volunteers, and sponsor pass holders will receive their shirts a no charge.
 
 **Sponsorships Available:** One (1)
 
