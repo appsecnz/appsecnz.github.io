@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-![Web Banner](/assets/images/AppSec_NZ_Web_Banner.png)
+![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)
 
 # AppSec New Zealand
 
