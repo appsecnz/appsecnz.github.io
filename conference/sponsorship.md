@@ -59,7 +59,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 |        |Platinum    |Gold    |Silver    |Bronze    |A La Carte    |
 |-------:|:----------:|:------:|:--------:|:--------:|:------------:|
-|**Enrolment Limit**| 2<br />(**SOLD OUT**) | 8 | -- | -- |*Varies*|
+|**Enrolment Limit**| 2<br />(**1 Remaining**) | 8<br />(**3 Remaining**) | -- | -- |*Varies*|
 |**General Rate**|$7,000|$5,000|$3,500|$2,250|*Varies*|
 |**A La Carte Sponsorship Discount**|**15%**|**10%**|**5%**| -- | -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
@@ -95,7 +95,7 @@ Each booth space will be provided one power strip, and all tables will be fully 
 
 **65" TVs:** The venue's A/V support team can provide 65" HDMI-compatible displays on rolling stands, for use in sponsor exhibition booths. The cost is $395 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup. Platinum and Gold Sponsor booths can accommodate two (2) displays, while Silver/Bronze Sponsor booths can accommodate one (1).
 
-**Projector and Screen:** There is a permanently installed projector and screen, located in one corner of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one Gold Sponsor to reserve that corner booth and use the projector and screen during the main conference (Friday and Saturday). The cost for this option is $450.
+**Projector and Screen (No longer available):** There is a permanently installed projector and screen, located in one corner of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one Gold Sponsor to reserve that corner booth and use the projector and screen during the main conference (Friday and Saturday). The cost for this option is $450.
 
 ## COVID-19 Contingencies
 
@@ -210,7 +210,7 @@ We will be making branded t-shirts available to all event participants, includin
 
 **6. Tea Breaks - Training Days (Wednesday/Thursday)**
 
-**Sponsorships Available:** Two (2)
+**Sponsorships Available:** Two (2) (**No longer available**)
 
 **General Rate:** $2,500
 
@@ -230,7 +230,7 @@ The AppSec New Zealand Conference Diversity and Financial Aid Fund has been esta
 
 **Sponsorships Available:** No Limit
 
-**General Rate:** $800, or more
+**General Rate:** $800 or more
 
 **Benefits:**
 
