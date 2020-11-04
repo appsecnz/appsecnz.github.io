@@ -131,16 +131,16 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 
 [![University of Auckland Business School](/assets/images/Logo-UofA_Business_School.png)](http://www.auckland.ac.nz/)   
 
-### Platinum Sponsors
+### Platinum Sponsor
 
-|:---:|:---:|
-|[![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="400px" target="_blank" rel="sponsored"}|  |
+|:---:|
+|[![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="400px" target="_blank" rel="sponsored"}|
 
 ### Gold Sponsors
 
 |:---:|:---:|:---:|
-[![Logo - Aura Information Security](/assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Insomnia Security Specialists](/assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png)](https://pulsesecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}
-|[![Logo-Secure Code Warrior](assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/){:width="250px" target="_blank" rel="sponsored"}[![Logo-ZX Security](assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}|  |
+[![Logo - Aura Information Security](/assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Insomnia Security Specialists](/assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png)](https://pulsesecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}|   
+|[![Logo-Secure Code Warrior](/assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/){:width="250px" target="_blank" rel="sponsored"}[![Logo-ZX Security](/assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}|  |
 
 ### Silver Sponsors
 
