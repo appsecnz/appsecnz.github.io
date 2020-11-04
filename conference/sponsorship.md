@@ -7,6 +7,11 @@ grand_parent: Home
 nav_order: 7
 ---
 
+[![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)](index.md)
+
+[Back to Conference Home Page](index.md)
+{: style="text-align: right; font-size: small;" }
+
 # Call for Sponsorships
 
 ## AppSec New Zealand Conference 2021
