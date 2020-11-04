@@ -8,7 +8,7 @@ has_children: true
 nav_order: 2
 ---
 
-![Conference Web Banner](/assets/images/AppSec_NZ_WordArt.png)
+![Web Banner](/assets/images/AppSec_NZ_Web_Banner.png)
 
 # AppSec New Zealand Conference 2021
 
@@ -106,7 +106,8 @@ Some of the options available:
 
 ## Conference Venue
 
-![Owen G. Glenn Building, Univ. of Auckland School of Business](/assets/images/Photo-AU_Business_School_OGGB.jpg) ![Lecture Theatre during OWASP NZ Day](/assets/images/Photo-OWASP_NZ_Day_Lecture_Theatre.jpg)
+|:---:|:---:|
+| ![Owen G. Glenn Building, Univ. of Auckland School of Business](/assets/images/Photo-AU_Business_School_OGGB.jpg) | ![Lecture Theatre during OWASP NZ Day](/assets/images/Photo-OWASP_NZ_Day_Lecture_Theatre.jpg) |   
 
 **Location:**  
     The University of Auckland School of Business   
