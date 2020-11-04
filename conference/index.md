@@ -56,7 +56,7 @@ During the opening session on Friday, we plan to feature a keynote speaker. Furt
 
 ## Training
 
-In addition to the main conference on Friday and Saturday, we are pleased to be offer training opportunities on Wednesday and Thursday, at the same venue. The **[Call for Training](https://papercall.io/appsecnz2021-training)** is now open, and closes on 15 December. We are encouraging training proposals for face-to-face, instructor-remote, or fully online courses, with a mix of half-day, one-day, and two-day offerings.
+In addition to the main conference on Friday and Saturday, we are pleased to be offer training opportunities on Wednesday and Thursday, at the same venue. The **[Call for Training](https://papercall.io/appsecnz2021-training)** is now open, and closes at 12:30 on 4 December. We are encouraging training proposals for face-to-face, instructor-remote, or fully online courses, with a mix of half-day, one-day, and two-day offerings.
 
 **Training Fees:** 
 
