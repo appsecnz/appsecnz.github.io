@@ -133,5 +133,3 @@ Our partnership with quality assurance is what makes us agile, innovative and fl
 
 SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
 
-Business competitiveness hinges on the velocity and quality of software delivery. This velocity is challenging the way secure software is being delivered through new methodologies that allow continual integration and deployment. With these new approaches, security testing also needs to work closely with Development, Operations and Quality Assurance teams to ensure security is built-in by default.
-
