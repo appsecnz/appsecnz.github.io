@@ -4,6 +4,7 @@ title: Pre-Conference Training
 description: Pre-Conference Training, 10-11 February - 2021 AppSec NZ Conference
 parent: Conference
 grand_parent: Home
+has_children: true
 nav_order: 1
 ---
 
@@ -33,7 +34,24 @@ The registration desk, in the lower-level foyer, will open at 8:00 a.m. each day
 
 ## Training Schedule
 
-In addition the main conference on Friday and Saturday, we are planning to offer several training opportunities on Wednesday and Thursday, at the same venue. Course details will be added here as they are confirmed.
+In addition the main conference on Friday and Saturday, we are offering several training opportunities on Wednesday and Thursday. Our training schedule includes a mix of class lengths and formats, as follows:
+
+* One (1) two-day **face-to-face** class;
+* Four (4) two-day **online** classes;
+* Two (2) one-day **face-to-face** classes (one each on Wednesday and Thursday); and
+* One (1) special half-day instructor-remote class (on Thursday morning).
+
+Each day, classes will follow this schedule (all times are NZDT):
+
+* 8:00 a.m.  - Check-in desk opens; online class sessions started for support
+* 8:45 a.m.  - Class sessions start
+* 10:15 a.m. - Morning Tea
+* 12:30 p.m. - Lunch Break (on your own); Morning half-day classes end
+* 1:45 p.m.  - Class sessions resume; Afternoon half-day classes begin
+* 3:15 p.m.  - Afternoon Tea
+* 5:30 p.m.  - Classes end
+
+### 
 
 -------------
 

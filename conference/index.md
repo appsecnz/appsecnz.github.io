@@ -56,35 +56,61 @@ During the opening session on Friday, we plan to feature a keynote speaker. Furt
 
 ## Training
 
-In addition to the main conference on Friday and Saturday, we are pleased to be offer training opportunities on Wednesday and Thursday, at the same venue. The **[Call for Training](https://papercall.io/appsecnz2021-training)** is now open, and closes at 12:30 on 4 December. We are encouraging training proposals for face-to-face, instructor-remote, or fully online courses, with a mix of half-day, one-day, and two-day offerings.
+In addition to the main conference on Friday and Saturday, we are pleased to be offer training opportunities on Wednesday and Thursday (10-11 February 2021), at the same venue.
+
+A total of eight (8) classes are scheduled for presentation. For detailed information, including fees and registration links, please refer to our [Training](training.md) page.
+
+### Two-Day Classes
+
+* *Finding and Fixing Web Application Security Vulnerabilities* (**Face-to-Face**) - Laura Bell, [SafeStack](https://www.safestack.io/)
+* *DevSecOps: Automating Security in DevOps* (**Online**) - Rohit Salecha, [NotSoSecure](https://notsosecure.com/)
+* *Hacking Modern Web Apps: Master the Future of Attack Vectors* (**Online**) - Anirudh Anand, [7A Security](https://7asecurity.com/)
+* *Hacking Android, iOS, and IoT Apps by Example* (**Online**) - Juan Urbano Stordeur and Abhishek J.M., [7A Security](https://7asecurity.com/)
+* *Hacking Modern Desktop Apps: Master the Future of Attack Vectors* (**Online**) - Abraham Aranguren, [7A Security](https://7asecurity.com/)
+
+### One-Day Classes
+
+* *A Cat, a Dog, and a Roast Turkey: What's In Your Threat Model?* (**Face-to-Face, Wednesday**) - Wade Winright
+* *Everything Is Fine: Making the Most of a Security Incident* (**Face-to-Face, Thursday**) - Erica Anderson, [SafeStack](https://www.safestack.io/)
+
+### Half-Day Class
+
+* *Using Backdoors and Breaches to Run Incident Response Table-Top Exercises* (**Instructor-Remote, Thursday morning**), Jason Blanchard, [Black Hills Information Security](https://www.blackhillsinfosec.com/)
 
 **Training Fees:** 
 
-* Face-to-face: $1,150.00 for two-day sessions; $600.00 for one-day sessions; $300.00 for half-day sessions (plus fees and GST)
-* Instructor Remote: $950.00 for two-day sessions; $500.00 for one-day sessions; $250.00 for half-day sessions (plus fees and GST)
-* Online: $1,150.00 for two-day sessions; $600.00 for one-day sessions; $300.00 for half-day sessions (plus fees and GST)
+The following are the standard registration fees for our classes, based on the format and duration. Some classes may have lower fees, per specific arrangements with their instructors:
+
+* Face-to-face: Half-day class: NZ $300.00; One-day class: NZ $600.00; Two-day class: NZ $1,150.00
+* Instructor-remote: Half-day class: NZ $275.00; One-day class: NZ $550.00; Two-day class: NZ $1,050.00
+* Online: Half-day class: NZ $250.00; One-day class: NZ $475.00; Two-day class: NZ $900.00
 
 ## General
 
-The eleventh OWASP New Zealand Day will be happening thanks to the support provided by the University of Auckland, which will kindly offer the same facilities as those we used in previous years. The main conference will continue to be free, thanks to the generous support of our sponsors.
+The first AppSec New Zealand Conference will be happening thanks to the support provided by the University of Auckland, which will kindly offer the same facilities as those used in recent years for the OWASP New Zealand Day events. The main conference will continue to be free, thanks to the generous support of our sponsors.
 
 For any comments, feedback or observations, please don't hesitate to [contact us](mailto:conference@appsec.org.nz).
 
 ## Registration
 
-Registration will open on 21 December 2020. Advance registration (through 31 January 2021) will be **FREE**; from 1 February, there will be a **$25.00** (plus fees and GST) "procrastination fee" applied.
+Registration will open on 17 December 2020. Advance registration (through 1 February 2021) will be **FREE**; from 2 February, there will be a **$25.00** (plus fees and GST) "procrastination fee" applied.
 
-Registration for Pre-Conference Training will open on 21 December and close on 3 February, or when all seats are sold.
+Registration for Pre-Conference Training will open on 17 December 2020 and close on 3 February.
+
+**NOTES:** 
+
+* Registration for in-person and instructor-remote classes may close earlier, if all seats are filled. 
+* Some classes have minimum enrolment requirements, at the request of their instructors. If the minimum has not been reached  3 February - registered attendees will be offered the opportunity to 
 
 Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 ## Important Dates
 
 * **CFP and CFT Opened:**: 8 October 2020
-* **CFP First-Round Deadline:** 15 November 2020
-* **CFT Submission Deadline:** 4 December 2020
-* **CFP Second-Round Deadline:** 15 December 2020
-* **Registration Opens:** 21 December 2020
+* **CFT Closed:** 4 December 2020
+* **CFP Closes:** 16 December 2020, 12:00 noon (NZDT) - Submit your proposal(s) on [PaperCall](https://www.papercall.io/appsecnz2021)
+* **Conference Registration Opens:** 17 December 2020
+* **Training Registration Opens:** 17 December 2020
 * **Training Registration Closes:** 3 February 2021
 * **Pre-Conference Training Dates:** 10-11 February 2021
 * **Main Conference Dates:** 12-13 February 2021
