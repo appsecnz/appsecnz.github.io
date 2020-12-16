@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Classroom Training - Finding and Fixing Web Application Security Vulnerabilities
+title: Classroom Training - Finding and Fixing Web App Vulns
 description: Pre-Conference Training Class, 10-11 February - 2021 AppSec NZ Conference
 parent: Pre-Conference Training
 grand_parent: Home

@@ -17,5 +17,23 @@ nav_order: 8
 
 # Using *Backdoors & Breaches* to Run Incident Response Table-Top Exercises
 
-## Pre-Conference Training: AppSec New Zealand Conference 2021
+## Half-Day Interactive (Classroom) Training - AppSec New Zealand Conference 2021
+
+
+## Course Details 
+
+**Dates:** Thursday, 11 February 2021
+
+**Time:** 8:45 a.m. to 12:30 p.m. (NZDT)
+
+**Instructors:** Jason Blanchard, [Black Hills Information Security](https://www.blackhillsinfosec.com/)   
+
+**Course Fee:** NZ $25.00 (plus GST and ticketing fees)
+
+**Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
+
+**Attendees will receive:**
+
+* A *Backdoors & Breaches* Core Deck
+* A 20-sided die
 

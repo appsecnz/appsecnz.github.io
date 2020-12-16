@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Training - Hacking Android, iOS, and IoT Apps by Example
+title: Online Training - Hacking Mobile Apps
 description: Pre-Conference Training Class, 10-11 February - 2021 AppSec NZ Conference
 parent: Pre-Conference Training
 grand_parent: Home

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Training - Hacking Modern Web Apps-Master the Future of Attack Vectors
+title: Online Training - Hacking Modern Web Apps
 description: Pre-Conference Training Class, 10-11 February - 2021 AppSec NZ Conference
 parent: Pre-Conference Training
 grand_parent: Home
