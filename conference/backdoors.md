@@ -32,6 +32,8 @@ nav_order: 8
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 
+**Background Information and How-to-Play Instructions:** [https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/](https://www.blackhillsinfosec.com/projects/backdoorsandbreaches/)
+
 **Attendees will receive:**
 
 * A *Backdoors & Breaches* Core Deck
