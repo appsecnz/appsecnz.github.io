@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Classroom Training - Web App Security
+title: Classroom Training - Finding and Fixing Web Application Security Vulnerabilities
 description: Pre-Conference Training Class, 10-11 February - 2021 AppSec NZ Conference
 parent: Pre-Conference Training
-grand_parent: Conference
+grand_parent: Home
 nav_order: 1
 ---
 
@@ -24,7 +24,9 @@ Software security vulnerabilities are big business for potential attackers. Iden
 
 **Dates:** Wednesday and Thursday, 10-11 February 2021
 
-**Time:** 8:45 a.m. to 5:30 p.m.
+**Time:** 8:45 a.m. to 5:30 p.m. (NZDT), each day
+
+**Instructor:** Laura Bell, [SafeStack](https://safestack.io)   
 
 **Course Fee:** NZ $1,150.00 (plus GST and ticketing fees)
 
@@ -33,10 +35,6 @@ Software security vulnerabilities are big business for potential attackers. Iden
 **Attendees Should Bring:** 
 
 * Any laptop that can run an updated web browser (Chrome or Firefox)
-
-**Instructor:**
-
-* Laura Bell, [SafeStack](https://safestack.io)   
 
 ## Course Outline
 

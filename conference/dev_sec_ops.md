@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Online Training - DevSecOps
+title: Online Training - DevSecOps-Automating Security in DevOps
 description: Pre-Conference Training Class, 10-11 February - 2021 AppSec NZ Conference
 parent: Pre-Conference Training
-grand_parent: Conference
+grand_parent: Home
 nav_order: 2
 ---
 
@@ -31,13 +31,13 @@ Key Takeaways:
 
 **Dates:** Wednesday and Thursday, 10-11 February 2021
 
-**Time:** 8:45 a.m. to 5:30 p.m.
+**Time:** 8:45 a.m. to 5:30 p.m. (NZDT), each day
+
+**Instructor:** Rohit Salecha, [NotSoSecure](https://notsosecure.com)   
 
 **Course Fee:** NZ $900.00 (plus GST and ticketing fees)
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
-
-**Instructor:** Rohit Salecha, [NotSoSecure](https://notsosecure.com)   
 
 **Prerequisite Skills:**
 
