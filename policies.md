@@ -5,7 +5,7 @@ description: AppSec New Zealand Policies
 parent: Home 
 has_children: false
 
-nav_order: 3
+nav_order: 5
 ---
 
 ![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)

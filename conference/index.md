@@ -4,8 +4,7 @@ title: Conference
 description: AppSec New Zealand Conference Site
 parent: Home 
 has_children: true
-
-nav_order: 2
+nav_order: 1
 ---
 
 ![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)

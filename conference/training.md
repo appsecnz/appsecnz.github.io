@@ -2,10 +2,9 @@
 layout: default
 title: Pre-Conference Training
 description: Pre-Conference Training, 10-11 February - 2021 AppSec NZ Conference
-parent: Conference
-grand_parent: Home
+parent: Home
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 [![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)](index.md)
@@ -17,31 +16,33 @@ nav_order: 1
 
 ## AppSec New Zealand Conference 2021
 
-The **[Call for Training](https://papercall.io/appsecnz2021-training)** is now open, and closes at 12:30 on 4 December. The training schedule will be announced by 11 December, and registration will open on 21 December.
+### Our [Training Registration Site](https://events.humanitix.com/appsecnz-training) is now live! Training registration open 17 December - 3 February.
+
 
 ### Team Discounts
 
-If your team is planning to register for five (5) or more seats, across any combination of training classes, please contact [mailto:john.dileo@appsec.org.nz John] to receive a unique discount code. 
+If your team is planning to register for six (6) or more seats, across any combination of training classes, you can realise significant savings by registering all of your team members in a single purchase. 
 
-We're offering the following discount rates:
+We're offering the following discount rates, which will be applied automatically to your order when you register multiple team members in a single purchase:
 
-* 10%, for five (5) or more total registrations, in a single purchase; or
-* 15%, for 10 or more registrations, in a single purchase.
+* 10%, for six (6) or more total registrations;
+* 15%, for twelve (12) or more registrations; or
+* 20%, for 25 or more total registrations.
+
+Purchase training tickets for yourself and your team on our [Training Registration Site](https://events.humanitix.com/appsecnz-training). 
+
+All training registration fees listed here are exclusive of GST and [Humanitix](https://humanitix.com/nz/) ticketing fees. GST receipts for training registrations will be issued to the purchaser via email, and tickets will be emailed separately to each attendee.
+
 
 ### Training Check-in
 
-The registration desk, in the lower-level foyer, will open at 8:00 a.m. each day. For the Thursday afternoon class, check-in will open at 1:00 p.m.
+The registration and information desk, in the lower-level foyer, will open at 8:00 a.m. each day. Conference volunteers will be available at the information desk, throughout both days, to provide assistance as needed.
 
 ## Training Schedule
 
-In addition the main conference on Friday and Saturday, we are offering several training opportunities on Wednesday and Thursday. Our training schedule includes a mix of class lengths and formats, as follows:
+In addition the main conference on Friday and Saturday, we are offering a selection of eight (8) world-class training opportunities on Wednesday and Thursday. Our training schedule includes a mix of class lengths (half-day, one-day, and two-day) and formats (face-to-face, instructor-remote, and live online).
 
-* One (1) two-day **face-to-face** class;
-* Four (4) two-day **online** classes;
-* Two (2) one-day **face-to-face** classes (one each on Wednesday and Thursday); and
-* One (1) special half-day instructor-remote class (on Thursday morning).
-
-Each day, classes will follow this schedule (all times are NZDT):
+Each day, regardless of format, classes will follow this schedule (all times are NZDT):
 
 * 8:00 a.m.  - Check-in desk opens; online class sessions started for support
 * 8:45 a.m.  - Class sessions start
@@ -51,7 +52,25 @@ Each day, classes will follow this schedule (all times are NZDT):
 * 3:15 p.m.  - Afternoon Tea
 * 5:30 p.m.  - Classes end
 
-### 
+### Two-Day, In-Person (Classroom) Classes
+
+* *[Finding and Fixing Web Application Vulnerabilities](secure_coding.md)*, Laura Bell (SafeStack) - $1,150
+
+### Two-day, Online Classes:
+
+* *[DevSecOps: Automating Security in DevOps](dev_sec_ops.md)*, Rohit Salecha (NotSoSecure) - $900
+* *[Hacking Modern Web Apps: Master the Future of Attack Vectors](hacking_web_apps.md)*, Anirudh Anand (7A Security - $900
+* *[Hacking Android, iOS, and IoT Apps by Example*](hacking_mobile_apps.md), Juan Urbano Stordeur/Abhishek J.M. (7A Security) - $900
+* *[Hacking Modern Desktop Apps: Master the Future of Attack Vectors](hacking_desktop_apps.md)*, Abraham Aranguren (7A Security) - $900
+
+### One-day, In-Person (Classroom) Classes:
+
+* *[A Cat, a Dog, and a Roast Turkey: What's in Your Threat Model?](threat_modelling.md)*, Wade Winright - $300
+* *[Everything Is Fine: Making the Most of a Security Incident](incident_response.md)*, Erica ("sput") Anderson (SafeStack) - $600
+
+### Half-day, Instructor-Remote (Classroom) Training:
+
+* *[Using Backdoors & Breaches to Run Incident Response Table-Top Exercises](backdoors.md)*, Jason Blanchard (Black Hills Information Security, BHIS) - $25
 
 -------------
 
