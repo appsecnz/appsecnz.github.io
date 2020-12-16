@@ -78,7 +78,7 @@ A Short preview of our course is available on [YouTube](https://www.youtube.com/
 ### Introduction to DevOps
 
 * What is DevOps?
-** Lab: DevOps Pipeline
+  * Lab: DevOps Pipeline
 
 ### Introduction to DevSecOps
 

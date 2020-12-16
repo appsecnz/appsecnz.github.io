@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Training - Hacking Modern Web Apps: Master the Future of Attack Vectors
+title: Online Training - Hacking Modern Web Apps-Master the Future of Attack Vectors
 description: Pre-Conference Training Class, 10-11 February - 2021 AppSec NZ Conference
 parent: Pre-Conference Training
 grand_parent: Home
@@ -49,11 +49,14 @@ All action, no fluff, come to this 100% hands-on Node.js and Modern Web course w
 
 This course has no prerequisites as it is designed to accommodate students with different skills: - Advanced students will enjoy comprehensive labs, extra miles and CTF challenges - Less experienced students complete what they can during the class, and can continue at their own pace from home using the training portal.
 
-This said, the more you learn about the following ahead of the course, the more you will get out of the course: - Linux command line basics - Basic knowledge of Node.js or JavaScript is not required, but would help.
+This said, the more you learn about the following ahead of the course, the more you will get out of the course:
+
+* Linux command line basics
+* Basic knowledge of Node.js or JavaScript is not required, but would help.
 
 **Attendees Should Have:** 
 
-* A laptop with the following specifications: 
+A laptop with the following specifications: 
   * Ability to connect to wireless and wired networks
   * Ability to read PDF files
   * Administrative rights: USB allowed, the ability to deactivate AV, firewall, install tools, etc.
