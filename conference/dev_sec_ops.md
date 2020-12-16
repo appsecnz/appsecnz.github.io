@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Training - DevSecOps: Automating Security in DevOps
+title: Online Training - DevSecOps-Automating Security in DevOps
 description: Pre-Conference Training Class, 10-11 February - 2021 AppSec NZ Conference
 parent: Pre-Conference Training
 grand_parent: Home
