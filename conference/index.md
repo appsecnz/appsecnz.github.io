@@ -15,6 +15,10 @@ nav_order: 1
 
 ## Owen G. Glenn Building, University of Auckland
 
+## [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
+
+## [Training Registration Site](https://events.humanitix.com/appsecnz-training)
+
 -----
 
 We are proud to announce the first annual AppSec New Zealand Conference, to be held at the University of Auckland on Thursday and Friday, February 12th and 13th, 2021. The AppSec New Zealand Conference is presented in collaboration with the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications.
@@ -57,32 +61,24 @@ During the opening session on Friday, we plan to feature a keynote speaker. Furt
 
 In addition to the main conference on Friday and Saturday, we are pleased to be offer training opportunities on Wednesday and Thursday (10-11 February 2021), at the same venue.
 
-A total of eight (8) classes are scheduled for presentation. For detailed information, including fees and registration links, please refer to our [Training](training.md) page.
+A total of eight (8) classes are scheduled for presentation. For detailed information, including fees and registration links, please refer to our [Pre-Conference Training](training.md) page, and each course's information page.
 
 ### Two-Day Classes
 
-* *Finding and Fixing Web Application Security Vulnerabilities* (**Face-to-Face**) - Laura Bell, [SafeStack](https://www.safestack.io/)
-* *DevSecOps: Automating Security in DevOps* (**Online**) - Rohit Salecha, [NotSoSecure](https://notsosecure.com/)
-* *Hacking Modern Web Apps: Master the Future of Attack Vectors* (**Online**) - Anirudh Anand, [7A Security](https://7asecurity.com/)
-* *Hacking Android, iOS, and IoT Apps by Example* (**Online**) - Juan Urbano Stordeur and Abhishek J.M., [7A Security](https://7asecurity.com/)
-* *Hacking Modern Desktop Apps: Master the Future of Attack Vectors* (**Online**) - Abraham Aranguren, [7A Security](https://7asecurity.com/)
+* *[Finding and Fixing Web Application Security Vulnerabilities](secure_coding.md)* (**Face-to-Face**) - Laura Bell, [SafeStack](https://www.safestack.io/)
+* *[DevSecOps: Automating Security in DevOps](dev_sec_ops.md)* (**Online**) - Rohit Salecha, [NotSoSecure](https://notsosecure.com/)
+* *[Hacking Modern Web Apps: Master the Future of Attack Vectors](hacking_web_apps.md)* (**Online**) - Anirudh Anand, [7A Security](https://7asecurity.com/)
+* *[Hacking Android, iOS, and IoT Apps by Example](hacking_mobile_apps.md)* (**Online**) - Juan Urbano Stordeur and Abhishek J.M., [7A Security](https://7asecurity.com/)
+* *[Hacking Modern Desktop Apps: Master the Future of Attack Vectors](hacking_desktop_apps.md)* (**Online**) - Abraham Aranguren, [7A Security](https://7asecurity.com/)
 
 ### One-Day Classes
 
-* *A Cat, a Dog, and a Roast Turkey: What's In Your Threat Model?* (**Face-to-Face, Wednesday**) - Wade Winright
-* *Everything Is Fine: Making the Most of a Security Incident* (**Face-to-Face, Thursday**) - Erica Anderson, [SafeStack](https://www.safestack.io/)
+* *[A Cat, a Dog, and a Roast Turkey: What's In Your Threat Model?](threat_modelling.md)* (**Face-to-Face, Wednesday**) - Wade Winright
+* *[Everything Is Fine: Making the Most of a Security Incident](incident_response.md)* (**Face-to-Face, Thursday**) - Erica Anderson, [SafeStack](https://www.safestack.io/)
 
 ### Half-Day Class
 
-* *Using Backdoors and Breaches to Run Incident Response Table-Top Exercises* (**Instructor-Remote, Thursday morning**), Jason Blanchard, [Black Hills Information Security](https://www.blackhillsinfosec.com/)
-
-**Training Fees:** 
-
-The following are the standard registration fees for our classes, based on the format and duration. Some classes may have lower fees, per specific arrangements with their instructors:
-
-* Face-to-face: Half-day class: NZ $300.00; One-day class: NZ $600.00; Two-day class: NZ $1,150.00
-* Instructor-remote: Half-day class: NZ $275.00; One-day class: NZ $550.00; Two-day class: NZ $1,050.00
-* Online: Half-day class: NZ $250.00; One-day class: NZ $475.00; Two-day class: NZ $900.00
+* *[Using Backdoors and Breaches to Run Incident Response Table-Top Exercises](backdoors.md)* (**Instructor-Remote, Thursday morning**), Jason Blanchard, [Black Hills Information Security](https://www.blackhillsinfosec.com/)
 
 ## General
 
@@ -108,8 +104,8 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 * **CFP and CFT Opened:**: 8 October 2020
 * **CFT Closed:** 4 December 2020
 * **CFP Closes:** 16 December 2020, 12:00 noon (NZDT) - Submit your proposal(s) on [PaperCall](https://www.papercall.io/appsecnz2021)
-* **Conference Registration Opens:** 17 December 2020
-* **Training Registration Opens:** 17 December 2020
+* **Conference Registration Opens:** 17 December 2020 - [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
+* **Training Registration Opens:** 17 December 2020 - [Training Registration Site](https://events.humanitix.com/appsecnz-training)
 * **Training Registration Closes:** 3 February 2021
 * **Pre-Conference Training Dates:** 10-11 February 2021
 * **Main Conference Dates:** 12-13 February 2021

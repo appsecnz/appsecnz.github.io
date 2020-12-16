@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Online Training - DevSecOps-Automating Security in DevOps
+title: Online Training - DevSecOps: Automating Security in DevOps
 description: Pre-Conference Training Class, 10-11 February - 2021 AppSec NZ Conference
 parent: Pre-Conference Training
 grand_parent: Home
@@ -57,7 +57,7 @@ Anybody with a background in IT or related to software development whether a dev
 
 Modern enterprises are implementing the technical and cultural changes required to embrace DevOps methodology, by introducing practices such Continuous Integration (CI), Continuous Delivery (CD), Continuous Monitoring (CM) and Infrastructure as Code(IaC). DevSecOps extends DevOps, by introducing security in each of these practices, giving a certain level of security assurance in the final product. In this training, we will demonstrate using our state-of-the-art **DevSecOps Lab** as to how to inject security in CI, CD, CM and IaC.
 
-Every delegate will be provided a personalized cloud setup of our **DevSecOps Lab** for hands-on implementation of various security tools in the CI/CD/CM pipeline. As a take-away, attendees will receive the complete **DevSecOps Lab**, built using Vagrant and Ansible and comprising the same tools and scripts as those used in class.
+Every attendee will be provided a personalized cloud setup of our **DevSecOps Lab** for hands-on implementation of various security tools in the CI/CD/CM pipeline. As a take-away, attendees will receive the complete **DevSecOps Lab**, built using Vagrant and Ansible and comprising the same tools and scripts as those used in class.
 
 A Short preview of our course is available on [YouTube](https://www.youtube.com/watch?v=_iGCZ4NPDqY).
 
@@ -90,53 +90,53 @@ A Short preview of our course is available on [YouTube](https://www.youtube.com/
 ### Continuous Integration
 
 * Pre-Commit Hooks
-** Introduction to Talisman
-** Lab: Running Talisman
-** Lab: Create your own regexes for Talisman
+  * Introduction to Talisman
+  * Lab: Running Talisman
+  * Lab: Create your own regexes for Talisman
 * Secrets Management
-** Introduction to HashiCorp Vault
-** Demo: Vault Commands
+  * Introduction to HashiCorp Vault
+  * Demo: Vault Commands
 
 ### Continuous Delivery
 
 * Software Composition Analysis (SCA)
-** Introduction to Dependency-Check
-** Lab: Run Dependency-Check pipeline
-** Lab: Fix issues reported by Dependency-Check
+  * Introduction to Dependency-Check
+  * Lab: Run Dependency-Check pipeline
+  * Lab: Fix issues reported by Dependency-Check
 * Static Analysis Security Testing (SAST)
-** Introduction to Semgrep
-** Lab: Run Semgrep pipeline
-** Lab: Create your own Semgrep Rules
-** Lab: Fix Issues reported by Semgrep
+  * Introduction to Semgrep
+  * Lab: Run Semgrep pipeline
+  * Lab: Create your own Semgrep Rules
+  * Lab: Fix Issues reported by Semgrep
 * Dynamic Analysis Security Testing (DAST)
-** Introduction to OWASP ZAP
-** Demo: Creating ZAP Context File
-** Lab: Run ZAP in pipeline
+  * Introduction to OWASP ZAP
+  * Demo: Creating ZAP Context File
+  * Lab: Run ZAP in pipeline
 
 ### Infrastructure As Code
 
 * Vulnerability Assessment (VA)
-** Introduction to OpenVAS
-** Lab: Run OpenVAS pipeline
+  * Introduction to OpenVAS
+  * Lab: Run OpenVAS pipeline
 * Container Security (CS)
-** Introduction to Trivy
-** Lab: Run Trivy in Pipeline
-** Lab: Improvise Docker base image
+  * Introduction to Trivy
+  * Lab: Run Trivy in Pipeline
+  * Lab: Improvise Docker base image
 * Compliance as Code (CaC)
-** Introduction to Inspec
-** Lab: Run Inspec in Pipeline
-** Lab: Improvise Docker compliancy controls
+  * Introduction to Inspec
+  * Lab: Run Inspec in Pipeline
+  * Lab: Improvise Docker compliancy controls
 
 ### Continuous Monitoring
 
 * Logging
-** Introduction to the ELK Stack
-** Lab: View Logs in Kibana
+  * Introduction to the ELK Stack
+  * Lab: View Logs in Kibana
 * Alerting
-** Introduction to ElastAlert and ModSecurity
-** Lab: View Alerts in Kibana
+  * Introduction to ElastAlert and ModSecurity
+  * Lab: View Alerts in Kibana
 * Monitoring
-** Lab: Create Attack Dashboards in Kibana
+  * Lab: Create Attack Dashboards in Kibana
 
 ### DevSecOps in AWS
 
