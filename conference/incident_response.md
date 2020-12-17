@@ -63,11 +63,15 @@ During this one-day workshop, we are going to:
 1. Storytime with Erica and Izzi, as they explain how to re-apply the concepts from one incident type to others
 1. The ‘TL;DR’ version of a choose your own adventure, with a rapid-fire walkthrough of a Denial of Service incidents
 
-## Your Instructor   
+## Your Instructors  
 
 **Erica Anderson**
 
 Erica has worked in and can empathise with most IT and tech roles. Over the past seven years, she has been a consultant, engineer, tester, analyst, incident responder, and teacher. She has worked with a wide range of organisations, from small NZ businesses to global corporations. Being in Wellington, she has also done her share of public sector work. She knows what it feels like to try and move fast while staying secure.
 
 Aside from work and various speaking events, Erica loves spending her time causing general chaos in the New Zealand infosec community by running events like Kiwicon, Kawaiicon, BSides Wellington, and Code Club Aotearoa. Twitter: [@sputina](https://www.twitter.com/sputina)
+
+**Izzi Lithgow**
+
+
 
