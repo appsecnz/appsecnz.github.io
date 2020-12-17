@@ -65,7 +65,7 @@ During this one-day workshop, we are going to:
 
 ## Your Instructors  
 
-**Erica Anderson**
+**Erica ('sput') Anderson**
 
 Erica has worked in and can empathise with most IT and tech roles. Over the past seven years, she has been a consultant, engineer, tester, analyst, incident responder, and teacher. She has worked with a wide range of organisations, from small NZ businesses to global corporations. Being in Wellington, she has also done her share of public sector work. She knows what it feels like to try and move fast while staying secure.
 
