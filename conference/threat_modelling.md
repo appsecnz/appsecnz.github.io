@@ -17,8 +17,6 @@ nav_order: 6
 
 # A Cat, a Dog, and a Roast Turkey: What's in Your Threat Model?
 
-## Pre-Conference Training: AppSec New Zealand Conference 2021
-
 ## One-Day Interactive (Classroom) Training - AppSec New Zealand Conference 2021
 
 ## Course Details 
