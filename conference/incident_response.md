@@ -73,5 +73,5 @@ Aside from work and various speaking events, Erica loves spending her time causi
 
 **Izzi Lithgow**
 
-Izzi works with technical experts to help them tell their stories and she's been working across government helping people do just that for over a decade. Whether it's working with media to get great stories out to the public, writing madcap tweets or bringing staff together under a core set of organisational values, finding the best way to connect with empathy is what makes Izzi a great communicator. 
+Izzi is a seasoned communications professional who has been responding to all sorts of incidents for over a decade, from national emergencies to hospital power outages. For the last few years, her focus has been on security incident response and the crucial role of communications when responding to security incidents. Izzi has spoken at conferences nationally and internationally on communicating security, including at Kawaiicon, CHCon, CyberCon, and FIRST. [LinkedIn](https://www.linkedin.com/in/izzilithgow/)
 

@@ -47,5 +47,5 @@ This is an engaging hands-on training with active participation. Attendees will 
 
 **Wade Winright**
 
-Based out of Auckland, Wade is a Director of Security Assurance at Salesforce who is passionate to make this series of tubes we call home a safer place for all, and has been modelling threats for far more years than he’d care to admit. Twitter: [@vashta_nerdrada](https://www.twitter.com/vashth_nerdrada)
+Based out of Auckland, Wade is a Director of Security Assurance at [Salesforce](https://www.salesforce.com/au/) who is passionate to make this series of tubes we call home a safer place for all, and has been modelling threats for far more years than he’d care to admit. Twitter: [@vashta_nerdrada](https://www.twitter.com/vashth_nerdrada)
 
