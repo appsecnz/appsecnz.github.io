@@ -65,8 +65,8 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ### One-day, In-Person (Classroom) Classes:
 
-* *[A Cat, a Dog, and a Roast Turkey: What's in Your Threat Model?](threat_modelling.md)*, Wade Winright - $300
-* *[Everything Is Fine: Making the Most of a Security Incident](incident_response.md)*, Erica ("sput") Anderson (SafeStack) - $600
+* *[A Cat, a Dog, and a Roast Turkey: What's in Your Threat Model?](threat_modelling.md)*, Wade Winright - $450
+* *[Everything Is Fine: Making the Most of a Security Incident](incident_response.md)*, Erica ("sput") Anderson (SafeStack) and Izzi Lithgow - $450
 
 ### Half-day, Instructor-Remote (Classroom) Training:
 

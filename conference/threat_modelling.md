@@ -29,7 +29,7 @@ nav_order: 6
 
 **Instructors:** Wade Winright   
 
-**Course Fee:** NZ $300.00 (plus GST and ticketing fees)
+**Course Fee:** NZ $450.00 (plus GST and ticketing fees)
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 

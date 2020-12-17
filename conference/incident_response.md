@@ -31,9 +31,9 @@ This course is perfect for those developers, engineers, security professionals, 
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZDT)
 
-**Instructors:** Erica ('sput') Anderson, [SafeStack](https://safestack.io)   
+**Instructors:** Erica ('sput') Anderson, [SafeStack](https://safestack.io), and Izzi Lithgow
 
-**Course Fee:** NZ $600.00 (plus GST and ticketing fees)
+**Course Fee:** NZ $450.00 (plus GST and ticketing fees)
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 
