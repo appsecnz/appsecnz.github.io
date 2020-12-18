@@ -64,7 +64,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 |        |Platinum    |Gold    |Silver    |Bronze    |A La Carte    |
 |-------:|:----------:|:------:|:--------:|:--------:|:------------:|
-|**Enrolment Limit**| 2<br />(**1 Remaining**) | 8<br />(**3 Remaining**) | -- | -- |*Varies*|
+|**Enrolment Limit**| 2<br />(**SOLD OUT**) | 8<br />(**3 Remaining**) | -- | -- |*Varies*|
 |**General Rate**|$7,000|$5,000|$3,500|$2,250|*Varies*|
 |**A La Carte Sponsorship Discount**|**15%**|**10%**|**5%**| -- | -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|

@@ -153,10 +153,10 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 
 [![University of Auckland Business School](/assets/images/Logo-UofA_Business_School.png)](http://www.auckland.ac.nz/)   
 
-### Platinum Sponsor
+### Platinum Sponsors
 
-|:---:|
-|[![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="400px" target="_blank" rel="sponsored"}|
+|:---:|:---:|
+|[![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="400px" target="_blank" rel="sponsored"}|[![Logo-Datacom](/assets/images/Datacom-Primary-Logo-RGB.svg)](https://www.datacom.co.nz/){:width="400px" target="_blank" rel="sponsored"}|
 
 ### Gold Sponsors
 
