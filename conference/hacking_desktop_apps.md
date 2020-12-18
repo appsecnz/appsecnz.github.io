@@ -47,6 +47,8 @@ All action, no fluff, come to this 100% hands-on Electron and Modern apps course
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 
+**Minimum Enrolment:** Seven (7) paid registrations
+
 **Prerequisite Skills:**
 
 This course has no prerequisites as it is designed to accommodate students with different skills: 

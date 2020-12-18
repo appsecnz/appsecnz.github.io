@@ -88,14 +88,16 @@ For any comments, feedback or observations, please don't hesitate to [contact us
 
 ## Registration
 
-Registration will open on 17 December 2020. Advance registration (through 1 February 2021) will be **FREE**; from 2 February, there will be a **$25.00** (plus fees and GST) "procrastination fee" applied.
+Registration opened on 17 December 2020. Advance registration (through 1 February 2021) will be **FREE**; from 2 February, there will be a **$25.00** (plus fees and GST) "procrastination fee" applied.
 
-Registration for Pre-Conference Training will open on 17 December 2020 and close on 3 February.
+Now through 24 January, you can also order a conference t-shirt for $7.50 (plus GST and fees), when you register. T-shirts can be ordered in any colour - as long as it's black - and are available in Men's (straight cut) sizes S-3XL and 5XL, or in Women's (fitted cut) sizes XS - 2XL.
+
+Registration for Pre-Conference Training also opened on 17 December 2020 and closes on 3 February.
 
 **NOTES:** 
 
 * Registration for in-person and instructor-remote classes may close earlier, if all seats are filled. 
-* Some classes have minimum enrolment requirements, at the request of their instructors. If the minimum has not been reached  3 February - registered attendees will be offered the opportunity to 
+* Some classes have minimum enrolment requirements, at the request of their instructors. If the minimum has not been reached as at 3 February, registered attendees will be offered the opportunity to switch to another class or receive a refund.
 
 Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
@@ -106,6 +108,7 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 * **CFP Closes:** 16 December 2020, 12:00 noon (NZDT) - Submit your proposal(s) on [PaperCall](https://www.papercall.io/appsecnz2021)
 * **Conference Registration Opens:** 17 December 2020 - [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
 * **Training Registration Opens:** 17 December 2020 - [Training Registration Site](https://events.humanitix.com/appsecnz-training)
+* **Last Day for T-Shirt Purchases:** 24 January 2021 - Orders go to the printer the next morning!
 * **Training Registration Closes:** 3 February 2021
 * **Pre-Conference Training Dates:** 10-11 February 2021
 * **Main Conference Dates:** 12-13 February 2021

@@ -48,6 +48,8 @@ All action, no fluff, come to this 100% hands-on Node.js and Modern Web course w
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 
+**Minimum Enrolment:** Seven (7) paid registrations
+
 **Prerequisite Skills:**
 
 This course has no prerequisites as it is designed to accommodate students with different skills: - Advanced students will enjoy comprehensive labs, extra miles and CTF challenges - Less experienced students complete what they can during the class, and can continue at their own pace from home using the training portal.

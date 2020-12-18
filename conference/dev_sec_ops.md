@@ -42,6 +42,8 @@ Key Takeaways:
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 
+**Minimum Enrolment:** Ten (10) paid registrations
+
 **Prerequisite Skills:**
 
 Anybody with a background in IT or related to software development whether a developer or a manager can attend this course to get an insight about DevOps and DevSecOps.
