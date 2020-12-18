@@ -37,6 +37,8 @@ This course is perfect for those developers, engineers, security professionals, 
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 
+**Maximum Enrolment:** 65 attendees
+
 **Attendees Should Bring:** 
 
 Attendees need to come prepared with: 

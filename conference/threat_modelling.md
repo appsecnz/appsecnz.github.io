@@ -31,6 +31,8 @@ nav_order: 6
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 
+**Maximum Enrolment:** 65 attendees
+
 ## Course Description
 
 What do the most effective red teams, blue teams, and engineers all have in common? Threat modelling. Two words wildly used, mostly misunderstood, and almost guaranteed to strike instantaneous yawns in most of the cyber/security field and community (when sadly, it is likely the most powerful non-deterministic tool available.) Attendees of this training workshop will leave prepared to address the needs of each of the three constituents previously mentioned.

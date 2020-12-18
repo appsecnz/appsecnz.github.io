@@ -35,6 +35,8 @@ Software security vulnerabilities are big business for potential attackers. Iden
 
 **Registration Site:** [https://events.humanitix.com/appsecnz-training](https://events.humanitix.com/appsecnz-training)
 
+**Maximum Enrolment:** 65 attendees
+
 **Attendees Should Bring:** 
 
 * Any laptop that can run an updated web browser (Chrome or Firefox)

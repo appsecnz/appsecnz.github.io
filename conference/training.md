@@ -72,6 +72,11 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 * *[Using Backdoors & Breaches to Run Incident Response Table-Top Exercises](backdoors.md)*, Jason Blanchard (Black Hills Information Security, BHIS) - $25
 
+**NOTES:** 
+
+* Registration for in-person and instructor-remote classes may close earlier, if all seats are filled. 
+* Some classes have minimum enrolment requirements, at the request of their instructors. If the minimum has not been reached as at 3 February, registered attendees will be offered the opportunity to switch to another class or receive a refund.
+
 -------------
 
 Spaces will fill up fast, so get in quickly!
