@@ -42,7 +42,7 @@ All action, no fluff, come to this 100% hands-on Node.js and Modern Web course w
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZDT), each day
 
-**Instructor:** Anirudh Anand, [7A Security](https://7asecurity.com/)   
+**Instructor:** Anirudh Anand and/or others from the team at [7A Security](https://7asecurity.com/)   
 
 **Course Fee:** NZ $900.00 (plus GST and ticketing fees)
 
@@ -167,11 +167,25 @@ This course will take any student and make sure that:
 * Advanced Modern Web Apps CTF
 * Challenges to practice advanced attacks
 
-## Your Instructor   
+## Your Instructors  
 
 **Anirudh Anand**
 
 Anirudh Anand is a security researcher with a primary focus on Web and Mobile Application Security. He is currently working as a Senior Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 7 years. In his free time, he participates in CTF competitions along with Team bi0s (#1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay and Flipboard.
 
 Anirudh is an open source enthusiast and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including c0c0n 2019, BlackHat Arsenal 2019, BlackHat Europe Arsenal 2018, HITB Dubai 2018, Offzone Moscow 2018, Ground Zero Summit Delhi 2015 and Xorconf 2015. Twitter: [@a0xnirudh](https://www.twitter.com/a0xnirudh)
+
+**Abraham Aranguren**
+
+After 13 years in ITsec and 20 in IT Abraham is now the CEO of [7ASecurity](https://7asecurity.com), a company specializing in penetration testing of web/mobile apps, infrastructure, code reviews and training. Security Trainer at Blackhat USA, HITB, OWASP Global AppSec and many other events. Former senior penetration tester / team lead at [Cure53](https://cure53.de) and [Version 1](https://www.version1.com). Creator of “Practical Web Defense” - a hands-on eLearnSecurity attack / defense course (www.elearnsecurity.com/PWD), OWASP OWTF project leader, an OWASP flagship project (owtf.org), Major degree and Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as [@7asecurity](https://www.twitter.com/7asecurity), @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found at https://7asecurity.com/publications.
+
+**Abhishek J M**
+
+Abhishek is a security enthusiast and has been working on mobile application security for the past 5 years. He is an avid CTF player and is the mobile security team lead of one of India’s top CTF teams, Team bi0s. He is the author of notable open source mobile security projects like Adhrit and EVABS which have been well received in the community. He has presented his work and has conducted training at various meetups and conferences like OWASP Seasides, Threatcon, Cysinfo and c0c0n. He is an open source evangelist and spends his free time automating and building learning materials for mobile security. Twitter: [@HawkSpawn](https://www.twitter.com/HawkSpawn)
+
+**Juan Urbano Stordeur**
+
+After more than eight years performing Web and Network security audits, Juan’s focus switched to Android and iOS mobile apps for the last five years. During this time, he travelled around the Latin America doing Security Assessments into many companies, some of them considered Latin American Unicorns.
+
+He coordinates the Ekoparty Mobile Hacking Space, and is a well known Speaker and Trainer in events such as OWASP Latam Tour, OWASP Uruguay, OWASP Buenos Aires, OWASP Cordoba, OWASP Patagonia, Ekoparty Mobile Hacking Space, Ekoparty University Talks, etc. Python lover, CTF player and Bug Bounty Hunter in his free time. He has a passion for climbing and snowboarding. Twitter: [@juanurss](https://www.twitter.com/juanurss)
 
