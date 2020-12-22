@@ -21,7 +21,7 @@ nav_order: 1
 
 -----
 
-We are proud to announce the first annual AppSec New Zealand Conference, to be held at the University of Auckland on Thursday and Friday, February 12th and 13th, 2021. The AppSec New Zealand Conference is presented in collaboration with the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications.
+We are proud to announce the first annual AppSec New Zealand Conference, to be held at the University of Auckland on Friday and Saturday, February 12th and 13th, 2021. The AppSec New Zealand Conference is presented in collaboration with the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications.
 
 There will be two conference streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
@@ -40,7 +40,7 @@ Who is it for?
 
 **Date:** Friday and Saturday, 12-13 February 2021   
 **Time:** 9:30 a.m. - 5:30 p.m. each day   
-**Cost: FREE** early registration (on or before 31 January); **$25** late registration (from 1 February)   
+**Cost: FREE** early registration (on or before 1 February); **$25** late registration (from 2 February)   
 
 The main conference on Friday and Saturday will have two streams throughout both days:
 

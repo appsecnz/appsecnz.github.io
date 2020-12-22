@@ -60,7 +60,7 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 * *[DevSecOps: Automating Security in DevOps](dev_sec_ops.md)*, Rohit Salecha (NotSoSecure) - $900
 * *[Hacking Modern Web Apps: Master the Future of Attack Vectors](hacking_web_apps.md)*, Anirudh Anand (7A Security - $900
-* *[Hacking Android, iOS, and IoT Apps by Example*](hacking_mobile_apps.md), Juan Urbano Stordeur/Abhishek J.M. (7A Security) - $900
+* *[Hacking Android, iOS, and IoT Apps by Example](hacking_mobile_apps.md)*, Juan Urbano Stordeur/Abhishek J.M. (7A Security) - $900
 * *[Hacking Modern Desktop Apps: Master the Future of Attack Vectors](hacking_desktop_apps.md)*, Abraham Aranguren (7A Security) - $900
 
 ### One-day, In-Person (Classroom) Classes:
