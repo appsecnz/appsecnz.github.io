@@ -28,15 +28,15 @@ Our funds are limited, and we’ll be reviewing applications every week, startin
 
 Process:
 
-* Fill out our **Application Form** - Available from 1 December
-* We will review and approve applications each week. The first reviews will be completed before Christmas.
-* We will contact all applicants and let them know the result of the review.
+* Fill out our [**Application Form**](https://forms.gle/ct5uXPWeZDM4jQ6K9)
+* We will review and approve applications each week. The first reviews will be completed by 11 January (sooner, if possible).
+* We will contact all applicants and let them know the results of the review.
 * Successful applicants will be contacted to help sort things out.
 
 We use the following criteria to help us decide who gets approved:
 
 * We are biased towards (but not exclusively for) diverse applicants.
-* We do attempt to maximise cost efficiency and will aim to get as many people to OWASP as possible, with our limited funds.
+* We do attempt to maximise cost efficiency and will aim to get as many people to the event as possible, with our limited funds.
 
 Applicants' and funding recipients' identities will generally not be disclosed to anyone outside the Diversity Fund committee. If you are a successful applicant, *and* your award was directly supported by a sponsor, you can choose whether to be kept anonymous or to be put in touch with the sponsor supporting your attendance. We think some of our sponsors may enjoy the opportunity to chat with you on the day and talk about your experiences and plans for the future, but that’s totally optional and up to you.
 

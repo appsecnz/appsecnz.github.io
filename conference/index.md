@@ -15,9 +15,13 @@ nav_order: 1
 
 ## Owen G. Glenn Building, University of Auckland
 
+## The [Call for Presentations](https://papercall.io/appsecnz2021) for the main conference has been extended until 15 January! We have room for just a few more great talks, so submit yours now!
+
 ## [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
 
 ## [Training Registration Site](https://events.humanitix.com/appsecnz-training)
+
+## Diversity and Financial Aid Programme applications are now open - Submit [your application](https://forms.gle/ct5uXPWeZDM4jQ6K9) to request travel and/or training support
 
 -----
 
@@ -105,10 +109,11 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 * **CFP and CFT Opened:**: 8 October 2020
 * **CFT Closed:** 4 December 2020
-* **CFP Closes:** 16 December 2020, 12:00 noon (NZDT) - Submit your proposal(s) on [PaperCall](https://www.papercall.io/appsecnz2021)
-* **Conference Registration Opens:** 17 December 2020 - [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
-* **Training Registration Opens:** 17 December 2020 - [Training Registration Site](https://events.humanitix.com/appsecnz-training)
+* **CFP Closes:** 15 January 2021 - Submit your proposal(s) on [PaperCall](https://www.papercall.io/appsecnz2021)
+* **Conference Registration Opened:** 17 December 2020 - [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
+* **Training Registration Opened:** 17 December 2020 - [Training Registration Site](https://events.humanitix.com/appsecnz-training)
 * **Last Day for T-Shirt Purchases:** 24 January 2021 - Orders go to the printer the next morning!
+* **"Early Bird" Conference Registration Ends:** 1 February 2021 - From 2 February, there's a $25 "procrastination fee"
 * **Training Registration Closes:** 3 February 2021
 * **Pre-Conference Training Dates:** 10-11 February 2021
 * **Main Conference Dates:** 12-13 February 2021
