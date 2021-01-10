@@ -133,3 +133,24 @@ Our partnership with quality assurance is what makes us agile, innovative and fl
 
 SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
 
+----------------------
+
+### Supporting Sponsors
+
+#### [Black Hills Information Security](https://www.blackhillsinfosec.com/)
+
+![Logo-BHIS](/assets/images/Logo-BHIS.png)](https://www.blackhillsinfosec.com/){:width="250px" target="_blank" rel="sponsored"}
+
+Black Hills Information Security is a consulting and services company specializing in penetration testing, red teaming, threat hunting, incident response and purple teaming. We share our knowledge on what we know and the tactics, tools, and procedures we use in our engagements to help better the information security community. We host regular free webcasts, workshops, blogs, podcasts, training sessions, and created the Backdoors & Breaches incident response card game to help the world be a safer place. 
+
+#### [Vidcom](https://www.vidcom.com/)
+
+![Logo-Vidcom](/assets/images/Logo-Vidcom-White.svg)](https://www.vidcom.com/){:width="250px" target="_blank" rel="sponsored"}
+
+Vidcom is a trusted Audio Visual provider that can help bring your event to life. Our customers have access to a full range of AV solutions and products for events such as conferences, award dinners, exhibitions and more.
+
+We can work with you to create amazing experiences for you and your audience - utilising our passion for AV and helping you achieve your vision.
+
+
+
+

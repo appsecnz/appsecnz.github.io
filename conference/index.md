@@ -181,7 +181,7 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 ### Supporting Sponsors
 
 |:---:|:---:|
-|[![Logo-BHIS](/assets/images/Logo-BHIS.png)](https://www.blackhillsinfosec.com/){:width="250px" target="_blank" rel="sponsored"}|   |    
+|[![Logo-BHIS](/assets/images/Logo-BHIS.png)](https://www.blackhillsinfosec.com/){:width="250px" target="_blank" rel="sponsored"}|![Logo-Vidcom](/assets/images/Logo-Vidcom-White.svg)](https://www.vidcom.com/){:width="250px" target="_blank" rel="sponsored"}|    
 
 Follow us on Twitter [@AppSecNZ](https://www.twitter.com/AppSecNZ)
 
