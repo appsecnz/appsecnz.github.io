@@ -178,5 +178,10 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 |[![Logo-Internet NZ](/assets/images/Logo-Internet_NZ-250.png)](https://internetnz.nz/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Lateral Security](/assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/){:width="250px" target="_blank" rel="sponsored"}|
 |[![Logo-SEQA](/assets/images/Logo-SEQA-150.png)](https://www.seqa.co.nz/){:width="250px" target="_blank" rel="sponsored"}|   |   
 
+### Supporting Sponsors
+
+|:---:|:---:|
+|[![Logo-BHIS](/assets/images/Logo-BHIS.png)](https://www.blackhillsinfosec.com/){:width="250px" target="_blank" rel="sponsored"}|   |    
+
 Follow us on Twitter [@AppSecNZ](https://www.twitter.com/AppSecNZ)
 

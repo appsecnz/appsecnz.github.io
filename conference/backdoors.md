@@ -19,6 +19,9 @@ nav_order: 8
 
 ## Half-Day Interactive (Classroom) Training - AppSec New Zealand Conference 2021
 
+## Abstract
+
+Have you ever wanted to conduct an incident response tabletop exercise but didn't know how to get started or what even to talk about? The team at Black Hills Information Security (BHIS) created a card game that is like Dungeons & Dragons meets Incident Response, called *Backdoors & Breaches*. Jason Blanchard is the co-creator of the game and will conduct a live (he will be remote with local support in the classroom) training session on how to use the cards to help you and your team prepare for the possible attacks your organization can face and how you can address those issues ahead of time. It will be fun, engaging, and educational... just like how a tabletop exercise should be. 
 
 ## Course Details 
 
@@ -41,3 +44,8 @@ nav_order: 8
 * A *Backdoors & Breaches* Core Deck
 * A 20-sided die
 
+## Your Instructor
+
+**Jason Blanchard**
+
+Jason has been happily adopted into the hacker community even though he, "works in marketing." He's had every dream job imaginable: teaching film making, owning the world’s most famous comic book store, and fostering the Infosec community efforts for SANS. Now he humbly brings his particular set of skills to Black Hills.
