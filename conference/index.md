@@ -165,29 +165,18 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 
 ![Logos-Platinum Sponsors-Datacom and Quantum Security](/assets/images/Logos-Platinum_Sponsors.png)
 
-<!--
-
-|:---:|:---:|
-|[![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="400px" target="_blank" rel="sponsored"}|[![Logo-Datacom](/assets/images/Datacom-Primary-Logo-RGB.svg)](https://www.datacom.co.nz/){:width="400px" target="_blank" rel="sponsored"}|
-
--->
-
 ### Gold Sponsors
 
-|:---:|:---:|:---:|
-[![Logo - Aura Information Security](/assets/images/Logo-Aura_Information_Security-125.jpg)](https://www.aurainfosec.com/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Insomnia Security Specialists](/assets/images/Logo-Insomnia_Security_Specialists-125.png)](https://www.insomniasec.com/){:width="250px" target="_blank" rel="sponsored"}<br />*In addition to their contribution as a Gold Sponsor, Insomnia Security Specialists are the Providing Sponsor for the tea breaks at our on-site Pre-Conference Training event*|[![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png)](https://pulsesecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}|   
-|[![Logo-Secure Code Warrior](/assets/images/Logo-Secure_Code_Warrior.png)](https://securecodewarrior.com/){:width="250px" target="_blank" rel="sponsored"}[![Logo-ZX Security](/assets/images/Logo-ZX_Security-150.png)](https://zxsecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}|  |
+![Logos-Gold Sponsors-Aura, Insomnia, Pulse, SCW, ZX](/assets/images/Logos-Gold_Sponsors.png)
 
 ### Silver Sponsors
 
-|:---:|:---:|
-|[![Logo-Internet NZ](/assets/images/Logo-Internet_NZ-250.png)](https://internetnz.nz/){:width="250px" target="_blank" rel="sponsored"}|[![Logo - Lateral Security](/assets/images/Logo-Lateral_Security-125.png)](https://www.lateralsecurity.com/){:width="250px" target="_blank" rel="sponsored"}|
-|[![Logo-SEQA](/assets/images/Logo-SEQA-150.png)](https://www.seqa.co.nz/){:width="250px" target="_blank" rel="sponsored"}|[![Logo-Flux Federation](/assets/images/Logo-Flux_Federation-125.png)](https://www.fluxfederation.com/){:width="250px" target="_blank" rel="sponsored"}|   
+![Logos-Silver Sponsors-Flux, Internet NZ, Lateral, SEQA](/assets/images/Logos-Silver_Sponsors.png)
 
 ### Supporting Sponsors
 
-|:---:|:---:|
-|[![Logo-BHIS](/assets/images/Logo-BHIS.png)](https://www.blackhillsinfosec.com/){:width="250px" target="_blank" rel="sponsored"}|![Logo-Vidcom](/assets/images/Logo-Vidcom-White.svg)](https://www.vidcom.com/){:width="250px" target="_blank" rel="sponsored"}|    
+![Logos-Supporting Sponsors-BHIS, Insomnia, Vidcom](/assets/images/Logos-Supporting_Sponsors.png)
+ 
 
 Follow us on Twitter [@AppSecNZ](https://www.twitter.com/AppSecNZ)
 
