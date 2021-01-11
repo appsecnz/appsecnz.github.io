@@ -150,7 +150,7 @@ Some of the options available:
 **Stream Two:** Level 0   
 **Room:** 098 Lecture Theatre
 
-**Sponsor Demo Room:** Level 0   
+**Sponsor/Demo/Breakout Room:** Level 0   
 **Room:** Case Room 2
 
 ## Conference Sponsors
