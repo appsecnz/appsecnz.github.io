@@ -18,6 +18,18 @@ nav_order: 4
 
 ### Platinum Sponsors
 
+#### [Datacom](https://datacom.co.nz)
+
+![Logo-Datacom](/assets/images/Datacom-Primary-Logo-RGB.svg){:width="250px" target="_blank" rel="sponsored"}
+
+At Datacom, we believe our purpose is to help our customers and communities navigate the complexity of this every-changing world we live in, by connecting people and technology, and solving their greatest challenges. With more than 50 years' experience in technology, we have grown to be one of Australasia’s leading locally owned technology company.
+
+Our people, built on a foundation of strong values, are some of the most experienced in the tech industry and partner with customers from large government agencies to commercial businesses to transform their organisations from idea to delivery.
+
+We design, build and run IT systems and process for business. We support existing legacy IT systems and processes, and we custom-design brand new ones. We work with our customers to build and operate sustainable solutions by exploring their current state, clarifying their future potential and solving their most pressing problems. Our breadth of advisory and technical skills provides deep expertise in technology platforms to our customers, provided by our 200 tech partners.
+
+--------------------
+
 #### [Quantum Security](https://www.quantumsecurity.co.nz/)
 
 ![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png){:width="250px" target="_blank" rel="sponsored"}
@@ -56,9 +68,9 @@ Specialising in offensive security testing services, our teams regularly attend 
 
 ---------------------
 
-#### [Pulse Security](https://securecodewarrior.com/)
+#### [Pulse Security](https://pulsesecurity.co.nz/)
 
-[![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png)](https://pulsesecurity.co.nz/){:width="250px" target="_blank" rel="sponsored"}
+![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png)]{:width="250px" target="_blank" rel="sponsored"}
 
 Pulse Security is a specialist information security consultancy.
 
@@ -88,6 +100,16 @@ ZX Security is a penetration testing company with head offices located in Wellin
 
 ### Silver Sponsors
 
+#### [Flux Federation](https://www.fluxfederation.com/)
+
+![Logo-Flux Federation](/assets/images/Logo-Flux_Federation-125.png)]{:width="250px" target="_blank" rel="sponsored"}
+
+**Flux Federation is a global technology company known for creating software products and experiences for innovative energy retailers throughout the world, including Powershop and a number of other leading energy retail brands.**
+
+Our platform was purpose built by people who have experience running energy companies, so we know it works. Flux is a subsidiary of Meridian Energy, New Zealand's largest energy generator and its fourth-largest retailer. We're a team of around 150 software developers, test analysts, designers, customer experience, and product people.
+
+----------------------
+
 #### [Internet NZ](https://internetnz.nz/)
 
 ![Logo-Internet NZ](/assets/images/Logo-Internet_NZ-Cropped.png){:width="250px" target="_blank" rel="sponsored"}
@@ -104,16 +126,6 @@ ZX Security is a penetration testing company with head offices located in Wellin
 * We walk the talk.
 
 ---------------------
-
-#### [Flux Federation](https://www.fluxfederation.com/)
-
-![Logo-Flux Federation](/assets/images/Logo-Flux_Federation-125.png)]{:width="250px" target="_blank" rel="sponsored"}
-
-**Flux Federation is a global technology company known for creating software products and experiences for innovative energy retailers throughout the world, including Powershop and a number of other leading energy retail brands.**
-
-Our platform was purpose built by people who have experience running energy companies, so we know it works. Flux is a subsidiary of Meridian Energy, New Zealand's largest energy generator and its fourth-largest retailer. We're a team of around 150 software developers, test analysts, designers, customer experience, and product people.
-
-----------------------
 
 #### [Lateral Security](https://www.lateralsecurity.com/)
 
