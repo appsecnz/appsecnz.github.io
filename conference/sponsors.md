@@ -105,6 +105,16 @@ ZX Security is a penetration testing company with head offices located in Wellin
 
 ---------------------
 
+#### [Flux Federation](https://www.fluxfederation.com/)
+
+![Logo-Flux Federation](/assets/images/Logo-Flux_Federation-125.png)]{:width="250px" target="_blank" rel="sponsored"}
+
+**Flux Federation is a global technology company known for creating software products and experiences for innovative energy retailers throughout the world, including Powershop and a number of other leading energy retail brands.**
+
+Our platform was purpose built by people who have experience running energy companies, so we know it works. Flux is a subsidiary of Meridian Energy, New Zealand's largest energy generator and its fourth-largest retailer. We're a team of around 150 software developers, test analysts, designers, customer experience, and product people.
+
+----------------------
+
 #### [Lateral Security](https://www.lateralsecurity.com/)
 
 ![Logo - Lateral Security](/assets/images/Logo-Lateral_Security-125.png){:width="250px" target="_blank" rel="sponsored"}
