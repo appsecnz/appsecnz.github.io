@@ -159,7 +159,7 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 
 ### Conference Host
 
-[![University of Auckland Business School](/assets/images/Logo-UofA_Business_School.png)](http://www.auckland.ac.nz/)   
+![University of Auckland Business School](/assets/images/Logo-UofA_Business_School.png)   
 
 ### Platinum Sponsors
 
