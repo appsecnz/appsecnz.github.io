@@ -163,8 +163,14 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 
 ### Platinum Sponsors
 
+![Logos-Platinum Sponsors-Datacom and Quantum Security](/assets/images/Logos-Plainum_Sponsors.png)
+
+<!--
+
 |:---:|:---:|
 |[![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png)](https://www.quantumsecurity.co.nz/){:width="400px" target="_blank" rel="sponsored"}|[![Logo-Datacom](/assets/images/Datacom-Primary-Logo-RGB.svg)](https://www.datacom.co.nz/){:width="400px" target="_blank" rel="sponsored"}|
+
+-->
 
 ### Gold Sponsors
 
