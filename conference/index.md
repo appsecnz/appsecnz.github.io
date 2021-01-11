@@ -163,7 +163,7 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 
 ### Platinum Sponsors
 
-![Logos-Platinum Sponsors-Datacom and Quantum Security](/assets/images/Logos-Plainum_Sponsors.png)
+![Logos-Platinum Sponsors-Datacom and Quantum Security](/assets/images/Logos-Platinum_Sponsors.png)
 
 <!--
 
