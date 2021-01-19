@@ -20,7 +20,7 @@ nav_order: 4
 
 #### [Datacom](https://datacom.co.nz){: target="_blank" rel="sponsored"}
 
-![Logo-Datacom](/assets/images/Datacom-Primary-Logo-RGB.svg){: width="400px"}   
+![Logo-Datacom](/assets/images/Datacom-Primary-Logo-RGB.svg){: width="400"}   
 
 At Datacom, we believe our purpose is to help our customers and communities navigate the complexity of this every-changing world we live in, by connecting people and technology, and solving their greatest challenges. With more than 50 years' experience in technology, we have grown to be one of Australasia’s leading locally owned technology company.
 
@@ -32,7 +32,7 @@ We design, build and run IT systems and process for business. We support existin
 
 #### [Quantum Security](https://www.quantumsecurity.co.nz/){: target="_blank" rel="sponsored"}
 
-![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png){: width="400px"}   
+![Logo-Quantum Security](/assets/images/Logo-Quantum_Security-125.png){: width="400"}   
 
 Founded in 2014 Quantum Security Services aims to provide excellence throughout our engagement process. We utilise only the best personnel available in the market to ensure our clients receive the best. We engage our clients throughout and provide comprehensive and readable reports.
 
@@ -46,7 +46,7 @@ At Quantum we offer a wide array of services, from technical penetration testing
 
 #### [Aura Information Security](https://www.aurainfosec.com/){: target="_blank" rel="sponsored"}
 
-![Logo - Aura Information Security](/assets/images/Logo-Aura_Information_Security-125.jpg){: width="300px"}   
+![Logo - Aura Information Security](/assets/images/Logo-Aura_Information_Security-125.jpg){: width="300"}   
 
 Aura Information Security is a leading provider of information security consulting services to corporates and governments in Australia and New Zealand.
 
@@ -58,7 +58,7 @@ Aura was awarded ‘Best Security Company’ at the Information Security (iSANZ)
 
 #### [Insomnia Security Specialists](https://www.insomniasec.com){: target="_blank" rel="sponsored"}
 
-![Logo - Insomnia Security Specialists](/assets/images/Logo-Insomnia_Security_Specialists-125.png){: width="300px"}   
+![Logo - Insomnia Security Specialists](/assets/images/Logo-Insomnia_Security_Specialists-125.png){: width="300"}   
 
 Founded in 2007, Insomnia Security is a team of more than thirty IT professionals, including a consultancy team with well over 75 years combined experience in commercial, offensive security.
 
@@ -70,7 +70,7 @@ Specialising in offensive security testing services, our teams regularly attend 
 
 #### [MYOB](https://www.myob.com/nz){: target="_blank" rel="sponsored"}
 
-![Logo - MYOB](/assets/images/MYOB_Logo.png){: width="300px"}   
+![Logo - MYOB](/assets/images/MYOB_Logo.png){: width="300"}   
 
 **Why MYOB? Because you didn't start a business to do the books.**
 
@@ -92,7 +92,7 @@ We're on the phones every single day to provide support, and we have more than 4
 
 #### [Pulse Security](https://pulsesecurity.co.nz/){: target="_blank" rel="sponsored"}
 
-![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png){: width="300px"}   
+![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png){: width="300"}   
 
 Pulse Security is a specialist information security consultancy.
 
@@ -102,7 +102,7 @@ We're here to help your business stay protected from adversaries.
 
 #### [Secure Code Warrior](https://securecodewarrior.com/){: target="_blank" rel="sponsored"}
 
-![Logo-Secure Code Warrior](/assets/images/Logo-Secure_Code_Warrior.png){: width="300px"}   
+![Logo-Secure Code Warrior](/assets/images/Logo-Secure_Code_Warrior.png){: width="300"}   
 
 Secure Code Warrior was co-founded by Pieter Danhieux and Matias Madou Ph.D., two globally recognised security experts. Through their combined security experience as developers, researchers, trainers and consultants, Pieter and Matias had experienced the negative impact of insecure code and were frustrated by the industry's focus on simply finding vulnerabilities, rather than fixing or preventing them in the first place.
 
@@ -114,7 +114,7 @@ The team pioneered an innovative approach to improving secure coding skills and 
 
 #### [Vocus (New Zealand) Limited](https://vocus.co.nz/){: target="_blank" rel="sponsored"}
 
-![Logo-Vocus](/assets/images/Vocus_Brandmark_RGB_Navy.png){: width="300px"}   
+![Logo-Vocus](/assets/images/Vocus_Brandmark_RGB_Navy.png){: width="300"}   
 
 **Vocus means business**
 
@@ -124,7 +124,7 @@ Vocus New Zealand has more than 23 years’ experience connecting New Zealand co
 
 #### [ZX Security](https://zxsecurity.co.nz/){: target="_blank" rel="sponsored"}
 
-![Logo-ZX Security](/assets/images/Logo-ZX_Security-150.png){: height="175px"}
+![Logo-ZX Security](/assets/images/Logo-ZX_Security-150.png){: height="175"}
 
 ZX Security is a penetration testing company with head offices located in Wellington. Our team conduct a variety of assessments from web application and mobile reviews through to targeted phishing campaigns and red team engagements.
 
@@ -134,7 +134,7 @@ ZX Security is a penetration testing company with head offices located in Wellin
 
 #### [Flux Federation](https://www.fluxfederation.com/){: target="_blank" rel="sponsored"}
 
-![Logo-Flux Federation](/assets/images/Logo-Flux_Federation-125.png){: width="250px"}   
+![Logo-Flux Federation](/assets/images/Logo-Flux_Federation-125.png){: width="250"}   
 
 **Flux Federation is a global technology company known for creating software products and experiences for innovative energy retailers throughout the world, including Powershop and a number of other leading energy retail brands.**
 
@@ -144,7 +144,7 @@ Our platform was purpose built by people who have experience running energy comp
 
 #### [Internet NZ](https://internetnz.nz/){: target="_blank" rel="sponsored"}
 
-![Logo-Internet NZ](/assets/images/Logo-Internet_NZ-Cropped.png){: width="250px"}   
+![Logo-Internet NZ](/assets/images/Logo-Internet_NZ-Cropped.png){: width="250"}   
 
 **Our vision** - An Internet that is open, secure, and for all New Zealanders.
 
@@ -161,7 +161,7 @@ Our platform was purpose built by people who have experience running energy comp
 
 #### [Lateral Security](https://www.lateralsecurity.com/){: target="_blank" rel="sponsored"}
 
-![Logo - Lateral Security](/assets/images/Logo-Lateral_Security-125.png){: width="250px"}   
+![Logo - Lateral Security](/assets/images/Logo-Lateral_Security-125.png){: width="250"}   
 
 Lateral Security is New Zealand’s leading independent IT security company providing tailored information security testing and advisory services.
 
@@ -177,7 +177,7 @@ Our company vision: "To improve the IT security and safety of our customers and 
 
 #### [SEQA Information Security](https://www.seqa.co.nz/){: target="_blank" rel="sponsored"}
 
-![Logo-SEQA](/assets/images/Logo-SEQA-150.png){: width="250px"}   
+![Logo-SEQA](/assets/images/Logo-SEQA-150.png){: width="250"}   
 
 At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.
 
@@ -193,13 +193,13 @@ SEQA ensures the security needs across a range of industries including; governme
 
 #### [Black Hills Information Security](https://www.blackhillsinfosec.com/){: target="_blank" rel="sponsored"}
 
-![Logo-BHIS](/assets/images/Logo-BHIS.png){: height="175px"}   
+![Logo-BHIS](/assets/images/Logo-BHIS.png){: height="175"}   
 
 Black Hills Information Security is a consulting and services company specializing in penetration testing, red teaming, threat hunting, incident response and purple teaming. We share our knowledge on what we know and the tactics, tools, and procedures we use in our engagements to help better the information security community. We host regular free webcasts, workshops, blogs, podcasts, training sessions, and created the Backdoors & Breaches incident response card game to help the world be a safer place. 
 
 #### [Vidcom](https://www.vidcom.com/){: target="_blank" rel="sponsored"}
 
-![Logo-Vidcom](/assets/images/Logo-Vidcom-White.svg){: width="250px"}   
+![Logo-Vidcom](/assets/images/Logo-Vidcom-White.svg){: width="250"}   
 
 Vidcom is a trusted Audio Visual provider that can help bring your event to life. Our customers have access to a full range of AV solutions and products for events such as conferences, award dinners, exhibitions and more.
 
