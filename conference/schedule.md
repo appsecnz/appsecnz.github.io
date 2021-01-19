@@ -74,7 +74,7 @@ nav_order: 4
     <td style="background-color: #B9C2DC; text-align: center">
        <strong>Bug Hunting with Static Analysis Tools</strong>
       <br />
-      <em>Moss Lilley</em>
+      <em>Moss Lilley - Xero</em>
     </td>
   </tr>
   <tr>
@@ -144,9 +144,9 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center;">
-      <strong>Your Browser Wants You to Be Secure</strong>
+      <strong>Making Your Information Security Policy Useful</strong>
       <br />
-      <em>Kirk Jackson - RedShield</em>
+      <em>Stephen Coates - Aura Information Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
@@ -268,7 +268,7 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">11:55</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>The Five Stages of Security Grief: A Humorous Look at How We Can Help People Navigate the Realities of Information Security </strong>
+      <strong>The Five Stages of Security Grief: A Humorous Look at How We Can Help People Navigate the Realities of Information Security</strong>
       <br />
       <em>Phil Howie - Onwardly</em>
     </td>
@@ -280,9 +280,9 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center;">
-      <strong>Making Your Information Security Policy Useful</strong>
+      <strong>Your Browser Wants You to Be Secure</strong>
       <br />
-      <em>Stephen Coates - Aura Information Security</em>
+      <em>Kirk Jackson - RedShield</em>
     </td>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center">
@@ -328,7 +328,7 @@ nav_order: 4
     <td style="background-color: #B9C2DC; text-align: center">
       <strong>Zero to OSCP</strong>
       <br />
-      <em>Moss Lilley</em>
+      <em>Moss Lilley - Xero</em>
     </td>
     <td style="vertical-align: top; text-align: right;">16:00</td>
     <td style="background-color: #B9C2DC; text-align: center">
