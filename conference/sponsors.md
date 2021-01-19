@@ -68,6 +68,28 @@ Specialising in offensive security testing services, our teams regularly attend 
 
 ---------------------
 
+#### [MYOB](https://www.myob.com/nz)
+
+![Logo - MYOB](/assets/images/MYOB_Logo.png)]{:width="250px" target="_blank" rel="sponsored"}
+
+**Why MYOB? Because you didn't start a business to do the books.**
+
+We're not here to tell you what success should be. Maybe you want a day off every week, or more time to go surfing. Maybe you want a worldwide empire. Whatever you want for your business - we can help you achieve it.
+
+**What do we do?**
+
+We offer business management solutions. More than 50 of them, to be exact. Everything to help you with accounting, payroll, payments, retail point of sale, CRM and professional tax solutions - and more.
+
+**We grow with you**
+
+Once you start using our products, you never have to stop. You'll never outgrow us: whether you're a start-up in a garage, or a manufacturing powerhouse. We have solutions for businesses of every size, shape and sector.
+
+**Clients drive our world**
+
+We're on the phones every single day to provide support, and we have more than 40,000 advisors (bookkeepers and accountants) to help you out.
+
+---------------------
+
 #### [Pulse Security](https://pulsesecurity.co.nz/)
 
 ![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png)]{:width="250px" target="_blank" rel="sponsored"}
@@ -87,6 +109,16 @@ Secure Code Warrior was co-founded by Pieter Danhieux and Matias Madou Ph.D., tw
 Both recognised that improving secure coding skills and outcomes would add a powerful layer of cyber protection for companies and would help them make better code, faster. Developers didn’t need to become security experts per se, but they could be empowered positively to be the first line of defence for their organisation.
 
 The team pioneered an innovative approach to improving secure coding skills and outcomes that is simple, scalable and positive; and works for both Development and Application or Information Security groups. The team is driven by the knowledge that measurable improvements in security compliance, consistency and predictability will be matched by a better quality and speed of code writing. And that creates an environment in which everyone can enjoy spending more time building, and less time fixing!
+
+---------------------
+
+#### [Vocus (New Zealand) Limited](https://vocus.co.nz/)
+
+![Logo-Vocus](/assets/images/Vocus_Brandmark_RGB_Navy.png){:width="175px" target="_blank" rel="sponsored"}
+
+**Vocus means business**
+
+Vocus New Zealand has more than 23 years’ experience connecting New Zealand companies with the best telecommunication solutions. Vocus has invested significantly in infrastructure and has over 4,200km of fibre in the ground which enables the delivery of sophisticated, high-performance network solutions throughout the country.  The reach of the network extends internationally across both the Sothern Cross and Hawaiki cable systems with an on-net presence throughout Australia. 
 
 ---------------------
 
@@ -161,13 +193,13 @@ SEQA ensures the security needs across a range of industries including; governme
 
 #### [Black Hills Information Security](https://www.blackhillsinfosec.com/)
 
-![Logo-BHIS](/assets/images/Logo-BHIS.png)](https://www.blackhillsinfosec.com/){:width="250px" target="_blank" rel="sponsored"}
+![Logo-BHIS](/assets/images/Logo-BHIS.png){:width="250px" target="_blank" rel="sponsored"}
 
 Black Hills Information Security is a consulting and services company specializing in penetration testing, red teaming, threat hunting, incident response and purple teaming. We share our knowledge on what we know and the tactics, tools, and procedures we use in our engagements to help better the information security community. We host regular free webcasts, workshops, blogs, podcasts, training sessions, and created the Backdoors & Breaches incident response card game to help the world be a safer place. 
 
 #### [Vidcom](https://www.vidcom.com/)
 
-![Logo-Vidcom](/assets/images/Logo-Vidcom-White.svg)](https://www.vidcom.com/){:width="250px" target="_blank" rel="sponsored"}
+![Logo-Vidcom](/assets/images/Logo-Vidcom-White.svg){:width="250px" target="_blank" rel="sponsored"}
 
 Vidcom is a trusted Audio Visual provider that can help bring your event to life. Our customers have access to a full range of AV solutions and products for events such as conferences, award dinners, exhibitions and more.
 

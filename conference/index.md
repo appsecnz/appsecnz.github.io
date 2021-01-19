@@ -15,8 +15,6 @@ nav_order: 1
 
 ## Owen G. Glenn Building, University of Auckland
 
-## The [Call for Presentations](https://papercall.io/appsecnz2021) for the main conference has been extended until 15 January! We have room for just a few more great talks, so submit yours now!
-
 ## [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
 
 ## [Training Registration Site](https://events.humanitix.com/appsecnz-training)
@@ -109,7 +107,7 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 * **CFP and CFT Opened:**: 8 October 2020
 * **CFT Closed:** 4 December 2020
-* **CFP Closes:** 15 January 2021 - Submit your proposal(s) on [PaperCall](https://www.papercall.io/appsecnz2021)
+* **CFP Closed:** 15 January 2021
 * **Conference Registration Opened:** 17 December 2020 - [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
 * **Training Registration Opened:** 17 December 2020 - [Training Registration Site](https://events.humanitix.com/appsecnz-training)
 * **Last Day for T-Shirt Purchases:** 24 January 2021 - Orders go to the printer the next morning!
@@ -163,15 +161,15 @@ For more information about our Premier Sponsors, please visit our [About Our Spo
 
 ### Platinum Sponsors
 
-![Logos-Platinum Sponsors-Datacom and Quantum Security](/assets/images/Logos-Platinum_Sponsors.png)
+![Logos-Platinum Sponsors](/assets/images/Logos-Platinum_Sponsors.png)
 
 ### Gold Sponsors
 
-![Logos-Gold Sponsors-Aura, Insomnia, Pulse, SCW, ZX](/assets/images/Logos-Gold_Sponsors.png)
+![Logos-Gold Sponsors](/assets/images/Logos-Gold_Sponsors.png)
 
 ### Silver Sponsors
 
-![Logos-Silver Sponsors-Flux, Internet NZ, Lateral, SEQA](/assets/images/Logos-Silver_Sponsors.png)
+![Logos-Silver Sponsors](/assets/images/Logos-Silver_Sponsors.png)
 
 ### Supporting Sponsors
 
