@@ -70,7 +70,7 @@ Specialising in offensive security testing services, our teams regularly attend 
 
 #### [MYOB](https://www.myob.com/nz)
 
-![Logo - MYOB](/assets/images/MYOB_Logo.png)]{:width="250px" target="_blank" rel="sponsored"}
+![Logo - MYOB](/assets/images/MYOB_Logo.png){:width="250px" target="_blank" rel="sponsored"}
 
 **Why MYOB? Because you didn't start a business to do the books.**
 
@@ -92,7 +92,7 @@ We're on the phones every single day to provide support, and we have more than 4
 
 #### [Pulse Security](https://pulsesecurity.co.nz/)
 
-![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png)]{:width="250px" target="_blank" rel="sponsored"}
+![Logo - Pulse Security](/assets/images/Logo-Pulse_Security.png){:width="250px" target="_blank" rel="sponsored"}
 
 Pulse Security is a specialist information security consultancy.
 
@@ -134,7 +134,7 @@ ZX Security is a penetration testing company with head offices located in Wellin
 
 #### [Flux Federation](https://www.fluxfederation.com/)
 
-![Logo-Flux Federation](/assets/images/Logo-Flux_Federation-125.png)]{:width="250px" target="_blank" rel="sponsored"}
+![Logo-Flux Federation](/assets/images/Logo-Flux_Federation-125.png){:width="250px" target="_blank" rel="sponsored"}
 
 **Flux Federation is a global technology company known for creating software products and experiences for innovative energy retailers throughout the world, including Powershop and a number of other leading energy retail brands.**
 
