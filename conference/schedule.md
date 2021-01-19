@@ -173,6 +173,8 @@ nav_order: 4
     <td valign="top" align="right">16:55</td>
     <td colspan="3" style="background-color: #D98B66; text-align: center;">
       <strong>Wrap-Up - Day 1</strong>
+      <br />
+      <em>Evening Activities - On Your Own</em>
     </td>
   </tr>
 </table>
@@ -339,6 +341,8 @@ nav_order: 4
     <td valign="top" align="right">16:35</td>
     <td colspan="3" style="background-color: #D98B66; text-align: center;">
       <strong>Wrap Up - Closing Remarks, Recognition, Prize Giving</strong>
+      <br />
+      <em>Post-Conference: Time to go out and socialise, for those interested</em>
     </td>
   </tr>
 </table>
