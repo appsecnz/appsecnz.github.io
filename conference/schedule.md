@@ -169,7 +169,7 @@ nav_order: 4
       Track One
     </td>
     <td style="width: 6%; vertical-align: top; text-align: right;">&nbsp;</td>
-    <td style="background-color: #B9C2DC; text-align: center; width: 27%; font-weight: bold;">
+    <td style="background-color: #B9C2DC; text-align: center; font-weight: bold;">
       Downstairs Auditorium (Room 098)
       <br />
       Track Two
@@ -216,7 +216,7 @@ nav_order: 4
     </td>
   </tr>
   <tr>
-    <td style="width: 6%; vertical-align: top; text-align: right;">11:55</td>
+    <td style="vertical-align: top; text-align: right;">11:55</td>
     <td style="background-color: #EEE; text-align: center">
       &nbsp;
     </td>
