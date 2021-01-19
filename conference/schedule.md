@@ -67,6 +67,7 @@ nav_order: 4
     <td style="vertical-align: top; text-align: right;">10:35</td>
     <td style="background-color: #B9C2DC; text-align: center">
       &nbsp;
+    </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">11:10</td>
@@ -86,6 +87,7 @@ nav_order: 4
     <td style="vertical-align: top; text-align: right;">11:45</td>
     <td style="background-color: #B9C2DC; text-align: center">
       &nbsp;
+    </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">12:15</td>
@@ -109,6 +111,7 @@ nav_order: 4
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
       &nbsp;
+    </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">14:55</td>
@@ -132,6 +135,7 @@ nav_order: 4
     <td style="vertical-align: top; text-align: right;">16:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
       &nbsp;
+    </td>
   </tr>
   <tr>
     <td valign="top" align="right">16:55</td>
@@ -189,6 +193,7 @@ nav_order: 4
     <td style="vertical-align: top; text-align: right;">10:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
       &nbsp;
+    </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">10:55</td>
@@ -216,7 +221,7 @@ nav_order: 4
       &nbsp;
     </td>
   </tr>
- <tr>
+  <tr>
     <td style="vertical-align: top; text-align: right;">12:15</td>
     <td colspan="3" style="background-color: #D98B66; text-align: center; font-weight: bold;">Break for Lunch - On Your Own</td>
   </tr>
@@ -238,6 +243,7 @@ nav_order: 4
     <td style="vertical-align: top; text-align: right;">14:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
       &nbsp;
+    </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">14:55</td>
@@ -261,6 +267,7 @@ nav_order: 4
     <td style="vertical-align: top; text-align: right;">16:00</td>
     <td style="background-color: #B9C2DC; text-align: center">
       &nbsp;
+    </td>
   </tr>
   <tr>
     <td valign="top" align="right">16:35</td>
