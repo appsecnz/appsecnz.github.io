@@ -22,10 +22,10 @@ nav_order: 4
 
 <table width="100%">
   <colgroup>
-    <col style="width: 4%;" />
     <col />
-    <col style="width: 4%;" />
+    <col style="width: 48%;" />
     <col />
+    <col style="width: 48%;" />
   </colgroup>
   <tbody>
   <tr>
