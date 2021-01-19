@@ -116,9 +116,9 @@ The team pioneered an innovative approach to improving secure coding skills and 
 
 ![Logo-Vocus](/assets/images/Vocus_Brandmark_RGB_Navy.png){: width="300"}   
 
-**Vocus means business**
+Vocus New Zealand has more than 23 years’ experience connecting New Zealand companies with the best telecommunication solutions. Vocus has invested significantly in infrastructure and has over 4,200km of fibre in the ground which enables the delivery of sophisticated, high-performance network solutions throughout the country. The reach of the network extends internationally across both the Southern Cross and Hawaiki cable systems with an on-net presence throughout Australia.
 
-Vocus New Zealand has more than 23 years’ experience connecting New Zealand companies with the best telecommunication solutions. Vocus has invested significantly in infrastructure and has over 4,200km of fibre in the ground which enables the delivery of sophisticated, high-performance network solutions throughout the country.  The reach of the network extends internationally across both the Sothern Cross and Hawaiki cable systems with an on-net presence throughout Australia. 
+We specialise in delivering solutions that work, by making things better, simpler, easier. 
 
 ---------------------
 
