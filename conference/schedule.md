@@ -52,7 +52,7 @@ nav_order: 4
   <tr>
     <td style="width: 4%; vertical-align: top; text-align: right;">10:00</td>
     <td style="background-color: #EEE; text-align: center;">
-      <strong>Use the OWASP Threat Modeling Playbook to Improve Your Product Security</strong> (Remote Presentation)
+      <strong>Use the OWASP Threat Modeling Playbook to Improve Your Product Security</strong><br />(Remote Presentation)
       <br />
       <em>Sebastien (Seba) Deleersnyder - Toreon</em>
     </td>
@@ -126,7 +126,7 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>OWASP SAMM: Status and Roadmap</strong> (Remote Presentation)
+      <strong>OWASP SAMM: Status and Roadmap</strong><br />(Remote Presentation)
       <br />
       <em>TBC - OWASP SAMM Project Team</em>
     </td>
@@ -150,7 +150,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Anatomy of Automated Account Takeovers</strong> (Remote Presentation)
+      <strong>Anatomy of Automated Account Takeovers</strong><br />(Remote Presentation)
       <br />
       <em>Tal Eliyahu and Begum Calguner</em>
     </td>
@@ -238,7 +238,7 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">10:55</td>
     <td style="background-color: #EEE; text-align: center;">
-      <strong>How to Run an AppSec Program in an Agile Environment</strong> (Remote Presentation)
+      <strong>How to Run an AppSec Program in an Agile Environment</strong><br />(Remote Presentation)
       <br />
       <em>Mert Can Co&scedil;kuner</em>
     </td>
@@ -266,6 +266,9 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">11:55</td>
     <td style="background-color: #EEE; text-align: center">
+      <strong>The Five Stages of Security Grief: A Humorous Look at How We Can Help People Navigate the Realities of Information Security </strong>
+      <br />
+      <em>Phil Howie - Onwardly</em>
     </td>
   </tr>
   <tr>
@@ -281,7 +284,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Building Better Security for Your API Platform using Azure API Management</strong> (Remote Presentation)
+      <strong>Building Better Security for Your API Platform using Azure API Management</strong><br />(Remote Presentation)
       <br />
       <em>Eldert Grootenboer</em>
     </td>
@@ -289,7 +292,7 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">14:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>Are Your CI/CD Pipelines Secure?</strong> (Remote Presentation)
+      <strong>Are Your CI/CD Pipelines Secure?</strong><br />(Remote Presentation)
       <br />
       <em>Angel Rivera</em>
     </td>
@@ -313,7 +316,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Service Mess to Service Mesh</strong> (Remote Presentation)
+      <strong>Service Mess to Service Mesh</strong><br />(Remote Presentation)
       <br />
       <em>Rob Richardson</em>
     </td>
