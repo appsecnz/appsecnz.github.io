@@ -23,9 +23,9 @@ nav_order: 4
 <table width="100%">
   <colgroup>
     <col style="width: 4%;" />
-    <col style="width: 46%;" />
+    <col />
     <col style="width: 4%;" />
-    <col style="width: 46%;" />
+    <col />
   </colgroup>
   <tbody>
   <tr>
@@ -156,6 +156,13 @@ nav_order: 4
 ## Saturday, 13 February 2021
 
 <table width="100%">
+  <colgroup>
+    <col style="width: 4%;" />
+    <col style="width: 46%;" />
+    <col style="width: 4%;" />
+    <col style="width: 46%;" />
+  </colgroup>
+  <tbody>
   <tr>
     <td style="vertical-align: top; text-align: right;">08:00</td>
     <td colspan="3" style="background-color: #8595C2; text-align: center;">
@@ -170,13 +177,13 @@ nav_order: 4
     </td>
   </tr>
   <tr>
-    <td style="width: 4%; vertical-align: top; text-align: right;">&nbsp;</td>
-    <td style="background-color: #B9C2DC; text-align: center; width: 44%; font-weight: bold;">
+    <td style="vertical-align: top; text-align: right;">&nbsp;</td>
+    <td style="background-color: #B9C2DC; text-align: center; font-weight: bold;">
       Upstairs Auditorium (Room 115)
       <br />
       Track One
     </td>
-    <td style="width: 4%; vertical-align: top; text-align: right;">&nbsp;</td>
+    <td style="vertical-align: top; text-align: right;">&nbsp;</td>
     <td style="background-color: #B9C2DC; text-align: center; font-weight: bold;">
       Downstairs Auditorium (Room 098)
       <br />
@@ -283,4 +290,5 @@ nav_order: 4
       <strong>Wrap Up - Closing Remarks, Recognition, Prize Giving</strong>
     </td>
   </tr>
+  </tbody>
 </table>
