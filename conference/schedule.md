@@ -21,13 +21,6 @@ nav_order: 4
 ## Friday, 12 February 2021
 
 <table width="100%">
-  <colgroup>
-    <col />
-    <col style="width: 48%;" />
-    <col />
-    <col style="width: 48%;" />
-  </colgroup>
-  <tbody>
   <tr>
     <td style="vertical-align: top; text-align: right;">08:00</td>
     <td colspan="3" style="background-color: #8595C2; text-align: center;">
@@ -45,55 +38,71 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">&nbsp;</td>
     <td style="background-color: #B9C2DC; text-align: center; font-weight: bold;">
-      Upstairs Auditorium (Room 115)
+      Upstairs&nbsp;Auditorium (Room&nbsp;115)
       <br />
       Track One
     </td>
     <td style="vertical-align: top; text-align: right;">&nbsp;</td>
     <td style="background-color: #B9C2DC; text-align: center; font-weight: bold;">
-      Downstairs Auditorium (Room 098)
+      Downstairs&nbsp;Auditorium (Room&nbsp;098)
       <br />
       Track Two
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top; text-align: right;">10:00</td>
+    <td style="width: 4%; vertical-align: top; text-align: right;">10:00</td>
     <td style="background-color: #EEE; text-align: center;">
-      &nbsp;
+      <strong>Use the OWASP Threat Modeling Playbook to Improve Your Product Security</strong> (Remote Presentation)
+      <br />
+      <em>Sebastien (Seba) Deleersnyder - Toreon</em>
     </td>
-    <td style="vertical-align: top; text-align: right;">10:00</td>
+    <td style="width: 4%; vertical-align: top; text-align: right;">10:00</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
+      <strong>A Hacker's View of DoS Attacks</strong>
+      <br />
+      <em>Dave Robinson - ZX Security</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">10:35</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>"Better than Guessing": The Efficacy and Accuracy of SAST and SCA Tools</strong>
+      <br />
+      <em>Raafey Khan - Datacom</em>
     </td>
     <td style="vertical-align: top; text-align: right;">10:35</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+       <strong>Bug Hunting with Static Analysis Tools</strong>
+      <br />
+      <em>Moss Lilley</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">11:10</td>
     <td style="background-color: #EEE; text-align: center;">
-      &nbsp;
+      <strong>Grow Your Own Security Cha-Cha-Champion</strong>
+      <br />
+      <em>Toni James - SafeStack</em>
     </td>
     <td style="vertical-align: top; text-align: right;">11:10</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
+      <strong>Fuzzing: An Introduction to Fuzzing and How It Relates to App Security</strong>
+      <br />
+      <em>Seth Berger - GitLab</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">11:45</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>DDoS: How can something so cheap be so expensive?</strong>
+      <br />
+      <em>Jerome Van Rooijen - RedShield</em>
     </td>
     <td style="vertical-align: top; text-align: right;">11:45</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>XXE: Why It's Still in the [OWASP] Top 10</strong>
+      <br />
+      <em>Sam Shute - Quantum Security</em>
     </td>
   </tr>
   <tr>
@@ -103,21 +112,29 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center;">
-      &nbsp;
+      <strong>Leveraging OWASP Projects and Tools in Your AppSec Program</strong>
+      <br />
+      <em>John DiLeo - Datacom</em>
     </td>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
+      <strong>Going Above and Beyond</strong>
+      <br />
+      <em>Karan Sharma</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>OWASP SAMM: Status and Roadmap</strong> (Remote Presentation)
+      <br />
+      <em>TBC - OWASP SAMM Project Team</em>
     </td>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Building purpleteam (a Security Regression Testing SaaS): From PoC to Alpha</strong>
+      <br />
+      <em>Kim Carter - BinaryMist</em>
     </td>
   </tr>
   <tr>
@@ -127,21 +144,29 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center;">
-      &nbsp;
+      <strong>Your Browser Wants You to Be Secure</strong>
+      <br />
+      <em>Kirk Jackson - RedShield</em>
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
+      <strong>Anatomy of Automated Account Takeovers</strong> (Remote Presentation)
+      <br />
+      <em>Tal Eliyahu and Begum Calguner</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">16:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Taking a Preventative Human-Led Approach to Software Security and Embedding It into the Developer's DNA</strong>
+      <br />
+      <em>Jaap Karan Singh - Secure Code Warrior</em>
     </td>
     <td style="vertical-align: top; text-align: right;">16:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Payment Gateways: The Most Dangerous Game</strong>
+      <br />
+      <em>Stephen Morgan - Datacom</em>
     </td>
   </tr>
   <tr>
@@ -150,19 +175,11 @@ nav_order: 4
       <strong>Wrap-Up - Day 1</strong>
     </td>
   </tr>
-  </tbody>
 </table>
 
 ## Saturday, 13 February 2021
 
 <table width="100%">
-  <colgroup>
-    <col style="width: 4%;" />
-    <col style="width: 46%;" />
-    <col style="width: 4%;" />
-    <col style="width: 46%;" />
-  </colgroup>
-  <tbody>
   <tr>
     <td style="vertical-align: top; text-align: right;">08:00</td>
     <td colspan="3" style="background-color: #8595C2; text-align: center;">
@@ -191,49 +208,64 @@ nav_order: 4
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top; text-align: right;">09:45</td>
+    <td style="width: 4%; vertical-align: top; text-align: right;">09:45</td>
     <td style="background-color: #EEE; text-align: center;">
-      &nbsp;
+      <strong>The Incident Response Plan that Saved Christmas</strong>
+      <br />
+      <em>Petra Smith - Aura Information Security</em>
     </td>
-    <td style="vertical-align: top; text-align: right;">09:45</td>
+    <td style="width: 4%; vertical-align: top; text-align: right;">09:45</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
+      <strong>An Exploration of the Ethical Issues with Gamification of Information Security Awareness Training</strong>
+      <br />
+      <em>Conor Fitzgerald - Quantum Security</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">10:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Using an Agreed Scale of Business Harm to End Security Arguments</strong>
+      <br />
+      <em>Stephen Coates - Aura Information Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">10:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Blame the Virus</strong>
+      <br />
+      <em>Sera</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">10:55</td>
     <td style="background-color: #EEE; text-align: center;">
-      &nbsp;
+      <strong>How to Run an AppSec Program in an Agile Environment</strong> (Remote Presentation)
+      <br />
+      <em>Mert Can Co&scedil;kuner</em>
     </td>
     <td style="vertical-align: top; text-align: right;">10:55</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
+      <strong>Let's Talk about Mental Well-Being in the Community</strong>
+      <br />
+      <em>Hugh Davenport and Daniel Spector</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;" rowspan="2">11:30</td>
     <td style="background-color: #B9C2DC; text-align: center;" rowspan="2">
-      &nbsp;
+      <strong>Web Apps: Hardening Too Hard?</strong>
+      <br />
+      <em>Nick Lauder - Quantum Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">11:30</td>
     <td style="background-color: #B9C2DC; text-align: center;">
-      &nbsp;
+      <strong>Vulnerability Management 101 with DefectDojo</strong>
+      <br />
+      <em>Rohit Sharma</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">11:55</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
     </td>
   </tr>
   <tr>
@@ -243,21 +275,29 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center;">
-      &nbsp;
+      <strong>Making Your Information Security Policy Useful</strong>
+      <br />
+      <em>Stephen Coates - Aura Information Security</em>
     </td>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
+      <strong>Building Better Security for Your API Platform using Azure API Management</strong> (Remote Presentation)
+      <br />
+      <em>Eldert Grootenboer</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">14:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Are Your CI/CD Pipelines Secure?</strong> (Remote Presentation)
+      <br />
+      <em>Angel Rivera</em>
     </td>
     <td style="vertical-align: top; text-align: right;">14:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Federated Logins with Oauth 2, OpenID Connect, and JWTs</strong>
+      <br />
+      <em>Matt Cotterell - ZX Security</em>
     </td>
   </tr>
   <tr>
@@ -267,21 +307,29 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center;">
-      &nbsp;
+      <strong>Red vs. Blue: Which Grass Is Greener?</strong>
+      <br />
+      <em>Kate Pearce - Trade Me and Chloe Ashford</em>
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
-      &nbsp;
+      <strong>Service Mess to Service Mesh</strong> (Remote Presentation)
+      <br />
+      <em>Rob Richardson</em>
     </td>
   </tr>
   <tr>
     <td style="vertical-align: top; text-align: right;">16:00</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Zero to OSCP</strong>
+      <br />
+      <em>Moss Lilley</em>
     </td>
     <td style="vertical-align: top; text-align: right;">16:00</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      &nbsp;
+      <strong>Camera Obscura</strong>
+      <br />
+      <em>Tom Isaacson</em>
     </td>
   </tr>
   <tr>
@@ -290,5 +338,4 @@ nav_order: 4
       <strong>Wrap Up - Closing Remarks, Recognition, Prize Giving</strong>
     </td>
   </tr>
-  </tbody>
 </table>

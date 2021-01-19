@@ -18,12 +18,19 @@ nav_order: 5
 
 ### We're always looking for a few good women and men, to assist with conference preparations and to help things go smoothly during the event.
 
-Please fill out our **Volunteer Information Form** (link coming soon), if you'd like to help out.
+Please fill out our **[Volunteer Information Form](https://forms.gle/rxorcGgThCsV7k8EA)**, if you'd like to help out.
 
-For more information, feel free to [contact us](mailto:conference@appsec.org.nz).
+For more information, feel free to [contact us](mailto:info@appsec.org.nz).
 
 ## Conference Committee
 
 * John DiLeo - Conference Chair, OWASP New Zealand Chapter Leader (Auckland)
 * Prof. Lech Janczewski - Conference Host Liaison, on-site Health & Safety contact - Associate Professor, University of Auckland School of Business
 * Kirk Jackson - Diversity Fund Committee Chair, Video post-production, OWASP New Zealand Chapter Leader (Wellington)
+* Will Howard - Sponsor Relations Team Lead
+* Anneke Smitheram - Volunteer Coordinator
+* Ramandeep Kaur - Pre-Conference Reception Host
+* Paul Howarth - Registration Manager
+* Nick LeMouton
+* Jatinder Oberoi
+* Ben Seymour
