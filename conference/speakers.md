@@ -127,7 +127,7 @@ Remote Presentation
 
 #### Abstract
 
-This session will show how we can use Azure API Management to leverage better security for your APIs. Expect everything around hardening security of your services, with demo’s, best practices, and tips and tricks from the field.
+This session will show how we can use Azure API Management to leverage better security for your APIs. Expect everything around hardening security of your services, with demos, best practices, and tips and tricks from the field.
 
 #### Description
 
@@ -179,7 +179,7 @@ There is a lot of concern about having cameras installed everywhere and governme
 
 #### Speaker Biography
 
-**Tom Isaacson** has been an embedded developer for 20 years. He hasn’t bothered learning web development because he still thinks the internet is a passing fad, but he's been forced to think about security after his employer added networking to their products.
+**Tom Isaacson** has been an embedded developer for 20 years. He hasn't bothered learning web development because he still thinks the internet is a passing fad, but he's been forced to think about security after his employer added networking to their products.
 
 -----------
 
@@ -357,7 +357,7 @@ Incident response preparedness save time, money, stress...and maybe lives. This 
 
 It's Christmas Day. You're floating serenely in the coral sea surrounding a real live tropical desert island...when, suddenly, you're having a too-close encounter with deadly wildlife. What do you do? Just follow your Incident Response Plan, of course!&dagger;
 
-Don't have an Incident Response Plan? No worries. I'll take you through how to make a plan to help you navigate the shark-infested waters of a security incident with less stress, and get back to business — or living your best tropical mermaid life — quicker.
+Don't have an Incident Response Plan? No worries. I'll take you through how to make a plan to help you navigate the shark-infested waters of a security incident with less stress, and get back to business - or living your best tropical mermaid life - quicker.
 
 If your team's worst-case scenario plan is to hope it never happens, this talk is for you. I'll show you why you should prepare for the worst, and how anyone can make a plan that works.
 
@@ -461,13 +461,13 @@ Wherever you find yourself, we often find ourselves looking at the other "side" 
 
 #### Description
 
-There are many different parts to be played in security. It's easy to find yourself thinking someone else has it "easier" when they've really got their own set of challenges. The two of us went from the outside as Pen Tester & Auditor, to the inside as Head of Security and Assurance Lead - securing one of New Zealand’s biggest online companies. We learned a whole lot along the way, about communication, motivation, technology, business, and ourselves.
+There are many different parts to be played in security. It's easy to find yourself thinking someone else has it "easier" when they've really got their own set of challenges. The two of us went from the outside as Pen Tester and Auditor, to the inside as Head of Security and Assurance Lead - securing one of New Zealand's biggest online companies. We learned a whole lot along the way, about communication, motivation, technology, business, and ourselves.
 
 We'll have stories from the outside, lessons from after, and tips for success. We'll pass some of what we've learned, and hopefully make you understand, and empathise with, those you interact with just a little bit better.
 
 #### Speaker Biographies
 
-**Kate Pearce -** Kate is Head of Security at Trade Me (which you may have heard of), where the security team runs to the mantra "safety at speed." Previously, she was a professional computer hacker (pentester) and has broken into everything from cars, to cellphone networks, to websites (which you may also have heard of - but she can’t name!).
+**Kate Pearce -** Kate is Head of Security at Trade Me (which you may have heard of), where the security team runs to the mantra "safety at speed." Previously, she was a professional computer hacker (pentester) and has broken into everything from cars, to cellphone networks, to websites (which you may also have heard of - but she can't name!).
 
 Kate has researched and presented on a bunch of other topics, including Multipath TCP, HTTP/2 & QUIC, Defensive Gaslighting, She also wears many other hats, such as being on the [NZITF](https://nzitf.org.nz) board and [Internet NZ](https://internetnz.nz) council.
 
@@ -487,7 +487,7 @@ In our quest to secure all the things, do we jump in too quickly? We'll use **Is
 
 In our quest to secure all the things, do we jump in too quickly? We'll use **Istio** and **Linkerd** as example service meshes, and look at the features we would expect from a service mesh. We'll dive into the day-one experience with both **Istio** and **Linkerd**, and some advanced scenarios of using the service mesh. 
 
-We’ll compare this to border security with an app gateway, and compare and contrast the security features, complexities, and implementation costs. You'll leave with a concrete understanding of the benefits and tradeoffs you get when you pull in a service mesh, and be ready to justify the investment.
+We'll compare this to border security with an app gateway, and compare and contrast the security features, complexities, and implementation costs. You'll leave with a concrete understanding of the benefits and tradeoffs you get when you pull in a service mesh, and be ready to justify the investment.
 
 #### Speaker Biography
 
@@ -647,7 +647,7 @@ The makers of Chrome, Firefox, Internet Explorer, and other browsers are constan
 
 Over the past 10 years there have been numerous HTTP headers, sandboxing and protection mechanisms added to browsers - so many that it's hard to keep up! It's possible that the best defences you learned in 2011 have been bettered by the new stuff rolling out each month in 2021.
 
-In this talk you'll learn about the old, with a focus on the new and shiny. We will focus on those protections that are available now, and proven by others to work â€“ and have a quick point towards future security enhancements that are coming in the future.
+In this talk you'll learn about the old, with a focus on the new and shiny. We will focus on those protections that are available now, and proven by others to work - and have a quick point towards future security enhancements that are coming in the future.
 
 #### Speaker Biography
 
