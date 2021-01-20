@@ -314,7 +314,7 @@ nav_order: 4
     <td style="background-color: #EEE; text-align: center;">
       <strong>Red vs. Blue: Which Grass Is Greener?</strong>
       <br />
-      <em>Kate Pearce - Trade Me and Chloe Ashford</em>
+      <em>Kate Pearce and Chloe Ashford - Trade Me</em>
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
