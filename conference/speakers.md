@@ -18,6 +18,8 @@ nav_order: 3
 
 Presentations are listed on this page in alphabetical order by title.
 
+-----------
+
 ### Anatomy of Automated Account Takeovers   
 *Tal Eliyahu and Begum Calguner*   
 Remote Presentation
@@ -296,7 +298,7 @@ Growing your own security champion is a lot like growing your own plant. It take
 
 **Toni James** is a security consultant, software engineer, conference organiser, committee member, speaker, and diversity and inclusion advocate.
 
-She’s an avid snowboarder and mountain biker with her human and fur family in the Korowai mountains of New Zealand. You can find her running the Christchurch Hacker Conference, attending ISIG and Canterbury Tech meetups, or chatting with the Hacker Book Club crew. Twitter: [@_tonijames](http://twitter.com/_tonijames)
+She's an avid snowboarder and mountain biker with her human and fur family in the Korowai mountains of New Zealand. You can find her running the Christchurch Hacker Conference, attending ISIG and Canterbury Tech meetups, or chatting with the Hacker Book Club crew. Twitter: [@_tonijames](http://twitter.com/_tonijames)
 
 -----------
 
