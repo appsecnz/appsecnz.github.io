@@ -321,7 +321,7 @@ Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Villa
 
 ### How to Run an AppSec Program in an Agile Environment   
 *Mert Can Co&scedil;kuner - Trendyol*   
-Remote Presentation
+Remote Presentation   
 
 #### Abstract
 
@@ -516,7 +516,7 @@ Jaap will demonstrate the changes the industry has faced in the journey from Wat
 -----------
 
 ### Use the OWASP Threat Modeling Playbook to Improve Your Product Security   
-*Sebastien (Seba) Deleersnyder - Toreon*
+*Sebastien (Seba) Deleersnyder - Toreon*   
 Remote Presentation   
 
 #### Abstract
