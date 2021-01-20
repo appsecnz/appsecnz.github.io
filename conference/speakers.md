@@ -320,7 +320,7 @@ Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Villa
 -----------
 
 ### How to Run an AppSec Program in an Agile Environment   
-*Mert Can Co&scedil;kuner - Trendyol*   
+<em>Mert Can Co&scedil;kuner - Trendyol*</em><br />   
 Remote Presentation   
 
 #### Abstract
