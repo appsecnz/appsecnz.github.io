@@ -345,7 +345,9 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 
 #### Speaker Biography
 
-**Mert Can Co&scedil;kuner, MSc** is a Senior Security Engineer at Trendyol. He publishes a security blog at [mcoskuner.medium.com](https://mcoskuner.medium.com) and has spoken at various high end security events about red team, threat intelligence and malware analysis.
+<p>
+  <strong>Mert Can Co&scedil;kuner, MSc</strong> is a Senior Security Engineer at Trendyol. He publishes a security blog at <a href="https://mcoskuner.medium.com" target="_blank">mcoskuner.medium.com</a> and has spoken at various high end security events about red team, threat intelligence and malware analysis.
+</p>
 
 -----------
 
