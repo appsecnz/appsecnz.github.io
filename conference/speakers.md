@@ -69,7 +69,7 @@ You know that you should automate AppSec testing in your pipeline. At the very l
 
 #### Description
 
-The OWASP Benchmark Project is a Java test suite designed to evaluate the accuracy, coverage, and speed of automated software vulnerability detection tools. To enhance the picture the Benchmark provides, we’ve used open source and commercial Static Application Security Testing (SAST) as well as Software Composition Analysis (SCA) tools to scan a number of our own applications.
+The OWASP Benchmark Project is a Java test suite designed to evaluate the accuracy, coverage, and speed of automated software vulnerability detection tools. To enhance the picture the Benchmark provides, we've used open source and commercial Static Application Security Testing (SAST) as well as Software Composition Analysis (SCA) tools to scan a number of our own applications.
 
 In this talk, we'll talk through: How SAST and SCA operate, and the various scanning techniques used by these tools How commercial SAST vendors fared against the OWASP benchmark, and whether the benchmark false positive rate results were in-line with the results of scanning our own apps How various commercial SCA options compare to the open source OWASP Dependency Check tool What value (beyond scan output) paid tools provide compared to their open-source counterparts.
 
@@ -77,7 +77,7 @@ In this talk, we'll talk through: How SAST and SCA operate, and the various scan
 
 **Raafey Khan -** An eternal security optimist (forgive him, he is young), Raafey has been helping organisations in NZ and the UK understand their cyber risk and why they should at-least try to embed security into their development processes.
 
-As a founding member of Datacom’s AppSec division, Raafey will attempt to do more of the same, with a real focus on automating everything and making security stupidly simple.
+As a founding member of Datacom's AppSec division, Raafey will attempt to do more of the same, with a real focus on automating everything and making security stupidly simple.
 
 -----------
 
@@ -283,7 +283,7 @@ For each attack, we'll look at: the vulnerability that's being exploited; real-w
 
 #### Speaker Biography
 
-**Karan Sharma** works as a pen tester for one of the leading telcos in New Zealand. He's been in the security industry for more than ten years. He has a true passion for breaking and fixing web and mobile apps. He enjoys doing web/mobile application security research in his free time and loves sharing his knowledge with others. If you want to shout things at him, he’s @R00T on Twitter.
+**Karan Sharma** works as a pen tester for one of the leading telcos in New Zealand. He's been in the security industry for more than ten years. He has a true passion for breaking and fixing web and mobile apps. He enjoys doing web/mobile application security research in his free time and loves sharing his knowledge with others. If you want to shout things at him, he's @R00T on Twitter.
 
 -----------
 
@@ -630,7 +630,7 @@ This talk will cover the basics of what XXEs are, how to exploit them, and impor
 
 **Sam Shute** is a Principal Security Consultant with Quantum Security in Wellington. His day-to-day work revolves mostly around running Quantum's technical consulting team, but occasionally he gets out of the office to compromise applications and networks all around New Zealand.
 
-Sam's other area’s of interest include network penetration testing, 3D printing, and lock picking.
+Sam's other areas of interest include network penetration testing, 3D printing, and lock picking.
 
 -----------
 
@@ -653,7 +653,7 @@ In this talk you'll learn about the old, with a focus on the new and shiny. We w
 
 **Kirk Jackson** works at RedShield, leads the OWASP Wellington Meetup, and has previously helped organise the annual OWASP NZ Day in Auckland.
 
-Kirk worked as a web developer before switching to the defence team - setting up Xero’s security practice, working as a pen tester, and in defence roles at several companies.
+Kirk worked as a web developer before switching to the defence team - setting up Xero's security practice, working as a pen tester, and in defence roles at several companies.
 
 -----------
 
