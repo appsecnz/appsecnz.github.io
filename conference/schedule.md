@@ -292,13 +292,13 @@ nav_order: 4
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top; text-align: right;">14:20</td>
+    <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
       <strong>Are Your CI/CD Pipelines Secure?</strong><br />(Remote Presentation)
       <br />
       <em>Angel Rivera</em>
     </td>
-    <td style="vertical-align: top; text-align: right;">14:20</td>
+    <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
       <strong>Federated Logins with Oauth 2, OpenID Connect, and JWTs</strong>
       <br />
