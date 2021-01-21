@@ -118,7 +118,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Going Above and Beyond</strong>
+      <strong>[Going Above and Beyond](./speakers.md#going-above-and-beyond)</strong>
       <br />
       <em>Karan Sharma</em>
     </td>
