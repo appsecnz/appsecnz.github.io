@@ -56,6 +56,18 @@ Aura was awarded ‘Best Security Company’ at the Information Security (iSANZ)
 
 ---------------------
 
+#### [DEFEND](https://www.defend.co.nz/){: target="_blank" rel="sponsored"}
+
+![Logo - Defend](/assets/images/Logo-Defend.png){: height="220"}   
+
+DEFEND is an award winning company that has proven to support and assist many of New Zealand organisations of National Significance.
+
+We focus on a number of verticals that includes Government, Enterprise, Commercial, Health, Utilities, Manufacturing, Service Providers along with a deep dive into IT/OT convergance to protect critical infrastructure and services.
+
+We are based in Auckland, Wellington, and the Midland Regions supporting New Zealand, as well as International organisations.
+
+---------------------
+
 #### [Insomnia Security Specialists](https://www.insomniasec.com){: target="_blank" rel="sponsored"}
 
 ![Logo - Insomnia Security Specialists](/assets/images/Logo-Insomnia_Security_Specialists-125.png){: width="300"}   
