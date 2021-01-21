@@ -118,7 +118,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>[Going Above and Beyond](./speakers.md#going-above-and-beyond)</strong>
+      <strong><a href="https://appsec.org.nz/conference/speakers.html#going-above-and-beyond" target="_blank">Going Above and Beyond</a></strong>
       <br />
       <em>Karan Sharma</em>
     </td>
