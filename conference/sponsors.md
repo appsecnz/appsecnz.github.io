@@ -90,21 +90,11 @@ Specialising in offensive security testing services, our teams regularly attend 
 
 ![Logo - MYOB](/assets/images/MYOB_Logo.png){: width="300"}   
 
-**Why MYOB? Because you didn't start a business to do the books.**
+MYOB is a leading business management platform with a core purpose of helping more businesses in New Zealand and Australia start, survive and succeed.
 
-We're not here to tell you what success should be. Maybe you want a day off every week, or more time to go surfing. Maybe you want a worldwide empire. Whatever you want for your business - we can help you achieve it.
+At the heart of our business is a customer base of 1.2 million businesses and a network of 40,000 partner accountants and bookkeepers, for whom MYOB delivers intelligent end-to-end business and accounting solutions.
 
-**What do we do?**
-
-We offer business management solutions. More than 50 of them, to be exact. Everything to help you with accounting, payroll, payments, retail point of sale, CRM and professional tax solutions - and more.
-
-**We grow with you**
-
-Once you start using our products, you never have to stop. You'll never outgrow us: whether you're a start-up in a garage, or a manufacturing powerhouse. We have solutions for businesses of every size, shape and sector.
-
-**Clients drive our world**
-
-We're on the phones every single day to provide support, and we have more than 40,000 advisors (bookkeepers and accountants) to help you out.
+MYOB offers solutions across four key segments: Small and Medium Enterprises (SME), Enterprise, Financial Services and Practice. For more information visit myob.com.
 
 ---------------------
 
