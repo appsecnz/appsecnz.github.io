@@ -60,9 +60,15 @@ Aura was awarded ‘Best Security Company’ at the Information Security (iSANZ)
 
 ![Logo - Defend](/assets/images/Logo-Defend.png){: height="220"}   
 
-DEFEND is an award winning company that has proven to support and assist many of New Zealand organisations of National Significance.
+DEFEND/ATTACK are a proven and award winning cybersecurity company supporting both New Zealand and Global Organisations of National Significance.
 
-We focus on a number of verticals that includes Government, Enterprise, Commercial, Health, Utilities, Manufacturing, Service Providers along with a deep dive into IT/OT convergance to protect critical infrastructure and services.
+We focus on a number of verticals that includes Government, Enterprise, Commercial, Health, Utilities, Manufacturing, Service Providers along with a deep dive into IT/OT convergence to protect critical infrastructure and services that keep our country and customers operating.
+
+ATTACK is part of the DEFEND Group of companies specialised in the delivery of a holistic suite of cybersecurity services to customers, ranging across assessment, application design, secure code, build, test and proactively secure & manage.
+
+ATTACK delivers external, independent technical risk assurance and provides a full range of specialised security testing to New Zealand companies and organisations with a global reach.
+
+ATTACK is dedicated to provide meaningful remediation advice with the focus on implementing mitigations and improving processes with our customers to enable faster business growth and speed to market.
 
 We are based in Auckland, Wellington, and the Midland Regions supporting New Zealand, as well as International organisations.
 
