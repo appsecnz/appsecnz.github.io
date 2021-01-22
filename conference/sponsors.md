@@ -46,7 +46,7 @@ At Quantum we offer a wide array of services, from technical penetration testing
 
 #### [ATTACK (A DEFEND Group Company)](https://www.attack.co.nz/){: target="_blank" rel="sponsored"}
 
-![Logo - ATTACK](/assets/images/Logo-Attack.png){: width="300"}   
+![Logo - ATTACK](/assets/images/Logo-Attack.svg){: width="300"}   
 
 DEFEND/ATTACK are a proven and award winning cybersecurity company supporting both New Zealand and Global Organisations of National Significance.
 
