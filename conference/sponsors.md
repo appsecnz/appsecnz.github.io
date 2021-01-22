@@ -44,21 +44,9 @@ At Quantum we offer a wide array of services, from technical penetration testing
 
 ### Gold Sponsors
 
-#### [Aura Information Security](https://www.aurainfosec.com/){: target="_blank" rel="sponsored"}
+#### [ATTACK (A DEFEND Group Company)](https://www.attack.co.nz/){: target="_blank" rel="sponsored"}
 
-![Logo - Aura Information Security](/assets/images/Logo-Aura_Information_Security-125.jpg){: width="300"}   
-
-Aura Information Security is a leading provider of information security consulting services to corporates and governments in Australia and New Zealand.
-
-Aura’s focus is to provide the very best independent security advice and support to businesses, so that their digital world is more secure, reliable and resilient.  
-
-Aura was awarded ‘Best Security Company’ at the Information Security (iSANZ) awards in two consecutive years, 2017 and 2018. 
-
----------------------
-
-#### [DEFEND](https://www.defend.co.nz/){: target="_blank" rel="sponsored"}
-
-![Logo - Defend](/assets/images/Logo-Defend.png){: height="220"}   
+![Logo - ATTACK](/assets/images/Logo-Attack.png){: height="220"}   
 
 DEFEND/ATTACK are a proven and award winning cybersecurity company supporting both New Zealand and Global Organisations of National Significance.
 
@@ -71,6 +59,18 @@ ATTACK delivers external, independent technical risk assurance and provides a fu
 ATTACK is dedicated to provide meaningful remediation advice with the focus on implementing mitigations and improving processes with our customers to enable faster business growth and speed to market.
 
 We are based in Auckland, Wellington, and the Midland Regions supporting New Zealand, as well as International organisations.
+
+---------------------
+
+#### [Aura Information Security](https://www.aurainfosec.com/){: target="_blank" rel="sponsored"}
+
+![Logo - Aura Information Security](/assets/images/Logo-Aura_Information_Security-125.jpg){: width="300"}   
+
+Aura Information Security is a leading provider of information security consulting services to corporates and governments in Australia and New Zealand.
+
+Aura’s focus is to provide the very best independent security advice and support to businesses, so that their digital world is more secure, reliable and resilient.  
+
+Aura was awarded ‘Best Security Company’ at the Information Security (iSANZ) awards in two consecutive years, 2017 and 2018. 
 
 ---------------------
 
