@@ -133,8 +133,7 @@ Some of the options available:
 
 ## Conference Venue
 
-|:---:|:---:|
-| ![Owen G. Glenn Building, Univ. of Auckland School of Business](/assets/images/Photo-AU_Business_School_OGGB.jpg) | ![Lecture Theatre during OWASP NZ Day](/assets/images/Photo-OWASP_NZ_Day_Lecture_Theatre.jpg) |   
+![Owen G. Glenn Building, Univ. of Auckland School of Business](/assets/images/Photos-OGGB_Exterior_Interior.png)
 
 **Location:**  
     The University of Auckland School of Business   
@@ -155,9 +154,9 @@ Some of the options available:
 
 For more information about our Premier Sponsors, please visit our [About Our Sponsors](sponsors.md) page.
 
-### Conference Host
+### Conference Hosts
 
-![University of Auckland Business School](/assets/images/Logo-UofA_Business_School.png)   
+![Logos-Conference Hosts](/assets/images/Logos-Conference_Hosts.png)   
 
 ### Platinum Sponsors
 
