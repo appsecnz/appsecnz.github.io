@@ -27,7 +27,7 @@ Software security vulnerabilities are big business for potential attackers. Iden
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZDT), each day
 
-**Instructor:** Laura Bell, [SafeStack](https://safestack.io)   
+**Instructors:** Laura Bell and Toni James, [SafeStack Academy](https://academy.safestack.io/)   
 
 **Course Fee:** NZ $1,150.00 (plus GST and ticketing fees)
 
@@ -59,10 +59,17 @@ In addition to these vulnerabilities, students will gain skills and experience w
 
 This course is designed to be hands on and interactive. Lecture material is combined with a range of custom built labs to test students and let them experiment with the vulnerabilities in action.
 
-## Your Instructor   
+## Your Instructors   
 
 **Laura Bell**
 
 With almost a decade of experience in software development and information security, Laura Bell specializes in bringing security survival skills, practices, and culture into fast paced organisations of every shape and size. An experienced conference speaker, trainer, and regular panel member, Laura has spoken at a range of events such as BlackHat USA, Velocity, OSCON, Kiwicon, Linux Conf AU, and Microsoft TechEd on the subjects of privacy, covert communications, agile security, and security mindset. She is also the co-author of Agile Application Security, published my O’Reilly Media, and a regular writer for a range of blogs and magazines on security issues.
 
 Laura is the founder of [SafeStack](https://safestack.io), a specialist security training, development, and consultancy firm. Twitter: [@lady_nerd](https://www.twitter.com/lady_nerd)
+
+**Toni James**
+
+Toni is a security consultant, software engineer, conference organiser, committee member, speaker, and diversity and inclusion advocate.
+
+She's an avid snowboarder and mountain biker with her human and fur family in the Korowai mountains of New Zealand. You can find her running the Christchurch Hacker Conference, attending ISIG and Canterbury Tech meetups, or chatting with the Hacker Book Club crew. Twitter: [@_tonijames](http://twitter.com/_tonijames)
+
