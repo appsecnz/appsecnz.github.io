@@ -427,7 +427,7 @@ Trust me! Your information security policies suck. Nobody - even your auditor - 
 -----------
 
 ### OWASP SAMM: Status and Roadmap   
-*OWASP SAMM Project Team*
+*John Ellingsworth - OWASP SAMM Project*
 
 #### Abstract
 
@@ -443,7 +443,9 @@ Our new SAMM project "CI/CD" pipeline allows us to iterate much faster. We plan 
 
 #### Speaker Biography
 
-Speaker TBC
+**John Ellingsworth** is a security principal at a Fortune 1000 company where he helps software development teams build and deliver secure enterprise solutions. When not delivering secure software solutions, he can be found hanging out with his family, often outdoors, and probably scaling mountains. 
+
+John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project. He contributed to the latest SAMM version (2.0) as a co-author, and has delivered SAMM training at a number of application security conferences.
 
 -----------
 

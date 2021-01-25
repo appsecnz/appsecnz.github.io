@@ -128,7 +128,7 @@ nav_order: 4
     <td style="background-color: #B9C2DC; text-align: center">
       <strong>OWASP SAMM: Status and Roadmap</strong><br />(Remote Presentation)
       <br />
-      <em>TBC - OWASP SAMM Project Team</em>
+      <em>John Ellingsworth - OWASP SAMM Project</em>
     </td>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">
