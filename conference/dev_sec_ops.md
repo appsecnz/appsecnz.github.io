@@ -7,7 +7,7 @@ grand_parent: Home
 nav_order: 2
 ---
 
-[![Web Banner](/assets/images/Event_Banner_Graphic.png)](index.md)   
+[![Web Banner](/assets/images/Event_Banner_Graphic.png)](/conference/)   
 [Back to Pre-Conference Training Page](training.md)
 {: style="text-align: right; font-size: small;" }   
 [Back to Conference Home Page](index.md)

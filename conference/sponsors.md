@@ -201,13 +201,13 @@ SEQA ensures the security needs across a range of industries including; governme
 
 #### [Black Hills Information Security](https://www.blackhillsinfosec.com/){: target="_blank" rel="sponsored"}
 
-![Logo-BHIS](/assets/images/Logo-BHIS-Reduced.png)   
+![Logo-BHIS](/assets/images/Logo-BHIS-Reduced.png) 
 
 Black Hills Information Security is a consulting and services company specializing in penetration testing, red teaming, threat hunting, incident response and purple teaming. We share our knowledge on what we know and the tactics, tools, and procedures we use in our engagements to help better the information security community. We host regular free webcasts, workshops, blogs, podcasts, training sessions, and created the Backdoors & Breaches incident response card game to help the world be a safer place. 
 
 #### [SafeStack Academy](https://academy.safestack.io){: target="_blank" rel="sponsored"}
 
-![Logo-SafeStack Academy](/assets/images/Logo-Safestack_Academy.png)
+![Logo-SafeStack Academy](/assets/images/Logo-Safestack_Academy.png){: width="250"}
 
 SafeStack Academy is the online training platform brought to you by security experts SafeStack.
 
