@@ -217,7 +217,7 @@ Gamification is the application of game-design elements and game principles in n
 -----------
 
 ### Federated Logins with OAuth 2, OpenID Connect, and JWTs   
-*Matt Cotterell - ZX Security*
+*Matt (TC) Cotterell - ZX Security*
 
 #### Abstract
 

@@ -302,7 +302,7 @@ nav_order: 4
     <td style="background-color: #B9C2DC; text-align: center">
       <strong>Federated Logins with Oauth 2, OpenID Connect, and JWTs</strong>
       <br />
-      <em>Matt Cotterell - ZX Security</em>
+      <em>Matt (TC) Cotterell - ZX Security</em>
     </td>
   </tr>
   <tr>
