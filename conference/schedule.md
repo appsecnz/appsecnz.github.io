@@ -7,7 +7,7 @@ grand_parent: Home
 nav_order: 4
 ---
 
-[![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)](index.md)
+[![Web Banner](/assets/images/Event_Banner_Graphic.png)](index.md)   
 
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
@@ -82,7 +82,7 @@ nav_order: 4
     <td style="background-color: #EEE; text-align: center;">
       <strong>Grow Your Own Security Cha-Cha-Champion</strong>
       <br />
-      <em>Toni James - SafeStack</em>
+      <em>Toni James - SafeStack Academy</em>
     </td>
     <td style="vertical-align: top; text-align: right;">11:10</td>
     <td style="background-color: #EEE; text-align: center">
@@ -262,7 +262,7 @@ nav_order: 4
     <td style="background-color: #B9C2DC; text-align: center;">
       <strong>Vulnerability Management 101 with DefectDojo</strong>
       <br />
-      <em>Rohit Sharma</em>
+      <em>Rohit Sharma - Medical IT Advisors</em>
     </td>
   </tr>
   <tr>
@@ -288,7 +288,7 @@ nav_order: 4
     <td style="background-color: #EEE; text-align: center">
       <strong>Building Better Security for Your API Platform using Azure API Management</strong><br />(Remote Presentation)
       <br />
-      <em>Eldert Grootenboer</em>
+      <em>Eldert Grootenboer - Motion10</em>
     </td>
   </tr>
   <tr>
@@ -296,7 +296,7 @@ nav_order: 4
     <td style="background-color: #B9C2DC; text-align: center">
       <strong>Are Your CI/CD Pipelines Secure?</strong><br />(Remote Presentation)
       <br />
-      <em>Angel Rivera</em>
+      <em>Angel Rivera - CircleCI</em>
     </td>
     <td style="vertical-align: top; text-align: right;">14:25</td>
     <td style="background-color: #B9C2DC; text-align: center">

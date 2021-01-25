@@ -7,13 +7,11 @@ grand_parent: Home
 nav_order: 5
 ---
 
-[![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)](index.md)
-
+[![Web Banner](/assets/images/Event_Banner_Graphic.png)](index.md)   
 [Back to Pre-Conference Training Page](training.md)
-{: style="text-align: right; font-size: small;" }
-
+{: style="text-align: right; font-size: small;" }   
 [Back to Conference Home Page](index.md)
-{: style="text-align: right; font-size: small;" }
+{: style="text-align: right; font-size: small;" }   
 
 # Hacking Modern Desktop Apps: Master the Future of Attack Vectors
 

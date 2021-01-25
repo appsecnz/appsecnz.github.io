@@ -7,7 +7,7 @@ grand_parent: Home
 nav_order: 3
 ---
 
-[![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)](index.md)
+[![Web Banner](/assets/images/Event_Banner_Graphic.png)](index.md)   
 
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
@@ -37,7 +37,7 @@ This presentation outlines the plenary mechanism of automated account takeovers 
 -----------
 
 ### Are Your CI/CD Pipelines Secure?   
-*Angel Rivera*   
+*Angel Rivera - CircleCI*   
 Remote Presentation
 
 #### Abstract
@@ -87,7 +87,7 @@ As a founding member of Datacom’s AppSec division, Raafey will attempt to do m
 -----------
 
 ### Blame the Virus   
-*Sarah Walker (Sera)*
+*Sarah Walker (sera)*
 
 #### Abstract
 
@@ -103,7 +103,7 @@ In this talk we will examine NZ's fantastic example of a blameless incident revi
 
 #### Speaker Biography
 
-**Sarah Walker (Sera)** is a reformed-developer-turned-SRE, currently working at a search solutions company. She has an advanced degree in logic which she primarily uses to win arguments on the Internet. She spends her time yelling at the cloud and hunting 9s, but now she's going to help you make your incident response process better.
+**Sarah Walker (sera)** is a reformed-developer-turned-SRE, currently working at a search solutions company. She has an advanced degree in logic which she primarily uses to win arguments on the Internet. She spends her time yelling at the cloud and hunting 9s, but now she's going to help you make your incident response process better.
 
 Talk to her about cats, coffee, hoodies, fonts, or who is the best pony and why it is Twilight Sparkle.
 
@@ -127,7 +127,7 @@ He's been working at Xero for the last two years learning how to wrangle web app
 -----------
 
 ### Building Better Security for Your API Platform using Azure API Management   
-*Eldert Grootenboer*   
+*Eldert Grootenboer - Motion10*   
 Remote Presentation
 
 #### Abstract
@@ -147,7 +147,7 @@ This is where Azure API Management comes in, where we can create a repository of
 -----------
 
 ### Building purpleteam (a Security Regression Testing SaaS) - From PoC to Alpha   
-*Kim Carter - BinaryMist*
+*Kim Carter (BinaryMist) - purpleteam-labs*
 
 #### Abstract
 
@@ -165,7 +165,7 @@ We will then discuss the next steps for **purpleteam**, and how you can start us
 
 #### Speaker Biography
 
-**Kim Carter -** Technologist / Engineer, Information Security Professional, Entrepreneur and the founder of [BinaryMist Ltd](https://binarymist.io/). OWASP NZ Chapter Leader in Christchurch. Certified Scrum Master. Facilitator, mentor and motivator of cross functional, self managing teams. With a solid 19 years of commercial industry experience across many domains, Kim Carter enjoys teaching others how to apply information security to their Agile processes, bringing the security focus up front where it's the cheapest to implement, increasing profit and reducing costs. Co-founder of Christchurch Hacker Conference (CHCon), International trainer, speaker, published author, and Software Engineering Radio podcast host, focusing on:
+**Kim Carter (BinaryMist) -** Technologist / Engineer, Information Security Professional, Entrepreneur and the founder of [BinaryMist Ltd](https://binarymist.io/). OWASP NZ Chapter Leader in Christchurch. Certified Scrum Master. Facilitator, mentor and motivator of cross functional, self managing teams. With a solid 19 years of commercial industry experience across many domains, Kim Carter enjoys teaching others how to apply information security to their Agile processes, bringing the security focus up front where it's the cheapest to implement, increasing profit and reducing costs. Co-founder of Christchurch Hacker Conference (CHCon), International trainer, speaker, published author, and Software Engineering Radio podcast host, focusing on:
 
 * Software and network architecture;
 * Web development and engineering; and
@@ -293,7 +293,7 @@ For each attack, we'll look at: the vulnerability that's being exploited; real-w
 -----------
 
 ### Grow Your Own Security Cha-Cha-Champion   
-*Toni James - SafeStack*
+*Toni James - SafeStack Academy*
 
 #### Abstract
 
@@ -308,7 +308,7 @@ She's an avid snowboarder and mountain biker with her human and fur family in th
 -----------
 
 ### A Hacker's View of DoS Attacks   
-*Dave Robinson - ZX Security*
+*Dave Robinson (Karit) - ZX Security*
 
 #### Abstract
 
@@ -572,7 +572,7 @@ How can you say you have a risk programme in place for information security with
 -----------
 
 ### Vulnerability Management 101 with OWASP DefectDojo   
-*Rohit Sharma*
+*Rohit Sharma - Medical IT Advisors*
 
 #### Abstract
 

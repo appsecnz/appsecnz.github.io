@@ -7,7 +7,7 @@ has_children: true
 nav_order: 1
 ---
 
-![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)
+[![Web Banner](/assets/images/Event_Banner_Graphic.png)](index.md)   
 
 # AppSec New Zealand Conference 2021
 

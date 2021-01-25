@@ -7,7 +7,7 @@ grand_parent: Home
 nav_order: 7
 ---
 
-[![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)](index.md)
+[![Web Banner](/assets/images/Event_Banner_Graphic.png)](index.md)   
 
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
