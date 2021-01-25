@@ -150,9 +150,9 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Anatomy of Automated Account Takeovers</strong><br />(Remote Presentation)
+      <strong>&nbsp;</strong><br />
       <br />
-      <em>Tal Eliyahu and Begum Calguner</em>
+      <em>&nbsp;</em>
     </td>
   </tr>
   <tr>

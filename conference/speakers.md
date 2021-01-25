@@ -20,22 +20,6 @@ Presentations are listed on this page in alphabetical order by title.
 
 -----------
 
-### Anatomy of Automated Account Takeovers   
-*Tal Eliyahu and Begum Calguner*   
-Remote Presentation
-
-#### Abstract
-
-This presentation outlines the plenary mechanism of automated account takeovers (ATOs), while treating cybercrime as a fully functioning, profit driven business industry. Based on an extensive literature review, the paper analyses the constituent players and components of automated ATO attacks, their implications on the businesses, tech companies and victims, as well as the financial ramifications of the attacks.
-
-#### Speaker Biographies
-
-**Tal Eliyahu** - Tal is an operational security specialist with a proven track record in application and infrastructure vulnerability assessment and policy development holding OSCP, ISO 27001, 22301 and 22035 Certified Lead Auditor, and 27005 Lead Risk Manager certifications. With an academic background in software engineering and career path in various cybersecurity divisions, he has garnered expertise in diverse areas such as network and infrastructure penetration testing, vulnerability assessments, threat modeling at application, system and enterprise level, and providing risk/threat driven solutions.
-
-**Begum Calguner** - Begum likens herself to Nathan Myhrvold, who describes himself 'I just have difficulty describing myself because the sort of things I do are unlikely enough that putting them together is credibility reducing.' She has experience as IT/IS analyst (ISO 27001 standards), in IT project management at enterprise and start up level, IT compliance, UX design and optimization, integration testing, financial analysis and business management addition to her academic background in mechanical engineering and finance.
-
------------
-
 ### Are Your CI/CD Pipelines Secure?   
 *Angel Rivera - CircleCI*   
 Remote Presentation
