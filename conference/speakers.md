@@ -302,18 +302,16 @@ Attackers can find juicy targets in more ways than you would initially think. A 
 
 #### Speaker Biography
 
-**Dave Robinson -** In his time working in various parts of the IT industry, Dave/Karit has developed a skillset that encompasses various disciplines in the information security domain. Dave currently works as a Penetration Tester at ZX Security in Wellington and runs K&amacr;k&amacr;con.
+**Dave Robinson -** In his time working in various parts of the IT industry, Dave/Karit has developed a skillset that encompasses various disciplines in the information security domain. Dave currently works as a Penetration Tester at ZX Security in Wellington and runs Kākācon.
 
-Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Village @ DefCon, BSidesCBR, ChCon, Unrestcon and at numerous local meetups; along with running training at Kiwicon, Syscan, CrikeyCon and TuskCon. He also has a keen interest in aerospace, lock-picking and all things wireless. Twitter: [@nzkarit](https://twitter.com/nzkarit) 
+Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Village @ DefCon, BSidesCBR, ChCon, Unrestcon and at numerous local Meetups; along with running training at Kiwicon, Syscan, CrikeyCon and TuskCon. He also has a keen interest in aerospace, lock-picking and all things wireless. Twitter: [@nzkarit](https://twitter.com/nzkarit) 
 
 -----------
 
 ### How to Run an AppSec Program in an Agile Environment   
-<p>
-  <em>Mert Can Co&scedil;kuner - Trendyol</em>
-  <br />   
-  Remote Presentation   
-</p>
+
+*Mert Can Coşkuner - Trendyol*   
+Remote Presentation   
 
 #### Abstract
 
@@ -334,9 +332,7 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 
 #### Speaker Biography
 
-<p>
-  <strong>Mert Can Co&scedil;kuner, MSc</strong> is a Senior Security Engineer at Trendyol. He publishes a security blog at <a href="https://mcoskuner.medium.com" target="_blank">mcoskuner.medium.com</a> and has spoken at various high end security events about red team, threat intelligence and malware analysis.
-</p>
+**Mert Can Coşkuner, MSc** is a Senior Security Engineer at Trendyol. He publishes a security blog at [mcoskuner.medium.com](https://mcoskuner.medium.com){: target="_blank"} and has spoken at various high end security events about red team, threat intelligence and malware analysis.
 
 -----------
 
@@ -497,7 +493,7 @@ Remote Presentation
 
 #### Abstract
 
-The DevSecOps movement is here to change the game. The lines between AppSec and dev teams are increasingly blurred and more collaborative. Learn how developers can become a powerful piece of the DevSecOps pipeline, while upskilling & becoming an even more sought-after engineer in the process.
+The DevSecOps movement is here to change the game. The lines between AppSec and dev teams are increasingly blurred and more collaborative. Learn how developers can become a powerful piece of the DevSecOps pipeline, while upskilling and becoming an even more sought-after engineer in the process.
 
 #### Description
 
