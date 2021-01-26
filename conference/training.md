@@ -54,7 +54,7 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ### Two-Day, In-Person (Classroom) Classes
 
-* *[Finding and Fixing Web Application Vulnerabilities](secure_coding.md)*, Laura Bell and Toni James (SafeStack Academy) - $1,150
+* ~~*[Finding and Fixing Web Application Vulnerabilities](secure_coding.md)*, Laura Bell and Toni James (SafeStack Academy) - $1,150~~ **CANCELLED**
 
 ### Two-day, Online Classes:
 

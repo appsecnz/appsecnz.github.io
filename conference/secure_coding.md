@@ -17,6 +17,8 @@ nav_order: 1
 
 ## Two-Day Interactive (Classroom) Training - AppSec New Zealand Conference 2021
 
+## UPDATE: Due to an issue with the primary instructor's availability, this class has been cancelled.
+
 ## Abstract
 
 Software security vulnerabilities are big business for potential attackers. Identifying them early and knowing what common pitfalls to avoid can make a big difference to your resilience. This course will help you to understand, identity and avoid common software security vulnerabilities.
