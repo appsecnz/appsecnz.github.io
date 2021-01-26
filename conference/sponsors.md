@@ -183,6 +183,14 @@ Our company vision: "To improve the IT security and safety of our customers and 
 
 ---------------------
 
+#### [Security Initiative (SecInit)](https://security-initiative.co.jp/){: target="_blank" rel="sponsored"}
+
+![Logo-Security Initiative](/assets/images/Logo-Security_Initiative.png){: width="400"}
+
+   
+
+---------------------
+
 #### [SEQA Information Security](https://www.seqa.co.nz/){: target="_blank" rel="sponsored"}
 
 ![Logo-SEQA](/assets/images/Logo-SEQA-150.png){: width="250"}   
