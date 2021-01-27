@@ -44,6 +44,34 @@ Angel's passions are positive disruption, learning, teaching, mentoring but most
 
 -----------
 
+### Authorised Is Not a Yes/No Question   
+*Ben Dechrai - Auth0*   
+Remote Presentation
+
+#### Abstract
+
+Whether you want to identify site admins, or need more fine-grained control, authentication and authorisation are critical aspects to most software.
+
+Let's implement Role-Based Access Control (RBAC) in a live demo, and understand the pros and cons compared to Attribute-Based Access Control (ABAC).
+
+
+#### Description
+
+You're logged in. So is your manager. How does the application make sure that only you and she can access your performance reviews?
+
+Often, we'll add roles to users, and lock functionality to those roles. We might call that Role-Based Access Control (RBAC), but in doing so we would ignore the full power and flexibility it provides.
+
+Authorisation can be so much more nuanced than that. Attribute-Based Access Control (ABAC) goes beyond a simple role taxonomy, opening up a featureful complexity that will excite many an auditor.
+
+In this session, you will gain an understanding of these two access control systems, under which types of situation they are useful, and experience an RBAC implementation during a live demo.
+
+
+#### Speaker Biography
+
+**Ben Dechrai** is a software engineer with a huge passion for developer communities, and has been running grass-roots Meetups and conferences for almost two decades. Coding since the age of seven, he wrote his own identity and access management system for MS-DOS 3.0 and Windows 3.1 at the age of 15. He enjoys helping developers find the joy of experimentation by pushing tools to do things they weren't designed for, or do things that might seem wrong.
+
+-----------
+
 ### "Better than Guessing": The Efficacy and Accuracy of SAST and SCA Tools   
 *Raafey Khan - Datacom*
 

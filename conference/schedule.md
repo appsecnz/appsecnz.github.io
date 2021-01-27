@@ -150,9 +150,9 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>&nbsp;</strong><br />
+      <strong>Authorised Is Not a Yes/No Question</strong><br />
       <br />
-      <em>&nbsp;</em>
+      <em>Ben Dechrai - Auth0</em>
     </td>
   </tr>
   <tr>
