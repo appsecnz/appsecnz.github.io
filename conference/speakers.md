@@ -435,7 +435,8 @@ Trust me! Your information security policies suck. Nobody - even your auditor - 
 -----------
 
 ### OWASP SAMM: Status and Roadmap   
-*John Ellingsworth - OWASP SAMM Project*
+*John Ellingsworth - OWASP SAMM Project*   
+Remote Presentation
 
 #### Abstract
 

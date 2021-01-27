@@ -150,7 +150,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">15:25</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong>Authorised Is Not a Yes/No Question</strong><br />
+      <strong>Authorised Is Not a Yes/No Question</strong><br />(Remote Presentation)
       <br />
       <em>Ben Dechrai - Auth0</em>
     </td>
@@ -158,7 +158,7 @@ nav_order: 4
   <tr>
     <td style="vertical-align: top; text-align: right;">16:20</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong>Taking a Preventative Human-Led Approach to Software Security and Embedding It into the Developer's DNA</strong>
+      <strong>Taking a Preventative Human-Led Approach to Software Security and Embedding It into the Developer's DNA</strong><br />(Remote Presentation)
       <br />
       <em>Jaap Karan Singh - Secure Code Warrior</em>
     </td>
