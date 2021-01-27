@@ -187,7 +187,7 @@ Our company vision: "To improve the IT security and safety of our customers and 
 
 ![Logo-Security Initiative](/assets/images/Logo-Security_Initiative.png){: width="400"}
 
-   
+Security Initiative is a security consulting firm specializing in threat-led penetration testing and application vulnerability assessment for various enterprise environments, including the financial sector based in Japan. SecInit delivers continuous security consulting that's individually tailored to the client, based on the results of penetration tests. Tests are conducted by highly qualified information security experts, following the principle of "Genchi Genbutsu" (collecting facts and data at the actual site of the work or problem). The company also supports and contributes to the local OWASP's community - the company's CEO is a current Chapter Leader in the OWASP Sendai Chapter.   
 
 ---------------------
 
