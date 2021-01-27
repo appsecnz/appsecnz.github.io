@@ -207,11 +207,25 @@ SEQA ensures the security needs across a range of industries including; governme
 
 ### Supporting Sponsors
 
-#### [Black Hills Information Security](https://www.blackhillsinfosec.com/){: target="_blank" rel="sponsored"}
+#### [BinaryMist](https://binarymist.io/){: target="_blank" rel="sponsored"}   
+
+![Logo-BinaryMist](/assets/images/Logo-Binary_Mist.png){: width="250"}
+
+Founded in 2013, BinaryMist Ltd is a small focussed consultancy specialising in providing Software Engineering and Development Teams with information security knowledge, experience, guidance and tooling to positively shape your DevSecOps culture, processes, practises and build pipelines.
+
+We will help you shift the expensive process of finding and fixing security defects late in the development cycle (ambulance at the bottom of the cliff) to the cheapest place (as code is being written).
+
+BinaryMist Ltd is empowering Software Development shops to not only significantly reduce software defects as they are being created, but also reducing the costs of creating your desired outcomes.
+
+---------------------
+
+#### [Black Hills Information Security](https://www.blackhillsinfosec.com/){: target="_blank" rel="sponsored"}   
 
 ![Logo-BHIS](/assets/images/Logo-BHIS-Reduced.png) 
 
 Black Hills Information Security is a consulting and services company specializing in penetration testing, red teaming, threat hunting, incident response and purple teaming. We share our knowledge on what we know and the tactics, tools, and procedures we use in our engagements to help better the information security community. We host regular free webcasts, workshops, blogs, podcasts, training sessions, and created the Backdoors & Breaches incident response card game to help the world be a safer place. 
+
+---------------------
 
 #### [SafeStack Academy](https://academy.safestack.io){: target="_blank" rel="sponsored"}
 
@@ -223,6 +237,8 @@ We created SafeStack Academy because we believe everyone has the right to be saf
 
 With SafeStack’s background in advisory services and in-person training, we thrive on helping organisations manage their security risk without getting in the way of growth or innovation.
 
+---------------------
+
 #### [Trade Me](https://trademe.co.nz){: target="_blank" rel="sponsored"}
 
 ![Logo-Trade Me](/assets/images/Logo-Trade_Me.png){: width="250"}
@@ -232,6 +248,7 @@ Trade Me is one of New Zealand's most popular websites. We have over four millio
 
 With all the things we do, it's super important that we keep the data safe. Our Security Team works to keep our systems and the data behind them safe, while giving our teams safety at the speed of DevOps.
 
+---------------------
 
 #### [Vidcom](https://www.vidcom.com/){: target="_blank" rel="sponsored"}
 
@@ -239,7 +256,9 @@ With all the things we do, it's super important that we keep the data safe. Our 
 
 Vidcom is a trusted Audio Visual provider that can help bring your event to life. Our customers have access to a full range of AV solutions and products for events such as conferences, award dinners, exhibitions and more.
 
-We can work with you to create amazing experiences for you and your audience - utilising our passion for AV and helping you achieve your vision.
+We can work with you to create amazing experiences for you and your audience - utilising our passion for A/V and helping you achieve your vision.
+
+---------------------
 
 
 
