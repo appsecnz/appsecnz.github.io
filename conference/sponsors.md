@@ -223,6 +223,16 @@ We created SafeStack Academy because we believe everyone has the right to be saf
 
 With SafeStack’s background in advisory services and in-person training, we thrive on helping organisations manage their security risk without getting in the way of growth or innovation.
 
+#### [Trade Me](https://trademe.co.nz){: target="_blank" rel="sponsored"}
+
+![Logo-Trade Me](/assets/images/Logo-Trade_Me.png){: width="250"}
+
+
+Trade Me is one of New Zealand's most popular websites. We have over four million members and thousands of Kiwis visit Trade Me every day to get things done. They use us for everything from searching for their next home, car, or career to running their own business or hunting for a bargain.
+
+With all the things we do, it's super important that we keep the data safe. Our Security Team works to keep our systems and the data behind them safe, while giving our teams safety at the speed of DevOps.
+
+
 #### [Vidcom](https://www.vidcom.com/){: target="_blank" rel="sponsored"}
 
 ![Logo-Vidcom](/assets/images/Logo-Vidcom-White.svg){: width="250"}   
