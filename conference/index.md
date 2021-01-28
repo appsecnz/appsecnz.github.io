@@ -42,7 +42,7 @@ Who is it for?
 
 **Date:** Friday and Saturday, 12-13 February 2021   
 **Time:** 9:30 a.m. - 5:30 p.m. each day   
-**Cost: FREE** early registration (on or before 1 February); **$25** late registration (from 2 February)   
+**Cost: FREE** early registration (on or before 3 February); **$20** late registration (from 4 February)   
 
 The main conference on Friday and Saturday will have two streams throughout both days:
 
@@ -55,19 +55,15 @@ The main conference on Friday and Saturday will have two streams throughout both
 
 Throughout the conference, an exhibition area will be open in the lower-level lobby. Representatives from many of our Premier Sponsors will be on hand throughout the event, to answer your questions about their products and services. There will be door prize drawings at the Closing Session on Saturday. To qualify for the drawings, you will need to visit with each sponsor during the conference, and have them stamp your entry card.
 
-## Keynote Speaker
-
-During the opening session on Friday, we plan to feature a keynote speaker. Further details will be published here as they become available.
-
 ## Training
 
 In addition to the main conference on Friday and Saturday, we are pleased to be offer training opportunities on Wednesday and Thursday (10-11 February 2021), at the same venue.
 
-A total of eight (8) classes are scheduled for presentation. For detailed information, including fees and registration links, please refer to our [Pre-Conference Training](training.md) page, and each course's information page.
+A total of seven (7) classes are scheduled for presentation. For detailed information, including fees and registration links, please refer to our [Pre-Conference Training](training.md) page, and each course's information page.
 
 ### Two-Day Classes
 
-* *[Finding and Fixing Web Application Security Vulnerabilities](secure_coding.md)* (**Face-to-Face**) - Laura Bell, [SafeStack](https://www.safestack.io/)
+* ~~*[Finding and Fixing Web Application Security Vulnerabilities](secure_coding.md)* (**Face-to-Face**) - Laura Bell, [SafeStack]~~(https://www.safestack.io/)
 * *[DevSecOps: Automating Security in DevOps](dev_sec_ops.md)* (**Online**) - Rohit Salecha, [NotSoSecure](https://notsosecure.com/)
 * *[Hacking Modern Web Apps: Master the Future of Attack Vectors](hacking_web_apps.md)* (**Online**) - Anirudh Anand, [7A Security](https://7asecurity.com/)
 * *[Hacking Android, iOS, and IoT Apps by Example](hacking_mobile_apps.md)* (**Online**) - Juan Urbano Stordeur and Abhishek J.M., [7A Security](https://7asecurity.com/)
@@ -90,16 +86,16 @@ For any comments, feedback or observations, please don't hesitate to [contact us
 
 ## Registration
 
-Registration opened on 17 December 2020. Advance registration (through 1 February 2021) will be **FREE**; from 2 February, there will be a **$25.00** (plus fees and GST) "procrastination fee" applied.
+Registration opened on 17 December 2020. Advance registration (through 3 February 2021) will be **FREE**; from 4 February, there will be a **$20.00** (plus ticketing fees) "Procrastinator Fee" applied.
 
 Now through 24 January, you can also order a conference t-shirt for $7.50 (plus GST and fees), when you register. T-shirts can be ordered in any colour - as long as it's black - and are available in Men's (straight cut) sizes S-3XL and 5XL, or in Women's (fitted cut) sizes XS - 2XL.
 
-Registration for Pre-Conference Training also opened on 17 December 2020 and closes on 3 February.
+Registration for Pre-Conference Training also opened on 17 December 2020 and closes on 5 February.
 
 **NOTES:** 
 
 * Registration for in-person and instructor-remote classes may close earlier, if all seats are filled. 
-* Some classes have minimum enrolment requirements, at the request of their instructors. If the minimum has not been reached as at 3 February, registered attendees will be offered the opportunity to switch to another class or receive a refund.
+* Some classes have minimum enrolment requirements, at the request of their instructors. If the minimum has not been reached as at 5 February, registered attendees will be offered the opportunity to switch to another class or receive a refund.
 
 Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
@@ -111,8 +107,8 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 * **Conference Registration Opened:** 17 December 2020 - [Conference Registration Site](https://events.humanitix.com/appsecnz-conference)
 * **Training Registration Opened:** 17 December 2020 - [Training Registration Site](https://events.humanitix.com/appsecnz-training)
 * **Last Day for T-Shirt Purchases:** 24 January 2021 - Orders go to the printer the next morning!
-* **"Early Bird" Conference Registration Ends:** 1 February 2021 - From 2 February, there's a $25 "procrastination fee"
-* **Training Registration Closes:** 3 February 2021
+* **"Early Bird" Conference Registration Ends:** 3 February 2021 - From 4 February, there's a $20 "Procrastinator Fee"
+* **Training Registration Closes:** 5 February 2021
 * **Pre-Conference Training Dates:** 10-11 February 2021
 * **Main Conference Dates:** 12-13 February 2021
 
@@ -148,7 +144,7 @@ Some of the options available:
 **Room:** 098 Lecture Theatre
 
 **Sponsor/Demo/Breakout Room:** Level 0   
-**Room:** Case Room 2
+**Room:** Case Room 3
 
 ## Conference Sponsors
 
