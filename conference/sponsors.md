@@ -22,11 +22,15 @@ nav_order: 4
 
 ![Logo-Datacom](/assets/images/Datacom-Primary-Logo-RGB.svg){: width="400"}   
 
-At Datacom, we believe our purpose is to help our customers and communities navigate the complexity of this every-changing world we live in, by connecting people and technology, and solving their greatest challenges. With more than 50 years' experience in technology, we have grown to be one of Australasia’s leading locally owned technology company.
+Choose us.
 
-Our people, built on a foundation of strong values, are some of the most experienced in the tech industry and partner with customers from large government agencies to commercial businesses to transform their organisations from idea to delivery.
+Senior executives are having to deal with increasing complexity when it comes to decision making – their careful consideration process makes them risk averse.
 
-We design, build and run IT systems and process for business. We support existing legacy IT systems and processes, and we custom-design brand new ones. We work with our customers to build and operate sustainable solutions by exploring their current state, clarifying their future potential and solving their most pressing problems. Our breadth of advisory and technical skills provides deep expertise in technology platforms to our customers, provided by our 200 tech partners.
+**They need assurances.**
+
+Datacom's legacy and brand reputation in NZ does just that. With decades of experience, we are not the new kid on the block – we are the mature and trusted partner with the highest industry certifications. And it's precisely that knowledge and expertise that make Datacom the perfect networks and security partner.
+
+**There isn't a safer pair of hands to secure the future of your business.**
 
 --------------------
 
