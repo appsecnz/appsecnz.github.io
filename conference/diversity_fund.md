@@ -4,7 +4,7 @@ title: Diversity Fund
 description: Conference Diversity and Financial Aid Fund
 parent: Conference
 grand_parent: Home
-nav_order: 6
+nav_order: 8
 ---
 
 [![Web Banner](/assets/images/Event_Banner_Graphic.png)](/conference/)   

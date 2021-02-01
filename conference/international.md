@@ -4,7 +4,7 @@ title: International Attendees
 description: Information and Advice for International Attendees
 parent: Conference
 grand_parent: Home
-nav_order: 7
+nav_order: 9
 ---
 
 [![Web Banner](/assets/images/Event_Banner_Graphic.png)](/conference/)   

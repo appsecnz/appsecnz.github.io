@@ -4,7 +4,7 @@ title: Code of Conduct
 description: Conference Code of Conduct
 parent: Conference
 grand_parent: Home
-nav_order: 8
+nav_order: 11
 ---
 
 [![Web Banner](/assets/images/Event_Banner_Graphic.png)](/conference/)   
