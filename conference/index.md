@@ -63,7 +63,7 @@ A total of seven (7) classes are scheduled for presentation. For detailed inform
 
 ### Two-Day Classes
 
-* ~~*[Finding and Fixing Web Application Security Vulnerabilities](secure_coding.md)* (**Face-to-Face**) - Laura Bell, [SafeStack]~~(https://www.safestack.io/)
+* ~~*[Finding and Fixing Web Application Security Vulnerabilities](secure_coding.md)* (**Face-to-Face**) - Laura Bell, [SafeStack](https://www.safestack.io/)~~
 * *[DevSecOps: Automating Security in DevOps](dev_sec_ops.md)* (**Online**) - Rohit Salecha, [NotSoSecure](https://notsosecure.com/)
 * *[Hacking Modern Web Apps: Master the Future of Attack Vectors](hacking_web_apps.md)* (**Online**) - Anirudh Anand, [7A Security](https://7asecurity.com/)
 * *[Hacking Android, iOS, and IoT Apps by Example](hacking_mobile_apps.md)* (**Online**) - Juan Urbano Stordeur and Abhishek J.M., [7A Security](https://7asecurity.com/)
