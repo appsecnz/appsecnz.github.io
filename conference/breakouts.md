@@ -23,7 +23,7 @@ In addition to our two main conference presentation tracks, some of our sponsors
 #### Secure Coding Tournament Kickoff Session - Secure Code Warrior   
 **10:00 a.m., Friday**
 
-Oliver (Olly) Ewert will be on hand to provide an overview of the online Secure Coding Tournament, hosted by [Secure Code Warrior](https://www.securecodewarrior.com/){: target="_blank" rel="sponsored"}, one of our Gold Sponsors.
+Oliver (Olly) Ewert will be on hand to provide an overview of the online Secure Coding Tournament, hosted by [Secure Code Warrior](https://www.securecodewarrior.com/){: target="_blank" rel="sponsored" }, one of our Gold Sponsors.
 
 He'll provide instructions for joining the tournament, along with an overview of the platform and how to complete the challenges.
 
@@ -32,12 +32,12 @@ If you're planning to participate in the tournament, you can [Register Now](http
 #### Speed Interviews - Quantum Security   
 **2:25 p.m., Friday**
 
-Eugene and his team will be on hand in Case Room 3, to meet with you and talk about opportunities with their team. There's no advance booking required - just turn up with your freshly polished CV, and your can-do attitude!
+Eugene and the team from [Quantum Security](https://quantumsecurity.co.nz/){: target="_blank" } will be on hand in Case Room 3, to meet with you and talk about opportunities at Quantum. There's no advance booking required - just turn up with your freshly polished CV, and your can-do attitude!
 
 #### Speed Interviews - Quantum Security   
 **10:55 a.m., Saturday**
 
-In case you weren't able to meet with them on Friday, Eugene and his team will again be on hand in Case Room 3, to meet with you and talk about opportunities with their team. There's no advance booking required - just turn up with your freshly polished CV, and your can-do attitude!
+In case you weren't able to meet with them on Friday, Eugene and the team from [Quantum Security](https://quantumsecurity.co.nz/){: target="_blank" } will again be on hand in Case Room 3, to meet with you and talk about opportunities at Quantum. There's no advance booking required - just turn up with your freshly polished CV, and your can-do attitude!
 
 #### Sponsor Session - Aura Information Security   
 **11:30 a.m., Saturday**
