@@ -23,11 +23,11 @@ In addition to our two main conference presentation tracks, some of our sponsors
 #### Secure Coding Tournament Kickoff Session - Secure Code Warrior   
 **10:00 a.m., Friday**
 
-Oliver (Olly) Ewert will be on hand to provide an overview of the online Secure Coding Tournament, hosted by [Secure Code Warrior](https://www.securecodewarrior.com/), one of our Gold Sponsors.
+Oliver (Olly) Ewert will be on hand to provide an overview of the online Secure Coding Tournament, hosted by [Secure Code Warrior](https://www.securecodewarrior.com/){: target="_blank" rel="sponsored"}, one of our Gold Sponsors.
 
 He'll provide instructions for joining the tournament, along with an overview of the platform and how to complete the challenges.
 
-If you're planning to participate in the tournament, you can [Register Now](https://discover.securecodewarrior.com/TN-202101-APPSEC-NZ_01LP-Registration.html). 
+If you're planning to participate in the tournament, you can [Register Now](https://discover.securecodewarrior.com/TN-202101-APPSEC-NZ_01LP-Registration.html){: target="_blank" }. 
 
 #### Speed Interviews - Quantum Security   
 **2:25 p.m., Friday**
