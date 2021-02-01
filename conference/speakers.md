@@ -94,7 +94,7 @@ In this talk, we'll talk through:
 
 **Raafey Khan -** An eternal security optimist, Raafey has been helping organisations in NZ and the UK understand their cyber risk and why they should at-least try to embed security into their development processes.
 
-As a founding member of Datacom’s AppSec division, Raafey will attempt to do more of the same, with a real focus on automating everything and making security stupidly simple.
+As a founding member of Datacomâ€™s AppSec division, Raafey will attempt to do more of the same, with a real focus on automating everything and making security stupidly simple.
 
 -----------
 
@@ -330,7 +330,7 @@ Attackers can find juicy targets in more ways than you would initially think. A 
 
 #### Speaker Biography
 
-**Dave Robinson -** In his time working in various parts of the IT industry, Dave/Karit has developed a skillset that encompasses various disciplines in the information security domain. Dave currently works as a Penetration Tester at ZX Security in Wellington and runs Kākācon.
+**Dave Robinson -** In his time working in various parts of the IT industry, Dave/Karit has developed a skillset that encompasses various disciplines in the information security domain. Dave currently works as a Penetration Tester at ZX Security in Wellington and runs KÄ�kÄ�con.
 
 Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Village @ DefCon, BSidesCBR, ChCon, Unrestcon and at numerous local Meetups; along with running training at Kiwicon, Syscan, CrikeyCon and TuskCon. He also has a keen interest in aerospace, lock-picking and all things wireless. Twitter: [@nzkarit](https://twitter.com/nzkarit) 
 
@@ -338,7 +338,7 @@ Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Villa
 
 ### How to Run an AppSec Program in an Agile Environment   
 
-*Mert Can Coşkuner - Trendyol*   
+*Mert Can CoÅŸkuner - Trendyol*   
 Remote Presentation   
 
 #### Abstract
@@ -360,7 +360,7 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 
 #### Speaker Biography
 
-**Mert Can Coşkuner, MSc** is a Senior Security Engineer at Trendyol. He publishes a security blog at [mcoskuner.medium.com](https://mcoskuner.medium.com){: target="_blank"} and has spoken at various high end security events about red team, threat intelligence and malware analysis.
+**Mert Can CoÅŸkuner, MSc** is a Senior Security Engineer at Trendyol. He publishes a security blog at [mcoskuner.medium.com](https://mcoskuner.medium.com){: target="_blank"} and has spoken at various high end security events about red team, threat intelligence and malware analysis.
 
 -----------
 
@@ -398,7 +398,9 @@ This talk will discuss some soft skills and issues surrounding the need for awar
 
 **Hugh Davenport -** Hugh is a Security Consultant, previously a developer. He has many years experience over many fields and has spoken at numerous conferences. Hugh also has suffered from depression and anxiety at times over the years.
 
-**Daniel Spector -** *No biography provided*
+**Daniel Spector -** Daniel has (mumble) decades of successful experience being: 1) a person with mental health issues; and 2) in the technology sector.
+
+Daniel is public about both these facts and appreciates his awesome employer, [APImetrics](https://apimetrics.io), for funding him to come here and talk about how to succeed in tech while managing one's brain noises.
 
 -----------
 

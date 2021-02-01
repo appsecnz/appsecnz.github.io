@@ -211,6 +211,14 @@ SEQA ensures the security needs across a range of industries including; governme
 
 ### Supporting Sponsors
 
+#### [APImetrics](https://apimetrics.io){: target="_blank" rel="sponsored"}
+
+![Logo-APImetrics](/assets/images/Logo-API_Metrics-white.png){: width="250" style="background-color: black;"}
+
+APImetrics was founded to focus on the challenges we saw in monitoring the API economy – where conventional tools were completely missing the problems with APIs that were impacting developers. APImetrics now has hundreds of users all over the world and a client base full of household names across the Fintech, Enterprise IT, IoT and Telco sectors.
+
+APImetrics is a privately held company, headquartered in Seattle, WA, USA and has branch offices in the UK and New Zealand.
+
 #### [BinaryMist](https://binarymist.io/){: target="_blank" rel="sponsored"}   
 
 ![Logo-BinaryMist](/assets/images/Logo-Binary_Mist.png){: width="250"}
