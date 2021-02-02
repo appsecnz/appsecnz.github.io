@@ -86,11 +86,13 @@ For any comments, feedback or observations, please don't hesitate to [contact us
 
 ## Registration
 
-Registration opened on 17 December 2020. Advance registration (through 3 February 2021) will be **FREE**; from 4 February, there will be a **$20.00** (plus ticketing fees) "Procrastinator Fee" applied.
+Registration opened on 17 December 2020. For in-person attendance, advance registration (through 3 February 2021) will be **FREE**; from 4 February, there will be a **$20.00** (plus ticketing fees) "Procrastinator Fee" applied.
 
-Now through 24 January, you can also order a conference t-shirt for $7.50 (plus GST and fees), when you register. T-shirts can be ordered in any colour - as long as it's black - and are available in Men's (straight cut) sizes S-3XL and 5XL, or in Women's (fitted cut) sizes XS - 2XL.
+Registration is also available to "attend" the conference virtually, via our [Live Event Portal](https://myevents.nz/appsecnz/2021){: target="_blank"}. Please [register](https://events.humanitix.com/appsecnz-conference){: target="_blank"} to let us know you'll be taking part.
 
-Registration for Pre-Conference Training also opened on 17 December 2020 and closes on 5 February.
+Through 24 January, you could also order a conference t-shirt for $7.50 (plus GST and fees), when you register. T-shirts could be ordered in any colour - as long as it was black - and were available in Men's (straight cut) sizes S-3XL and 5XL, or in Women's (fitted cut) sizes XS - 2XL.
+
+[Registration](https://events.humanitix.com/appsecnz-training){: target="_blank"} for [Pre-Conference Training](training.md) also opened on 17 December 2020 and closes on 5 February.
 
 **NOTES:** 
 
@@ -143,7 +145,7 @@ Some of the options available:
 **Stream Two:** Level 0   
 **Room:** 098 Lecture Theatre
 
-**Sponsor/Demo/Breakout Room:** Level 0   
+**Demo/Breakout Room:** Level 0   
 **Room:** Case Room 3
 
 ## Conference Sponsors
