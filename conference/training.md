@@ -16,7 +16,7 @@ nav_order: 2
 
 ## AppSec New Zealand Conference 2021
 
-### Our [Training Registration Site](https://events.humanitix.com/appsecnz-training) is now live! Training registration open 17 December - 3 February.
+### Our [Training Registration Site](https://events.humanitix.com/appsecnz-training) is now live! Training registration open 17 December - 5 February.
 
 
 ### Team Discounts
@@ -40,7 +40,7 @@ The registration and information desk, in the lower-level foyer, will open at 8:
 
 ## Training Schedule
 
-In addition the main conference on Friday and Saturday, we are offering a selection of eight (8) world-class training opportunities on Wednesday and Thursday. Our training schedule includes a mix of class lengths (half-day, one-day, and two-day) and formats (face-to-face, instructor-remote, and live online).
+In addition the main conference on Friday and Saturday, we are offering a selection of seven (7) world-class training opportunities on Wednesday and Thursday. Our training schedule includes a mix of class lengths (half-day, one-day, and two-day) and formats (face-to-face, instructor-remote, and live online).
 
 Each day, regardless of format, classes will follow this schedule (all times are NZDT):
 
