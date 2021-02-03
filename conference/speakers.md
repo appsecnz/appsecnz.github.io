@@ -601,7 +601,7 @@ This presentation will give a brief overview of why web application vulnerabilit
 
 #### Speaker Biography
 
-**Rohit Sharma** - Rohit works at Medical IT Advisors as the Security Operations Manager. He's a computer science graduate who finds cyber security to be the best fit for his energetic and curious personality. He has been managing IT cloud infrastructures and cyber security solutions across New Zealand healthcare and beyond for the past 2 years, with a focus on managing vulnerabilities, SIEM, WAFs and security controls across Microsoft 365, Azure and AWS clouds.
+**Rohit Sharma** works at Medical IT Advisors as the Security Operations Manager. He's a computer science graduate who finds cyber security to be the best fit for his energetic and curious personality. He has been managing IT cloud infrastructures and cyber security solutions across New Zealand healthcare and beyond for the past 2 years, with a focus on managing vulnerabilities, SIEM, WAFs and security controls across Microsoft 365, Azure and AWS clouds.
 
 -----------
 
