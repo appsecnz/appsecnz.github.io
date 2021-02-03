@@ -39,8 +39,4 @@ Eugene and the team from [Quantum Security](https://quantumsecurity.co.nz/){: ta
 
 In case you weren't able to meet with them on Friday, Eugene and the team from [Quantum Security](https://quantumsecurity.co.nz/){: target="_blank" } will again be on hand in Case Room 3, to meet with you and talk about opportunities at Quantum. There's no advance booking required - just turn up with your freshly polished CV, and your can-do attitude!
 
-#### Sponsor Session - Aura Information Security   
-**11:30 a.m., Saturday**
-
-*Details TBC*
 
