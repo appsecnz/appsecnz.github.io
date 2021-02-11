@@ -332,7 +332,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">16:00</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong><a href="/conference/speakers.html#camera-obscura" target="_blank">Camera Obscura</a></a></strong>
+      <strong><a href="/conference/speakers.html#camera-obscura" target="_blank">Camera Obscura</a></strong>
       <br />
       <em>Tom Isaacson</em>
     </td>
