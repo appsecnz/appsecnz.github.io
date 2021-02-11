@@ -22,7 +22,9 @@ Presentations are listed on this page in alphabetical order by title.
 
 ### Are Your CI/CD Pipelines Secure?   
 *Angel Rivera - CircleCI*   
-Remote Presentation
+Remote Presentation   
+Room 115 (upstairs)   
+Sat 2:25pm
 
 #### Abstract
 
@@ -46,7 +48,9 @@ Angel's passions are positive disruption, learning, teaching, mentoring but most
 
 ### Authorised Is Not a Yes/No Question   
 *Ben Dechrai - Auth0*   
-Remote Presentation
+Remote Presentation   
+Room 098 (downstairs)   
+Fri 3:25pm
 
 #### Abstract
 
@@ -73,7 +77,9 @@ In this session, you will gain an understanding of these two access control syst
 -----------
 
 ### "Better than Guessing": The Efficacy and Accuracy of SAST and SCA Tools   
-*Raafey Khan - Datacom*
+*Raafey Khan - Datacom*   
+Room 115 (upstairs)   
+Fri 10:35am
 
 #### Abstract
 
@@ -99,7 +105,9 @@ As a founding member of Datacomâ€™s AppSec division, Raafey will attempt to
 -----------
 
 ### Blame the Virus   
-*Sarah Walker (sera)*
+*Sarah Walker (sera)*   
+Room 098 (downstairs)   
+Sat 10:20am
 
 #### Abstract
 
@@ -122,7 +130,9 @@ Talk to her about cats, coffee, hoodies, fonts, or who is the best pony and why 
 -----------
 
 ### Bug Hunting with Static Analysis Tools   
-*Moss Lilley - Xero*
+*Moss Lilley - Xero*   
+Room 098 (downstairs)   
+Fri 10:35am
 
 #### Abstract
 
@@ -140,7 +150,9 @@ He's been working at Xero for the last two years learning how to wrangle web app
 
 ### Building Better Security for Your API Platform using Azure API Management   
 *Eldert Grootenboer - Motion10*   
-Remote Presentation
+Remote Presentation   
+Room 098 (downstairs)   
+Sat 1:30pm
 
 #### Abstract
 
@@ -159,7 +171,9 @@ This is where Azure API Management comes in, where we can create a repository of
 -----------
 
 ### Building purpleteam (a Security Regression Testing SaaS) - From PoC to Alpha   
-*Kim Carter (BinaryMist) - purpleteam-labs*
+*Kim Carter (BinaryMist) - purpleteam-labs*   
+Room 098 (downstairs)   
+Fri 2:25pm
 
 #### Abstract
 
@@ -188,7 +202,9 @@ Kim is also a regular blog poster at [http://blog.binarymist.net](http://blog.bi
 -----------
 
 ### Camera Obscura   
-*Tom Isaacson*
+*Tom Isaacson*   
+Room 098 (downstairs)   
+Sat 4:00pm
 
 #### Abstract
 
@@ -201,7 +217,9 @@ There is a lot of concern about having cameras installed everywhere and governme
 -----------
 
 ### DDoS: How can something so cheap be so expensive?   
-*Jerome Van Rooijen - RedShield*
+*Jerome Van Rooijen - RedShield*   
+Room 115 (upstairs)   
+Fri 11:45am
 
 #### Abstract
 
@@ -216,7 +234,9 @@ This talk covers a defenders experience and the lessons you can learn protecting
 -----------
 
 ### An Exploration of the Ethical Issues with the Gamification of Information Security Awareness Training   
-*Conor Fitzgerald - Quantum Security*
+*Conor Fitzgerald - Quantum Security*   
+Room 098 (downstairs)   
+Sat 9:45am
 
 #### Abstract
 
@@ -229,7 +249,9 @@ Gamification is the application of game-design elements and game principles in n
 -----------
 
 ### Federated Logins with OAuth 2, OpenID Connect, and JWTs   
-*Matt (TC) Cotterell - ZX Security*
+*Matt (TC) Cotterell - ZX Security*   
+Room 098 (downstairs)   
+Sat 2:25pm
 
 #### Abstract
 
@@ -253,7 +275,9 @@ In his spare time, he can be found watching bad movies, gleefully overusing the 
 -----------
 
 ### The Five Stages of Security Grief: A Humorous Look at How We Can Help People Navigate the Realities of Information Security   
-*Phil Howie - Onwardly*
+*Phil Howie - Onwardly*   
+Room 098 (downstairs)   
+Sat 11:55am
 
 #### Abstract
 
@@ -273,7 +297,9 @@ This talk is for anyone who is advocating or initiating security work within the
 -----------
 
 ### Fuzzing: An Introduction to Fuzzing and How It Relates to App Security   
-*Seth Berger - GitLab*
+*Seth Berger - GitLab*   
+Room 098 (downstairs)   
+Fri 11:10am
 
 #### Abstract
 
@@ -290,7 +316,9 @@ These days, he is energized to be focusing his time on building tooling to help 
 -----------
 
 ### Going Above and Beyond   
-*Karan Sharma*
+*Karan Sharma*   
+Room 098 (downstairs)   
+Fri 1:30pm
 
 #### Abstract
 
@@ -305,7 +333,9 @@ For each attack, we'll look at: the vulnerability that's being exploited; real-w
 -----------
 
 ### Grow Your Own Security Cha-Cha-Champion   
-*Toni James - SafeStack Academy*
+*Toni James - SafeStack Academy*   
+Room 115 (upstairs)   
+Fri 11:10am
 
 #### Abstract
 
@@ -320,7 +350,9 @@ She's an avid snowboarder and mountain biker with her human and fur family in th
 -----------
 
 ### A Hacker's View of DoS Attacks   
-*Dave Robinson (Karit) - ZX Security*
+*Dave Robinson (Karit) - ZX Security*   
+Room 098 (downstairs)   
+Fri 10:00am
 
 #### Abstract
 
@@ -337,6 +369,8 @@ Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Villa
 -----------
 
 ### How to Run an AppSec Program in an Agile Environment   
+Room 115 (upstairs)   
+Sat 10:55am
 
 *Mert Can CoÅŸkuner - Trendyol*   
 Remote Presentation   
@@ -365,7 +399,9 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 -----------
 
 ### The Incident Response Plan that Saved Christmas   
-*Petra Smith - Aura Information Security*
+*Petra Smith - Aura Information Security*   
+Room 115 (upstairs)   
+Sat 9:45am
 
 #### Abstract
 
@@ -388,7 +424,9 @@ If your team's worst-case scenario plan is to hope it never happens, this talk i
 -----------
 
 ### Let's Talk about Mental Well-Being in the Community   
-*Hugh Davenport and Daniel Spector*
+*Hugh Davenport and Daniel Spector*   
+Room 098 (downstairs)   
+Sat 10:55am
 
 #### Abstract
 
@@ -405,7 +443,9 @@ Daniel is public about both these facts and appreciates his awesome employer, [A
 -----------
 
 ### Leveraging OWASP Projects and Tools in Your AppSec Program   
-*John DiLeo - Datacom*
+*John DiLeo - Datacom*   
+Room 115 (upstairs)   
+Fri 1:30pm
 
 #### Abstract
 
@@ -424,7 +464,9 @@ In his "free time," John does a few things in the global OWASP community - he's 
 -----------
 
 ### Making Your Information Security Policy Useful   
-*Stephen Coates - Aura Information Security*
+*Stephen Coates - Aura Information Security*   
+Room 115 (upstairs)   
+Fri 3:25pm
 
 #### Abstract
 
@@ -438,7 +480,9 @@ Trust me! Your information security policies suck. Nobody - even your auditor - 
 
 ### OWASP SAMM: Status and Roadmap   
 *John Ellingsworth - OWASP SAMM Project*   
-Remote Presentation
+Remote Presentation   
+Room 115 (upstairs)   
+Fri 2:25pm
 
 #### Abstract
 
@@ -461,7 +505,9 @@ John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) 
 -----------
 
 ### Payment Gateways: The Most Dangerous Game   
-*Stephen Morgan - Datacom*
+*Stephen Morgan - Datacom*   
+Room 098 (downstairs)   
+Fri 4:20pm
 
 #### Abstract
 
@@ -476,7 +522,9 @@ Stephen has worn many hats, he has been an impeccably witty: Penetration Tester,
 -----------
 
 ### Red vs. Blue: Which Grass Is Greener?   
-*Kate Pearce and Chloe Ashford- Trade Me*
+*Kate Pearce and Chloe Ashford- Trade Me*   
+Room 115 (upstairs)   
+Sat 3:25pm
 
 #### Abstract
 
@@ -500,7 +548,9 @@ Kate has researched and presented on a bunch of other topics, including Multipat
 
 ### Service Mess to Service Mesh   
 *Rob Richardson*   
-Remote Presentation
+Remote Presentation   
+Room 098 (downstairs)   
+Sat 3:25pm
 
 #### Abstract
 
@@ -519,8 +569,10 @@ We'll compare this to border security with an app gateway, and compare and contr
 -----------
 
 ### Taking a Preventative Human-Led Approach to Software Security and Embedding It into the Developer's DNA   
-*Jaap Karan Singh - Secure Code Warrior*   
-Remote Presentation
+*Jaap Karan Singh - Secure Code Warrior*     
+Remote Presentation   
+Room 115 (upstairs)   
+Fri 4:20pm
 
 #### Abstract
 
@@ -541,6 +593,9 @@ Jaap will demonstrate the changes the industry has faced in the journey from Wat
 ### Use the OWASP Threat Modeling Playbook to Improve Your Product Security   
 *Sebastien (Seba) Deleersnyder - Toreon*   
 Remote Presentation   
+Room 115 (upstairs)   
+Fri 10:00am
+
 
 #### Abstract
 
@@ -572,7 +627,9 @@ With a background in development and many years of experience in security, he ha
 -----------
 
 ### Using an Agreed Scale of Business Harm to End Security Arguments   
-*Stephen Coates - Aura Information Security*
+*Stephen Coates - Aura Information Security*   
+Room 115 (upstairs)   
+Sat 10:20am
 
 #### Abstract
 
@@ -586,6 +643,8 @@ How can you say you have a risk programme in place for information security with
 
 ### Vulnerability Management 101 with OWASP DefectDojo   
 *Rohit Sharma - Medical IT Advisors*
+Room 098 (downstairs)
+Sat 11:30am
 
 #### Abstract
 
@@ -606,7 +665,9 @@ This presentation will give a brief overview of why web application vulnerabilit
 -----------
 
 ### Web Apps: Hardening Too Hard?   
-*Nick Lauder - Quantum Security*
+*Nick Lauder - Quantum Security*   
+Room 115 (upstairs)   
+Sat 11:30am
 
 #### Abstract
 
@@ -637,7 +698,9 @@ I'm **Nick Lauder**, the long term "intern" at Quantum Security, based in Wellin
 -----------
 
 ### XXE: Why It's Still in the [OWASP] Top 10   
-*Sam Shute - Quantum Security*
+*Sam Shute - Quantum Security*   
+Room 098 (downstairs)   
+Fri 11:45am
 
 #### Abstract
 
@@ -658,7 +721,9 @@ Sam's other areas of interest include network penetration testing, 3D printing, 
 -----------
 
 ### Your Browser Wants You to Be Secure   
-*Kirk Jackson - RedShield*
+*Kirk Jackson - RedShield*   
+Room 115 (upstairs)   
+Sat 1:30pm
 
 #### Abstract
 
@@ -681,7 +746,9 @@ Kirk worked as a web developer before switching to the defence team - setting up
 -----------
 
 ### Zero to OSCP   
-*Moss Lilley - Xero*
+*Moss Lilley - Xero*   
+Room 115 (upstairs)   
+Sat 4:00pm
 
 #### Abstract
 
