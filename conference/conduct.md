@@ -20,6 +20,8 @@ We want to make the AppSec New Zealand Conference a welcoming environment for al
 
 Speakers, trainers and sponsors have all been reminded of these policies, and are expected to abide by them like all attendees.
 
-**You can report any issues through our Code of Conduct Reporting Form** (live link will be added prior to the event). If you are comfortable doing so, you can also seek help by approaching volunteers wearing distinctive blue t-shirts, particularly **John, Judy, and James** who make up our Code of Conduct Team and will be introduced at the start of the day.
+**You can report any issues through our [Code of Conduct Reporting Form]**(https://forms.gle/7r7pptnwqavYq4gC8){: target="_blank" }
+
+If you are comfortable doing so, you can also seek help by approaching volunteers wearing distinctive blue t-shirts, particularly **John, Austin, Anneke, and Will** who make up our Code of Conduct Team and will be introduced at the start of the day.
 
 **In an emergency please contact the New Zealand Police on 111 or University of Auckland Security on 0800 373 7550.**
