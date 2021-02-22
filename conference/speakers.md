@@ -56,7 +56,7 @@ Room 098 (downstairs)
 Fri 3:25pm
 
 *Slide Deck Coming Soon*   
-[Recording]() (YouTube, )
+[Recording](https://youtu.be/bZyRFBW2Gno) (YouTube, 48:48)
 
 #### Abstract
 
@@ -144,7 +144,7 @@ Room 098 (downstairs)
 Fri 10:35am
 
 *Slide Deck Coming Soon*   
-[Recording]() (YouTube, )   
+[Recording](https://youtu.be/kenbfWf7D7I) (YouTube, 19:29)   
 
 #### Abstract
 
@@ -188,7 +188,7 @@ Room 098 (downstairs)
 Fri 2:25pm
 
 *Slide Deck Coming Soon*   
-[Recording]() (YouTube, )   
+[Recording](https://youtu.be/0RFmweM7bwM) (YouTube, 27:23)   
 
 #### Abstract
 
@@ -320,7 +320,7 @@ Room 098 (downstairs)
 Fri 11:10am
 
 *Slide Deck Coming Soon*   
-[Recording]() (YouTube, )   
+[Recording](https://youtu.be/xgfhSzAVm2s) (YouTube, 24:27)   
 
 #### Abstract
 
@@ -342,7 +342,7 @@ Room 098 (downstairs)
 Fri 1:30pm
 
 *Slide Deck Coming Soon*   
-[Recording]() (YouTube, )   
+[Recording](https://youtu.be/H54-xY0HBWU) (YouTube, 39:34)   
 
 #### Abstract
 
@@ -382,7 +382,7 @@ Room 098 (downstairs)
 Fri 10:00am
 
 *Slide Deck Coming Soon*   
-[Recording]() (YouTube, )   
+[Recording](https://youtu.be/uLUrcG_gqxY) (YouTube, 28:45)   
 
 #### Abstract
 
@@ -750,7 +750,7 @@ Room 098 (downstairs)
 Fri 11:45am
 
 *Slide Deck Coming Soon*   
-[Recording]() (YouTube, )   
+[Recording](https://youtu.be/5kzgYSmh9qI) (YouTube, 20:24)   
 
 #### Abstract
 
