@@ -34,7 +34,8 @@ nav_order: 4
       <br />
       <em>John DiLeo (Conference Chair), Kim Carter, and Kirk Jackson - OWASP New Zealand Chapter Leaders<br />Lech Janczewski (Conference Host) - Associate Professor, Univ. of Auckland</em>
       <br />
-      [Recording](https://youtu.be/s-B9KpI66fI) (YouTube, 37:55)
+      <a href="https://youtu.be/s-B9KpI66fI" target="YouTube">Video</a> (YouTube, 37:55)
+      
     </td>
   </tr>
   <tr>
@@ -102,7 +103,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">11:45</td>
     <td style="background-color: #B9C2DC; text-align: center">
-      <strong><a href="/conference/speakers.html#xxe-why-its-still-in-the-owasp-top-10" target="_blank">XXE: Why It's Still in the [OWASP] Top 10</a></strong>
+      <strong><a href="/conference/speakers.html#xxe-why-its-still-in-the-owasp-top-10" target="_blank">XXE: Why It's Still in the Top 10</a></strong>
       <br />
       <em>Sam Shute - Quantum Security</em>
     </td>
@@ -120,7 +121,7 @@ nav_order: 4
     </td>
     <td style="vertical-align: top; text-align: right;">13:30</td>
     <td style="background-color: #EEE; text-align: center">
-      <strong><a href="/conference/speakers.html#going-above-and-beyond" target="_blank">Going Above and Beyond</a></a></strong>
+      <strong><a href="/conference/speakers.html#going-above-and-beyond" target="_blank">Going Above and Beyond</a></strong>
       <br />
       <em>Karan Sharma</em>
     </td>
