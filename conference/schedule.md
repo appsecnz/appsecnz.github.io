@@ -33,6 +33,8 @@ nav_order: 4
       <strong>Welcome to AppSec New Zealand Conference 2021</strong>
       <br />
       <em>John DiLeo (Conference Chair), Kim Carter, and Kirk Jackson - OWASP New Zealand Chapter Leaders<br />Lech Janczewski (Conference Host) - Associate Professor, Univ. of Auckland</em>
+      <br />
+      [Recording](https://youtu.be/s-B9KpI66fI) (YouTube, 37:55)
     </td>
   </tr>
   <tr>

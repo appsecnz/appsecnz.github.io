@@ -26,6 +26,9 @@ Remote Presentation
 Room 115 (upstairs)   
 Sat 2:25pm
 
+*Slide Deck Coming Soon*   
+*Recording Coming Soon*   
+
 #### Abstract
 
 In this talk Angel will discuss common obstacles in securing applications, CI/CD pipelines, and protecting sensitive access to integration targets. Attendees will learn strategies to secure apps, sensitive data, integration points and improving pipeline security postures.
@@ -51,6 +54,9 @@ Angel's passions are positive disruption, learning, teaching, mentoring but most
 Remote Presentation   
 Room 098 (downstairs)   
 Fri 3:25pm
+
+*Slide Deck Coming Soon*   
+[Recording]() (YouTube, )
 
 #### Abstract
 
@@ -80,6 +86,9 @@ In this session, you will gain an understanding of these two access control syst
 *Raafey Khan - Datacom*   
 Room 115 (upstairs)   
 Fri 10:35am
+
+*Slide Deck Coming Soon*   
+[Recording](https://youtu.be/W_yT5KGQuNw) (YouTube, 29:10)   
 
 #### Abstract
 
@@ -134,6 +143,9 @@ Talk to her about cats, coffee, hoodies, fonts, or who is the best pony and why 
 Room 098 (downstairs)   
 Fri 10:35am
 
+*Slide Deck Coming Soon*   
+[Recording]() (YouTube, )   
+
 #### Abstract
 
 For security to keep up with the speed of development, we can no longer be gate keepers. This requires building secure defaults and enforcing them through automated checks.
@@ -174,6 +186,9 @@ This is where Azure API Management comes in, where we can create a repository of
 *Kim Carter (BinaryMist) - purpleteam-labs*   
 Room 098 (downstairs)   
 Fri 2:25pm
+
+*Slide Deck Coming Soon*   
+[Recording]() (YouTube, )   
 
 #### Abstract
 
@@ -220,6 +235,9 @@ There is a lot of concern about having cameras installed everywhere and governme
 *Jerome Van Rooijen - RedShield*   
 Room 115 (upstairs)   
 Fri 11:45am
+
+*Slide Deck Coming Soon*   
+[Recording](https://youtu.be/e1AI9yteSM0) (YouTube, 29:19)
 
 #### Abstract
 
@@ -301,6 +319,9 @@ This talk is for anyone who is advocating or initiating security work within the
 Room 098 (downstairs)   
 Fri 11:10am
 
+*Slide Deck Coming Soon*   
+[Recording]() (YouTube, )   
+
 #### Abstract
 
 How does a photo render your phone useless? How could one of the worst SSL vulnerabilities in history have been discovered years earlier, during initial development?
@@ -320,6 +341,9 @@ These days, he is energized to be focusing his time on building tooling to help 
 Room 098 (downstairs)   
 Fri 1:30pm
 
+*Slide Deck Coming Soon*   
+[Recording]() (YouTube, )   
+
 #### Abstract
 
 While the OWASP Top 10 is a great baseline for WebApp security, I'd like to cover some of the attacks that aren't addressed there. These attacks are gaining lots of attention so it's time to shed some light on: HTTP Request Smuggling; JavaScript Prototype Pollution Attack; PostMessage Attack; and GraphQL API Hacking.
@@ -337,6 +361,9 @@ For each attack, we'll look at: the vulnerability that's being exploited; real-w
 Room 115 (upstairs)   
 Fri 11:10am
 
+*Slide Deck Coming Soon*   
+[Recording](https://youtu.be/jhOTe-BmH4A) (YouTube, 27:05)   
+
 #### Abstract
 
 Growing your own security champion is a lot like growing your own plant. It takes a great environment and a bit of care to make your team flourish. Toni will take you through some tips and tricks to grow your security garden, one champion at a time.
@@ -353,6 +380,9 @@ She's an avid snowboarder and mountain biker with her human and fur family in th
 *Dave Robinson (Karit) - ZX Security*   
 Room 098 (downstairs)   
 Fri 10:00am
+
+*Slide Deck Coming Soon*   
+[Recording]() (YouTube, )   
 
 #### Abstract
 
@@ -447,6 +477,9 @@ Daniel is public about both these facts and appreciates his awesome employer, [A
 Room 115 (upstairs)   
 Fri 1:30pm
 
+*Slide Deck Coming Soon*   
+[Recording](https://youtu.be/rLd2KZhpCz8) (YouTube, 43:03)   
+
 #### Abstract
 
 The Open Web Application Security Project (OWASP) boasts over 130 active Projects, whose volunteers have developed tools and resources covering nearly every aspect of application security and software assurance. The challenge lies in knowing what they are, where to find them, and how they can help.
@@ -468,6 +501,9 @@ In his "free time," John does a few things in the global OWASP community - he's 
 Room 115 (upstairs)   
 Fri 3:25pm
 
+*Slide Deck Coming Soon*   
+[Recording](https://youtu.be/HIlvbwrzoLw) (YouTube, 49:07)   
+
 #### Abstract
 
 Trust me! Your information security policies suck. Nobody - even your auditor - wants to read through a piecemeal set of borrowed policy, written in the style of a wannabe lawyer from the 90's. Why can't we make them risk-based, referenced, well-structured, visually attractive, and in plain language?
@@ -483,6 +519,9 @@ Trust me! Your information security policies suck. Nobody - even your auditor - 
 Remote Presentation   
 Room 115 (upstairs)   
 Fri 2:25pm
+
+*Slide Deck Coming Soon*   
+[Recording](https://youtu.be/F4WZpWHpVVU) (YouTube, 30:30)   
 
 #### Abstract
 
@@ -508,6 +547,9 @@ John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) 
 *Stephen Morgan - Datacom*   
 Room 098 (downstairs)   
 Fri 4:20pm
+
+*Slide Deck Coming Soon*   
+[Recording]() (YouTube, )   
 
 #### Abstract
 
@@ -574,6 +616,9 @@ Remote Presentation
 Room 115 (upstairs)   
 Fri 4:20pm
 
+*Slide Deck Coming Soon*   
+[Recording](https://youtu.be/8Kx9VGES8vE) (YouTube, 32:38)   
+
 #### Abstract
 
 The DevSecOps movement is here to change the game. The lines between AppSec and dev teams are increasingly blurred and more collaborative. Learn how developers can become a powerful piece of the DevSecOps pipeline, while upskilling and becoming an even more sought-after engineer in the process.
@@ -596,6 +641,8 @@ Remote Presentation
 Room 115 (upstairs)   
 Fri 10:00am
 
+*Slide Deck Coming Soon*   
+[Recording](https://youtu.be/nQoQzUQ-X1U) (YouTube, 28:46)
 
 #### Abstract
 
@@ -697,10 +744,13 @@ I'm **Nick Lauder**, the long term "intern" at Quantum Security, based in Wellin
 
 -----------
 
-### XXE: Why It's Still in the [OWASP] Top 10   
+### XXE: Why It's Still in the Top 10   
 *Sam Shute - Quantum Security*   
 Room 098 (downstairs)   
 Fri 11:45am
+
+*Slide Deck Coming Soon*   
+[Recording]() (YouTube, )   
 
 #### Abstract
 
