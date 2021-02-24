@@ -27,7 +27,7 @@ Room 115 (upstairs)
 Sat 2:25pm
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/Z81k1xW-bOk) (YouTube, 33:55)   
+[Video](https://youtu.be/Z81k1xW-bOk){: target="videos" } (YouTube, 33:55)   
 
 #### Abstract
 
@@ -56,7 +56,7 @@ Room 098 (downstairs)
 Fri 3:25pm
 
 [Slide Deck](https://bendechrai.github.io/authorised-not-yes-no-question/){: target="slides" } (External Site)   
-[Video](https://youtu.be/bZyRFBW2Gno) (YouTube, 48:48)
+[Video](https://youtu.be/bZyRFBW2Gno){: target="videos" } (YouTube, 48:48)
 
 #### Abstract
 
@@ -88,7 +88,7 @@ Room 115 (upstairs)
 Fri 10:35am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/W_yT5KGQuNw) (YouTube, 29:10)   
+[Video](https://youtu.be/W_yT5KGQuNw){: target="videos" } (YouTube, 29:10)   
 
 #### Abstract
 
@@ -119,7 +119,7 @@ Room 098 (downstairs)
 Sat 10:20am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/-TzWPRbIja0) (YouTube, 24:06)   
+[Video](https://youtu.be/-TzWPRbIja0){: target="videos" } (YouTube, 24:06)   
 
 #### Abstract
 
@@ -147,7 +147,7 @@ Room 098 (downstairs)
 Fri 10:35am
 
 [Slide Deck](/assets/presentations/Lilley-Bug_Hunting_with_SAST-AppSecNZ_2021.pdf){: target="slides" } (PDF, 5.2MB)   
-[Video](https://youtu.be/kenbfWf7D7I) (YouTube, 19:29)   
+[Video](https://youtu.be/kenbfWf7D7I){: target="videos" } (YouTube, 19:29)   
 
 #### Abstract
 
@@ -170,7 +170,7 @@ Room 098 (downstairs)
 Sat 1:30pm
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/hJs0AE5_jqU) (YouTube, 47:00)   
+[Video](https://youtu.be/hJs0AE5_jqU){: target="videos" } (YouTube, 47:00)   
 
 #### Abstract
 
@@ -194,7 +194,7 @@ Room 098 (downstairs)
 Fri 2:25pm
 
 [Slide Deck](https://speakerdeck.com/binarymist/building-purpleteam-a-security-regression-testing-saas-from-poc-to-alpha){: target="slides" } (External Site)   
-[Video](https://youtu.be/0RFmweM7bwM) (YouTube, 27:23)   
+[Video](https://youtu.be/0RFmweM7bwM){: target="videos" } (YouTube, 27:23)   
 
 #### Abstract
 
@@ -228,7 +228,7 @@ Room 098 (downstairs)
 Sat 4:00pm
 
 [Slide Deck](/assets/presentations/Isaacson-Camera_Obscura-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.8MB)   
-[Video](https://youtu.be/2pIBMpll2AE) (YouTube, 31:34)   
+[Video](https://youtu.be/2pIBMpll2AE){: target="videos" } (YouTube, 31:34)   
 
 #### Abstract
 
@@ -246,7 +246,7 @@ Room 115 (upstairs)
 Fri 11:45am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/e1AI9yteSM0) (YouTube, 29:19)
+[Video](https://youtu.be/e1AI9yteSM0){: target="videos" } (YouTube, 29:19)
 
 #### Abstract
 
@@ -266,7 +266,7 @@ Room 098 (downstairs)
 Sat 9:45am
 
 [Slide Deck](/assets/presentations/Fitzgerald-Ethical_Issues_with_Gamification-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.2MB)   
-[Video](https://youtu.be/hB3fJ7p-UdQ) (YouTube, 26:20)   
+[Video](https://youtu.be/hB3fJ7p-UdQ){: target="videos" } (YouTube, 26:20)   
 
 #### Abstract
 
@@ -284,7 +284,7 @@ Room 098 (downstairs)
 Sat 2:25pm
 
 [Slide Deck](/assets/presentations/Cotterell-Federated_Logins-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.2MB)   
-[Video](https://youtu.be/4m8WvF-hzQs) (YouTube, 25:05)   
+[Video](https://youtu.be/4m8WvF-hzQs){: target="videos" } (YouTube, 25:05)   
 
 #### Abstract
 
@@ -313,7 +313,7 @@ Room 098 (downstairs)
 Sat 11:55am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/eqtj_aQ70c4) (YouTube, 10:23)   
+[Video](https://youtu.be/eqtj_aQ70c4){: target="videos" } (YouTube, 10:23)   
 
 #### Abstract
 
@@ -338,7 +338,7 @@ Room 098 (downstairs)
 Fri 11:10am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/xgfhSzAVm2s) (YouTube, 24:27)   
+[Video](https://youtu.be/xgfhSzAVm2s){: target="videos" } (YouTube, 24:27)   
 
 #### Abstract
 
@@ -360,7 +360,7 @@ Room 098 (downstairs)
 Fri 1:30pm
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/H54-xY0HBWU) (YouTube, 39:34)   
+[Video](https://youtu.be/H54-xY0HBWU){: target="videos" } (YouTube, 39:34)   
 
 #### Abstract
 
@@ -380,7 +380,7 @@ Room 115 (upstairs)
 Fri 11:10am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/jhOTe-BmH4A) (YouTube, 27:05)   
+[Video](https://youtu.be/jhOTe-BmH4A){: target="videos" } (YouTube, 27:05)   
 
 #### Abstract
 
@@ -400,7 +400,7 @@ Room 098 (downstairs)
 Fri 10:00am
 
 [Slide Deck](/assets/presentations/Robinson-Hackers_View_of_DoS_Attacks-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.8MB)   
-[Video](https://youtu.be/uLUrcG_gqxY) (YouTube, 28:45)   
+[Video](https://youtu.be/uLUrcG_gqxY){: target="videos" } (YouTube, 28:45)   
 
 #### Abstract
 
@@ -423,8 +423,8 @@ Sat 10:55am
 *Mert Can Coşkuner - Trendyol*   
 Remote Presentation   
 
-*Slide Deck coming soon*
-[Video](https://youtu.be/1GHESuk_Iz0) (YouTube, 30:12)
+*Slide Deck coming soon*   
+[Video](https://youtu.be/1GHESuk_Iz0){: target="videos" } (YouTube, 30:12)   
 
 #### Abstract
 
@@ -455,7 +455,7 @@ Room 115 (upstairs)
 Sat 9:45am
 
 [Slide Deck](/assets/presentations/Smith-Incident_Response_Plan_that_Saved_Christmas-AppSecNZ_2021.pdf){: target="slides" } (PDF, 11.8MB)
-[Video](https://youtu.be/r0wuo29noLg) (YouTube, 24:21)
+[Video](https://youtu.be/r0wuo29noLg){: target="videos" } (YouTube, 24:21)
 
 #### Abstract
 
@@ -483,7 +483,7 @@ Room 098 (downstairs)
 Sat 10:55am
 
 [Slide Deck](/assets/presentations/Davenport_and_Spector-Mental_Well-Being-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.0MB)    
-[Video](https://youtu.be/IwtTkzIvdhg) (YouTube, 33:03)   
+[Video](https://youtu.be/IwtTkzIvdhg){: target="videos" } (YouTube, 33:03)   
 
 #### Abstract
 
@@ -505,7 +505,7 @@ Room 115 (upstairs)
 Fri 1:30pm
 
 [Slide Deck](/assets/presentations/DiLeo-Leveraging_OWASP_Projects-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.8MB)   
-[Video](https://youtu.be/rLd2KZhpCz8) (YouTube, 43:03)   
+[Video](https://youtu.be/rLd2KZhpCz8){: target="videos" } (YouTube, 43:03)   
 
 #### Abstract
 
@@ -529,7 +529,7 @@ Room 115 (upstairs)
 Fri 3:25pm
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/HIlvbwrzoLw) (YouTube, 49:07)   
+[Video](https://youtu.be/HIlvbwrzoLw){: target="videos" } (YouTube, 49:07)   
 
 #### Abstract
 
@@ -548,7 +548,7 @@ Room 115 (upstairs)
 Fri 2:25pm
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/F4WZpWHpVVU) (YouTube, 30:30)   
+[Video](https://youtu.be/F4WZpWHpVVU){: target="videos" } (YouTube, 30:30)   
 
 #### Abstract
 
@@ -576,7 +576,7 @@ Room 098 (downstairs)
 Fri 4:20pm
 
 [Slide Deck](/assets/presentations/Morgan-Payment_Gateways-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.1MB)   
-[Video](https://youtu.be/ZR9T3GbbqV4) (YouTube, 22:02)   
+[Video](https://youtu.be/ZR9T3GbbqV4){: target="videos" } (YouTube, 22:02)   
 
 #### Abstract
 
@@ -596,7 +596,7 @@ Room 115 (upstairs)
 Sat 3:25pm
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/zEdH_8xE6GY) (YouTube, 27:06)   
+[Video](https://youtu.be/zEdH_8xE6GY){: target="videos" } (YouTube, 27:06)   
 
 #### Abstract
 
@@ -625,7 +625,7 @@ Room 098 (downstairs)
 Sat 3:25pm
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/_nNqzX5u098) (YouTube, 29:55)   
+[Video](https://youtu.be/_nNqzX5u098){: target="videos" } (YouTube, 29:55)   
 
 #### Abstract
 
@@ -650,7 +650,7 @@ Room 115 (upstairs)
 Fri 4:20pm
 
 [Slide Deck](/assets/presentations/Singh-Human-Led_Approach_to_Software_Security-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.1MB)   
-[Video](https://youtu.be/8Kx9VGES8vE) (YouTube, 32:38)   
+[Video](https://youtu.be/8Kx9VGES8vE){: target="videos" } (YouTube, 32:38)   
 
 #### Abstract
 
@@ -675,7 +675,7 @@ Room 115 (upstairs)
 Fri 10:00am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/nQoQzUQ-X1U) (YouTube, 28:46)
+[Video](https://youtu.be/nQoQzUQ-X1U){: target="videos" } (YouTube, 28:46)
 
 #### Abstract
 
@@ -712,7 +712,7 @@ Room 115 (upstairs)
 Sat 10:20am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/I42JOT4j9wk) (YouTube, 24:13)   
+[Video](https://youtu.be/I42JOT4j9wk){: target="videos" } (YouTube, 24:13)   
 
 #### Abstract
 
@@ -730,7 +730,7 @@ Room 098 (downstairs)
 Sat 11:30am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/35h8TZweYAM) (YouTube, 19:21)   
+[Video](https://youtu.be/35h8TZweYAM){: target="videos" } (YouTube, 19:21)   
 
 #### Abstract
 
@@ -756,7 +756,7 @@ Room 115 (upstairs)
 Sat 11:30am
 
 [Slide Deck](/assets/presentations/Lauder-Web_Apps-Hardening_Too_Hard-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.1MB)   
-[Video](https://youtu.be/5GKcGXPwi04) (YouTube, 42:53)   
+[Video](https://youtu.be/5GKcGXPwi04){: target="videos" } (YouTube, 42:53)   
 
 #### Abstract
 
@@ -792,7 +792,7 @@ Room 098 (downstairs)
 Fri 11:45am
 
 *Slide Deck Coming Soon*   
-[Video](https://youtu.be/5kzgYSmh9qI) (YouTube, 20:24)   
+[Video](https://youtu.be/5kzgYSmh9qI){: target="videos" } (YouTube, 20:24)   
 
 #### Abstract
 
@@ -818,7 +818,7 @@ Room 115 (upstairs)
 Sat 1:30pm
 
 [Slide Deck](/assets/presentations/Jackson-Your_Browser_Wants_You_to_Be_Secure-AppSecNZ_2021.pdf){: target="slides" } (PDF, 530kB)   
-[Video](https://youtu.be/Do4NJfxIkMM) (YouTube, 40:53)   
+[Video](https://youtu.be/Do4NJfxIkMM){: target="videos" } (YouTube, 40:53)   
 
 #### Abstract
 
@@ -846,7 +846,7 @@ Room 115 (upstairs)
 Sat 4:00pm
 
 [Slide Deck](/assets/presentations/Lilley-Zero_to_OSCP-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.7MB)   
-[Video](https://youtu.be/JYo69bobNLM) (YouTube, 31:54)   
+[Video](https://youtu.be/JYo69bobNLM){: target="videos" } (YouTube, 31:54)   
 
 #### Abstract
 
