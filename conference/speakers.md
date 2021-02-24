@@ -454,8 +454,8 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 Room 115 (upstairs)   
 Sat 9:45am
 
-[Slide Deck](/assets/presentations/Smith-Incident_Response_Plan_that_Saved_Christmas-AppSecNZ_2021.pdf){: target="slides" } (PDF, 11.8MB)
-[Video](https://youtu.be/r0wuo29noLg){: target="videos" } (YouTube, 24:21)
+[Slide Deck](/assets/presentations/Smith-Incident_Response_Plan_that_Saved_Christmas-AppSecNZ_2021.pdf){: target="slides" } (PDF, 11.8MB)   
+[Video](https://youtu.be/r0wuo29noLg){: target="videos" } (YouTube, 24:21)   
 
 #### Abstract
 
