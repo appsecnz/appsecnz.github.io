@@ -27,11 +27,11 @@ Room 115 (upstairs)
 Sat 2:25pm
 
 *Slide Deck Coming Soon*   
-*Recording Coming Soon*   
+[Video](https://youtu.be/Z81k1xW-bOk) (YouTube, 33:55)   
 
 #### Abstract
 
-In this talk Angel will discuss common obstacles in securing applications, CI/CD pipelines, and protecting sensitive access to integration targets. Attendees will learn strategies to secure apps, sensitive data, integration points and improving pipeline security postures.
+In this talk, Angel will discuss common obstacles in securing applications, CI/CD pipelines, and protecting sensitive access to integration targets. Attendees will learn strategies to secure apps, sensitive data, integration points and improving pipeline security postures.
 
 #### Description
 
@@ -56,7 +56,7 @@ Room 098 (downstairs)
 Fri 3:25pm
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/bZyRFBW2Gno) (YouTube, 48:48)
+[Video](https://youtu.be/bZyRFBW2Gno) (YouTube, 48:48)
 
 #### Abstract
 
@@ -88,7 +88,7 @@ Room 115 (upstairs)
 Fri 10:35am
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/W_yT5KGQuNw) (YouTube, 29:10)   
+[Video](https://youtu.be/W_yT5KGQuNw) (YouTube, 29:10)   
 
 #### Abstract
 
@@ -109,7 +109,7 @@ In this talk, we'll talk through:
 
 **Raafey Khan -** An eternal security optimist, Raafey has been helping organisations in NZ and the UK understand their cyber risk and why they should at-least try to embed security into their development processes.
 
-As a founding member of Datacomâ€™s AppSec division, Raafey will attempt to do more of the same, with a real focus on automating everything and making security stupidly simple.
+As a founding member of DatacomÃ¢â‚¬â„¢s AppSec division, Raafey will attempt to do more of the same, with a real focus on automating everything and making security stupidly simple.
 
 -----------
 
@@ -117,6 +117,9 @@ As a founding member of Datacomâ€™s AppSec division, Raafey will attempt to
 *Sarah Walker (sera)*   
 Room 098 (downstairs)   
 Sat 10:20am
+
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/-TzWPRbIja0) (YouTube, 24:06)   
 
 #### Abstract
 
@@ -144,7 +147,7 @@ Room 098 (downstairs)
 Fri 10:35am
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/kenbfWf7D7I) (YouTube, 19:29)   
+[Video](https://youtu.be/kenbfWf7D7I) (YouTube, 19:29)   
 
 #### Abstract
 
@@ -165,6 +168,9 @@ He's been working at Xero for the last two years learning how to wrangle web app
 Remote Presentation   
 Room 098 (downstairs)   
 Sat 1:30pm
+
+*Slide Deck Coming Soon*   
+[Video]() (YouTube, )   
 
 #### Abstract
 
@@ -188,7 +194,7 @@ Room 098 (downstairs)
 Fri 2:25pm
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/0RFmweM7bwM) (YouTube, 27:23)   
+[Video](https://youtu.be/0RFmweM7bwM) (YouTube, 27:23)   
 
 #### Abstract
 
@@ -221,6 +227,9 @@ Kim is also a regular blog poster at [http://blog.binarymist.net](http://blog.bi
 Room 098 (downstairs)   
 Sat 4:00pm
 
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/2pIBMpll2AE) (YouTube, 31:34)   
+
 #### Abstract
 
 There is a lot of concern about having cameras installed everywhere and governments or big companies using them to track us - invasion of privacy, tracking, release of personal details, blackmail, etc. But there are ways of implementing cameras for specific tasks that avoid these problems. I will talk about what these are, how they work and what their limitations are.
@@ -237,7 +246,7 @@ Room 115 (upstairs)
 Fri 11:45am
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/e1AI9yteSM0) (YouTube, 29:19)
+[Video](https://youtu.be/e1AI9yteSM0) (YouTube, 29:19)
 
 #### Abstract
 
@@ -256,6 +265,9 @@ This talk covers a defenders experience and the lessons you can learn protecting
 Room 098 (downstairs)   
 Sat 9:45am
 
+*Slide Deck Coming Soon*   
+[Video]() (YouTube, )   
+
 #### Abstract
 
 Gamification is the application of game-design elements and game principles in non-game contexts, such as information security awareness training. But, what are the ethical issues? Does gamification exploit, manipulate, harm or have a negative effect on employees? What are the InfoSec implications?
@@ -270,6 +282,9 @@ Gamification is the application of game-design elements and game principles in n
 *Matt (TC) Cotterell - ZX Security*   
 Room 098 (downstairs)   
 Sat 2:25pm
+
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/4m8WvF-hzQs) (YouTube, 25:05)   
 
 #### Abstract
 
@@ -297,6 +312,9 @@ In his spare time, he can be found watching bad movies, gleefully overusing the 
 Room 098 (downstairs)   
 Sat 11:55am
 
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/eqtj_aQ70c4) (YouTube, 10:23)   
+
 #### Abstract
 
 We will take a light-hearted tour through each of the five emotions people experience when facing security work - denial, anger, bargaining, depression and acceptance - and then offer some practical advice on how we can help them navigate through it and emerge out the other side successfully.
@@ -320,7 +338,7 @@ Room 098 (downstairs)
 Fri 11:10am
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/xgfhSzAVm2s) (YouTube, 24:27)   
+[Video](https://youtu.be/xgfhSzAVm2s) (YouTube, 24:27)   
 
 #### Abstract
 
@@ -342,7 +360,7 @@ Room 098 (downstairs)
 Fri 1:30pm
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/H54-xY0HBWU) (YouTube, 39:34)   
+[Video](https://youtu.be/H54-xY0HBWU) (YouTube, 39:34)   
 
 #### Abstract
 
@@ -362,7 +380,7 @@ Room 115 (upstairs)
 Fri 11:10am
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/jhOTe-BmH4A) (YouTube, 27:05)   
+[Video](https://youtu.be/jhOTe-BmH4A) (YouTube, 27:05)   
 
 #### Abstract
 
@@ -382,7 +400,7 @@ Room 098 (downstairs)
 Fri 10:00am
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/uLUrcG_gqxY) (YouTube, 28:45)   
+[Video](https://youtu.be/uLUrcG_gqxY) (YouTube, 28:45)   
 
 #### Abstract
 
@@ -392,7 +410,7 @@ Attackers can find juicy targets in more ways than you would initially think. A 
 
 #### Speaker Biography
 
-**Dave Robinson -** In his time working in various parts of the IT industry, Dave/Karit has developed a skillset that encompasses various disciplines in the information security domain. Dave currently works as a Penetration Tester at ZX Security in Wellington and runs KÄ�kÄ�con.
+**Dave Robinson -** In his time working in various parts of the IT industry, Dave/Karit has developed a skillset that encompasses various disciplines in the information security domain. Dave currently works as a Penetration Tester at ZX Security in Wellington and runs Kākācon.
 
 Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Village @ DefCon, BSidesCBR, ChCon, Unrestcon and at numerous local Meetups; along with running training at Kiwicon, Syscan, CrikeyCon and TuskCon. He also has a keen interest in aerospace, lock-picking and all things wireless. Twitter: [@nzkarit](https://twitter.com/nzkarit) 
 
@@ -402,8 +420,11 @@ Since joining ZX Security Dave has presented at DefCon, Kiwicon, Aerospace Villa
 Room 115 (upstairs)   
 Sat 10:55am
 
-*Mert Can CoÅŸkuner - Trendyol*   
+*Mert Can Coşkuner - Trendyol*   
 Remote Presentation   
+
+*Slide Deck coming soon*
+[Video](https://youtu.be/1GHESuk_Iz0) (YouTube, 30:12)
 
 #### Abstract
 
@@ -424,7 +445,7 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 
 #### Speaker Biography
 
-**Mert Can CoÅŸkuner, MSc** is a Senior Security Engineer at Trendyol. He publishes a security blog at [mcoskuner.medium.com](https://mcoskuner.medium.com){: target="_blank"} and has spoken at various high end security events about red team, threat intelligence and malware analysis.
+**Mert Can Coşkuner, MSc** is a Senior Security Engineer at Trendyol. He publishes a security blog at [mcoskuner.medium.com](https://mcoskuner.medium.com){: target="_blank"} and has spoken at various high end security events about red team, threat intelligence and malware analysis.
 
 -----------
 
@@ -432,6 +453,9 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 *Petra Smith - Aura Information Security*   
 Room 115 (upstairs)   
 Sat 9:45am
+
+*Slide Deck coming soon*
+[Video](https://youtu.be/r0wuo29noLg) (YouTube, 24:21)
 
 #### Abstract
 
@@ -458,6 +482,9 @@ If your team's worst-case scenario plan is to hope it never happens, this talk i
 Room 098 (downstairs)   
 Sat 10:55am
 
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/IwtTkzIvdhg) (YouTube, 33:03)   
+
 #### Abstract
 
 This talk will discuss some soft skills and issues surrounding the need for awareness of mental wellbeing of people in the community. A lot of people suffer in silence. We would like to encourage this to be talked about!
@@ -478,13 +505,13 @@ Room 115 (upstairs)
 Fri 1:30pm
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/rLd2KZhpCz8) (YouTube, 43:03)   
+[Video](https://youtu.be/rLd2KZhpCz8) (YouTube, 43:03)   
 
 #### Abstract
 
 The Open Web Application Security Project (OWASP) boasts over 130 active Projects, whose volunteers have developed tools and resources covering nearly every aspect of application security and software assurance. The challenge lies in knowing what they are, where to find them, and how they can help.
 
-John will present a brief overview of an array of interesting and useful OWASP Projects, including all of the current Flagship Projects, and provide insights into how each can be used to build and improve your AppSec program.
+John will present a brief overview of an array of interesting and useful OWASP Projects, including the current Flagship Projects, and provide insights into how each can be used to build and improve your AppSec program.
 
 #### Speaker Biography
 
@@ -502,7 +529,7 @@ Room 115 (upstairs)
 Fri 3:25pm
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/HIlvbwrzoLw) (YouTube, 49:07)   
+[Video](https://youtu.be/HIlvbwrzoLw) (YouTube, 49:07)   
 
 #### Abstract
 
@@ -521,7 +548,7 @@ Room 115 (upstairs)
 Fri 2:25pm
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/F4WZpWHpVVU) (YouTube, 30:30)   
+[Video](https://youtu.be/F4WZpWHpVVU) (YouTube, 30:30)   
 
 #### Abstract
 
@@ -549,7 +576,7 @@ Room 098 (downstairs)
 Fri 4:20pm
 
 *Slide Deck Coming Soon*   
-[Recording]() (YouTube, )   
+[Video](https://youtu.be/ZR9T3GbbqV4) (YouTube, 22:02)   
 
 #### Abstract
 
@@ -567,6 +594,9 @@ Stephen has worn many hats, he has been an impeccably witty: Penetration Tester,
 *Kate Pearce and Chloe Ashford- Trade Me*   
 Room 115 (upstairs)   
 Sat 3:25pm
+
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/zEdH_8xE6GY) (YouTube, 27:06)   
 
 #### Abstract
 
@@ -594,6 +624,9 @@ Remote Presentation
 Room 098 (downstairs)   
 Sat 3:25pm
 
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/_nNqzX5u098) (YouTube, 29:55)   
+
 #### Abstract
 
 In our quest to secure all the things, do we jump in too quickly? We'll use **Istio** and **Linkerd** as example service meshes, and look at the features we would expect from a service mesh. You'll leave with a concrete understanding of the service mesh, and be ready to justify the investment.
@@ -617,7 +650,7 @@ Room 115 (upstairs)
 Fri 4:20pm
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/8Kx9VGES8vE) (YouTube, 32:38)   
+[Video](https://youtu.be/8Kx9VGES8vE) (YouTube, 32:38)   
 
 #### Abstract
 
@@ -642,7 +675,7 @@ Room 115 (upstairs)
 Fri 10:00am
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/nQoQzUQ-X1U) (YouTube, 28:46)
+[Video](https://youtu.be/nQoQzUQ-X1U) (YouTube, 28:46)
 
 #### Abstract
 
@@ -678,6 +711,9 @@ With a background in development and many years of experience in security, he ha
 Room 115 (upstairs)   
 Sat 10:20am
 
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/I42JOT4j9wk) (YouTube, 24:13)   
+
 #### Abstract
 
 How can you say you have a risk programme in place for information security without a pre-agreed scale of business harm? Publish the scale and watch security arguments disappear like magic! It can be a simple one-pager with rows for key stakeholders and 4 to 6 columns for the business impact.
@@ -692,6 +728,9 @@ How can you say you have a risk programme in place for information security with
 *Rohit Sharma - Medical IT Advisors*
 Room 098 (downstairs)
 Sat 11:30am
+
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/35h8TZweYAM) (YouTube, 19:21)   
 
 #### Abstract
 
@@ -715,6 +754,9 @@ This presentation will give a brief overview of why web application vulnerabilit
 *Nick Lauder - Quantum Security*   
 Room 115 (upstairs)   
 Sat 11:30am
+
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/5GKcGXPwi04) (YouTube, 42:53)   
 
 #### Abstract
 
@@ -750,7 +792,7 @@ Room 098 (downstairs)
 Fri 11:45am
 
 *Slide Deck Coming Soon*   
-[Recording](https://youtu.be/5kzgYSmh9qI) (YouTube, 20:24)   
+[Video](https://youtu.be/5kzgYSmh9qI) (YouTube, 20:24)   
 
 #### Abstract
 
@@ -774,6 +816,9 @@ Sam's other areas of interest include network penetration testing, 3D printing, 
 *Kirk Jackson - RedShield*   
 Room 115 (upstairs)   
 Sat 1:30pm
+
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/Do4NJfxIkMM) (YouTube, 40:53)   
 
 #### Abstract
 
@@ -799,6 +844,9 @@ Kirk worked as a web developer before switching to the defence team - setting up
 *Moss Lilley - Xero*   
 Room 115 (upstairs)   
 Sat 4:00pm
+
+*Slide Deck Coming Soon*   
+[Video](https://youtu.be/JYo69bobNLM) (YouTube, 31:54)   
 
 #### Abstract
 

@@ -345,6 +345,8 @@ nav_order: 4
     <td colspan="3" style="background-color: #D98B66; text-align: center;">
       <strong>Wrap Up - Closing Remarks, Recognition, Prize Giving</strong>
       <br />
+      <a href="https://youtu.be/ZejZZYkpaGg" target="YouTube">Video</a> (YouTube, 24:21)
+      <br />
       <em>Post-Conference: Time to go out and socialise, for those interested</em>
     </td>
   </tr>
