@@ -55,7 +55,7 @@ Remote Presentation
 Room 098 (downstairs)   
 Fri 3:25pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](https://bendechrai.github.io/authorised-not-yes-no-question/){: target="slides" } (External Site)   
 [Video](https://youtu.be/bZyRFBW2Gno) (YouTube, 48:48)
 
 #### Abstract
@@ -146,7 +146,7 @@ Talk to her about cats, coffee, hoodies, fonts, or who is the best pony and why 
 Room 098 (downstairs)   
 Fri 10:35am
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Lilley-Bug_Hunting_with_SAST-AppSecNZ_2021.pdf) (PDF, 5.2MB)   
 [Video](https://youtu.be/kenbfWf7D7I) (YouTube, 19:29)   
 
 #### Abstract
@@ -170,7 +170,7 @@ Room 098 (downstairs)
 Sat 1:30pm
 
 *Slide Deck Coming Soon*   
-[Video]() (YouTube, )   
+[Video](https://youtu.be/hJs0AE5_jqU) (YouTube, 47:00)   
 
 #### Abstract
 
@@ -193,7 +193,7 @@ This is where Azure API Management comes in, where we can create a repository of
 Room 098 (downstairs)   
 Fri 2:25pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](https://speakerdeck.com/binarymist/building-purpleteam-a-security-regression-testing-saas-from-poc-to-alpha){: target="slides" } (External Site)   
 [Video](https://youtu.be/0RFmweM7bwM) (YouTube, 27:23)   
 
 #### Abstract
@@ -227,7 +227,7 @@ Kim is also a regular blog poster at [http://blog.binarymist.net](http://blog.bi
 Room 098 (downstairs)   
 Sat 4:00pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Isaacson-Camera_Obscura-AppSecNZ_2021.pdf) (PDF, 3.8MB)   
 [Video](https://youtu.be/2pIBMpll2AE) (YouTube, 31:34)   
 
 #### Abstract
@@ -265,8 +265,8 @@ This talk covers a defenders experience and the lessons you can learn protecting
 Room 098 (downstairs)   
 Sat 9:45am
 
-*Slide Deck Coming Soon*   
-[Video]() (YouTube, )   
+[Slide Deck](/assets/presentations/Fitzgerald-Ethical_Issues_with_Gamification-AppSecNZ_2021.pdf) (PDF, 4.2MB)   
+[Video](https://youtu.be/hB3fJ7p-UdQ) (YouTube, 26:20)   
 
 #### Abstract
 
@@ -283,7 +283,7 @@ Gamification is the application of game-design elements and game principles in n
 Room 098 (downstairs)   
 Sat 2:25pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Cotterell-Federated_Logins-AppSecNZ_2021.pdf) (PDF, 3.2MB)   
 [Video](https://youtu.be/4m8WvF-hzQs) (YouTube, 25:05)   
 
 #### Abstract
@@ -399,7 +399,7 @@ She's an avid snowboarder and mountain biker with her human and fur family in th
 Room 098 (downstairs)   
 Fri 10:00am
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Robinson-Hackers_View_of_DoS_Attacks-AppSecNZ_2021.pdf) (PDF, 3.8MB)   
 [Video](https://youtu.be/uLUrcG_gqxY) (YouTube, 28:45)   
 
 #### Abstract
@@ -454,7 +454,7 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 Room 115 (upstairs)   
 Sat 9:45am
 
-*Slide Deck coming soon*
+[Slide Deck](/assets/presentations/Smith-Incident_Response_Plan_that_Saved_Christmas-AppSecNZ_2021.pdf) (PDF, 11.8MB)
 [Video](https://youtu.be/r0wuo29noLg) (YouTube, 24:21)
 
 #### Abstract
@@ -482,7 +482,7 @@ If your team's worst-case scenario plan is to hope it never happens, this talk i
 Room 098 (downstairs)   
 Sat 10:55am
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Davenport_and_Spector-Mental_Well-Being-AppSecNZ_2021.pdf) (PDF, 2.0MB)    
 [Video](https://youtu.be/IwtTkzIvdhg) (YouTube, 33:03)   
 
 #### Abstract
@@ -504,7 +504,7 @@ Daniel is public about both these facts and appreciates his awesome employer, [A
 Room 115 (upstairs)   
 Fri 1:30pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/DiLeo-Leveraging_OWASP_Projects-AppSecNZ_2021.pdf) (PDF, 1.8MB)   
 [Video](https://youtu.be/rLd2KZhpCz8) (YouTube, 43:03)   
 
 #### Abstract
@@ -575,7 +575,7 @@ John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) 
 Room 098 (downstairs)   
 Fri 4:20pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Morgan-Payment_Gateways-AppSecNZ_2021.pdf) (PDF, 2.1MB)   
 [Video](https://youtu.be/ZR9T3GbbqV4) (YouTube, 22:02)   
 
 #### Abstract
@@ -649,7 +649,7 @@ Remote Presentation
 Room 115 (upstairs)   
 Fri 4:20pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Singh-Human-Led_Approach_to_Software_Security-AppSecNZ_2021.pdf) (PDF, 3.1MB)   
 [Video](https://youtu.be/8Kx9VGES8vE) (YouTube, 32:38)   
 
 #### Abstract
@@ -755,7 +755,7 @@ This presentation will give a brief overview of why web application vulnerabilit
 Room 115 (upstairs)   
 Sat 11:30am
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Lauder-Web_Apps-Hardening_Too_Hard-AppSecNZ_2021.pdf) (PDF, 1.1MB)   
 [Video](https://youtu.be/5GKcGXPwi04) (YouTube, 42:53)   
 
 #### Abstract
@@ -817,7 +817,7 @@ Sam's other areas of interest include network penetration testing, 3D printing, 
 Room 115 (upstairs)   
 Sat 1:30pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Jackson-Your_Browser_Wants_You_to_Be_Secure-AppSecNZ_2021.pdf) (PDF, 530kB)   
 [Video](https://youtu.be/Do4NJfxIkMM) (YouTube, 40:53)   
 
 #### Abstract
@@ -845,7 +845,7 @@ Kirk worked as a web developer before switching to the defence team - setting up
 Room 115 (upstairs)   
 Sat 4:00pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Lilley-Zero_to_OSCP-AppSecNZ_2021.pdf) (PDF, 4.7MB)   
 [Video](https://youtu.be/JYo69bobNLM) (YouTube, 31:54)   
 
 #### Abstract
