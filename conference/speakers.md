@@ -591,7 +591,7 @@ Stephen has worn many hats, he has been an impeccably witty: Penetration Tester,
 -----------
 
 ### Red vs. Blue: Which Grass Is Greener?   
-*Kate Pearce and Chloe Ashford- Trade Me*   
+*Kate Pearce and Chloe Ashford - Trade Me*   
 Room 115 (upstairs)   
 Sat 3:25pm
 
