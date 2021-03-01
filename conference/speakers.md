@@ -595,7 +595,7 @@ Stephen has worn many hats, he has been an impeccably witty: Penetration Tester,
 Room 115 (upstairs)   
 Sat 3:25pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Pearce_and_Ashford-Red_vs_Blue-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.1MB)   
 [Video](https://youtu.be/zEdH_8xE6GY){: target="videos" } (YouTube, 27:06)   
 
 #### Abstract
