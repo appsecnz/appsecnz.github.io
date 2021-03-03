@@ -528,7 +528,7 @@ In his "free time," John does a few things in the global OWASP community - he's 
 Room 115 (upstairs)   
 Fri 3:25pm
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Coates-InfoSec_Policy-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.3MB)   
 [Video](https://youtu.be/HIlvbwrzoLw){: target="videos" } (YouTube, 49:07)   
 
 #### Abstract
@@ -711,7 +711,7 @@ With a background in development and many years of experience in security, he ha
 Room 115 (upstairs)   
 Sat 10:20am
 
-*Slide Deck Coming Soon*   
+[Slide Deck](/assets/presentations/Coates-Agreed_Scale-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.0MB)   
 [Video](https://youtu.be/I42JOT4j9wk){: target="videos" } (YouTube, 24:13)   
 
 #### Abstract
