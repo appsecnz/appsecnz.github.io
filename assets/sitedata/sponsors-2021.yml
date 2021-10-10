@@ -1,0 +1,135 @@
+# Definitions for this file
+# active: true if the company is an active sponsor, false otherwise - Set to false, to preload info before agreement signed
+# level: 1 = Diamond, 2 = Platinum, 3 = Gold, 4 = Silver, 5 = Bronze, 6 = Supporting, for others enter exact description, including 'Sponsor'
+# name: name of company
+# image: relative URL to the logo image
+# url: url of the company website
+# description: description of the company
+- active: true
+  level: 2
+  name: Datacom
+  image: /assets/images/Datacom-Primary-Logo-RGB.svg
+  url: https://datacom.com/
+  description: |-
+    Choose us.
+    </p>
+    <p>
+    Senior executives are having to deal with increasing complexity when it comes to decision 
+    making – their careful consideration process makes them risk averse.
+    </p>
+    <p>
+    <strong>They need assurances.</strong>
+    </p>
+    <p>
+    Datacom's legacy and brand reputation in NZ does just that. With decades of experience, we 
+    are not the new kid on the block – we are the mature and trusted partner with the highest 
+    industry certifications. And it's precisely that knowledge and expertise that make Datacom 
+    the perfect networks and security partner.
+    </p>
+    <p>
+    <strong>There isn't a safer pair of hands to secure the future of your business.
+    </strong>
+- active: true
+  level: 2
+  name: Quantum Security
+  image: /assets/images/Logo-Quantum_Security-125.png
+  url: https://www.quantumsecurity.co.nz/
+  description: Founded in 2014 Quantum Security Services aims to provide excellence throughout our engagement process. We utilise only the best personnel available in the market to ensure our clients receive the best. We engage our clients throughout and provide comprehensive and readable reports.</p><p>Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, experienced account managers, and a dedicated management team with a passion for information security.</p><p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from all round the world.
+- active: true
+  level: 3
+  name: ATTACK (A DEFEND Group Company)
+  image: /assets/images/Logo-Attack.svg
+  url: https://www.attack.co.nz/
+  description: DEFEND/ATTACK are a proven and award winning cybersecurity company supporting both New Zealand and Global Organisations of National Significance.</p><p>We focus on a number of verticals that includes Government, Enterprise, Commercial, Health, Utilities, Manufacturing, Service Providers along with a deep dive into IT/OT convergence to protect critical infrastructure and services that keep our country and customers operating.</p><p>ATTACK is part of the DEFEND Group of companies specialised in the delivery of a holistic suite of cybersecurity services to customers, ranging across assessment, application design, secure code, build, test and proactively secure & manage.</p><p>ATTACK delivers external, independent technical risk assurance and provides a full range of specialised security testing to New Zealand companies and organisations with a global reach.</p><p>ATTACK is dedicated to provide meaningful remediation advice with the focus on implementing mitigations and improving processes with our customers to enable faster business growth and speed to market.</p><p>We are based in Auckland, Wellington, and the Midland Regions supporting New Zealand, as well as International organisations.
+- active: true
+  level: 3
+  name: Aura Information Security 
+  image: /assets/images/Logo-Aura_Information_Security-125.jpg
+  url: https://www.aurainfosec.com/
+  description: Aura Information Security is a leading provider of information security consulting services to corporates and governments in Australia and New Zealand.</p><p>Aura’s focus is to provide the very best independent security advice and support to businesses, so that their digital world is more secure, reliable and resilient.</p><p>Aura was awarded ‘Best Security Company’ at the Information Security (iSANZ) awards in two consecutive years, 2017 and 2018. 
+- active: true
+  level: 3
+  name: Insomnia Security Specialists  
+  image: /assets/images/Logo-Insomnia_Security_Specialists-125.png
+  url: https://www.insomniasec.com
+  description: Founded in 2007, Insomnia Security is a team of more than thirty IT professionals, including a consultancy team with well over 75 years combined experience in commercial, offensive security.</p><p>With offices in Auckland, Wellington and Melbourne, as well as global partners around the world, we are well positioned to provide penetration testing and other IT security services to our clients. Understanding the subtle differences in IT security testing that companies require, the team at Insomnia Security are experienced in tailoring services to meet the scope and requirements of our customers.</p><p>Specialising in offensive security testing services, our teams regularly attend specialist training and conduct in-house research and tool development, ensuring that they are always aware of current attacks and exploitation techniques. With a range of services to cover most technical security testing requirements, Insomnia Security are the team to help you rest secured.
+- active: true
+  level: 3
+  name: MYOB 
+  image: /assets/images/MYOB_Logo.png
+  url: https://www.myob.com/nz
+  description: |-
+    MYOB is a leading business management platform with a core purpose of helping more businesses in New Zealand and Australia start, survive and succeed.</p><p>At the heart of our business is a customer base of 1.2 million businesses and a network of 40,000 partner accountants and bookkeepers, for whom MYOB delivers intelligent end-to-end business and accounting solutions.</p><p>MYOB offers solutions across four key segments: Small and Medium Enterprises (SME), Enterprise, Financial Services and Practice. For more information, visit us at myob.com.""
+- active: true
+  level: 3
+  name: Pulse Security 
+  image: /assets/images/Logo-Pulse_Security.png
+  url: https://pulsesecurity.co.nz/
+  description: Pulse Security is a specialist information security consultancy.</p><p>We're here to help your business stay protected from adversaries.
+- active: true
+  level: 3
+  name: Secure Code Warrior
+  image: /assets/images/Logo-Secure_Code_Warrior.png
+  url: https://securecodewarrior.com/
+  description: Secure Code Warrior was co-founded by Pieter Danhieux and Matias Madou Ph.D., two globally recognised security experts. Through their combined security experience as developers, researchers, trainers and consultants, Pieter and Matias had experienced the negative impact of insecure code and were frustrated by the industry's focus on simply finding vulnerabilities, rather than fixing or preventing them in the first place.</p><p>Both recognised that improving secure coding skills and outcomes would add a powerful layer of cyber protection for companies and would help them make better code, faster. Developers didn’t need to become security experts per se, but they could be empowered positively to be the first line of defence for their organisation.</p><p>The team pioneered an innovative approach to improving secure coding skills and outcomes that is simple, scalable and positive; and works for both Development and Application or Information Security groups. The team is driven by the knowledge that measurable improvements in security compliance, consistency and predictability will be matched by a better quality and speed of code writing. And that creates an environment in which everyone can enjoy spending more time building, and less time fixing!
+- active: true
+  level: 3
+  name: Vocus
+  image: /assets/images/Vocus_Brandmark_RGB_Navy.png
+  url: https://vocus.co.nz/
+  description: Vocus New Zealand has more than 23 years’ experience connecting New Zealand companies with the best telecommunication solutions. Vocus has invested significantly in infrastructure and has over 4,200km of fibre in the ground which enables the delivery of sophisticated, high-performance network solutions throughout the country. The reach of the network extends internationally across both the Southern Cross and Hawaiki cable systems with an on-net presence throughout Australia.</p><p>We specialise in delivering solutions that work, by making things better, simpler, easier. 
+- active: true
+  level: 3
+  name: ZX Security 
+  image: /assets/images/Logo-ZX_Security-150.png
+  url: https://zxsecurity.co.nz/
+  description: ZX Security is a penetration testing company with head offices located in Wellington. Our team conduct a variety of assessments from web application and mobile reviews through to targeted phishing campaigns and red team engagements.
+- active: true
+  level: 4
+  name: Flux Federation
+  image: /assets/images/Logo-Flux_Federation-125.png
+  url: https://www.fluxfederation.com/
+  description: <strong>Flux Federation is a global technology company known for creating software products and experiences for innovative energy retailers throughout the world, including Powershop and a number of other leading energy retail brands.</strong></p><p>Our platform was purpose built by people who have experience running energy companies, so we know it works. Flux is a subsidiary of Meridian Energy, New Zealand's largest energy generator and its fourth-largest retailer. We're a team of around 150 software developers, test analysts, designers, customer experience, and product people.
+- active: true
+  level: 4
+  name: Internet NZ 
+  image: /assets/images/Logo-Internet_NZ-Cropped.png
+  url: https://internetnz.nz/
+  description: <strong>Our vision</strong> - An Internet that is open, secure, and for all New Zealanders.</p><p><strong>Our purpose</strong> - Helping New Zealanders harness the power of the Internet.</p><p><strong>Our values</strong><ul><li>We have each other’s back.</li><li>We’re constantly curious.</li><li>We all have a part to play.</li><li>We walk the talk.</li></ul>
+- active: true
+  level: 4
+  name: Lateral Security 
+  image: /assets/images/Logo-Lateral_Security-125.png
+  url: https://www.lateralsecurity.com/
+  description: |-
+    Lateral Security is New Zealand’s leading independent IT security company providing tailored information security testing 
+    and advisory services.
+    </p>
+    <p>
+    Directors Nick von Dadelszen and Ratu Mason founded Lateral Security in 2008 after seeing the need for an independent 
+    ICT security services company that uses a highly specialised team of management (advisory) and technical (testing)
+    security consultants. The Directors value quality over quantity and this is reflected in every process within the 
+    business which is designed to provide business level actionable outcomes for our clients.
+    </p>
+    <p>
+    Lateral Security has 30 staff in offices located in Wellington, Auckland, Christchurch and relationships with service 
+    providers in Canada and the United States.
+    </p>
+    <p>
+    Clients include businesses and government agencies with the toughest security compliance requirements, including those 
+    in the financial services and telecommunications.
+    </p>
+    <p>
+    Our company vision: "To improve the IT security and safety of our customers and all New Zealanders"
+- active: true
+  level: 4
+  name: Security Initiative (SecInit)
+  image: /assets/images/Logo-Security_Initiative.png
+  url: https://security-initiative.co.jp/
+  description: Security Initiative is a security consulting firm specializing in threat-led penetration testing and application vulnerability assessment for various enterprise environments, including the financial sector based in Japan. SecInit delivers continuous security consulting that's individually tailored to the client, based on the results of penetration tests. Tests are conducted by highly qualified information security experts, following the principle of "Genchi Genbutsu" (collecting facts and data at the actual site of the work or problem). The company also supports and contributes to the local OWASPs community - the company's CEO is a current Chapter Leader in the OWASP Sendai Chapter.
+- active: true
+  level: 4
+  name: SEQA Information Security
+  image: /assets/images/Logo-SEQA-150.png
+  url: https://www.seqa.co.nz/
+  description: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
