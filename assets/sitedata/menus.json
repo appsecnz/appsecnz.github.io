@@ -1,0 +1,114 @@
+{
+	"menus": [
+		{
+			"title": "HOME",
+			"url": "/"
+		},
+		{
+			"title": "2022 CONFERENCE",
+			"url": "/conference",
+			"items": [
+			{
+				"title": "Conference Home Page",
+				"url": "/conference"
+			},
+			{
+				"title": "Call for Sponsors",
+				"url": "/conference/sponsorship.html"
+			},
+			{
+				"title": "Call for Trainers",
+				"url": "/conference/cfp_cft.html"
+			},
+			{
+				"title": "Diversity Fund",
+				"url": "/conference/diversity_fund.html"
+			},
+			{
+				"title": "Code of Conduct",
+				"url": "/conference/conduct.html"
+			},
+			{
+				"title": "Volunteers",
+				"url": "/conference/volunteers.html"
+			},
+			{
+				"title": "International Attendees",
+				"url": "/conference/international.html"
+			}
+			]
+		},
+		{
+			"title": "2021 CONFERENCE",
+			"url": "/conference-2021",
+			"items": [
+			{
+				"title": "Conference Home Page",
+				"url": "/conference-2021"
+			},
+			{
+				"title": "Conference Schedule",
+				"url": "/conference-2021/schedule.html"
+			},
+			{
+				"title": "Speakers and Abstracts",
+				"url": "/conference-2021/speakers.html"
+			},
+			{
+				"title": "Demos/Breakouts",
+				"url": "/conference-2021/breakouts.html"
+			},
+			{
+				"title": "Pre-Conference Training",
+				"url": "/conference-2021/training.html"
+			},
+			{
+				"title": "About Our Sponsors",
+				"url": "/conference-2021/sponsors.html"
+			},
+			{
+				"title": "Diversity Fund",
+				"url": "/conference-2021/diversity_fund.html"
+			},
+			{
+				"title": "Code of Conduct",
+				"url": "/conference-2021/conduct.html"
+			},
+			{
+				"title": "Sponsorship Programme",
+				"url": "/conference-2021/sponsorship.html"
+			},
+			{
+				"title": "Volunteers",
+				"url": "/conference-2021/volunteers.html"
+			},
+			{
+				"title": "International Attendees",
+				"url": "/conference-2021/international.html"
+			}
+			]
+		},
+		{
+			"title": "ABOUT",
+			"url": "/about",
+			"items": [
+			{
+				"title": "About AppSec NZ",
+				"url": "/about"
+			},
+			{
+				"title": "About OWASP NZ",
+				"url": "/about/owaspnz.html"
+			},
+			{
+				"title": "Policies",
+				"url": "/about/policies.html"
+			},
+			{
+				"title": "Contact Us",
+				"url": "/about/contact.html"
+			}
+			]
+		}
+	]
+}
