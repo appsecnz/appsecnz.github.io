@@ -4,7 +4,7 @@ layout: conference-2022/full-width
 tags: owaspnz22
 ---
 
-[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference-2022/)   
+[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
@@ -18,34 +18,34 @@ is unique among New Zealand security conferences, in that it's entirely dedicate
 Due to scheduling conflicts at the University of Auckland, we have been unable to secure our usual venue. In 2022 and 2023, 
 we'll be hosted at the Auckland University of Technology's city campus, in the Sir Paul Reeves (WG) Building. The shift to our alternative venue has both increased our costs and reduced the event's capacity (assuming COVID Alert Level 1) from 1,000 to 750.
 
-We strive to keep the costs for attendees low, and provide financial support for students, unwaged, and members of under-represented groups. Thanks to the continuing generosity of our Premier Sponsors, we have been able to consistently deliver an  instructive, high-quality event for the New Zealand community. AppSec New Zealand is strictly not for profit and is a registered New Zealand charity (Charity Number CC59162). Sponsorship funds are used to make the OWAS New Zealand Day conference a compelling and valuable experience for all attendees.
+We strive to keep the costs for delegates low, and provide financial support for students, unwaged, and members of under-represented groups. Thanks to the continuing generosity of our Premier Sponsors, we have been able to consistently deliver an  instructive, high-quality event for the New Zealand community. AppSec New Zealand is strictly not for profit and is a registered New Zealand charity (Charity Number CC59162). Sponsorship funds are used to make the OWAS New Zealand Day conference a compelling and valuable experience for all delegates.
 
 Sponsorship funds collected are used for things such as:
 
 * **Venue -** Room use and on-site management fees
-* **Name tags -** We feel that getting to know people within the New Zealand community is important, and name tags make that possible
+* **Delegate Badges -** We feel that getting to know people within the New Zealand community is important, and name tags make that possible
 * **Promotion -** We would like to reach a wider audience, by utilising paid advertising and online promotion for the event
-* **Printed Materials -** Printed materials will include participant badges (with agenda information), and information and room signage
+* **Printed Materials -** Printed materials will include conference programs, badge lanyards, delegate tote bags, volunteer and delegate t-shirts, and information and room signage
 * **Recognition Items -** We love our speakers and trainers, and wish to show them our appreciation with small gifts
 * **Catering -** To promote a collegial environment for networking among application security professionals, we're scheduling three (3) catered tea breaks
-* **Administration -** While we do our best to keep administrative and operating costs low, we do need to cover ongoing expenses, such as insurance, accounting services, and storage fees
+* **Administration -** While we do our best to keep day-to-day administrative and operating costs low, we do need to cover ongoing expenses such as insurance, accounting services, and storage fees
 
-With the addition of a second conference day and its two associated tea breaks, along with year-on-year increases to service fees and catering charges, the overall budget for this year's conference is approximately 35% larger than for last year's OWASP New Zealand Day event. The rates for our Premier Sponsorship packages have increased accordingly, to help us meet this ambitious funding target.
+With the change of venue, along with year-on-year increases to service fees and catering charges, the overall budget for this year's conference is approximately 25% larger than for last year's AppSec New Zealand Conference event. The rates for our existing Premier Sponsorship packages have been increased only slightly; the bulk of the increase will be covered by other changes we've made (delegate registration fees, revised training fee structure, etc.).
 
 ## Facts
 
-The 2021 OWASP New Zealand Day was supported by 13 premier sponsors and attracted more than 800 attendees. For more information on the last New Zealand Day event, please visit [the conference website](https://owasp.org/www-event-2020-NewZealandDay/). 
+The 2020 OWASP New Zealand Day was supported by 13 premier sponsors and attracted more than 800 delegates. For more information on previous OWASP New Zealand Day events, please visit the OWASP New Zealand Chapter's [website](https://owasp.org/www-chapter-new-zealand/). 
 
-Attendance for the first AppSec New Zealand Conference, in February 2021, was a bit lower with approximately 650 attendees. Considering it was our first event under the new name, our first attempt at hosting a two-day conference - *and* the event ended just 30 hours before Auckland's first "snap lockdown" - we consider the event a great success.
+Attendance for the first [AppSec New Zealand Conference](/conference-2021), in February 2021, was a bit lower, with approximately 650 delegates attending in person. 2021 also marked our first experience with live-streaming the event, with approximately 300 live-stream registrations. Considering it was our first event under the new name, our first attempt at hosting a two-day conference - *and* the event ended just 30 hours before Auckland's first "snap lockdown" - we consider the event a great success. Those constraints notwithstanding, the AppSec New Zealand Conference was supported by 15 Premier Sponsors, which allowed us to provide travel and training assistance to 33 delegates, 
 
 The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Web Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand ([owasp.org.nz](https://owasp.org.nz)). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
 ([sign up](https://lists.owasp.org/mailman/listinfo/owasp-newzealand)). 
 
-AppSec conferences' regular attendees include IT project managers, IT security managers,
+Those who regularly attend AppSec conferences include IT project managers, IT security managers,
 IT security consultants, Web application architects and developers, QA
 managers, QA testers and system administrators.
 
-Throughout its 12 years of operation under the local OWASP chapter, the OWASP New Zealand Day conference attracted more than 90% of its attendees and presenters from within New Zealand. Given the likelihood border restrictions will continue in place next February, we anticipate few or no attendees or presenters from outside New Zealand this year. Nonetheless, we anticipate pre-registrations for the conference will once again sell out, and on-the-day attendance will be between 650 and 750.
+Throughout its 12 years of operation under the local OWASP chapter, the OWASP New Zealand Day conference attracted more than 90% of its delegates and presenters from within New Zealand. Given the likelihood border restrictions will continue in place next February, we anticipate few or no delegates or presenters from outside New Zealand this year. Nonetheless, we anticipate pre-registrations for the conference will once again sell out, and on-the-day attendance will be between 650 and 750.
 
 ## About AppSec New Zealand
 
@@ -73,7 +73,7 @@ This year, we've made a few adjustments to our Premier Sponsorship packages, to 
 
 ### Lego Build and Video Sponsorship
 
-In addition to the tiered sponsorship packages detailed below, we've introduced an exciting new *a la carte* opportunity this year: A Lego Build Sponsorship! For the 2022 conference, we're adding an Attendee Lounge, adjacent to the Sponsor Exhibition Area. In the Attendee Lounge, conference participants will be able to take part in a group build of a Lego Star Destroyer [Lego Set #75252](https://www.lego.com/en-nz/product/imperial-star-destroyer-75252). 
+In addition to the tiered sponsorship packages detailed below, we've introduced an exciting new *a la carte* opportunity this year: A Lego Build Sponsorship! For the 2022 conference, we're adding an Delegate Lounge, adjacent to the Sponsor Exhibition Area. In the Delegate Lounge, conference participants will be able to take part in a group build of a Lego Star Destroyer [Lego Set #75252](https://www.lego.com/en-nz/product/imperial-star-destroyer-75252). 
 
 Throughout the conference, the A/V team will capture time-sequenced photos of the build area, and will present a first-cut version of the stop-motion video during the closing session on Friday afternoon. The sponsor will be recognised at the beginning and end of the video, to be published on the OWASP New Zealand Chapter's [YouTube channel](https://www.youtube.com/channel/UCWjcSSETjqhzBlVxXTW1zhg) and promoted through social media.
 
@@ -93,13 +93,13 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Banner in Conference Lobby** (see notes)|**Yes (2)**|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (2)**|**Yes (1)**|No|No|No|
 |**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|**Yes**|No|**Yes**|
-|**Banner in Attendee Lounge** (see notes)|No|No|No|No|No|**Yes (2)**|
+|**Banner in Delegate Lounge** (see notes)|No|No|No|No|No|**Yes (2)**|
 |**Priority Demo Room Access**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Company Description on Conference Web Page**|**400 words**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
 |**Pre-Conference Reception Tickets**|**12**|**8**|**6**|**4**|**2**|**4**|
 |**Free Conference Passes** (see notes)|**30**|**20**|**15**|**10**|**5**|**10**|
 |**Training Credits** (see notes)|**16**|**12**|**8**|**4**|**2**|No|
-|**Logo on Attendee Badges**|**Yes**|**Yes**|**Yes**|No|No|No|
+|**Logo on Delegate Badges**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Logo on Conference T-Shirts**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Logo on Room Signs**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Logo on Conference Tote Bags**|**Yes**|**Yes**|**Yes**|**Yes**|No|**Yes**|
@@ -136,7 +136,7 @@ Our planning team is operating with the confident outlook that Auckland (and, ho
 
 In the event Auckland is at COVID Alert Level 2 or higher four (4) weeks before the conference (17 January) - or goes into an elevated Alert Level in the weeks preceding the event (18 January - 14 February) - we will postpone to our alternate dates (5-8 July). 
 
-If we are again (or still) at an elevated COVID Alert Level four weeks before our alternate dates (7 June), we will convert the event to either a hybrid (Alert Level 2) or fully online (Alert Level 3 or 4) event. We also intend to follow the example of other recent conferences, and deliver attendee packs (t-shirts, tote bags, promotional materials, etc.) to them via post - to that end, a portion of the catering budget will be redirected to packing and shipping those items.
+If we are again (or still) at an elevated COVID Alert Level four weeks before our alternate dates (7 June), we will convert the event to either a hybrid (Alert Level 2) or fully online (Alert Level 3 or 4) event. We also intend to follow the example of other recent conferences, and deliver delegate packs (t-shirts, tote bags, promotional materials, etc.) to them via post - to that end, a portion of the catering budget will be redirected to packing and shipping those items.
 
 Given a change in Alert Level can occur with little notice, and owing to the cancellation policies applying to many conference expenses, we anticipate some funds will be 'sunk' in fees for services we're unable to use - possibly including A/V and other charges related to Sponsor Exhibition booths. If we are forced to cancel the in-person event, we'll refund any portion of the Exhibition booth fee and optional A/V charges (see above) we're able to recover, up to 100%.
 
@@ -154,11 +154,11 @@ Our pre-conference training is planned to include a mix of half-day, one-day, an
   
 **Free Conference Passes:**
 
-For 2022, we have introduced a $30 per person registration fee for most attendees, while keeping the event FREE for students and unwaged attendees. For registered attendees, conference t-shirts will again be an optional purchase, at $10 each. 
+For 2022, we have introduced a $30 per person registration fee for most delegates, while keeping the event FREE for students and unwaged delegates. For registered delegates, conference t-shirts will again be an optional purchase, at $10 each. 
 
-Each sponsorship package includes a number of free conference passes (see table above). Each sponsor attendee will also receive free conference t-shirt.
+Each sponsorship package includes a number of free conference passes (see table above). Each sponsor delegate will also receive free conference t-shirt.
 
-To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide attendee information on or before Friday, 28 January. Nominees whose information is provided after 28 January cannot be guaranteed a t-shirt in the requested size.
+To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide delegate information on or before Friday, 28 January. Nominees whose information is provided after 28 January cannot be guaranteed a t-shirt in the requested size.
 
 **Sponsor Logos:**
 

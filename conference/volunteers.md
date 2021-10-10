@@ -5,7 +5,7 @@ tags: owaspnz22
 ---
 
 
-[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference-2022/){: style="width: 100%;" }   
+[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/){: style="width: 100%;" }   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 

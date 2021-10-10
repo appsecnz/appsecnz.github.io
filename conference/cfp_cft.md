@@ -4,7 +4,7 @@ layout:  conference-2022/full-width
 tags: owaspnz22
 ---
 
-[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference-2022/)   
+[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 

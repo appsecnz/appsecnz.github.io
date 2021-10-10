@@ -27,7 +27,7 @@ We're organised as an all-volunteer, non-profit society. Our primary purposes ar
 
 ### Upcoming Events
 
-* [OWASP New Zealand Day 2022](/conference-2022)
+* [OWASP New Zealand Day 2022](/conference)
 
 ### Past Events
 

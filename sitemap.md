@@ -10,13 +10,13 @@ permalink: /sitemap/
 
 ## OWASP New Zealand Day 2022
 
-* [OWASP New Zealand Day 2022](conference-2022/index.md)
-* [Call for Sponsors](conference-2022/sponsorship.md)
-* [Call for Trainers and Presenters](conference-2022/cfp_cft.md)
-* [Call for Volunteers](conference-2022/volunteers.md)
-* [Code of Conduct](conference-2022/conduct.md)
-* [About Our Sponsors](conference-2022/sponsors.md)
-* [International Attendees](conference-2022/international.md)
+* [OWASP New Zealand Day 2022](conference/index.md)
+* [Call for Sponsors](conference/sponsorship.md)
+* [Call for Trainers and Presenters](conference/cfp_cft.md)
+* [Call for Volunteers](conference/volunteers.md)
+* [Code of Conduct](conference/conduct.md)
+* [About Our Sponsors](conference/sponsors.md)
+* [International Attendees](conference/international.md)
 
 
 ## 2021 AppSec New Zealand Conference
