@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: conference-2021/full-width
 title: Classroom Training - Backdoors and Breaches
 description: Pre-Conference Training Class, 11 February - 2021 AppSec NZ Conference
-parent: Pre-Conference Training
-grand_parent: Home
-nav_order: 8
 ---
 
-[![Web Banner](/assets/images/Event_Banner_Graphic.png)](/conference/)   
+[![Web Banner](/assets/images/2021_Banner_Graphic.png)](/conference-2021/)   
 [Back to Pre-Conference Training Page](training.md)
 {: style="text-align: right; font-size: small;" }   
 [Back to Conference Home Page](index.md)

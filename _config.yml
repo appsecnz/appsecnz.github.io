@@ -1,7 +1,10 @@
-remote_theme: appsecnz/just-the-docs
+remote_theme: appsecnz/owaspnz-theme
 
 title: "AppSec NZ"
 color_scheme: "light"
 search_enabled: false
 
 url: "https://appsec.org.nz"
+
+plugins:
+  - jekyll-sitemap
