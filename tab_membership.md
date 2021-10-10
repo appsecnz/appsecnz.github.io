@@ -6,6 +6,8 @@ order: 20
 tags: appsecnz
 ---
 
+![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)
+
 # Join AppSec New Zealand
 
 ## Become a Member Today

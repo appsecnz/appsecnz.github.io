@@ -6,7 +6,7 @@ tags: appsecnz
 
 ![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)
 
-# AppSec New Zealand
+# AppSec New Zealand Incorporated
 
 ## Who Are We?
 
