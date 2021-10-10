@@ -114,12 +114,12 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
     **Virtual Campus Tour:** [Walkinto](https://walkinto.in/tour/bkBenXdUpbbyerlhm_IaZ)   
     
 **Stream One:** Level 4   
-**Room:** Lecture Theatre WG 403
-**Overflow:** 
+**Room:** Lecture Theatre WG 403   
+**Overflow:** Lecture Theatre WG 126   
 
 **Stream Two:** Level 2   
-**Room:** Lecture Theatre WA 220
-**Overflow:** 
+**Room:** Lecture Theatre WA 220   
+**Overflow:** Room WA 224B
 
 **Demo/Breakout Room:** Level 1   
 **Room:** Lecture Theatre WG 126
