@@ -23,3 +23,13 @@ We're organised as an all-volunteer, non-profit society. Our primary purposes ar
 * organise and conduct application security conferences, training, and other educational events; and
 * provide financial and other support for educational activities which advance awareness of, understanding of, and opportunities in application security.
 
+## Our Activities
+
+### Upcoming Events
+
+* [OWASP New Zealand Day 2022](/conference-2022)
+
+### Past Events
+
+* [2021 AppSec New Zealand Conference](/conference-2021)
+
