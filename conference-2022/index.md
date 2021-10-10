@@ -65,9 +65,9 @@ The Call for Training (CFT) will open on 15 October and the class schedule will 
 
 ### Training Registration Fees 
 
-* Half-day class: $275 per person
-* One-day class: $550 per person
-* Two-day class: $1,100 per person
+* Half-day class: $225 per person
+* One-day class: $450 per person
+* Two-day class: $900 per person
 
 Group registration discounts (single purchase):   
 * 6-10 attendees: 10% off

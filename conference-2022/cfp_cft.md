@@ -10,11 +10,11 @@ tags: owaspnz22
 
 # Pre-Conference Training
 
-## 2022 OWASP New Zealand Conference
+## OWASP New Zealand Day 2022
 
 ### Call for Training
 
-The official Call for Training (CFT) will open on 1 September and the class schedule will be published by 1 October. Proposals are invited for half-day, one-day, and two-day classes. 
+The official Call for Training (CFT) will open on 15 October and the class schedule will be published by 1 December. Proposals are invited for half-day, one-day, and two-day classes. 
 
 ### Registration Fees 
 
