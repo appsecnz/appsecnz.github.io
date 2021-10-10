@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: col-sidebar
 title: Home
-nav_order: 1
-has_children: true
+tags: appsecnz
 ---
 
 ![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)
@@ -25,4 +24,3 @@ In addition to the annual conference, AppSec NZ supports:
 * annual [security.ac.nz](https://security.ac.nz) conferences, at universities in Auckland and Wellington; 
 * occasional Training Day events, organised in collaboration with the OWASP New Zealand Chapter; and
 * other AppSec-related education and outreach activities, as resources and volunteer time permit.
-
