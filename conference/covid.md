@@ -57,4 +57,4 @@ On 7 June, four (4) weeks before the beginning of the conference on it's conting
 If the government announces a change in the COVID Alert Level for Auckland *during* the conference:
 
 * Unless prohibited, we'll finish out the current day's programme. Any increased masking or physical separation requirements will be enforced immediately.
-* The remainder of the event will be cancelled, to allow participants to travel home before travel restrictions go into effect.
+* The remainder of the event will be cancelled, to allow participants to make arrangements and get home before travel restrictions go into effect.
