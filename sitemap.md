@@ -12,6 +12,7 @@ permalink: /sitemap/
 
 * [OWASP New Zealand Day 2022](conference/index.md)
 * [Call for Sponsors](conference/sponsorship.md)
+* [COVID Contingency Plan](conference/covid.html)
 * [Call for Trainers and Presenters](conference/cfp_cft.md)
 * [Call for Volunteers](conference/volunteers.md)
 * [Code of Conduct](conference/conduct.md)
