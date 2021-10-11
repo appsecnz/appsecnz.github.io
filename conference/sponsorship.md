@@ -89,7 +89,8 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |Lego Build |
 |-------:|:--------:|:----------:|:------:|:--------:|:--------:|:---------:|
 |**Enrolment Limit**| 1 | 3 | 8 | -- | -- |1|
-|**General Rate**|$12,500|$7,500|$5,250|$3,750|$2,250|$4,500|
+|**Rate**|$12,500|$7,200|$5,250|$3,750|$2,250|$4,500|
+|**Exhibition Space Fee**|**Incl.**|$450|$350|$250|$250|*N/A*|
 |**Banner in Conference Lobby** (see notes)|**Yes (2)**|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (2)**|**Yes (1)**|No|No|No|
 |**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|**Yes**|No|**Yes**|
@@ -116,7 +117,7 @@ In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, 
 |-------:|:--------:|:----------:|:------:|:--------:|:--------:|
 |**Booth Size**|**30m<sup>2</sup>**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|**6m<sup>2</sup>**|
 |**Seating**|4 tables<br />8 chairs|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|1 table<br />2 chairs|
-|**Rate**|Incl.|Incl.|$350|$250|$250|
+|**Rate**|Incl.|$450|$350|$250|$250|
 
 The diagram below depicts the planned arrangement of exhibition spaces in the WG Building Atrium.
 
