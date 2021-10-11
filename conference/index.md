@@ -21,7 +21,7 @@ postal-code:
 
 We are proud to present the OWASP New Zealand Conference, to be held at the Auckland University of Technology (AUT) on Thursday and Friday, February 17th and 18th, 2022. and is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
 
-There will be two conference streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
+There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
 In addition to these principal streams, there will be a third, smaller "stream," supporting sponsor presentations, demos of OWASP tools, and interest/user group meetings. Diamond, Platinum, and Gold Sponsors will be given priority for time slots in this "stream." Further details will be published closer to the date, regarding opportunities for other groups to present.
 
@@ -55,7 +55,7 @@ Throughout the conference, an exhibition area will be open in the main atrium. R
 Early registration (on or before 31 January):   
 * $30, standard registration
 * **FREE**, for students and unwaged attendees
-* **$20** late registration fee applies from 1 February   
+* From 1 February, an additional **$20** late registration fee applies to all registrations   
 
 ## Training
 
