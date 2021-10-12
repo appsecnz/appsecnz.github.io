@@ -1,5 +1,5 @@
 ---
-title: Diversity Fund
+title: Diversity Fund - OWASP NZ Day
 layout: conference-2022/full-width
 tags: owaspnz22
 ---

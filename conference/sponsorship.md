@@ -1,5 +1,5 @@
 ---
-title: Call for Sponsorship
+title: Call for Sponsor - OWASP NZ Day
 layout: conference-2022/full-width
 tags: owaspnz22
 ---
@@ -97,6 +97,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Banner in Delegate Lounge** (see notes)|No|No|No|No|No|**Yes (2)**|
 |**Priority Demo Room Access**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Company Description on Conference Web Page**|**400 words**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
+|**Company *Spotlight* Description on Web Page**|**100 words**|**100 words**|**100 words**|**100 words**|No|**100 words**|
 |**Pre-Conference Reception Tickets**|**12**|**8**|**6**|**4**|**2**|**4**|
 |**Free Conference Passes** (see notes)|**30**|**20**|**15**|**10**|**5**|**10**|
 |**Training Credits** (see notes)|**16**|**12**|**8**|**4**|**2**|No|

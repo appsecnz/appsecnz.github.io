@@ -81,16 +81,11 @@ The OWASP New Zealand Day conference will be happening thanks to the support pro
 
 For any comments, feedback or observations, please don't hesitate to [contact us](mailto:conference@appsec.org.nz).
 
-**NOTES:** 
-
-* Registration for in-person and instructor-remote classes may close earlier, if all seats are filled. 
-* Some classes have minimum enrolment requirements, at the request of their instructors. If the minimum has not been reached as at 5 February, registered attendees will be offered the opportunity to switch to another class or receive a refund.
-
 Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 ## Important Dates
 
-* **CFP and CFT Open:**: 15 October 2021
+* **CFP and CFT Open:** 15 October 2021
 * **CFT Closes:** 15 November 2021
 * **CFP First-Round Cutoff:** 15 November 2021
 * **CFP Closes:** 31 December 2021

@@ -1,5 +1,5 @@
 ---
-title: CFP / CFT - OWASP NZ Day
+title: COVID - OWASP NZ Day
 layout:  conference-2022/full-width
 tags: owaspnz22
 ---
@@ -58,7 +58,9 @@ On 7 June, four (4) weeks before the beginning of the conference on it's conting
   
 ### Decision Stage Three - During the Event
 
-If the government announces a change in the COVID Alert Level for Auckland *during* the conference:
+If the conference is operating under COVID Alert Level 1, and the government announces a change in the Alert Level for Auckland *during* the conference:
 
 * Unless prohibited, we'll finish out the current day's programme. Any increased masking or physical separation requirements will be enforced immediately.
 * The remainder of the event will be cancelled, to allow participants to make arrangements and get home before travel restrictions go into effect.
+
+If the conference is operating under COVID Alert Level 2 (in July), and the government announces an *increase* in the Alert Level for Auckland *during* the conference:

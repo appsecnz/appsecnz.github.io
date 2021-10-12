@@ -1,5 +1,5 @@
 ---
-title: CFP / CFT - OWASP NZ Day
+title: CFT - OWASP NZ Day
 layout:  conference-2022/full-width
 tags: owaspnz22
 ---
