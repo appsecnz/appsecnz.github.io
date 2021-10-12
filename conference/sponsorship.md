@@ -140,6 +140,8 @@ In the event Auckland is at COVID Alert Level 2 or higher four (4) weeks before 
 
 If we are again (or still) at an elevated COVID Alert Level four weeks before our alternate dates (7 June), we will convert the event to either a hybrid (Alert Level 2) or fully online (Alert Level 3 or 4) event. We also intend to follow the example of other recent conferences, and deliver delegate packs (t-shirts, tote bags, promotional materials, etc.) to them via post - to that end, a portion of the catering budget will be redirected to packing and shipping those items.
 
+For more information, please review our [COVID Contingency Plan](covid.md) page.
+
 Given a change in Alert Level can occur with little notice, and owing to the cancellation policies applying to many conference expenses, we anticipate some funds will be 'sunk' in fees for services we're unable to use - possibly including A/V and other charges related to Sponsor Exhibition booths. If we are forced to cancel the in-person event, we'll refund any portion of the Exhibition booth fee and optional A/V charges (see above) we're able to recover, up to 100%.
 
 
@@ -147,7 +149,7 @@ Given a change in Alert Level can occur with little notice, and owing to the can
 
 **Training Credits:**
 
-Our pre-conference training is planned to include a mix of half-day, one-day, and two-day classes. Each Premier Sponsor package includes a number of "Training Credits," each valid for one half-day of training for one person. 
+Our Pre-Conference Training is planned to include a mix of half-day, one-day, and two-day classes. Each Premier Sponsor package includes a number of "Training Credits," and each credit is valid for one half-day of training for one person. 
 
   - One credit can be redeemed for a 100% discount on a half-day class, 50% discount on a one-day class, or 25% discount on a two-day class 
   - Credits may be combined - Use two for a 100% discount on a one-day class, or use up to four toward a two-day class
@@ -160,7 +162,7 @@ For 2022, we have introduced a $30 per person registration fee for most delegate
 
 Each sponsorship package includes a number of free conference passes (see table above). Each sponsor delegate will also receive free conference t-shirt.
 
-To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide delegate information on or before Friday, 28 January. Nominees whose information is provided after 28 January cannot be guaranteed a t-shirt in the requested size.
+To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide delegate information on or before Friday, 28 January. Nominees whose information is provided after 28 January cannot be guaranteed a t-shirt.
 
 **Sponsor Logos:**
 
