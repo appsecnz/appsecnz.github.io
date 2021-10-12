@@ -142,7 +142,7 @@ Talk to her about cats, coffee, hoodies, fonts, or who is the best pony and why 
 Room 098 (downstairs)   
 Fri 10:35am
 
-[Slide Deck](/assets/presentations/Lilley-Bug_Hunting_with_SAST-AppSecNZ_2021.pdf){: target="slides" } (PDF, 5.2MB)   
+[Slide Deck](/assets/presentations/conference-2021/Lilley-Bug_Hunting_with_SAST-AppSecNZ_2021.pdf){: target="slides" } (PDF, 5.2MB)   
 [Video](https://youtu.be/kenbfWf7D7I){: target="videos" } (YouTube, 19:29)   
 
 #### Abstract
@@ -223,7 +223,7 @@ Kim is also a regular blog poster at [http://blog.binarymist.net](http://blog.bi
 Room 098 (downstairs)   
 Sat 4:00pm
 
-[Slide Deck](/assets/presentations/Isaacson-Camera_Obscura-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.8MB)   
+[Slide Deck](/assets/presentations/conference-2021/Isaacson-Camera_Obscura-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.8MB)   
 [Video](https://youtu.be/2pIBMpll2AE){: target="videos" } (YouTube, 31:34)   
 
 #### Abstract
@@ -261,7 +261,7 @@ This talk covers a defenders experience and the lessons you can learn protecting
 Room 098 (downstairs)   
 Sat 9:45am
 
-[Slide Deck](/assets/presentations/Fitzgerald-Ethical_Issues_with_Gamification-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.2MB)   
+[Slide Deck](/assets/presentations/conference-2021/Fitzgerald-Ethical_Issues_with_Gamification-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.2MB)   
 [Video](https://youtu.be/hB3fJ7p-UdQ){: target="videos" } (YouTube, 26:20)   
 
 #### Abstract
@@ -279,7 +279,7 @@ Gamification is the application of game-design elements and game principles in n
 Room 098 (downstairs)   
 Sat 2:25pm
 
-[Slide Deck](/assets/presentations/Cotterell-Federated_Logins-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.2MB)   
+[Slide Deck](/assets/presentations/conference-2021/Cotterell-Federated_Logins-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.2MB)   
 [Video](https://youtu.be/4m8WvF-hzQs){: target="videos" } (YouTube, 25:05)   
 
 #### Abstract
@@ -395,7 +395,7 @@ She's an avid snowboarder and mountain biker with her human and fur family in th
 Room 098 (downstairs)   
 Fri 10:00am
 
-[Slide Deck](/assets/presentations/Robinson-Hackers_View_of_DoS_Attacks-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.8MB)   
+[Slide Deck](/assets/presentations/conference-2021/Robinson-Hackers_View_of_DoS_Attacks-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.8MB)   
 [Video](https://youtu.be/uLUrcG_gqxY){: target="videos" } (YouTube, 28:45)   
 
 #### Abstract
@@ -450,7 +450,7 @@ Most importantly, you will see the solutions has minimal friction to the teams, 
 Room 115 (upstairs)   
 Sat 9:45am
 
-[Slide Deck](/assets/presentations/Smith-Incident_Response_Plan_that_Saved_Christmas-AppSecNZ_2021.pdf){: target="slides" } (PDF, 11.8MB)   
+[Slide Deck](/assets/presentations/conference-2021/Smith-Incident_Response_Plan_that_Saved_Christmas-AppSecNZ_2021.pdf){: target="slides" } (PDF, 11.8MB)   
 [Video](https://youtu.be/r0wuo29noLg){: target="videos" } (YouTube, 24:21)   
 
 #### Abstract
@@ -478,7 +478,7 @@ If your team's worst-case scenario plan is to hope it never happens, this talk i
 Room 098 (downstairs)   
 Sat 10:55am
 
-[Slide Deck](/assets/presentations/Davenport_and_Spector-Mental_Well-Being-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.0MB)    
+[Slide Deck](/assets/presentations/conference-2021/Davenport_and_Spector-Mental_Well-Being-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.0MB)    
 [Video](https://youtu.be/IwtTkzIvdhg){: target="videos" } (YouTube, 33:03)   
 
 #### Abstract
@@ -500,7 +500,7 @@ Daniel is public about both these facts and appreciates his awesome employer, [A
 Room 115 (upstairs)   
 Fri 1:30pm
 
-[Slide Deck](/assets/presentations/DiLeo-Leveraging_OWASP_Projects-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.8MB)   
+[Slide Deck](/assets/presentations/conference-2021/DiLeo-Leveraging_OWASP_Projects-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.8MB)   
 [Video](https://youtu.be/rLd2KZhpCz8){: target="videos" } (YouTube, 43:03)   
 
 #### Abstract
@@ -524,7 +524,7 @@ In his "free time," John does a few things in the global OWASP community - he's 
 Room 115 (upstairs)   
 Fri 3:25pm
 
-[Slide Deck](/assets/presentations/Coates-InfoSec_Policy-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.3MB)   
+[Slide Deck](/assets/presentations/conference-2021/Coates-InfoSec_Policy-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.3MB)   
 [Video](https://youtu.be/HIlvbwrzoLw){: target="videos" } (YouTube, 49:07)   
 
 #### Abstract
@@ -571,7 +571,7 @@ John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) 
 Room 098 (downstairs)   
 Fri 4:20pm
 
-[Slide Deck](/assets/presentations/Morgan-Payment_Gateways-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.1MB)   
+[Slide Deck](/assets/presentations/conference-2021/Morgan-Payment_Gateways-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.1MB)   
 [Video](https://youtu.be/ZR9T3GbbqV4){: target="videos" } (YouTube, 22:02)   
 
 #### Abstract
@@ -591,7 +591,7 @@ Stephen has worn many hats, he has been an impeccably witty: Penetration Tester,
 Room 115 (upstairs)   
 Sat 3:25pm
 
-[Slide Deck](/assets/presentations/Pearce_and_Ashford-Red_vs_Blue-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.1MB)   
+[Slide Deck](/assets/presentations/conference-2021/Pearce_and_Ashford-Red_vs_Blue-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.1MB)   
 [Video](https://youtu.be/zEdH_8xE6GY){: target="videos" } (YouTube, 27:06)   
 
 #### Abstract
@@ -645,7 +645,7 @@ Remote Presentation
 Room 115 (upstairs)   
 Fri 4:20pm
 
-[Slide Deck](/assets/presentations/Singh-Human-Led_Approach_to_Software_Security-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.1MB)   
+[Slide Deck](/assets/presentations/conference-2021/Singh-Human-Led_Approach_to_Software_Security-AppSecNZ_2021.pdf){: target="slides" } (PDF, 3.1MB)   
 [Video](https://youtu.be/8Kx9VGES8vE){: target="videos" } (YouTube, 32:38)   
 
 #### Abstract
@@ -707,7 +707,7 @@ With a background in development and many years of experience in security, he ha
 Room 115 (upstairs)   
 Sat 10:20am
 
-[Slide Deck](/assets/presentations/Coates-Agreed_Scale-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.0MB)   
+[Slide Deck](/assets/presentations/conference-2021/Coates-Agreed_Scale-AppSecNZ_2021.pdf){: target="slides" } (PDF, 2.0MB)   
 [Video](https://youtu.be/I42JOT4j9wk){: target="videos" } (YouTube, 24:13)   
 
 #### Abstract
@@ -751,7 +751,7 @@ This presentation will give a brief overview of why web application vulnerabilit
 Room 115 (upstairs)   
 Sat 11:30am
 
-[Slide Deck](/assets/presentations/Lauder-Web_Apps-Hardening_Too_Hard-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.1MB)   
+[Slide Deck](/assets/presentations/conference-2021/Lauder-Web_Apps-Hardening_Too_Hard-AppSecNZ_2021.pdf){: target="slides" } (PDF, 1.1MB)   
 [Video](https://youtu.be/5GKcGXPwi04){: target="videos" } (YouTube, 42:53)   
 
 #### Abstract
@@ -813,7 +813,7 @@ Sam's other areas of interest include network penetration testing, 3D printing, 
 Room 115 (upstairs)   
 Sat 1:30pm
 
-[Slide Deck](/assets/presentations/Jackson-Your_Browser_Wants_You_to_Be_Secure-AppSecNZ_2021.pdf){: target="slides" } (PDF, 530kB)   
+[Slide Deck](/assets/presentations/conference-2021/Jackson-Your_Browser_Wants_You_to_Be_Secure-AppSecNZ_2021.pdf){: target="slides" } (PDF, 530kB)   
 [Video](https://youtu.be/Do4NJfxIkMM){: target="videos" } (YouTube, 40:53)   
 
 #### Abstract
@@ -841,7 +841,7 @@ Kirk worked as a web developer before switching to the defence team - setting up
 Room 115 (upstairs)   
 Sat 4:00pm
 
-[Slide Deck](/assets/presentations/Lilley-Zero_to_OSCP-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.7MB)   
+[Slide Deck](/assets/presentations/conference-2021/Lilley-Zero_to_OSCP-AppSecNZ_2021.pdf){: target="slides" } (PDF, 4.7MB)   
 [Video](https://youtu.be/JYo69bobNLM){: target="videos" } (YouTube, 31:54)   
 
 #### Abstract
