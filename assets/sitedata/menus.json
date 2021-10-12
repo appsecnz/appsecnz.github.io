@@ -13,6 +13,10 @@
 				"url": "/conference"
 			},
 			{
+				"title": "About Our Sponsors",
+				"url": "/conference/sponsors.html"
+			},
+			{
 				"title": "Call for Sponsors",
 				"url": "/conference/sponsorship.html"
 			},

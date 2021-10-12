@@ -1,7 +1,7 @@
 ---
-layout: full-width-no-sponsors
+layout: conference-2022/sponsors-full-width
 title: About Our Sponsors
-description: Premier Sponsors - OWASP New Zealand Day 2022
+description: Sponsors - OWASP New Zealand Day 2022
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
@@ -10,19 +10,7 @@ description: Premier Sponsors - OWASP New Zealand Day 2022
 
 # About Our Sponsors
 
-## OWASP New Zealand Day 2021
+## OWASP New Zealand Day 2022
 
-### Diamond Sponsor
-
-
-### Platinum Sponsors
-
-
-### Gold Sponsors
-
-
-### Silver Sponsors
-
-
-### Lego Build Sponsor
-
+We're grateful to all of our sponsors, without whom the OWASP New Zealand Day conference would not be possible.
+When you see them at the conference, please be sure to thank them for their support.
