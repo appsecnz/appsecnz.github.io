@@ -108,7 +108,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Logo on Conference Website**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
 |**Mention in Pre-Conference Publicity**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
 |**Recognition during Opening/Closing Sessions**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
-|**Promotional Items in Conference Tote Bags** (see notes)|**Yes (up to 5)**|**Yes (up to 3)**|**Yes (up to 2)**|**Yes (1)**|**Yes (1)**|**Yes (1)**|
+|**Promotional Items in Conference Tote Bags** (see notes)|**Yes<br />(up to 5)**|**Yes<br />(up to 3)**|**Yes<br />(up to 2)**|**Yes (1)**|**Yes (1)**|**Yes (1)**|
 
 ## Exhibition Space
 
