@@ -5,3 +5,154 @@
 # image: relative URL to the logo image
 # url: url of the company website
 # description: description of the company
+- active: false
+  level: 1
+  name: Quantum Security
+  image: /assets/images/sponsor-logo/Logo-Quantum_Security-125.png
+  url: https://www.quantumsecurity.co.nz/
+  spotlight: |-
+    Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
+    process. We utilise only the best personnel available in the market to ensure our clients 
+    receive the best. We engage our clients throughout and provide comprehensive and readable reports.
+    </p>
+    <p>
+    Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, 
+    experienced account managers, and a dedicated management team with a passion for information security.
+    </p>
+    <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
+    and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
+    all round the world.
+  description: |- 
+    Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
+    process. We utilise only the best personnel available in the market to ensure our clients 
+    receive the best. We engage our clients throughout and provide comprehensive and readable reports.
+    </p>
+    <p>
+    Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, 
+    experienced account managers, and a dedicated management team with a passion for information security.
+    </p>
+    <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
+    and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
+    all round the world.
+- active: false
+  level: 2
+  name: CyberCX
+  image: /assets/images/sponsor-logo/Logo-CyberCX.png
+  url: https://cybercx.com/
+  spotlight: |-
+    <strong>Securing our communities</strong>
+    </p>
+    <p>
+    Launched in October 2019, CyberCX brought together the leading cyber security experts to 
+    become the leading end-to-end cyber security service.
+    </p>
+    <p>
+    With a workforce of over 700 professionals, across 20 locations, we help private and public 
+    sector organisations of all sizes realise the opportunity of better cyber security in an 
+    increasingly complex and challenging threat environment.
+    </p>
+    <p>
+    CyberCX exclusively manages cyber risk, offering a comprehensive set of services: consulting 
+    and advisory; governance, risk and compliance; incident response; penetration testing and assurance; 
+    managed security services and cyber security training.
+  description: |-
+    <strong>Securing our communities</strong>
+    </p>
+    <p>
+    Launched in October 2019, CyberCX brought together the leading cyber security experts to 
+    become the leading end-to-end cyber security service.
+    </p>
+    <p>
+    With a workforce of over 700 professionals, across 20 locations, we help private and public 
+    sector organisations of all sizes realise the opportunity of better cyber security in an 
+    increasingly complex and challenging threat environment.
+    </p>
+    <p>
+    CyberCX exclusively manages cyber risk, offering a comprehensive set of services: consulting 
+    and advisory; governance, risk and compliance; incident response; penetration testing and assurance; 
+    managed security services and cyber security training.
+- active: true
+  level: 2
+  name: Datacom
+  image: /assets/images/sponsor-logo/Datacom-Primary-Logo-RGB.svg
+  url: https://datacom.com/
+  spotlight: |-
+    Choose us.
+    </p>
+    <p>
+    Senior executives are having to deal with increasing complexity when it comes to decision 
+    making – their careful consideration process makes them risk averse.
+    </p>
+    <p>
+    <strong>They need assurances.</strong>
+    </p>
+    <p>
+    Datacom's legacy and brand reputation in NZ does just that. With decades of experience, we 
+    are not the new kid on the block – we are the mature and trusted partner with the highest 
+    industry certifications. And it's precisely that knowledge and expertise that make Datacom 
+    the perfect networks and security partner.
+    </p>
+    <p>
+    <strong>There isn't a safer pair of hands to secure the future of your business.
+    </strong>
+  description: |-
+    Choose us.
+    </p>
+    <p>
+    Senior executives are having to deal with increasing complexity when it comes to decision 
+    making – their careful consideration process makes them risk averse.
+    </p>
+    <p>
+    <strong>They need assurances.</strong>
+    </p>
+    <p>
+    Datacom's legacy and brand reputation in NZ does just that. With decades of experience, we 
+    are not the new kid on the block – we are the mature and trusted partner with the highest 
+    industry certifications. And it's precisely that knowledge and expertise that make Datacom 
+    the perfect networks and security partner.
+    </p>
+    <p>
+    <strong>There isn't a safer pair of hands to secure the future of your business.
+    </strong>
+- active: false
+  level: Lego Build Sponsor
+  name: Auth0
+  image: /assets/images/sponsor-logo/Logo-Auth0-125.png
+  url: https://auth0.com/
+  spotlight: |-
+    <strong>Built for Developers, Trusted by Global Enterprises.</strong>
+    </p>
+    <p>
+    We solve the most complex and large-scale identity use cases for global enterprises with our 
+    extensible and easy-to-integrate platform, securing billions of logins every year.
+    </p>
+    <p>
+    With employees located in over 30 countries, our support teams are available 24/7, worldwide. 
+    Our global presence enables us to provide peerless support and availability, assisting customers 
+    all over the world.
+    </p>
+    <p>
+    Our leadership team is comprised of industry leaders and domain experts, bringing decades of 
+    cumulative insight and experience to our company and customers.
+    </p>
+    <p>
+    We help the very best businesses and organizations solve identity.
+  description: |-
+    <strong>Built for Developers, Trusted by Global Enterprises.</strong>
+    </p>
+    <p>
+    We solve the most complex and large-scale identity use cases for global enterprises with our 
+    extensible and easy-to-integrate platform, securing billions of logins every year.
+    </p>
+    <p>
+    With employees located in over 30 countries, our support teams are available 24/7, worldwide. 
+    Our global presence enables us to provide peerless support and availability, assisting customers 
+    all over the world.
+    </p>
+    <p>
+    Our leadership team is comprised of industry leaders and domain experts, bringing decades of 
+    cumulative insight and experience to our company and customers.
+    </p>
+    <p>
+    We help the very best businesses and organizations solve identity.
+
