@@ -34,43 +34,41 @@
     <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
     and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
     all round the world.
-- active: false
+- active: true
   level: 2
   name: CyberCX
   image: /assets/images/sponsor-logo/Logo-CyberCX.png
   url: https://cybercx.com/
   spotlight: |-
-    <strong>Securing our communities</strong>
+    CyberCX. We secure our communities.
     </p>
     <p>
-    Launched in October 2019, CyberCX brought together the leading cyber security experts to 
-    become the leading end-to-end cyber security service.
+    CyberCX is Australia and New Zealand’s leading provider of professional cyber security services. 
+    With a workforce of over 900 professionals, we help private and public sector organisations realise 
+    the opportunity of improved cyber security in an increasingly complex and challenging threat environment.
     </p>
     <p>
-    With a workforce of over 700 professionals, across 20 locations, we help private and public 
-    sector organisations of all sizes realise the opportunity of better cyber security in an 
-    increasingly complex and challenging threat environment.
+    CyberCX exclusively manages cyber risk, offering a comprehensive set of services: consulting and advisory;
+    governance, risk and compliance; incident response; penetration testing and assurance; security integration 
+    and engineering; cloud and identity security; managed security services and cyber security training.
     </p>
     <p>
-    CyberCX exclusively manages cyber risk, offering a comprehensive set of services: consulting 
-    and advisory; governance, risk and compliance; incident response; penetration testing and assurance; 
-    managed security services and cyber security training.
+    Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank" onclick="handleOutboundLinkClicks(event);">www.cybercx.co.nz</a>.
   description: |-
-    <strong>Securing our communities</strong>
+    CyberCX. We secure our communities.
     </p>
     <p>
-    Launched in October 2019, CyberCX brought together the leading cyber security experts to 
-    become the leading end-to-end cyber security service.
+    CyberCX is Australia and New Zealand’s leading provider of professional cyber security services. 
+    With a workforce of over 900 professionals, we help private and public sector organisations realise 
+    the opportunity of improved cyber security in an increasingly complex and challenging threat environment.
     </p>
     <p>
-    With a workforce of over 700 professionals, across 20 locations, we help private and public 
-    sector organisations of all sizes realise the opportunity of better cyber security in an 
-    increasingly complex and challenging threat environment.
+    CyberCX exclusively manages cyber risk, offering a comprehensive set of services: consulting and advisory;
+    governance, risk and compliance; incident response; penetration testing and assurance; security integration 
+    and engineering; cloud and identity security; managed security services and cyber security training.
     </p>
     <p>
-    CyberCX exclusively manages cyber risk, offering a comprehensive set of services: consulting 
-    and advisory; governance, risk and compliance; incident response; penetration testing and assurance; 
-    managed security services and cyber security training.
+    Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank" onclick="handleOutboundLinkClicks(event);">www.cybercx.co.nz</a>.
 - active: true
   level: 2
   name: Datacom
