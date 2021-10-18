@@ -47,13 +47,13 @@ days:
     start: '14:55'
     end: '15:25'
     activity: <strong>Break for Afternoon Tea - Coffee/Tea Service Provided</strong>
-  - block: 
+  - block: 11
     start: '15:25'
     end: '16:15'
-  - block: 11
+  - block: 12
     start: '16:20'
     end: '16:50'
-  - block: 12
+  - block: 13
     start: '16:55'
     end: '17:30'
     activity: |-
@@ -115,7 +115,7 @@ days:
     start: '16:00'
     end: '16:30'
   - block: 14
-    start: '16:55'
+    start: '16:35'
     end: '17:30'
     activity: |-
       <strong>Wrap Up - Closing Remarks, Recognition, Prize Giving</strong>
