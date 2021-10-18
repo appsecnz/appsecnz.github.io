@@ -5,7 +5,7 @@
 # image: relative URL to the logo image
 # url: url of the company website
 # description: description of the company
-- active: false
+- active: true
   level: 1
   name: Quantum Security
   image: /assets/images/sponsor-logo/Logo-Quantum_Security-125.png
