@@ -64,3 +64,7 @@ If the conference is operating under COVID Alert Level 1, and the government ann
 * The remainder of the event will be cancelled, to allow participants to make arrangements and get home before travel restrictions go into effect.
 
 If the conference is operating under COVID Alert Level 2 (in July), and the government announces an *increase* in the Alert Level for Auckland *during* the conference:
+
+* Unless prohibited, we'll finish out the current day's programme in its current format. Any increased masking or physical separation requirements will be enforced immediately.
+* The remainder of the event will take place in fully online format. It is Auckland University of Technology's policy that all campus facilities are *closed* at Alert Level 3 or 4, so it will be impossible to continue in-person activities, even in the unlikely event the government's advice would permit us to do so.
+
