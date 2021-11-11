@@ -153,23 +153,49 @@
     </p>
     <p>
     We help the very best businesses and organizations solve identity.
-- active: false
+- active: true
   level: 4
-  name: Flux Federation
+  name: Flux
   image: /assets/images/sponsor-logo/Logo-Flux_Federation-125.png
   url: https://www.fluxfederation.com/
   spotlight: |-
-    <strong>Flux Federation is a global technology company known for creating software products and 
-    experiences for innovative energy retailers throughout the world, including Powershop and a number 
-    of other leading energy retail brands.</strong></p><p>Our platform was purpose built by people who 
-    have experience running energy companies, so we know it works. Flux is a subsidiary of Meridian Energy, 
-    New Zealand's largest energy generator and its fourth-largest retailer. We're a team of around 150 
-    software developers, test analysts, designers, customer experience, and product people.
+    Flux is a global technology company known for creating software products and experiences 
+    for innovative energy retailers throughout the world, including Powershop and a number 
+    of other leading energy retail brands.
+    </p>
+    <p>
+    We’re a team of around 150 software developers, test analysts, designers, customer experience, and product people. 
+    </p>
+    <p>
+    Our mission is to empower visionary companies that are leading the energy transition; 
+    enabling them to respond to changing generation, distribution and consumption models 
+    by moving faster, pricing smarter and integrating widely.
   description: |-
-    <strong>Flux Federation is a global technology company known for creating software products and 
-    experiences for innovative energy retailers throughout the world, including Powershop and a number 
-    of other leading energy retail brands.</strong></p><p>Our platform was purpose built by people who 
-    have experience running energy companies, so we know it works. Flux is a subsidiary of Meridian Energy, 
-    New Zealand's largest energy generator and its fourth-largest retailer. We're a team of around 150 
-    software developers, test analysts, designers, customer experience, and product people.
-
+    Flux is a global technology company known for creating software products and experiences 
+    for innovative energy retailers throughout the world, including Powershop and a number 
+    of other leading energy retail brands.
+    </p>
+    <p>
+    We’re a team of around 150 software developers, test analysts, designers, customer experience, and product people. 
+    </p>
+    <p>
+    Our mission is to empower visionary companies that are leading the energy transition; 
+    enabling them to respond to changing generation, distribution and consumption models 
+    by moving faster, pricing smarter and integrating widely.
+- active: false
+  level: 2
+  name: Snyk
+  image: /assets/images/sponsor-logo/Logo-Snyk-225.png
+  url: https://snyk.io
+  spotlight: |-
+    <strong>Snyk empowers software-driven businesses to develop fast and stay secure</strong>
+    </p>
+    <p>
+    Snyk’s unique combination of developer-first tooling and best in class security depth 
+    enables businesses to easily build security into their continuous development process.
+  description: |-
+    <strong>Snyk empowers software-driven businesses to develop fast and stay secure</strong>
+    </p>
+    <p>
+    Snyk’s unique combination of developer-first tooling and best in class security depth 
+    enables businesses to easily build security into their continuous development process.
