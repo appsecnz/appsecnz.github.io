@@ -12,7 +12,7 @@ tags: owaspnz22
 
 ## OWASP New Zealand Day 2022
 
-**IMPORTANT NOTE:** This plan is subject to change, pending the NZ Government's decision on when Auckland will transition to the new COVID Protection Framework (traffic light protocol), as well as receiving the university's updated event policies aligned with the Protection Framework. Once we have that information, we'll update this Contingency Plan to align with those.
+**IMPORTANT NOTE:** *This plan is subject to change, pending the NZ Government's decision on when Auckland will transition to the new COVID Protection Framework (traffic light protocol), as well as receiving the university's updated event policies aligned with the Protection Framework. Once we have that information, we'll update this Contingency Plan to align with those.*
 
 ### Our Approach
 
