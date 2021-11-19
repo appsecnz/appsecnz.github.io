@@ -12,6 +12,8 @@ tags: owaspnz22
 
 ## OWASP New Zealand Day 2022
 
+**IMPORTANT NOTE:** This plan is subject to change, pending the NZ Government's decision on when Auckland will transition to the new COVID Protection Framework (traffic light protocol), as well as receiving the university's updated event policies aligned with the Protection Framework. Once we have that information, we'll update this Contingency Plan to align with those.
+
 ### Our Approach
 
 The OWASP New Zealand Day planning team recognise the importance of holding an in-person event, if possible. For this reason, we've elected to go forward with planning on the assumption Auckland will be in COVID Alert Level 1 in February. We're inviting trainers to propose in-person or online training, as suits their circumstances and comfort level with in-person gatherings.
