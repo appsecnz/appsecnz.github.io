@@ -182,7 +182,7 @@
     Our mission is to empower visionary companies that are leading the energy transition; 
     enabling them to respond to changing generation, distribution and consumption models 
     by moving faster, pricing smarter and integrating widely.
-- active: false
+- active: true
   level: 2
   name: Snyk
   image: /assets/images/sponsor-logo/Logo-Snyk-225.png
