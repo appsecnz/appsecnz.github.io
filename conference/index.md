@@ -89,7 +89,7 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 * **CFT Closes:** 15 November 2021
 * **CFP First-Round Cutoff:** 15 November 2021
 * **CFP Closes:** 31 December 2021
-* **Training Registration Opens:** 1 December 2021
+* **Training Registration Opens:** 3 December 2021
 * **Conference Registration Opens:** 13 December 2021
 * **Last Day for T-Shirt Purchases:** 25 January 2022 - Orders go to the printer the next morning!
 * **"Early Bird" Conference Registration Ends:** 31 January 2022 - From 1 February, there's an additional $20 "Procrastinator Fee"
@@ -116,8 +116,8 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 **Room:** Lecture Theatre WA 220   
 **Overflow:** Room WA 224B
 
-**Demo/Breakout Room:** Level 1   
-**Room:** Lecture Theatre WG 126
+**Demo/Breakout Room:** Level 4   
+**Room:** Case Room WG 404
  
 Follow us on Twitter:   
 * [@owaspnz](https://www.twitter.com/owaspnz)   
