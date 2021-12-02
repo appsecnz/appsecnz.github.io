@@ -1,7 +1,7 @@
 ---
-title: CFT - OWASP NZ Day
-layout:  conference-2022/full-width
-tags: owaspnz22
+layout: conference-2022/full-width
+title: Pre-Conference Training
+description: Pre-Conference Training, 15-16 February - 2022 OWASP NZ Day
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
@@ -12,15 +12,13 @@ tags: owaspnz22
 
 ## OWASP New Zealand Day 2022
 
-### Call for Training
-
-The official Call for Training (CFT) will open on 15 October and the class schedule will be published by 1 December. Proposals are invited for half-day, one-day, and two-day classes. 
+### Our [Training Registration Site](https://events.humanitix.com/owaspnz2022-training) is now live! Training registration open 2 December - 8 February.
 
 ### Registration Fees 
 
-* Half-day class: $250 in-person / $225 online
-* One-day class: $500 in-person / $450 online
-* Two-day class: $1,000 in-person / $900 online
+* Half-day class: $250 per person (face-to-face) / $225 per person (online)
+* One-day class: $500 per person (face-to-face)
+* Two-day class: $900 per person (online)
 
 ### Team Discounts
 
@@ -51,13 +49,35 @@ Each day, regardless of format, classes will follow this schedule (all times are
 * 3:15 p.m.  - Afternoon Tea
 * 5:30 p.m.  - Classes end
 
-**NOTE:** Registration for some classes may close earlier, if all seats are filled. 
+### Two-day, Online Classes:
+
+* *[Mobile Security Testing Guide Hands-on](mstg_hands_on.md)*, Sven Schleier - $900
+* *[Practical Cloud Security for AWS Infrastructure](cloud_security.md)*, Jayesh Singh Chauhan - $900
+
+### One-day, Face-to-Face Classes:
+
+* *[Assess and Improve Your AppSec Programme using OWASP SAMM](owasp_samm.md)*, Raafey Khan - $500
+* *[Automated Security Regression Testing for Web Apps and APIs with OWASP PurpleTeam](purple_team.md)*, Kim Carter - $500
+* *[Breaking in to 'Breaking in'](breaking_in.md)*, Kevin Alcock - $500
+* *[Can you find the threat? A Threat Modelling CTF](find_the_threat.md)*, Wade Winright - $500
+
+### Half-day, Face-to-Face Class:
+
+* *[AppSec 'Refresher' Training with OWASP Top 10 2021 Update](appsec_refresher.md)*, Datacom AppSec Training team - $250
+
+### Half-day, Online Class:
+
+* *[Biohacking: The Invisible Threat](biohacking.md)*, Len Noe - $225
+
+**NOTES:** 
+
+* Registration for classes may close earlier, if all spots are filled. 
 
 -------------
 
-Spaces will fill up fast, so get in quickly!   
+Spaces will fill up fast, so get in quickly!
 
-Check-in desk will open at 8:00 a.m. each day   
+Check-in desk will be located in the Level 3 lobby (WG 306), and will open at 8:00 a.m. each day
 
 Morning and afternoon tea breaks will be provided; lunch will be on your own.
 

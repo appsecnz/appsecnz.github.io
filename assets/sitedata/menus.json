@@ -13,6 +13,10 @@
 				"url": "/conference"
 			},
 			{
+				"title": "Pre-Conference Training",
+				"url": "/conference/training.html"
+			},
+			{
 				"title": "About Our Sponsors",
 				"url": "/conference/sponsors.html"
 			},
@@ -23,10 +27,6 @@
 			{
 				"title": "COVID Contingency Plan",
 				"url": "/conference/covid.html"
-			},
-			{
-				"title": "Call for Trainers",
-				"url": "/conference/cfp_cft.html"
 			},
 			{
 				"title": "Diversity Fund",

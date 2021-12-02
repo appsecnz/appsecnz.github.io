@@ -1,5 +1,5 @@
 ---
-title: Call for Sponsors - OWASP NZ Day
+title: Call for Sponsors - OWASP NZ Day 2022
 layout: conference-2022/full-width
 tags: owaspnz22
 ---
