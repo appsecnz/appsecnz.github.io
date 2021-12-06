@@ -67,7 +67,7 @@ And, in case you would be concerned about confidentiality issues, we adhere to t
 * Assessing Operations
 * Setting Improvement Targets
 
-** Part Three: OWASP SAMM Tools**
+**Part Three: OWASP SAMM Tools**
 
 * Assessment Tools
     * OWASP SAMM Toolkit (Excel workbook)
