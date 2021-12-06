@@ -1,7 +1,7 @@
 ---
 layout: conference-2022/full-width
 
-title: Classroom Training - OWASP PurpleTeam
+title: Classroom Training - Automated Security Regression Testing with OWASP PurpleTeam
 description: Pre-Conference Training Class, 16 February - OWASP New Zealand Day 2022 
 ---
 

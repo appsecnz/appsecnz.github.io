@@ -1,7 +1,7 @@
 ---
 layout: conference-2022/full-width
 
-title: Classroom Training - Breaking In
+title: Classroom Training - Breaking In to 'Breaking In'
 description: Pre-Conference Training Class, 16 February - OWASP New Zealand Day 2022 
 ---
 

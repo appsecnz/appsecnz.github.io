@@ -1,7 +1,7 @@
 ---
 layout: conference-2022/full-width
 
-title: Online Training - DevSecOps
+title: Online Training - Practical Cloud Security for AWS Infrastructure
 description: Pre-Conference Training Class, 15-16 February - OWASP New Zealand Day 2022 
 ---
 

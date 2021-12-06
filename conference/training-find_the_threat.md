@@ -1,7 +1,7 @@
 ---
 layout: conference-2022/full-width
 
-title: Classroom Training - A Threat Modelling CTF
+title: Classroom Training - Can you find the threat? A Threat Modelling CTF
 description: Pre-Conference Training Class, 15 February - OWASP New Zealand Day 2022 
 ---
 
