@@ -61,13 +61,13 @@ Early registration (on or before 31 January):
 
 In addition to the main conference on Thursday and Friday, we are pleased to be offer training opportunities on Tuesday and Wednesday (15-16 February 2022), at the same venue.
 
-The Call for Training (CFT) will open on 15 October and the class schedule will be published by 1 December. Proposals are invited for half-day, one-day, and two-day classes. 
+The Call for Training (CFT) closed on 15 November and [Training Registration](https://events.humanitix.com/owaspnz2022-training) is now open. Information on the classes offered can be found on our [Pre-Conference Training](training.md) page.
 
 ### Training Registration Fees 
 
-* Half-day class: $225 per person
-* One-day class: $450 per person
-* Two-day class: $900 per person
+* Half-day class: $225 per person (online); $250 per person (face-to-face)
+* One-day class: $500 per person (face-to-face)
+* Two-day class: $900 per person (online)
 
 Group registration discounts (single purchase):   
 * 6-10 attendees: 10% off
@@ -85,15 +85,15 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 ## Important Dates
 
-* **CFP and CFT Open:** 15 October 2021
-* **CFT Closes:** 15 November 2021
+* **CFP and CFT Opened:** 15 October 2021
+* **CFT Closed:** 15 November 2021
 * **CFP First-Round Cutoff:** 15 November 2021
 * **CFP Closes:** 31 December 2021
-* **Training Registration Opens:** 3 December 2021
+* **Training Registration Opened:** 2 December 2021
 * **Conference Registration Opens:** 13 December 2021
 * **Last Day for T-Shirt Purchases:** 25 January 2022 - Orders go to the printer the next morning!
 * **"Early Bird" Conference Registration Ends:** 31 January 2022 - From 1 February, there's an additional $20 "Procrastinator Fee"
-* **Training Registration Closes:** 10 February 2022
+* **Training Registration Closes:** 8 February 2022
 * **Pre-Conference Training Dates:** 15-16 February 2022
 * **Main Conference Dates:** 17-18 February 2022
 
