@@ -105,7 +105,7 @@ In this talk, we'll talk through:
 
 **Raafey Khan -** An eternal security optimist, Raafey has been helping organisations in NZ and the UK understand their cyber risk and why they should at-least try to embed security into their development processes.
 
-As a founding member of DatacomÃ¢â‚¬â„¢s AppSec division, Raafey will attempt to do more of the same, with a real focus on automating everything and making security stupidly simple.
+As a founding member of Datacom's AppSec division, Raafey will attempt to do more of the same, with a real focus on automating everything and making security stupidly simple.
 
 -----------
 
