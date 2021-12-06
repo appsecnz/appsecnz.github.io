@@ -35,7 +35,7 @@ This class is designed to help developers stay current on the application securi
 
 The topics we'll cover during this half-day session include: 
 
-* AppSec’s role in managing risk;
+* AppSec's role in managing risk;
 * The 2021 update to the OWASP Top Ten;
 * Review of secure coding practices to protect against key vulnerabilities;
 * Privacy considerations for secure development; and 
@@ -51,7 +51,7 @@ As a founding member of Datacom's Application Security Services team, Raafey att
 
 **JP Sikking**
 
-
+**JP** is the founder and Director of Datacom's AppSec Services team.
 
 **John DiLeo**
 
