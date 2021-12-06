@@ -51,23 +51,23 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ### Two-day, Online Classes:
 
-* *[Mobile Security Testing Guide Hands-on](mstg_hands_on.md)*, Sven Schleier - $900
-* *[Practical Cloud Security for AWS Infrastructure](cloud_security.md)*, Jayesh Singh Chauhan - $900
+* *[Mobile Security Testing Guide Hands-on](training-mstg_hands_on.md)*, Sven Schleier - $900
+* *[Practical Cloud Security for AWS Infrastructure](training-cloud_security.md)*, Jayesh Singh Chauhan - $900
 
 ### One-day, Face-to-Face Classes:
 
-* *[Assess and Improve Your AppSec Programme using OWASP SAMM](owasp_samm.md)*, Raafey Khan - $500
-* *[Automated Security Regression Testing for Web Apps and APIs with OWASP PurpleTeam](purple_team.md)*, Kim Carter - $500
-* *[Breaking in to 'Breaking in'](breaking_in.md)*, Kevin Alcock - $500
-* *[Can you find the threat? A Threat Modelling CTF](find_the_threat.md)*, Wade Winright - $500
+* *[Assess and Improve Your AppSec Programme using OWASP SAMM](training-owasp_samm.md)*, Raafey Khan - $500
+* *[Automated Security Regression Testing for Web Apps and APIs with OWASP PurpleTeam](training-purple_team.md)*, Kim Carter - $500
+* *[Breaking in to 'Breaking in'](training-breaking_in.md)*, Kevin Alcock - $500
+* *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright - $500
 
 ### Half-day, Face-to-Face Class:
 
-* *[AppSec 'Refresher' Training with OWASP Top 10 2021 Update](appsec_refresher.md)*, Datacom AppSec Training team - $250
+* *[AppSec 'Refresher' Training with OWASP Top 10 2021 Update](training-appsec_refresher.md)*, Datacom AppSec Training team - $250
 
 ### Half-day, Online Class:
 
-* *[Biohacking: The Invisible Threat](biohacking.md)*, Len Noe - $225
+* *[Biohacking: The Invisible Threat](training-biohacking.md)*, Len Noe - $225
 
 **NOTES:** 
 
