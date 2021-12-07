@@ -3,4 +3,4 @@
 - type: notice
   start: 2021-12-02 18:00:00+1300
   end: 2022-02-08 23:59:59+1300
-  text: "<h3>Pre-Conference Training registration is now open. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/'>Training Registration Site</a> to secure your spot.</h3>"
+  text: "<h3>Pre-Conference Training registration is now open. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='_blank'>Training Registration Site</a> to secure your spot.</h3>"
