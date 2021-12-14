@@ -17,6 +17,8 @@ postal-code:
 
 ##  Auckland University of Technology (AUT) City Campus
 
+## Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2022) to register today!
+
 -----
 
 We are proud to present the OWASP New Zealand Conference, to be held at the Auckland University of Technology (AUT) on Thursday and Friday, February 17th and 18th, 2022. and is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
@@ -55,7 +57,7 @@ Throughout the conference, an exhibition area will be open in the main atrium. R
 Early registration (on or before 31 January):   
 * $30, standard registration
 * **FREE**, for students and unwaged attendees
-* From 1 February, an additional **$20** late registration fee applies to all registrations   
+* From 1 February, a late registration fee applies to all registrations ($20 Regular, $15 Student/Unwaged)   
 
 ## Training
 
@@ -90,8 +92,8 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 * **CFP First-Round Cutoff:** 15 November 2021
 * **CFP Closes:** 31 December 2021
 * **Training Registration Opened:** 2 December 2021
-* **Conference Registration Opens:** 13 December 2021
-* **Last Day for T-Shirt Purchases:** 25 January 2022 - Orders go to the printer the next morning!
+* **Conference Registration Opened:** 14 December 2021
+* **Last Day for T-Shirt Purchases:** 24 January 2022 - Orders go to the printer the next morning!
 * **"Early Bird" Conference Registration Ends:** 31 January 2022 - From 1 February, there's an additional $20 "Procrastinator Fee"
 * **Training Registration Closes:** 8 February 2022
 * **Pre-Conference Training Dates:** 15-16 February 2022
