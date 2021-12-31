@@ -25,7 +25,7 @@ Our funds are limited, and we’ll be reviewing applications every week, startin
 
 Process:
 
-* Fill out our **[Application Form](https://forms.gle/nbdcwzTXmxjCimNq9)**
+* Fill out our **[Application Form](https://forms.gle/nbdcwzTXmxjCimNq9){: target="_blank" }**
 * We will review and approve applications each week. The first reviews will be completed by 8 January.
 * We will contact all applicants and let them know the results of the review.
 * Successful applicants will be contacted to help sort things out.
