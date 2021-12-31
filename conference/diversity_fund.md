@@ -25,8 +25,8 @@ Our funds are limited, and we’ll be reviewing applications every week, startin
 
 Process:
 
-* Fill out our **Application Form** (Available 1 December 2021)
-* We will review and approve applications each week. The first reviews will be completed by 31 December (sooner, if possible).
+* Fill out our **[Application Form](https://forms.gle/nbdcwzTXmxjCimNq9)**
+* We will review and approve applications each week. The first reviews will be completed by 8 January.
 * We will contact all applicants and let them know the results of the review.
 * Successful applicants will be contacted to help sort things out.
 
