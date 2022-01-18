@@ -116,7 +116,7 @@ In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, 
 
 |        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |Lego Build|
 |-------:|:--------:|:----------:|:------:|:--------:|:--------:|:--------:|
-|**Booth Size**|**30m<sup>2</sup>**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|**6m<sup>2</sup>**|**9m<sup>2**|
+|**Booth Size**|**30m<sup>2</sup>**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|**6m<sup>2</sup>**|**9m<sup>2</sup>**|
 |**Seating**|4 tables<br />8 chairs|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|1 table<br />2 chairs|2 tables<br />4 chairs|
 |**Rate**|Incl.|$450|$350|$250|$250|$350|
 
