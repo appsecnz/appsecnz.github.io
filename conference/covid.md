@@ -28,7 +28,7 @@ Under the current requirements of the COVID Protection Framework, the university
 
 ### Key Milestones
 
-* ~**Planned Conference Dates:** Tuesday - Friday, 15-18 February 2022~
+* ~Planned Conference Dates: Tuesday - Friday, 15-18 February 2022~
 * **Contingency Dates:** Tuesday - Friday, 5-8 July 2022
 * **Decision Points:**
   * **17 January 2022** (four weeks before the conference): Go/No-Go decision on planned conference dates - **No-Go**
