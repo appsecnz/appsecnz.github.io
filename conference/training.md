@@ -8,11 +8,13 @@ description: Pre-Conference Training, 5-6 July - 2022 OWASP NZ Day
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
-# Pre-Conference Training
+# Pre-Conference Training - 5-6 July
 
 ## OWASP New Zealand Day 2022
 
 ### Our [Training Registration Site](https://events.humanitix.com/owaspnz2022-training) is now live! Training registration open through 29 June.
+
+### Special Note - One online class, *Practical Cloud Security for AWS Infrastructure*, will be held on *both* its original dates (15-16 Feb) and our new dates (5-6 July). Registration is open for both dates.
 
 ### Registration Fees 
 
@@ -52,7 +54,7 @@ Each day, regardless of format, classes will follow this schedule (all times are
 ### Two-day, Online Classes:
 
 * *[Mobile Security Testing Guide Hands-on](training-mstg_hands_on.md)*, Sven Schleier - $900
-* *[Practical Cloud Security for AWS Infrastructure](training-cloud_security.md)*, Jayesh Singh Chauhan - $900
+* *[Practical Cloud Security for AWS Infrastructure](training-cloud_security.md)*, Jayesh Singh Chauhan - $900 (February *and* July)
 
 ### One-day, Face-to-Face Classes:
 
