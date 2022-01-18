@@ -2,7 +2,7 @@
 layout: conference-2022/full-width
 
 title: Classroom Training - Can you find the threat? A Threat Modelling CTF
-description: Pre-Conference Training Class, 15 February - OWASP New Zealand Day 2022 
+description: Pre-Conference Training Class, 5 July - OWASP New Zealand Day 2022 
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
@@ -17,7 +17,7 @@ description: Pre-Conference Training Class, 15 February - OWASP New Zealand Day 
 
 ## Course Details 
 
-**Dates:** Tuesday, 15 February 2022
+**Dates:** Tuesday, 5 July 2022
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZDT)
 

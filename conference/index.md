@@ -13,7 +13,7 @@ postal-code:
 
 # {{ page.description }}
 
-## 15 - 18 February 2022
+## 5 - 8 July 2022 (NOTE Date Change)
 
 ##  Auckland University of Technology (AUT) City Campus
 
@@ -21,7 +21,7 @@ postal-code:
 
 -----
 
-We are proud to present the OWASP New Zealand Conference, to be held at the Auckland University of Technology (AUT) on Thursday and Friday, February 17th and 18th, 2022. and is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
+We are proud to present the OWASP New Zealand Conference, to be held at the Auckland University of Technology (AUT) on Thursday and Friday, July 7th and 8th, 2022. and is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
@@ -38,7 +38,7 @@ Who is the Conference for?
 
 ## Conference Structure
 
-**Date:** Thursday and Friday, 17-18 February 2022   
+**Date:** Thursday and Friday, 7-8 July 2022   
 **Time:** 9:30 a.m. - 5:30 p.m. each day   
 
 The main conference on Thursday and Friday will have two streams throughout both days:
@@ -57,7 +57,7 @@ Throughout the conference, an exhibition area will be open in the main atrium. R
 Early registration (on or before 31 January):   
 * $30, standard registration
 * **FREE**, for students and unwaged attendees
-* From 1 February, a late registration fee applies to all registrations ($20 Regular, $15 Student/Unwaged)   
+* From 21 June, a late registration fee applies to all registrations ($20 Regular, $15 Student/Unwaged)   
 
 ## Training
 
@@ -90,14 +90,16 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 * **CFP and CFT Opened:** 15 October 2021
 * **CFT Closed:** 15 November 2021
 * **CFP First-Round Cutoff:** 15 November 2021
-* **CFP Closes:** 31 December 2021
+* **Original CFP Closed:** 31 December 2021
+* **Supplemental CFP Opened:** 20 January 2022
+* **Supplemental CFP Closes:** 17 February 2022
 * **Training Registration Opened:** 2 December 2021
 * **Conference Registration Opened:** 14 December 2021
-* **Last Day for T-Shirt Purchases:** 24 January 2022 - Orders go to the printer the next morning!
-* **"Early Bird" Conference Registration Ends:** 31 January 2022 - From 1 February, there's an additional $20 "Procrastinator Fee"
-* **Training Registration Closes:** 8 February 2022
-* **Pre-Conference Training Dates:** 15-16 February 2022
-* **Main Conference Dates:** 17-18 February 2022
+* **Last Day for T-Shirt Purchases:** 6 June 2022 - Orders go to the printer the next morning!
+* **"Early Bird" Conference Registration Ends:** 20 June 2022 - From 21 June, there's an additional $20 "Procrastinator Fee"
+* **Training Registration Closes:** 29 June 2022
+* **Pre-Conference Training Dates:** 5-6 July 2022
+* **Main Conference Dates:** 7-8 July 2022
 
 ## Conference Venue
 

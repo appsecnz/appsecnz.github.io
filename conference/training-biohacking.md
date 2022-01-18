@@ -2,7 +2,7 @@
 layout: conference-2022/full-width
 
 title: Online Training - Biohacking: The Invisible Threat
-description: Pre-Conference Training Class, 16 February - OWASP New Zealand Day 2022 
+description: Pre-Conference Training Class, 6 July - OWASP New Zealand Day 2022 
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
@@ -21,7 +21,7 @@ Security professionals won't allow users into their environment with hacking too
 
 ## Course Details 
 
-**Dates:** Wednesday, 15 February 2022
+**Dates:** Wednesday, 6 July 2022
 
 **Time:** 8:45 a.m. to 12:30 p.m. (NZDT)
 

@@ -12,7 +12,7 @@ tags: owaspnz22
 
 ## 2022 OWASP New Zealand Day
 
-The 2022 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 17-18 February, 2022. This event 
+The 2022 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 7-8 July, 2022. This event 
 is unique among New Zealand security conferences, in that it's entirely dedicated to application security. AppSec New Zealand Incorporated is, once again, managing the logistics and finances for the event. This year, we have been able to secure a licensing arrangement with the OWASP Foundation, allowing us to return to the event's traditional "OWASP New Zealand Day" branding.
 
 Due to scheduling conflicts at the University of Auckland, we have been unable to secure our usual venue. In 2022 and 2023, 
@@ -45,7 +45,7 @@ Those who regularly attend AppSec conferences include IT project managers, IT se
 IT security consultants, Web application architects and developers, QA
 managers, QA testers and system administrators.
 
-Throughout its 12 years of operation under the local OWASP chapter, the OWASP New Zealand Day conference attracted more than 90% of its delegates and presenters from within New Zealand. Given the likelihood border restrictions will continue in place next February, we anticipate few or no delegates or presenters from outside New Zealand this year. Nonetheless, we anticipate pre-registrations for the conference will once again sell out, and on-the-day attendance will be between 650 and 750.
+Throughout its 12 years of operation under the local OWASP chapter, the OWASP New Zealand Day conference attracted more than 90% of its delegates and presenters from within New Zealand. Border restrictions may still be in place in July, which would impact the ability of delegates, speakers, and sponsors to attend from outside New Zealand this year. Nonetheless, we anticipate pre-registrations for the conference will once again sell out, and on-the-day attendance will be between 650 and 750.
 
 ## About AppSec New Zealand
 
@@ -124,7 +124,7 @@ The diagram below depicts the planned arrangement of exhibition spaces in the WG
 
 ![Diagram-Atrium Layout](/assets/images/Exhibition_Area-Cropped2.png)
 
-Unless otherwise requested, each exhibition space will be provided power strips (two (2) each in **Diamond** and **Platinum** spaces, one (1) each in others), and all tables will be fully draped. Booths will be configured by the venue team on Wednesday morning, and will be available for sponsor staff to set up after noon on Wednesday (16 February). If desired, sponsors are welcome to staff their booths on Wednesday afternoon, through the close of pre-conference training (5:30 p.m.).
+Unless otherwise requested, each exhibition space will be provided power strips (two (2) each in **Diamond** and **Platinum** spaces, one (1) each in others), and all tables will be fully draped. Booths will be configured by the venue team on Wednesday morning, and will be available for sponsor staff to set up after noon on Wednesday (6 July). If desired, sponsors are welcome to staff their booths on Wednesday afternoon, through the close of pre-conference training (5:30 p.m.).
 
 **Optional Video Displays:** 
 
@@ -134,15 +134,17 @@ Unless otherwise requested, each exhibition space will be provided power strips 
 
 ## COVID-19 Contingencies
 
-Our planning team is operating with the confident outlook that Auckland (and, hopefully, all of New Zealand) will be at Alert Level 1 in February 2022. Despite that confidence, we are making plans to keep things moving if we're wrong.
+Owing to the continuing uncertainty around the Omicron COVID variant, the conference planning team has decided to activate our contingency plan, and postpone the conference to our alternate dates - Tuesday through Friday, 5-8 July, at the same venue.
 
-In the event Auckland is at COVID Alert Level 2 or higher four (4) weeks before the conference (17 January) - or goes into an elevated Alert Level in the weeks preceding the event (18 January - 14 February) - we will postpone to our alternate dates (5-8 July). 
+Our planning team is operating with the confident outlook that Auckland will be operating at COVID Protection Framework ("traffic light") Green, by July. Despite that confidence, we have plans in place to keep things moving if we're wrong. The information presented below is based on the government guidance in effect on 15 January 2022, and is subject to change.
 
-If we are again (or still) at an elevated COVID Alert Level four weeks before our alternate dates (7 June), we will convert the event to either a hybrid (Alert Level 2) or fully online (Alert Level 3 or 4) event. We also intend to follow the example of other recent conferences, and deliver delegate packs (t-shirts, tote bags, promotional materials, etc.) to them via post - to that end, a portion of the catering budget will be redirected to packing and shipping those items.
+In the event Auckland is at COVID Protection Framework level 'Red' four weeks before the new conference dates (7 June), we will convert the event to a restricted-attendance event, with a limited number of local delegates permitted to attend in person, and additional restrictions to (or elimination of) some activities, in accordance with the government guidance in effect at that time. We also intend to follow the example of other recent conferences, and deliver delegate packs (t-shirts, tote bags, promotional materials, etc.) to them via post - to that end, a portion of the catering budget will be redirected to packing and shipping those items. 
+
+Provide Auckland is at COVID Protection Framework level 'Green' or 'Orange' from 7 June through the first day of the conference (5 July), the event will proceed as planned on the new dates.
 
 For more information, please review our [COVID Contingency Plan](covid.md) page.
 
-Given a change in Alert Level can occur with little notice, and owing to the cancellation policies applying to many conference expenses, we anticipate some funds will be 'sunk' in fees for services we're unable to use - possibly including A/V and other charges related to Sponsor Exhibition booths. If we are forced to cancel the in-person event, we'll refund any portion of the Exhibition booth fee and optional A/V charges (see above) we're able to recover, up to 100%.
+Given changes can occur with little notice, and owing to the cancellation policies applying to many conference expenses, we anticipate some funds will be 'sunk' in fees for services we're unable to use - possibly including A/V and other charges related to Sponsor Exhibition booths. If we are forced to cancel the in-person event, we'll refund any portion of the Exhibition booth fee and optional A/V charges (see above) we're able to recover, up to 100%.
 
 
 ### Notes

@@ -25,8 +25,6 @@ For more information, feel free to [contact us](mailto:info@appsec.org.nz).
 * Will Howard - Sponsor Relations Team Lead
 * Anneke Smitheram
 * Ramandeep Kaur - Pre-Conference Reception Host
-* Paul Howarth
 * Jatinder Oberoi
 * Ben Seymour
-* Grant Finer
 * Noah Miller

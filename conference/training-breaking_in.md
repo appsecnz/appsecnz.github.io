@@ -2,7 +2,7 @@
 layout: conference-2022/full-width
 
 title: Classroom Training - Breaking In to 'Breaking In'
-description: Pre-Conference Training Class, 16 February - OWASP New Zealand Day 2022 
+description: Pre-Conference Training Class, 6 July - OWASP New Zealand Day 2022 
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
@@ -23,7 +23,7 @@ tools and techniques for exploiting the OWASP Top 10 Vulnerabilities.
 
 ## Course Details 
 
-**Dates:** Wednesday, 16 February 2022
+**Dates:** Wednesday, 6 July 2022
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZDT)
 

@@ -1,7 +1,7 @@
 ---
 layout: conference-2022/full-width
 title: Pre-Conference Training
-description: Pre-Conference Training, 15-16 February - 2022 OWASP NZ Day
+description: Pre-Conference Training, 5-6 July - 2022 OWASP NZ Day
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
@@ -12,7 +12,7 @@ description: Pre-Conference Training, 15-16 February - 2022 OWASP NZ Day
 
 ## OWASP New Zealand Day 2022
 
-### Our [Training Registration Site](https://events.humanitix.com/owaspnz2022-training) is now live! Training registration open 2 December - 8 February.
+### Our [Training Registration Site](https://events.humanitix.com/owaspnz2022-training) is now live! Training registration open through 29 June.
 
 ### Registration Fees 
 

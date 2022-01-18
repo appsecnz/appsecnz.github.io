@@ -13,7 +13,7 @@ tags: owaspnz22
 
 ## OWASP New Zealand Day 2022
 
-**The conference team do not anticipate significant easing of travel restrictions to New Zealand, by the dates of the conference. If you are permitted to travel to New Zealand, all arrangements for required managed isolation/quarantine stays (including their costs) are your responsibility.**
+**As of 1 January 2022, the New Zealand Government has indicated the trans-Tasman and other within-region travel bubbles should be open again by late April. This is, of course, subject to change, and those planning to attend from areas within these bubbles should be prepared for such an event. If you are permitted to travel to New Zealand, all arrangements for required managed isolation/quarantine stays, vaccinations, and pre-travel testing (including their costs) are your responsibility.**
 
 **In the event you are permitted to travel to New Zealand for the conference, please be aware of the current visa / travel authorisation requirements below.**
 
