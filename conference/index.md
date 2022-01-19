@@ -91,7 +91,7 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 * **CFT Closed:** 15 November 2021
 * **CFP First-Round Cutoff:** 15 November 2021
 * **Original CFP Closed:** 31 December 2021
-* **Supplemental CFP Opened:** 20 January 2022
+* **Supplemental CFP Opens:** 20 January 2022
 * **Supplemental CFP Closes:** 17 February 2022
 * **Training Registration Opened:** 2 December 2021
 * **Conference Registration Opened:** 14 December 2021
