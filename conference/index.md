@@ -61,7 +61,7 @@ Early registration (on or before 31 January):
 
 ## Training
 
-In addition to the main conference on Thursday and Friday, we are pleased to be offer training opportunities on Tuesday and Wednesday (15-16 February 2022), at the same venue.
+In addition to the main conference on Thursday and Friday, we are pleased to be offer training opportunities on Tuesday and Wednesday (5-6 July 2022), at the same venue.
 
 The Call for Training (CFT) closed on 15 November and [Training Registration](https://events.humanitix.com/owaspnz2022-training) is now open. Information on the classes offered can be found on our [Pre-Conference Training](training.md) page.
 
