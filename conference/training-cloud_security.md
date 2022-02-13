@@ -73,7 +73,7 @@ While cloud-native security solutions are relatively easier to implement and are
 
 ### Why is this class needed?
 
-With the work from home being the "new normal," the industry has aggressively adopted AWS infrastructures. However, security up-skilling hasn't happened at the same pace. This training is aimed at bridging this gap.
+With working from home as our "new normal," the industry has aggressively adopted AWS infrastructures. However, security up-skilling hasn't happened at the same pace. This training is aimed at bridging this gap.
 
 * For cloud infrastructure security, defensive skills are more important and hence I believe that there should be more defensive training for cloud.
 * This training focuses more on practical and hands-on exercises where participants can play around and acquire the skillset required to successfully manage cloud security for their organizations.
