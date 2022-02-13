@@ -23,11 +23,14 @@ the continuous security of AWS infrastructure and its services is a whole new ba
 
 ## Course Details 
 
-**Dates:** Tuesday and Wednesday, 5-6 July 2022
+**Dates:** 
+
+* **Session 1:** Tuesday and Wednesday, 15-16 February 2022
+* **Session 2:** Tuesday and Wednesday, 5-6 July 2022
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZDT)
 
-**Instructor:** Jayes Singh Chauhan   
+**Instructor:** Jayesh Singh Chauhan   
 
 **Course Fee:** NZ $900.00 (plus GST and ticketing fees)
 
@@ -67,6 +70,31 @@ While cloud-native security solutions are relatively easier to implement and are
 * Kubernetes Security
 * Secret/Sensitive Key Detection in code
 * Cloud CTF
+
+### Key Takeaways
+
+* Security posture management of AWS
+* Cloud attack vectors and their implications
+* Leveraging open sources for granular control of security
+
+### Target Audience
+
+Security Analysts, System Administrators, Pen Testers, Cloud Engineers, DevOps Engineers, or anyone interested in securing AWS
+
+**Skill Level:** Basic/Intermediate
+
+### What You'll Need to Bring to the Class
+
+* Basic understanding of linux, ssh, and git
+* A working AWS account, with a credit card attached to it
+* A laptop on which you have administrative privileges (to install tools), with a minimum of 4GB RAM
+
+### What You'll Receive as Part of the Class
+
+* AMIs
+* Practice Materials
+* CTF Solutions
+* Cheat Sheets for security AWS infrastructure
 
 ## Your Instructor - Jayesh Singh Chauhan
 
