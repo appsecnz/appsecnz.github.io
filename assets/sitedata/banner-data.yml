@@ -11,4 +11,17 @@
 - type: alert
   text: The OWASP New Zealand Day conference has been POSTPONED to Tuesday-Friday, 5-8 July 2022. Existing registrations will be honoured on the new dates, or refunded upon request. 
   start: 2022-01-17 21:00:00+1300
-  end: 2022-02-18 23:59:59+1300
+  end: 2022-02-13 15:59:59+1300
+- type: alert
+  text: A Supplemental Call for Presenters (CFP) is open through Wednesday, 16 February. Visit our <a href='https://papercall.io/owaspnz2022/' target='_blank'>CFP Site</a> to get your proposals in. 
+  start: 2022-02-13 16:00:00+1300
+  end: 2022-02-16 23:59:59+1300
+- type: alert
+  text: |-
+    <h3 align="center">
+      The OWASP New Zealand Day conference has been POSTPONED to Tuesday-Friday, 5-8 July 2022. 
+      <br />
+      Conference registration is open - Visit our <a href='https://events.humanitix.com/owaspnz2022/' target='_blank'>Main Conference Registration Site</a> to book your tickets.
+    </h3> 
+  start: 2022-02-17 00:00:00+1300
+  end: 2022-07-04 23:59:59+1300
