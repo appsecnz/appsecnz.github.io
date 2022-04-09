@@ -331,6 +331,17 @@
   name: SecureFlag
   image: /assets/images/sponsor-logo/Logo-SecureFlag-Captured.png
   url: https://www.secureflag.com/index.html
+  spotlight: |-
+    Old-fashioned Secure Coding training programs with multiple-choice quizzes, boring slideshows 
+    and bland videos can be described in one word – ineffective! Today’s expanding threat landscape 
+    requires secure coding practices and developers who can stay ahead of threats. And this requires 
+    hands-on practice, not boring theory; coupled with practical, modern examples.
+    </p>
+    <p>
+    SecureFlag provides a powerful yet user-friendly way for enterprises to strengthen their secure 
+    coding practices. Developers learn secure coding at their own pace with updated examples and 
+    hands-on practice that improves their competency and prepares the organization to confidently 
+    achieve its business goals.
   description: |-
     Old-fashioned Secure Coding training programs with multiple-choice quizzes, boring slideshows 
     and bland videos can be described in one word – ineffective! Today’s expanding threat landscape 
@@ -347,6 +358,18 @@
   name: Checkmarx
   image: /assets/images/sponsor-logo/Logo-Checkmarx.png
   url: https://checkmarx.com/
+  spotlight: |-
+    <strong>When Software is Everywhere, Security is Everything</strong>
+    </p>
+    <p>
+    The way your company develops and depends on software has changed – and never has it exposed you to more risk. When 
+    software is everywhere, everything becomes an attack surface. While software security has never been more
+    business-critical, you know if it gets in the way of DevOps, it just won't work. Security must be inseparable from development.
+    </p>
+    <p>
+    Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
+    entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
+    instilling security into modern development. 
   description: |-
     <strong>When Software is Everywhere, Security is Everything</strong>
     </p>
@@ -364,6 +387,16 @@
   name: Cobalt Labs
   image: /assets/images/sponsor-logo/Logo-Cobalt_Labs-Captured.png
   url: https://www.cobalt.io/
+  spotlight: |-
+    Cobalt was founded on the belief that pentesting can be better. We pioneered the Pentest as a 
+    Service (PtaaS) space – <strong>you could even say we wrote the book on it</strong> – by pairing 
+    a SaaS platform with an exclusive community of testers to disrupt the old-school 
+    way of testing. Today, over 1,000 customers use Cobalt to run pentests that start faster, produce 
+    stronger results, and integrate with modern development cycles.
+    </p>
+    <p>
+    We're an award-winning (and fully remote) workplace with Scandinavian roots, an American base, 
+    and a global outlook. Together, we're committed to helping agile teams remediate risk quickly and innovate securely.
   description: |-
     Cobalt was founded on the belief that pentesting can be better. We pioneered the Pentest as a 
     Service (PtaaS) space – <strong>you could even say we wrote the book on it</strong> – by pairing 
@@ -379,6 +412,18 @@
   name: Lacework
   image: /assets/images/sponsor-logo/Logo-Lacework-Captured.png
   url: https://www.lacework.com/
+  spotlight: |-
+    <strong>A bright vision for the future</strong>
+    </p>
+    <p>
+    We're changing security forever, by helping our customers embrace security as an enabler of innovation, not as a blocker.
+    </p>
+    <p>
+    <strong>Purpose is at the heart of what we do</strong>
+    </p>
+    <p>
+    Our vision is to be the security platform for the cloud. We are changing security forever with automation 
+    and data so our customers can innovate with speed and safety.
   description: |-
     <strong>A bright vision for the future</strong>
     </p>
