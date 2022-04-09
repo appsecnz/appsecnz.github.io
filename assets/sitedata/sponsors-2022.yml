@@ -286,6 +286,7 @@
     entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
     instilling security into modern development. 
 - active: true
+  level: 3
   name: Auth0
   image: /assets/images/sponsor-logo/Logo-Auth0-125.png
   url: https://auth0.com/
@@ -326,7 +327,7 @@
     <p>
     We help the very best businesses and organizations solve identity.
 - active: true
-  level: Bronze (Datacom Partner)
+  level: Datacom Partner
   name: SecureFlag
   image: /assets/images/sponsor-logo/Logo-SecureFlag-Captured.png
   url: https://www.secureflag.com/index.html
@@ -342,7 +343,7 @@
     hands-on practice that improves their competency and prepares the organization to confidently 
     achieve its business goals.
 - active: true
-  level: Bronze (Datacom Partner)
+  level: Datacom Partner
   name: Checkmarx
   image: /assets/images/sponsor-logo/Logo-Checkmarx.png
   url: https://checkmarx.com/
@@ -359,7 +360,7 @@
     entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
     instilling security into modern development. 
 - active: true
-  level: Bronze (Datacom Partner)
+  level: Datacom Partner
   name: Cobalt Labs
   image: /assets/images/sponsor-logo/Logo-Cobalt_Labs-Captured.png
   url: https://www.cobalt.io/
@@ -374,7 +375,7 @@
     We're an award-winning (and fully remote) workplace with Scandinavian roots, an American base, 
     and a global outlook. Together, we're committed to helping agile teams remediate risk quickly and innovate securely.
 - active: true
-  level: Bronze (Datacom Partner)
+  level: Datacom Partner
   name: Lacework
   image: /assets/images/sponsor-logo/Logo-Lacework-Captured.png
   url: https://www.lacework.com/
