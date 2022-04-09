@@ -112,7 +112,7 @@
     <p>
     <strong>There isn't a safer pair of hands to secure the future of your business.
     </strong>
-- active: false
+- active: true
   level: Lego Build Sponsor
   name: Auth0
   image: /assets/images/sponsor-logo/Logo-Auth0-125.png
@@ -219,3 +219,176 @@
   url: https://www.seqa.co.nz/
   spotlight: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
   description: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
+- active: true
+  level: 3
+  name: Lateral Security 
+  image: /assets/images/sponsor-logo/Logo-Lateral_Security-125.png
+  url: https://www.lateralsecurity.com/
+  spotlight: |-
+    Lateral Security is New Zealand’s leading independent IT security company, providing tailored information security testing 
+    and advisory services.
+    </p>
+    <p>
+    Lateral Security has 30 staff in offices located in Wellington, Auckland, Christchurch and relationships with service 
+    providers in Canada and the United States.
+    Clients include businesses and government agencies with the toughest security compliance requirements, including those 
+    in the financial services and telecommunications.
+    </p>
+    <p>
+    Our company vision: "To improve the IT security and safety of our customers and all New Zealanders"
+  description: |-
+    Lateral Security is New Zealand’s leading independent IT security company, providing tailored information security testing 
+    and advisory services.
+    </p>
+    <p>
+    Directors Nick von Dadelszen and Ratu Mason founded Lateral Security in 2008 after seeing the need for an independent 
+    ICT security services company that uses a highly specialised team of management (advisory) and technical (testing)
+    security consultants. The Directors value quality over quantity and this is reflected in every process within the 
+    business which is designed to provide business level actionable outcomes for our clients.
+    </p>
+    <p>
+    Lateral Security has 30 staff in offices located in Wellington, Auckland, Christchurch and relationships with service 
+    providers in Canada and the United States.
+    </p>
+    <p>
+    Clients include businesses and government agencies with the toughest security compliance requirements, including those 
+    in the financial services and telecommunications.
+    </p>
+    <p>
+    Our company vision: "To improve the IT security and safety of our customers and all New Zealanders"
+- active: true
+  level: 3
+  name: Checkmarx
+  image: /assets/images/sponsor-logo/Logo-Checkmarx.png
+  url: https://checkmarx.com/
+  spotlight: |-
+    <strong>When Software is Everywhere, Security is Everything</strong>
+    </p>
+    <p>
+    The way your company develops and depends on software has changed – and never has it exposed you to more risk. When 
+    software is everywhere, everything becomes an attack surface. And while software security has never been more
+    business-critical, you know if it gets in the way of DevOps, it just won’t work. Security must be inseparable from development.
+    </p>
+    <p>
+    Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
+    entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
+    instilling security into modern development. 
+  description: |-
+    <strong>When Software is Everywhere, Security is Everything</strong>
+    </p>
+    <p>
+    The way your company develops and depends on software has changed – and never has it exposed you to more risk. When 
+    software is everywhere, everything becomes an attack surface. And while software security has never been more
+    business-critical, you know if it gets in the way of DevOps, it just won’t work. Security must be inseparable from development.
+    </p>
+    <p>
+    Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
+    entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
+    instilling security into modern development. 
+- active: true
+  name: Auth0
+  image: /assets/images/sponsor-logo/Logo-Auth0-125.png
+  url: https://auth0.com/
+  spotlight: |-
+    <strong>Built for Developers, Trusted by Global Enterprises.</strong>
+    </p>
+    <p>
+    We solve the most complex and large-scale identity use cases for global enterprises with our 
+    extensible and easy-to-integrate platform, securing billions of logins every year.
+    </p>
+    <p>
+    With employees located in over 30 countries, our support teams are available 24/7, worldwide. 
+    Our global presence enables us to provide peerless support and availability, assisting customers 
+    all over the world.
+    </p>
+    <p>
+    Our leadership team is comprised of industry leaders and domain experts, bringing decades of 
+    cumulative insight and experience to our company and customers.
+    </p>
+    <p>
+    We help the very best businesses and organizations solve identity.
+  description: |-
+    <strong>Built for Developers, Trusted by Global Enterprises.</strong>
+    </p>
+    <p>
+    We solve the most complex and large-scale identity use cases for global enterprises with our 
+    extensible and easy-to-integrate platform, securing billions of logins every year.
+    </p>
+    <p>
+    With employees located in over 30 countries, our support teams are available 24/7, worldwide. 
+    Our global presence enables us to provide peerless support and availability, assisting customers 
+    all over the world.
+    </p>
+    <p>
+    Our leadership team is comprised of industry leaders and domain experts, bringing decades of 
+    cumulative insight and experience to our company and customers.
+    </p>
+    <p>
+    We help the very best businesses and organizations solve identity.
+- active: true
+  level: Bronze (Datacom Partner)
+  name: SecureFlag
+  image: /assets/images/sponsor-logo/Logo-SecureFlag-Captured.png
+  url: https://www.secureflag.com/index.html
+  description: |-
+    Old-fashioned Secure Coding training programs with multiple-choice quizzes, boring slideshows 
+    and bland videos can be described in one word – ineffective! Today’s expanding threat landscape 
+    requires secure coding practices and developers who can stay ahead of threats. And this requires 
+    hands-on practice, not boring theory; coupled with practical, modern examples.
+    </p>
+    <p>
+    SecureFlag provides a powerful yet user-friendly way for enterprises to strengthen their secure 
+    coding practices. Developers learn secure coding at their own pace with updated examples and 
+    hands-on practice that improves their competency and prepares the organization to confidently 
+    achieve its business goals.
+- active: true
+  level: Bronze (Datacom Partner)
+  name: Checkmarx
+  image: /assets/images/sponsor-logo/Logo-Checkmarx.png
+  url: https://checkmarx.com/
+  description: |-
+    <strong>When Software is Everywhere, Security is Everything</strong>
+    </p>
+    <p>
+    The way your company develops and depends on software has changed – and never has it exposed you to more risk. When 
+    software is everywhere, everything becomes an attack surface. While software security has never been more
+    business-critical, you know if it gets in the way of DevOps, it just won't work. Security must be inseparable from development.
+    </p>
+    <p>
+    Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
+    entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
+    instilling security into modern development. 
+- active: true
+  level: Bronze (Datacom Partner)
+  name: Cobalt Labs
+  image: /assets/images/sponsor-logo/Logo-Cobalt_Labs-Captured.png
+  url: https://www.cobalt.io/
+  description: |-
+    Cobalt was founded on the belief that pentesting can be better. We pioneered the Pentest as a 
+    Service (PtaaS) space – <strong>you could even say we wrote the book on it</strong> – by pairing 
+    a SaaS platform with an exclusive community of testers to disrupt the old-school 
+    way of testing. Today, over 1,000 customers use Cobalt to run pentests that start faster, produce 
+    stronger results, and integrate with modern development cycles.
+    </p>
+    <p>
+    We're an award-winning (and fully remote) workplace with Scandinavian roots, an American base, 
+    and a global outlook. Together, we're committed to helping agile teams remediate risk quickly and innovate securely.
+- active: true
+  level: Bronze (Datacom Partner)
+  name: Lacework
+  image: /assets/images/sponsor-logo/Logo-Lacework-Captured.png
+  url: https://www.lacework.com/
+  description: |-
+    <strong>A bright vision for the future</strong>
+    </p>
+    <p>
+    We're changing security forever, by helping our customers embrace security as an enabler of innovation, not as a blocker.
+    </p>
+    <p>
+    <strong>Purpose is at the heart of what we do</strong>
+    </p>
+    <p>
+    Our vision is to be the security platform for the cloud. We are changing security forever with automation 
+    and data so our customers can innovate with speed and safety.
+
+
