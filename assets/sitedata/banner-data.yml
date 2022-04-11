@@ -1,27 +1,19 @@
 - type: notice
   text: "<p><strong>Save the Dates! The 2022 OWASP New Zealand Day conference is planned for 15-18 February. Watch <a href='https://appsec.org.nz/conference/'>this space</a> for updates.</p>"
 - type: notice
-  start: 2021-12-02 18:00:00+1300
-  end: 2022-02-08 23:59:59+1300
-  text: "<h3>Pre-Conference Training registration is now open. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='_blank'>Training Registration Site</a> to secure your spot.</h3>"
-- type: notice
   start: 2021-12-14 18:00:00+1300
   end: 2022-02-18 16:59:59+1300
   text: "<h3>Conference registration is now open. Visit our <a href='https://events.humanitix.com/owaspnz2022/' target='_blank'>Main Conference Registration Site</a> to book your tickets.</h3>"
 - type: alert
-  text: The OWASP New Zealand Day conference has been POSTPONED to Tuesday-Friday, 5-8 July 2022. Existing registrations will be honoured on the new dates, or refunded upon request. 
-  start: 2022-01-17 21:00:00+1300
-  end: 2022-02-13 15:59:59+1300
-- type: alert
-  text: A Supplemental Call for Presenters (CFP) is open through Wednesday, 16 February. Visit our <a href='https://papercall.io/owaspnz2022/' target='_blank'>CFP Site</a> to get your proposals in. 
-  start: 2022-02-13 16:00:00+1300
-  end: 2022-02-16 23:59:59+1300
-- type: alert
   text: |-
     <h3 align="center">
-      The OWASP New Zealand Day conference has been POSTPONED to Tuesday-Friday, 5-8 July 2022. 
+      The OWASP New Zealand Day conference is happening! Join us Tuesday-Friday, 5-8 July 2022. 
       <br />
       Conference registration is open - Visit our <a href='https://events.humanitix.com/owaspnz2022/' target='_blank'>Main Conference Registration Site</a> to book your tickets.
     </h3> 
   start: 2022-02-17 00:00:00+1300
   end: 2022-07-04 23:59:59+1300
+- type: notice
+  start: 2022-04-11 00:00:00+1300
+  end: 2022-06-28 23:59:59+1300
+  text: "<h3>Our two-day &quot;Mobile Security Testing Guide Hands-On&quot; class is now <em>in person</em>. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='_blank'>Training Registration Site</a> to secure your spot.</h3>"
