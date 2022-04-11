@@ -20,7 +20,7 @@ description: Pre-Conference Training, 5-6 July - 2022 OWASP NZ Day
 
 * Half-day class: $250 per person (face-to-face) / $225 per person (online)
 * One-day class: $500 per person (face-to-face)
-* Two-day class: $900 per person (online)
+* Two-day class: $1,000 per person (face-to-face) / $900 per person (online)
 
 ### Team Discounts
 
@@ -51,10 +51,13 @@ Each day, regardless of format, classes will follow this schedule (all times are
 * 3:15 p.m.  - Afternoon Tea
 * 5:30 p.m.  - Classes end
 
-### Two-day, Online Classes:
+### Two-day, Face-to-Face Class:
 
-* *[Mobile Security Testing Guide Hands-on](training-mstg_hands_on.md)*, Sven Schleier - $900
-* *[Practical Cloud Security for AWS Infrastructure](training-cloud_security.md)*, Jayesh Singh Chauhan - $900 (February *and* July)
+* *[Mobile Security Testing Guide Hands-on](training-mstg_hands_on.md)*, Sven Schleier - $1,000
+
+### Two-day, Online Class:
+
+* *[Practical Cloud Security for AWS Infrastructure](training-cloud_security.md)*, Jayesh Singh Chauhan - $900
 
 ### One-day, Face-to-Face Classes:
 

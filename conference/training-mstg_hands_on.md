@@ -1,7 +1,7 @@
 ---
 layout: conference-2022/full-width
 
-title: Online Training - MSTG Hands-On
+title: Classroom Training - MSTG Hands-On
 description: Pre-Conference Training Class, 5-6 July - OWASP New Zealand Day 2022 
 ---
 
@@ -13,7 +13,7 @@ description: Pre-Conference Training Class, 5-6 July - OWASP New Zealand Day 202
 
 # Mobile Security Testing Guide Hands-on
 
-## Two-Day Interactive (Online) Training - OWASP New Zealand Day 2022
+## Two-Day Interactive (Classroom) Training - OWASP New Zealand Day 2022
 
 ## Abstract
 
@@ -27,7 +27,7 @@ How to bypass SSL Pinning on a Flutter app or how to bypass FaceID on a non-jail
 
 **Instructor:** Sven Schleier, Co-Leader, OWASP MSTG Project   
 
-**Course Fee:** NZ $900.00 (plus GST and ticketing fees)
+**Course Fee:** NZ $1,000.00 (plus GST and ticketing fees)
 
 **Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training)
 
