@@ -355,35 +355,6 @@
     achieve its business goals.
 - active: true
   level: Datacom Partner
-  name: Checkmarx
-  image: /assets/images/sponsor-logo/Logo-Checkmarx.png
-  url: https://checkmarx.com/
-  spotlight: |-
-    <strong>When Software is Everywhere, Security is Everything</strong>
-    </p>
-    <p>
-    The way your company develops and depends on software has changed – and never has it exposed you to more risk. When 
-    software is everywhere, everything becomes an attack surface. While software security has never been more
-    business-critical, you know if it gets in the way of DevOps, it just won't work. Security must be inseparable from development.
-    </p>
-    <p>
-    Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
-    entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
-    instilling security into modern development. 
-  description: |-
-    <strong>When Software is Everywhere, Security is Everything</strong>
-    </p>
-    <p>
-    The way your company develops and depends on software has changed – and never has it exposed you to more risk. When 
-    software is everywhere, everything becomes an attack surface. While software security has never been more
-    business-critical, you know if it gets in the way of DevOps, it just won't work. Security must be inseparable from development.
-    </p>
-    <p>
-    Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
-    entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
-    instilling security into modern development. 
-- active: true
-  level: Datacom Partner
   name: Cobalt Labs
   image: /assets/images/sponsor-logo/Logo-Cobalt_Labs-Captured.png
   url: https://www.cobalt.io/
