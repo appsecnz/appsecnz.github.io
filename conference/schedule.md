@@ -369,7 +369,7 @@ description: Conference Schedule - 7-8 July
     <td colspan="3" style="background-color: #D98B66; text-align: center; margin: 15px 5px;">
       <strong>Conference Closing Session</strong>
       <br />
-      <em>Recognition, Lego Build Video, Prize Giving
+      <em>Recognition, Lego Build Video, Prize Giving</em>
     </td>
   </tr>
   <tr>
