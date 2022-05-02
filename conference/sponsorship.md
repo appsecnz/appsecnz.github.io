@@ -160,11 +160,11 @@ Our Pre-Conference Training is planned to include a mix of half-day, one-day, an
   
 **Free Conference Passes:**
 
-For 2022, we have introduced a $30 per person registration fee for most delegates, while keeping the event FREE for students and unwaged delegates. For registered delegates, conference t-shirts will again be an optional purchase, at $10 each. 
+For 2022, we have introduced a $30 per person registration fee for most delegates, while keeping the event FREE for students and unwaged delegates. For registered delegates, conference t-shirts will again be an optional purchase, at $15 each ($12 for students/unwaged). 
 
 Each sponsorship package includes a number of free conference passes (see table above). Each sponsor delegate will also receive free conference t-shirt.
 
-To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide delegate information on or before Friday, 28 January. Nominees whose information is provided after 28 January cannot be guaranteed a t-shirt.
+To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide delegate information on or before Monday, 6 June. Sponsor delegates whose information is provided after 6 June cannot be guaranteed a t-shirt.
 
 **Sponsor Logos:**
 
