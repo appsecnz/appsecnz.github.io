@@ -39,7 +39,7 @@ Who is the Conference for?
 ## Conference Structure
 
 **Date:** Thursday and Friday, 7-8 July 2022   
-**Time:** 9:30 a.m. - 5:30 p.m. each day   
+**Time:** 9:15 a.m. - 5:00 p.m., Thursday; 10:00 a.m. - 5:00 p.m., Friday   
 
 The main conference on Thursday and Friday will have two streams throughout both days:
 
@@ -69,7 +69,7 @@ The Call for Training (CFT) closed on 15 November and [Training Registration](ht
 
 * Half-day class: $225 per person (online); $250 per person (face-to-face)
 * One-day class: $500 per person (face-to-face)
-* Two-day class: $900 per person (online)
+* Two-day class: $900 per person (online); $1,000 per person (face-to-face)
 
 Group registration discounts (single purchase):   
 * 6-10 attendees: 10% off
@@ -92,7 +92,7 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 * **CFP First-Round Cutoff:** 15 November 2021
 * **Original CFP Closed:** 31 December 2021
 * **Supplemental CFP Opens:** 20 January 2022
-* **Supplemental CFP Closes:** 17 February 2022
+* **Supplemental CFP Closed:** 17 February 2022
 * **Training Registration Opened:** 2 December 2021
 * **Conference Registration Opened:** 14 December 2021
 * **Last Day for T-Shirt Purchases:** 6 June 2022 - Orders go to the printer the next morning!

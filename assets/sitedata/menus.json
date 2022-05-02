@@ -17,6 +17,18 @@
 				"url": "/conference/training.html"
 			},
 			{
+				"title": "Conference Schedule",
+				"url": "/conference/schedule.html"
+			},
+			{
+				"title": "Speakers and Abstracts",
+				"url": "/conference/speakers.html"
+			},
+			{
+				"title": "Demos/Breakouts",
+				"url": "/conference/breakouts.html"
+			},
+			{
 				"title": "About Our Sponsors",
 				"url": "/conference/sponsors.html"
 			},

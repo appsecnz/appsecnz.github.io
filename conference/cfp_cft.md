@@ -14,7 +14,7 @@ tags: owaspnz22
 
 ### Call for Training
 
-The official Call for Training (CFT) will open on 15 October and the class schedule will be published by 1 December. Proposals are invited for half-day, one-day, and two-day classes. 
+The official Call for Training (CFT) opened on 15 October 2021, and **is now closed**. Proposals were invited for half-day, one-day, and two-day classes. 
 
 ### Registration Fees 
 
