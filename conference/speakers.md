@@ -34,7 +34,7 @@ No new ground-breaking security activities here; just all the good stuff champio
 
 #### Speaker Biography
 
-**Steve Esler** has a background in 15 years as a web developer working on greenfield projects and initiating changes in development technologies prototyping new systems that I then helped release to market. The last 5 years as a developer I spent working with the Royal Air Force in the UK on an aircraft maintenance and support software. After meeting all the goals I’d set myself for a development career I switched to Cyber Security to take on a new challenge. And there are possibly no wider fields and challenges than Cyber Security! Gained a Masters in Cyber security then went out to industry to gain some experience starting with a short stint as a pen tester then moving on to working securing on IoT, SCADA electronics systems and vulnerability management for a custom Linux distro at Honeywell. At Honeywell I was working with Teams across the world to secure both hardware, operating systems and applications. Through Honeywell, I picked up some great experience working within a very mature and successful software and system security program. Also gaining some professional certificates along the way. I then worked with a large financial company in the UK on creating an application security framework before moving to New Zealand with my young family at the start of 2021.
+**Steve Esler** has a background in 15 years as a web developer working on greenfield projects and initiating changes in development technologies prototyping new systems that I then helped release to market. The last 5 years as a developer I spent working with the Royal Air Force in the UK on an aircraft maintenance and support software. After meeting all the goals I’d set myself for a development career I switched to Cyber Security to take on a new challenge. And there are possibly no wider fields and challenges than Cyber Security! Gained a Masters in Cyber security then went out to industry to gain some experience starting with a short stint as a pen tester then moving on to working securing on IoT, SCADA electronics systems and vulnerability management for a custom Linux distro at Honeywell. At Honeywell, I was working with teams across the world to secure both hardware, operating systems and applications. Through Honeywell, I picked up some great experience working within a very mature and successful software and system security program. Also gaining some professional certificates along the way. I then worked with a large financial company in the UK on creating an application security framework before moving to New Zealand with my young family at the start of 2021.
 
 -----------
 
@@ -45,15 +45,22 @@ Track Two - Thursday, 15:05
 
 #### Abstract
 
-
+I am sure all of you have heard about "Shift Left Security" in many presentations, but how do you actually achieve this? Well, this is the talk for you where I'll cover all the DevSecOps buzzwords and showcase a functional DevSecOps pipeline that can perform security testing such as SCA, SAST and DAST.
 
 #### Description
 
+In this talk I'll cover how to build your first DevSecOps pipeline with Open Source tooling. I'll address various concepts and buzzwords related to DevSecOps to clear your doubts. I'll demonstrate a GitLab pipeline that has various open-source security tooling embedded to perform the following security tests against a vulnerable application:
 
+* Secrets Detection (tools such as Trufflehog, etc.) 
+* Software Composition Analysis (SCA)
+* Static Application Security Testing (SAST)
+* Dynamic Application Security Testing (DAST)
+
+With this pipeline, our aim is to identify security issues as early as possible so that we can build "Secure by Default" products. This pipeline and demos will cover tools such as retireJS, Safety, Bandit, TruffleHog, NMAP, SSLyze and ZAP.
 
 #### Speaker Biography
 
-**Karan Sharma** 
+**Karan Sharma** has been in this field for over 11 years. He has worked as a Pentester for NZ telcos, banks, health sectors and manufacturing companies. He now runs his own security consulting company called Wise Fox Security, that offers services in Offensive Security and DevSecOps space. He has also done a few customary certifications such as OSWE, OSCP, eWPTX and Certified DevSecOps Professional (CDP). He has also spoken at a number of other security conferences. Karan has a YouTube channel that you can subscribe to (Wise Fox Security). Other than InfoSec, Karan loves watching and playing soccer, loves evening runs with his dog and going to the gym.
 
 -----------
 
@@ -65,15 +72,17 @@ Track Two - Thursday, 13:30
 
 #### Abstract
 
-
+How do you ensure the stability of your Kubernetes (K8s) clusters? Are you sure you don't have any invalid data types? Are any mandatory fields missing? Specialized tools and a "shift-left" approach make it possible to verify a Kubernetes schema before it's applied to a cluster.
 
 #### Description
 
+How do you ensure the stability of your Kubernetes clusters? How do you know that your manifests are syntactically valid? Are you sure you don't have any invalid data types? Are any mandatory fields missing? Most often, we only become aware of these misconfigurations at the worst time - when trying to deploy the new manifests.
 
+In this talk, we will review how to overcome this challenge with OSS tooling that can be integrated seamlessly into your deployment process.
 
 #### Speaker Biography
 
-**Eyar Zilberman** 
+**Eyar Zilberman** started his professional life as a lawyer for OSS licenses, but fell in love with the technology itself. He taught himself to code and worked as a full-stack engineer. After about four years, he decided he needed to step out of his comfort zone, and today he's an entrepreneur and Chief Product Officer at [Datree](https://datree.io)
 
 -----------
 

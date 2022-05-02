@@ -162,7 +162,7 @@ description: Conference Schedule - 7-8 July
       <em>Raafey Khan - Datacom</em>
     </td>
     <td style="background-color: #B9C2DC; text-align: center; margin: 15px 5px;">
-      <strong><a href="/conference/speakers.html#gil-top-10-security-in-cicd-systems" target="speakers">Top 10 Security Risks in CI/CD Systems</a></strong>
+      <strong><a href="/conference/speakers.html#top-10-security-risks-in-cicd-systems" target="speakers">Top 10 Security Risks in CI/CD Systems</a></strong>
       <br />
       (Remote Presentation)
       <br />
@@ -182,7 +182,7 @@ description: Conference Schedule - 7-8 July
       <em>Steve Esler - SEQA Information Security</em>
     </td>
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
-      <strong><a href="/conference/speakers.html#build-your-first-devsecops-pipeline" target="speakers">Build Your First DevSecOps Pipeline</a></strong>
+      <strong><a href="/conference/speakers.html#building-your-first-devsecops-pipeline" target="speakers">Building Your First DevSecOps Pipeline</a></strong>
       <br />
       <em>Karan Sharma - Wise Fox Security</em>
     </td>
@@ -251,7 +251,7 @@ description: Conference Schedule - 7-8 July
   <tr>
     <td style="vertical-align: middle; text-align: right;">10:20&nbsp;-&nbsp;10:50</td>
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
-      <strong><a href="/conference/speakers.html#state-of-appsec-in-new-zealand-2022" target="speakers">State of AppSec in New Zealand - 2022</a></strong>
+      <strong><a href="/conference/speakers.html#state-of-appsec-in-new-zealand---2022" target="speakers">State of AppSec in New Zealand - 2022</a></strong>
       <br />
       <em>John DiLeo - Datacom</em>
     </td>
@@ -274,7 +274,7 @@ description: Conference Schedule - 7-8 July
       <em>Sam Shute - Quantum Security</em>
     </td>
     <td style="background-color: #B9C2DC; text-align: center; margin: 15px 5px;">
-       <strong><a href="/conference/speakers.html#huang-not-under-the-doormat-securing-your-database-credentials-on-the-web-application-client-side" target="speakers">Not under the Doormat: Securing your database credentials on the web application client-side</a></strong>
+       <strong><a href="/conference/speakers.html#not-under-the-doormat-securing-your-database-credentials-on-the-web-application-client-side" target="speakers">Not under the Doormat: Securing your database credentials on the web application client-side</a></strong>
       <br />
       <em>Helen Huang - Aura Information Security</em>
     </td>
