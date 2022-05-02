@@ -13,10 +13,6 @@
 				"url": "/conference"
 			},
 			{
-				"title": "Pre-Conference Training",
-				"url": "/conference/training.html"
-			},
-			{
 				"title": "Conference Schedule",
 				"url": "/conference/schedule.html"
 			},
@@ -27,6 +23,10 @@
 			{
 				"title": "Demos/Breakouts",
 				"url": "/conference/breakouts.html"
+			},
+			{
+				"title": "Pre-Conference Training",
+				"url": "/conference/training.html"
 			},
 			{
 				"title": "About Our Sponsors",
