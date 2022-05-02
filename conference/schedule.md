@@ -289,7 +289,7 @@ description: Conference Schedule - 7-8 July
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
       <strong><a href="/conference/speakers.html#mobile-wanderlust-our-journey-to-version-20" target="speakers">Mobile Wanderlust! Our journey to version 2.0</a></strong>
       <br />
-      <em>Sven Schleier - F-Secure</em>
+      <em>Sven Schleier - OWASP MSTG &amp; MASVS Projects</em>
     </td>
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
        <strong><a href="/conference/speakers.html#when-twiddling-the-dials-goes-wrong" target="speakers">When Twiddling the Dials Goes Wrong</a></strong>

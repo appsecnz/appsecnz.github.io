@@ -202,21 +202,22 @@ Track Two - Thursday, 10:20
 -----------
 
 ### Mobile Wanderlust! Our journey to version 2.0   
-*Sven Schleier - F-Secure*   
+*Sven Schleier - OWASP MSTG and MASVS Projects*   
 Track One - Friday, 11:30   
-
-
-#### Abstract
-
-
 
 #### Description
 
+There are numerous ways of developing mobile applications today, but how do you ensure that security is part of the development process? What are the attacks you should be concerned about and what can you do to avoid being an easy target? If you don't want to miss anything, leveraging a standard is essential. 
 
+The Mobile Application Security Verification Standard (MASVS) offers exactly that. It works together with the agile-written Mobile Security Testing Guide (MSTG) to help you understand the attack surface of mobile apps, how to exploit them and how to protect them. Both resources are crafted and curated by a team of industry experts and community contributors.
+
+In this talk we will make a deep dive into the upcoming changes of both projects and the transition to version 2.0. We are sharing the current status of the refactoring of the OWASP MASVS and the MSTG and what we've been able to automate to get rid of manual processes and have more time focusing on the content!
 
 #### Speaker Biography
 
-**Sven Schleier** 
+**Sven Schleier** is the Technical Director of F-Secure Singapore and has hands-on experience in attacking and defending web and mobile apps for the last 10+ years. He became specialised in Application Security and has supported and guided software development projects for Mobile and Web Applications during the whole SDLC.
+
+Besides his day job, since 2016, Sven has been one of the core project leaders and authors of the OWASP Mobile Security Testing Guide (MSTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has created the OWASP Mobile Hacking Playground. Sven gives talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
 
 -----------
 
