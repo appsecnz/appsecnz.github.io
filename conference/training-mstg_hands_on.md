@@ -29,7 +29,7 @@ How to bypass SSL Pinning on a Flutter app or how to bypass FaceID on a non-jail
 
 **Course Fee:** NZ $1,000.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training)
+**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" }
 
 ## Target Audiences
 

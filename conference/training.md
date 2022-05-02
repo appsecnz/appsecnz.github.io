@@ -12,7 +12,7 @@ description: Pre-Conference Training, 5-6 July - 2022 OWASP NZ Day
 
 ## OWASP New Zealand Day 2022
 
-### Our [Training Registration Site](https://events.humanitix.com/owaspnz2022-training) is now live! Training registration open through 29 June.
+### Our [Training Registration Site](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" } is now live! Training registration open through 29 June.
 
 ### Special Note - One online class, *Practical Cloud Security for AWS Infrastructure*, will be held on *both* its original dates (15-16 Feb) and our new dates (5-6 July). Registration is open for both dates.
 
@@ -62,7 +62,6 @@ Each day, regardless of format, classes will follow this schedule (all times are
 ### One-day, Face-to-Face Classes:
 
 * *[Assess and Improve Your AppSec Programme using OWASP SAMM](training-owasp_samm.md)*, Raafey Khan - $500
-* *[Automated Security Regression Testing for Web Apps and APIs with OWASP PurpleTeam](training-purple_team.md)*, Kim Carter - $500
 * *[Breaking in to 'Breaking in'](training-breaking_in.md)*, Kevin Alcock - $500
 * *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright - $500
 

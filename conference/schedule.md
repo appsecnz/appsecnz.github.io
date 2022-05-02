@@ -12,7 +12,7 @@ description: Conference Schedule - 7-8 July
 
 ## AppSec New Zealand Day 2022
 
-### Visit our [Registration Site](https://events.humanitix.com/owaspnz2022) to register today!
+### Visit our [Registration Site](https://events.humanitix.com/owaspnz2022){: target="registration" } to register today!
 
 **Presentation abstracts and speaker biographies can be found on [this page](speakers.md){:target="speakers"}.
 

@@ -3,17 +3,17 @@
 - type: notice
   start: 2021-12-14 18:00:00+1300
   end: 2022-02-18 16:59:59+1300
-  text: "<h3>Conference registration is now open. Visit our <a href='https://events.humanitix.com/owaspnz2022/' target='_blank'>Main Conference Registration Site</a> to book your tickets.</h3>"
+  text: "<h3>Conference registration is now open. Visit our <a href='https://events.humanitix.com/owaspnz2022/' target='registration'>Main Conference Registration Site</a> to book your tickets.</h3>"
 - type: alert
   text: |-
     <h3 align="center">
       The OWASP New Zealand Day conference is happening! Join us Tuesday-Friday, 5-8 July 2022. 
       <br />
-      Conference registration is open - Visit our <a href='https://events.humanitix.com/owaspnz2022/' target='_blank'>Main Conference Registration Site</a> to book your tickets.
+      Conference registration is open - Visit our <a href='https://events.humanitix.com/owaspnz2022/' target='registration'>Main Conference Registration Site</a> to book your tickets.
     </h3> 
   start: 2022-02-17 00:00:00+1300
   end: 2022-07-04 23:59:59+1300
 - type: alert
   start: 2022-04-11 00:00:00+1300
   end: 2022-06-28 23:59:59+1300
-  text: "<h3>Our two-day &quot;Mobile Security Testing Guide Hands-On&quot; class is now <em>in person</em>. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='_blank'>Training Registration Site</a> to secure your spot.</h3>"
+  text: "<h3>Our two-day &quot;Mobile Security Testing Guide Hands-On&quot; class is now <em>in person</em>. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='training-reg'>Training Registration Site</a> to secure your spot.</h3>"

@@ -34,7 +34,7 @@ the continuous security of AWS infrastructure and its services is a whole new ba
 
 **Course Fee:** NZ $900.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training)
+**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" }
 
 ## Course Description
 

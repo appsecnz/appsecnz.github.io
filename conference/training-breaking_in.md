@@ -31,7 +31,7 @@ tools and techniques for exploiting the OWASP Top 10 Vulnerabilities.
 
 **Course Fee:** NZ $500.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training)
+**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" }
 
 **Maximum Enrolment:** 36 attendees
 

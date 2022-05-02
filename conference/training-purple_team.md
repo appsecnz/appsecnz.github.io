@@ -13,7 +13,7 @@ description: Pre-Conference Training Class, 6 July - OWASP New Zealand Day 2022
 
 # Automated Security Regression Testing for Web Apps and APIs with OWASP PurpleTeam
 
-## One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2022
+## CANCELLED One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2022
 
 ## Abstract
 
@@ -29,7 +29,7 @@ Let's get your Web Apps and APIs under security regression testing with OWASP Pu
 
 **Course Fee:** NZ $500.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training)
+**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" }
 
 **Maximum Enrolment:** 36 attendees
 

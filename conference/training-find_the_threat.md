@@ -25,7 +25,7 @@ description: Pre-Conference Training Class, 5 July - OWASP New Zealand Day 2022
 
 **Course Fee:** NZ $500.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training)
+**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" }
 
 **Maximum Enrolment:** 30 attendees
 

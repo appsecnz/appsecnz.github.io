@@ -29,7 +29,7 @@ Security professionals won't allow users into their environment with hacking too
 
 **Course Fee:** NZ $225.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training)
+**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" }
 
 ## Course Description
 
