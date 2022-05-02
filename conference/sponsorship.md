@@ -130,7 +130,7 @@ Unless otherwise requested, each exhibition space will be provided power strips 
 
 **55" Flat-Panel Displays:** The venue's A/V support team can provide 55" HDMI-compatible displays on fixed stands, for use in sponsor exhibition spaces. The cost is $450 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup. The Diamond sponsor's exhibition space can accommodate up to three (3) displays, Platinum and Gold Sponsor spaces can accommodate two (2) displays, and Silver/Bronze Sponsor spaces can accommodate one (1).
 
-**Video Wall:** There is a permanently installed video wall, located above one end of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one Gold Sponsor to reserve the booth directly below the video wall and use it during the main conference (Thursday and Friday). The cost for this option is $500.
+**Video Wall (NO LONGER AVAILABLE):** There is a permanently installed video wall, located above one end of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one Gold Sponsor to reserve the booth directly below the video wall and use it during the main conference (Thursday and Friday). The cost for this option is $500.
 
 ## COVID-19 Contingencies
 
