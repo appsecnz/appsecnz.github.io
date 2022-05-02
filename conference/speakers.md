@@ -1,5 +1,5 @@
 ---
-layout: conference/full-width
+layout: conference-2022/full-width
 title: Speakers and Abstracts
 description: Presentation Abstracts and Speaker Biographies - OWASP NZ Day 2022
 ---

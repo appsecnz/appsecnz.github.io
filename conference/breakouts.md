@@ -1,5 +1,5 @@
 ---
-layout: conference/full-width
+layout: conference-2022/full-width
 title: Demos/Breakouts
 description: Information about Sponsor Demos and Break-Out Sessions
 ---

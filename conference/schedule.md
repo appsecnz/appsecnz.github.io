@@ -1,5 +1,5 @@
 ---
-layout: conference/full-width
+layout: conference-2022/full-width
 title: Conference Schedule
 description: Conference Schedule - 7-8 July
 ---
