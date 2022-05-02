@@ -177,11 +177,9 @@ description: Conference Schedule - 7-8 July
   <tr>
     <td style="vertical-align: middle; text-align: right;">16:05&nbsp;-&nbsp;16:35</td>
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
-      <strong><a href="/conference/speakers.html#application-security-and-cheese" target="speakers">Application Security and Cheese</a></strong>
+      <strong><a href="/conference/speakers.html#mobile-wanderlust-our-journey-to-version-20" target="speakers">Mobile Wanderlust! Our journey to version 2.0</a></strong>
       <br />
-      (Remote Presentation)
-      <br />
-      <em>Steve Esler - SEQA Information Security</em>
+      <em>Sven Schleier - OWASP MSTG &amp; MASVS Projects</em>
     </td>
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
       <strong><a href="/conference/speakers.html#building-your-first-devsecops-pipeline" target="speakers">Building Your First DevSecOps Pipeline</a></strong>
@@ -287,14 +285,14 @@ description: Conference Schedule - 7-8 July
   <tr>
     <td style="vertical-align: middle; text-align: right;">11:30&nbsp;-&nbsp;12:00</td>
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
-      <strong><a href="/conference/speakers.html#mobile-wanderlust-our-journey-to-version-20" target="speakers">Mobile Wanderlust! Our journey to version 2.0</a></strong>
+      <strong><a href="/conference/speakers.html#application-security-and-cheese" target="speakers">Application Security and Cheese</a></strong>
       <br />
-      <em>Sven Schleier - OWASP MSTG &amp; MASVS Projects</em>
+      <em>Steve Esler - SEQA Information Security</em>
     </td>
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
-       <strong><a href="/conference/speakers.html#when-twiddling-the-dials-goes-wrong" target="speakers">When Twiddling the Dials Goes Wrong</a></strong>
+       <strong><a href="/conference/speakers.html#get-the-low-hanging-fruits-how-to-find-vulnerabilities-in-ios-apps" target="speakers">Get the Low-Hanging Fruits: How to find vulnerabilities in iOS apps</a></strong>
       <br />
-      <em>Shofe Miraz - Insomnia Security</em>
+      <em>Sven Schleier - F-Secure</em>
     </td>
     <td style="background-color: #EEE; text-align: center; margin: 15px 5px;">
       &nbsp;
@@ -360,7 +358,9 @@ description: Conference Schedule - 7-8 July
       <em>Caroline Wong - Cobalt Labs</em>
     </td>
     <td style="background-color: #B9C2DC; text-align: center; margin: 15px 5px;">
-      &nbsp;
+      <strong><a href="/conference/speakers.html#when-twiddling-the-dials-goes-wrong" target="speakers">When Twiddling the Dials Goes Wrong</a></strong>
+      <br />
+      <em>Shofe Miraz - Insomnia Security</em>
     </td>
     <td style="background-color: #B9C2DC; text-align: center; margin: 15px 5px;">
       &nbsp;

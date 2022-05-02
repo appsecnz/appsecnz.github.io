@@ -18,8 +18,7 @@ Presentations are listed on this page in alphabetical order by title.
 
 ### Application Security and Cheese   
 *Steve Esler - Aura Information Security*   
-Track One   
-Thursday, 15:05
+Track One - Friday, 11:30   
 
 
 #### Abstract
@@ -143,6 +142,30 @@ Track Two - Thursday, 15:05
 
 -----------
 
+### Get the Low-Hanging Fruits: How to find vulnerabilities in iOS Apps   
+*Sven Schleier - F-Secure*   
+Track Two - Friday, 11:30
+
+#### Description
+
+Vulnerabilities can be manifold and everywhere - in your repo, in your IPA, or when using the app. This talk will guide you on how to start to embed methodologies and open-source security tools into your SDLC to catch the "low hanging fruits" early and have continuous security scans in your pipeline for iOS Apps.
+
+We will go through many practical examples of how to use Github Actions, different open source tools and leverage the power of SARIF (Static Analysis Results Interchange Format) to get your pipeline in full swing.
+
+We start with by identifying secrets and how the scanning for them can be initiated even before being commited into the repo. Together with Software Composition Analysis (SCA) of the package managers being used and Static Application Security Testing (SAST) of the source code Github Action will be used to trigger all of the scans automatically with each commit and Pull Request.
+
+Implementing and starting scans in your CI/CD is setting the foundation, but managing the vulnerabilities is as important as detecting them. In another demonstration we use the SARIF file format and Github Code Scanning to flag false positives and bring sanity into the vulnerability management process.
+
+We will conclude this talk by giving tips and tricks on how to handle the tool output, current limitations of the tools and which identified vulnerabilities you should be focusing on first.
+
+#### Speaker Biography
+
+**Sven Schleier** is the Technical Director of F-Secure Singapore and has hands-on experience in attacking and defending web and mobile apps for the last 10+ years. He became specialised in Application Security and has supported and guided software development projects for Mobile and Web Applications during the whole SDLC.
+
+Besides his day job, since 2016, Sven has been one of the core project leaders and authors of the OWASP Mobile Security Testing Guide (MSTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has created the OWASP Mobile Hacking Playground. Sven gives talks and workshops about Mobile Security worldwide to different audiences, ranging from developers to students and penetration testers.
+
+-----------
+
 ### Let's Pick Our AppSec Toolkit   
 *Raafey Khan - Datacom*   
 Track One - Thursday, 15:30   
@@ -203,7 +226,7 @@ Track Two - Thursday, 10:20
 
 ### Mobile Wanderlust! Our journey to version 2.0   
 *Sven Schleier - OWASP MSTG and MASVS Projects*   
-Track One - Friday, 11:30   
+Track One - Thursday, 16:05
 
 #### Description
 
@@ -459,7 +482,7 @@ Track One - Thursday, 10:55
 
 ### When Twiddling the Dials Goes Wrong   
 *Shofe Miraz - Insomnia Security*   
-Track Two - Friday, 11:30   
+Track Two - Friday, 15:30   
 
 
 #### Abstract
