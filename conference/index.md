@@ -13,11 +13,11 @@ postal-code:
 
 # {{ page.description }}
 
-## 5 - 8 July 2022 (NOTE Date Change)
+## 5 - 8 July 2022
 
-##  Auckland University of Technology (AUT) City Campus
+## Auckland University of Technology (AUT) City Campus
 
-## Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2022) to register today!
+## Visit our [Registration Site](https://events.humanitix.com/owaspnz2022) to register today!
 
 -----
 
