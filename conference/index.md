@@ -85,6 +85,24 @@ For any comments, feedback or observations, please don't hesitate to [contact us
 
 Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
+### New Features This Year
+
+We continually strive to improve the conference experience for everyone, and adapt great features we see at other conferences. This year, we've have three elements that are new to our event:
+
+**Delegate Lounge -** Throughout the main conference on Thursday and Friday, we'll have a Delegate Lounge available in Room WA224A. The entrance to the Delegate Lounge is from the Sponsor Exhibition Area, next to the Datacom booth. The Delegate Lounge is a great place to catch up with colleagues, grab a cup of coffee or tea, or add a few pieces to our **Lego Build**.   
+**Delegate Lounge Hours:**   
+
+   * Thursday (7 July): 10:15 a.m. - 6:00 p.m.
+   * Friday (8 July): 8:00 a.m. - 5:00 p.m.
+
+**Lego Build -** In a corner of the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a [Lego Millennium Falcon](https://www.lego.com/en-nz/product/millennium-falcon-75192){: target="_blank" }. The university's A/V team will create a stop-motion video of the build process during the conference, and we'll view the finished video during the Closing Session on Friday.
+
+As an added bonus, one lucky conference delegate will go home with the Lego set, as the top prize in our Door Prize Draw at the Closing Session of the conference. To be eligible to win the Lego set, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desk (on Level 3) and in the **Delegate Lounge**.
+
+The **Lego Build** is brought to you by our **Lego Build Sponsor**, [Auth0](sponsors.md#auth0-1).
+
+**Volunteer Lounge / Speaker Green Room -** Throughout the main conference, speakers and volunteers can visit our restricted-access lounge on Level 3 of the WG Building. There, you'll be able to monitor the goings-on in both conference tracks, go over (or write) your slides, grab a cup of coffee or a snack, and relax before your moment of glory on our stage. Conference volunteers can use the space to relax, work on various tasks, or have a quiet catch-up.
+
 ## Important Dates
 
 * **CFP and CFT Opened:** 15 October 2021
@@ -113,15 +131,44 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
     **Virtual Campus Tour:** [Walkinto](https://walkinto.in/tour/bkBenXdUpbbyerlhm_IaZ)   
     
 **Stream One:** Level 4   
-**Room:** Lecture Theatre WG 403   
-**Overflow:** Lecture Theatre WG 126   
+**Room:** Lecture Theatre WG403   
+**Overflow:** Lecture Theatre WG126   
 
 **Stream Two:** Level 2   
-**Room:** Lecture Theatre WA 220   
-**Overflow:** Room WA 224B
+**Room:** Lecture Theatre WA220   
+**Overflow:** Room WA224B
 
 **Demo/Breakout Room:** Level 4   
-**Room:** Case Room WG 404
+**Room:** Case Room WG404
+
+**Delegate Lounge:** Level 2
+**Room:** WA224A
+
+**Sponsor Exhibition Area:** Level 2 Atrium and Forum (WG200/201)
+
+**Registration and Information Desks:** Level 3 Foyer (WG306)
+
+## Accommodations
+
+There are several hotels and backpacker accommodations near the conference venue. 
+
+#### Discount Offer
+
+Tetra Serviced Apartments by Nesuto has offered direct discounted rates for anyone taking part in the conference and needing accommodation in Auckland. One-bedroom apartments are available a a discounted rate of $145 per night; two-bedroom units are $199 per night (GST inclusive).
+
+Please use this link to compare rates and book: [Tetra Serviced Apartments by Nesuto](https://reservations.travelclick.com/99159?&identifier=convs&discount=convs#/accommodation/room).
+
+Tetra Serviced Apartments by Nesuto is located at [85 Wakefield Street](https://www.google.com/maps/dir/85+Wakefield+Street,+Auckland+CBD,+Auckland+1010/AUT+-+Sir+Paul+Reeves+Building+-+WG+Building+Governor+Fitzroy+Place,+Auckland+CBD,+Auckland/@-36.8541406,174.7631494,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x6d0d47e68053a7fb:0x3e7ef73e98121e1a!2m2!1d174.7656546!2d-36.8553891!1m5!1m1!1s0x6d0d47e44df6271d:0x169e2069f08497df!2m2!1d174.7659067!2d-36.8534143!3e2){: target="_blank" }, Auckland CBD, Auckland, 1010, and offers affordable self-contained apartment accommodation in central Auckland. Located within walking distance to AUT Universities and all of Auckland CBD's main attractions are easily accessible from the apartments. Contact info: [Property Website](https://www.nesuto.com/tetra); Phone: +64&nbsp;9&nbsp;336&nbsp;9000. 
+
+#### Other Nearby Accommodations
+
+The following information is provided for your convenience, and is based on a Google Maps search for properties near the conference venue. No endorsement or recommendation is implied by a property's inclusion in this list; likewise, a property's omission should not be taken amiss.
+
+* [Princeton Apartments](http://www.princeton.net.nz/) - 30 Symonds Street, +64&nbsp;9&nbsp;950&nbsp;8300
+* [Cordis, Auckland](https://www.cordishotels.com/en/auckland) - 83 Symonds Street, +64&nbsp;9&nbsp;379&nbsp;5132
+* [Crown on Cintra Lane](http://www.crownoncintra.co.nz/) - 3 Whitaker Place, +64&nbsp;9&nbsp;379&nbsp;6288
+* [Columbia Apartments](http://www.columbia.net.nz/location.html) - 15 Whitaker Place, +64&nbsp;9&nbsp;973&nbsp;8600
+
  
 Follow us on Twitter:   
 * [@owaspnz](https://www.twitter.com/owaspnz)   

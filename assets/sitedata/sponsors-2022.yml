@@ -8,6 +8,7 @@
 - active: true
   level: 1
   name: Quantum Security
+  anchor: quantum
   image: /assets/images/sponsor-logo/Logo-Quantum_Security-125.png
   url: https://www.quantumsecurity.co.nz/
   spotlight: |-
@@ -37,6 +38,7 @@
 - active: true
   level: 2
   name: CyberCX
+  anchor: cybercx
   image: /assets/images/sponsor-logo/Logo-CyberCX.png
   url: https://cybercx.com/
   spotlight: |-
@@ -72,6 +74,7 @@
 - active: true
   level: 2
   name: Datacom
+  anchor: datacom
   image: /assets/images/sponsor-logo/Datacom-Primary-Logo-RGB.svg
   url: https://datacom.com/
   spotlight: |-
@@ -115,6 +118,7 @@
 - active: true
   level: Lego Build Sponsor
   name: Auth0
+  anchor: auth0-1
   image: /assets/images/sponsor-logo/Logo-Auth0-125.png
   url: https://auth0.com/
   spotlight: |-
@@ -156,6 +160,7 @@
 - active: true
   level: 4
   name: Flux
+  anchor: flux
   image: /assets/images/sponsor-logo/Flux Primary Logo Aubergine_RGB.jpg
   url: https://www.fluxfederation.com/
   spotlight: |-
@@ -185,6 +190,7 @@
 - active: true
   level: 2
   name: Snyk
+  anchor: snyk
   image: /assets/images/sponsor-logo/Logo-Snyk-225.png
   url: https://snyk.io
   spotlight: |-
@@ -202,6 +208,7 @@
 - active: true
   level: 3
   name: Pulse Security 
+  anchor: pulse
   image: /assets/images/sponsor-logo/Logo-Pulse_Security.png
   url: https://pulsesecurity.co.nz/
   spotlight: |-
@@ -215,6 +222,7 @@
 - active: true
   level: 4
   name: SEQA Information Security
+  anchor: seqa
   image: /assets/images/sponsor-logo/Logo-SEQA-150.png
   url: https://www.seqa.co.nz/
   spotlight: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
@@ -259,6 +267,7 @@
 - active: true
   level: 3
   name: Checkmarx
+  anchor: checkmarx
   image: /assets/images/sponsor-logo/Logo-Checkmarx.png
   url: https://checkmarx.com/
   spotlight: |-
@@ -288,6 +297,7 @@
 - active: true
   level: 3
   name: Auth0
+  anchor: auth0-2
   image: /assets/images/sponsor-logo/Logo-Auth0-125.png
   url: https://auth0.com/
   spotlight: |-
@@ -329,6 +339,7 @@
 - active: true
   level: Datacom Partner
   name: SecureFlag
+  anchor: secureflag
   image: /assets/images/sponsor-logo/Logo-SecureFlag-Captured.png
   url: https://www.secureflag.com/index.html
   spotlight: |-
@@ -356,6 +367,7 @@
 - active: true
   level: Datacom Partner
   name: Cobalt Labs
+  anchor: cobalt
   image: /assets/images/sponsor-logo/Logo-Cobalt_Labs-Captured.png
   url: https://www.cobalt.io/
   spotlight: |-
@@ -381,6 +393,7 @@
 - active: true
   level: Datacom Partner
   name: Lacework
+  anchor: lacework
   image: /assets/images/sponsor-logo/Logo-Lacework-Captured.png
   url: https://www.lacework.com/
   spotlight: |-
