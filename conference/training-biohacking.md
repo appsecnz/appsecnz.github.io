@@ -1,7 +1,7 @@
 ---
 layout: conference-2022/full-width
 
-title: Online Training - Biohacking: The Invisible Threat
+title: "Online Training - Biohacking: The Invisible Threat"
 description: Pre-Conference Training Class, 6 July - OWASP New Zealand Day 2022 
 ---
 
