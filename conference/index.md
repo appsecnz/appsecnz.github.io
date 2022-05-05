@@ -89,17 +89,17 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 We continually strive to improve the conference experience for everyone, and adapt great features we see at other conferences. This year, we've have three elements that are new to our event:
 
-**Delegate Lounge -** Throughout the main conference on Thursday and Friday, we'll have a Delegate Lounge available in Room WA224A. The entrance to the Delegate Lounge is from the Sponsor Exhibition Area, next to the Datacom booth. The Delegate Lounge is a great place to catch up with colleagues, grab a cup of coffee or tea, or add a few pieces to our **Lego Build**.   
+**Delegate Lounge -** Throughout the main conference on Thursday and Friday, we'll have a Delegate Lounge available in Room WA224A. The entrance to the Delegate Lounge is from the Sponsor Exhibition Area, next to the Datacom booth. The Delegate Lounge is a great place to catch up with colleagues, grab a cup of coffee or tea, or add a few pieces to our **LEGO Build**.   
 **Delegate Lounge Hours:**   
 
    * Thursday (7 July): 10:15 a.m. - 6:00 p.m.
    * Friday (8 July): 8:00 a.m. - 5:00 p.m.
 
-**Lego Build -** In a corner of the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a [Lego Millennium Falcon](https://www.lego.com/en-nz/product/millennium-falcon-75192){: target="_blank" }. The university's A/V team will create a stop-motion video of the build process during the conference, and we'll view the finished video during the Closing Session on Friday.
+**LEGO Build -** In a corner of the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a [LEGO Millennium Falcon](https://www.lego.com/en-nz/product/millennium-falcon-75192){: target="_blank" }. The university's A/V team will create a stop-motion video of the build process during the conference, and we'll view the finished video during the Closing Session on Friday.
 
-As an added bonus, one lucky conference delegate will go home with the Lego set, as the top prize in our Door Prize Draw at the Closing Session of the conference. To be eligible to win the Lego set, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desk (on Level 3) and in the **Delegate Lounge**.
+As an added bonus, one lucky conference delegate will go home with the LEGO set, as the top prize in our Door Prize Draw at the Closing Session of the conference. To be eligible to win the LEGO set, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desk (on Level 3) and in the **Delegate Lounge**.
 
-The **Lego Build** is brought to you by our **Lego Build Sponsor**, [Auth0](sponsors.md#auth0-1).
+The **LEGO Build** is brought to you by our **LEGO Build Sponsor**, [Auth0](sponsors.md#auth0-1).
 
 **Volunteer Lounge / Speaker Green Room -** Throughout the main conference, speakers and volunteers can visit our restricted-access lounge on Level 3 of the WG Building. There, you'll be able to monitor the goings-on in both conference tracks, go over (or write) your slides, grab a cup of coffee or a snack, and relax before your moment of glory on our stage. Conference volunteers can use the space to relax, work on various tasks, or have a quiet catch-up.
 

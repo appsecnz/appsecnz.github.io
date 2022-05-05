@@ -71,9 +71,9 @@ This year, we've made a few adjustments to our Premier Sponsorship packages, to 
 * For **Diamond** and **Platinum** sponsorships, exhibition space is included in the fee
 * Each Premier Sponsor package includes a number of free conference passes and conference t-shirts ($40 value per person)
 
-### Lego Build and Video Sponsorship
+### LEGO Build and Video Sponsorship
 
-In addition to the tiered sponsorship packages detailed below, we've introduced an exciting new *a la carte* opportunity this year: A Lego Build Sponsorship! For the 2022 conference, we're adding an Delegate Lounge, adjacent to the Sponsor Exhibition Area. In the Delegate Lounge, conference participants will be able to take part in a group build of a Lego Star Destroyer [Lego Set #75252](https://www.lego.com/en-nz/product/imperial-star-destroyer-75252). 
+In addition to the tiered sponsorship packages detailed below, we've introduced an exciting new *a la carte* opportunity this year: A LEGO Build Sponsorship! For the 2022 conference, we're adding an Delegate Lounge, adjacent to the Sponsor Exhibition Area. In the Delegate Lounge, conference participants will be able to take part in a group build of a LEGO Millennium Falcon ([Set #75192](https://www.lego.com/en-nz/product/millennium-falcon-75192)). 
 
 Throughout the conference, the A/V team will capture time-sequenced photos of the build area, and will present a first-cut version of the stop-motion video during the closing session on Friday afternoon. The sponsor will be recognised at the beginning and end of the video, to be published on the OWASP New Zealand Chapter's [YouTube channel](https://www.youtube.com/channel/UCWjcSSETjqhzBlVxXTW1zhg) and promoted through social media.
 
@@ -86,7 +86,7 @@ The fee for this one-of-a-kind *a la carte* sponsorship is **$4,500**, to cover 
 All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 {: style="font-weight: bold; font-size: small;" }
 
-|        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |Lego Build |
+|        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |LEGO Build |
 |-------:|:--------:|:----------:|:------:|:--------:|:--------:|:---------:|
 |**Enrolment Limit**| 1<br />**(SOLD OUT)** | 3<br />**(SOLD OUT)** | 8<br />**(JUST 3 LEFT)** | -- | -- |1<br />**(SOLD OUT)** |
 |**Rate**|$12,500|$7,200|$5,250|$3,750|$2,250|$4,500|
@@ -114,7 +114,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, with space provided as part of each sponsorship package. Some sponsors, however, didn't wish to make use of the space provided. For this year's conference, we've made the exhibition space an optional add-on for some sponsorship levels, so those sponsors can decide whether to have a booth.
 
-|        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |Lego Build|
+|        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |LEGO Build|
 |-------:|:--------:|:----------:|:------:|:--------:|:--------:|:--------:|
 |**Booth Size**|**30m<sup>2</sup>**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|**6m<sup>2</sup>**|**9m<sup>2</sup>**|
 |**Seating**|4 tables<br />8 chairs|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|1 table<br />2 chairs|2 tables<br />4 chairs|
