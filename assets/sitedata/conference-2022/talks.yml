@@ -4,7 +4,7 @@
 # day: 0 - Thursday; 1 - Friday
 # block: Block number of the speaker's time slot - First block of the day is Block 0
 # track: Track number (0 - Track One; 1 - Track Two) - Demo/Breakout ("Track 3") info goes in breakouts-yyyy.yml
-# name1: Speaker's name
+# name: Speaker's name
 # title: Full title of talk
 # id: Whitespace-free ID/tag value for the talk
 # org: Speaker's organisation
@@ -16,9 +16,9 @@
 # size: File size of slide deck
 # abstract: short description of the talk
 # description: full-length description of the talk
-# bio1: brief biography provided by the speaker 
+# bio: brief biography provided by the speaker 
 # twitter: speaker's Twitter handle (without the '@')
-# NOTE: For multiple speakers, use 'name2'/'bio2', 'name3'/'bio3', etc. - Speakers will be added to listings, until the next doesn't exist
+# NOTE: For multiple speakers, use 'name2'/'bio2'and 'name3'/'bio3' - Automation currently supports up to 3 speakers per talk
 - plenary: true
   title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
   name: Coffee/Tea Service Available
@@ -176,11 +176,23 @@
   track: 1
   remote: true
   abstract: |- 
-    
+    How do you ensure the stability of your Kubernetes (K8s) clusters? Are you sure you don't have any 
+    invalid data types? Are any mandatory fields missing? Specialized tools and a "shift-left" approach 
+    make it possible to verify a Kubernetes schema before it’s applied to a cluster.
   description: |-
-    
+    How do you ensure the stability of your Kubernetes clusters? How do you know that your manifests 
+    are syntactically valid? Are you sure you don't have any invalid data types? Are any mandatory 
+    fields missing? Most often, we only become aware of these misconfigurations at the worst time - 
+    when trying to deploy the new manifests.
+    </p>
+    <p>
+    In this talk, we will review how to overcome this challenge with OSS tooling that can be integrated 
+    seamlessly into your deployment process.
   bio: |- 
-    
+    started his professional life as a lawyer for OSS licenses, but fell in love with the technology 
+    itself. He taught himself to code and worked as a full-stack engineer. After about four years, he 
+    decided he needed to step out of his comfort zone, and today he's an entrepreneur and 
+    Chief Product Officer at <a href="https://datree.io/" target="_blank">datree</a>.
 - selected: true
   confirmed: false
   plenary: false
@@ -266,12 +278,31 @@
   block: 11
   track: 0
   remote: false
-  abstract: |- 
-    
   description: |-
-    
+    There are numerous ways of developing mobile applications today, but how do you ensure that security is part 
+    of the development process? What are the attacks you should be concerned about and what can you do to avoid 
+    being an easy target? If you don't want to miss anything, leveraging a standard is essential.
+    </p>
+    <p>
+    The Mobile Application Security Verification Standard (MASVS) offers exactly that. It works together with 
+    the agile-written Mobile Security Testing Guide (MSTG) to help you understand the attack surface of mobile 
+    apps, how to exploit them and how to protect them. Both resources are crafted and curated by a team of industry 
+    experts and community contributors.
+    </p>
+    <p>
+    In this talk we will make a deep dive into the upcoming changes of both projects and the transition to version 2.0. 
+    We are sharing the current status of the refactoring of the OWASP MASVS and the MSTG and what we’ve been able to 
+    automate to get rid of manual processes and have more time focusing on the content!
   bio: |- 
-    
+    is the Technical Director of F-Secure Singapore and has hands-on experience in attacking and defending web 
+    and mobile apps for the last 10+ years. He became specialised in Application Security and has supported and 
+    guided software development projects for Mobile and Web Applications during the whole SDLC.
+    </p>
+    <p>
+    Besides his day job, since 2016, Sven has been one of the core project leaders and authors of the OWASP Mobile 
+    Security Testing Guide (MSTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has 
+    created the OWASP Mobile Hacking Playground. Sven gives talks and workshops about Mobile Security worldwide to 
+    different audiences, ranging from developers to students and penetration testers.
 - selected: true
   confirmed: false
   plenary: false
@@ -284,11 +315,35 @@
   track: 1
   remote: false
   abstract: |- 
-    
+    I am sure all of you have heard about "Shift Left Security" in many presentations, but how do you 
+    actually achieve this? Well, this is the talk for you - where I'll cover all the DevSecOps buzzwords 
+    and showcase a functional DevSecOps pipeline that can perform security testing such as SCA, SAST, and DAST.
   description: |-
-    
+    In this talk I'll cover how to build your first DevSecOps pipeline with Open Source tooling. 
+    I'll address various concepts and buzzwords related to DevSecOps to clear your doubts. 
+    I'll demonstrate a GitLab pipeline that has various open-source security tooling embedded to 
+    perform the following security tests against a vulnerable application:
+    </p>
+    <ul>
+    <li>Secrets Detection (tools such as Trufflehog, etc.)</li>
+    <li>Software Composition Analysis (SCA)</li>
+    <li>Static Application Security Testing (SAST)</li>
+    <li>Dynamic Application Security Testing (DAST)</li>
+    </ul>
+    <p>
+    With this pipeline, our aim is to identify security issues as early as possible so that we 
+    can build "Secure by Default" products. This pipeline and demos will cover tools such as 
+    retireJS, Safety, Bandit, TruffleHog, NMAP, SSLyze and ZAP.
   bio: |- 
-    
+    has been in this field for over 11 years. He has worked as a Pentester for NZ telcos, banks, 
+    health sectors and manufacturing companies. He now runs his own security consulting company 
+    called Wise Fox Security, that offers services in Offensive Security and DevSecOps space. 
+    He has also completed a few of the 'customary' certifications, including OSWE, OSCP, eWPTX 
+    and Certified DevSecOps Professional (CDP). He has also spoken at a number of other security 
+    conferences. Karan has a YouTube channel that you can subscribe to 
+    (<a href="https://www.youtube.com/c/WiseFoxSecurity" target="_blank">Wise Fox Security</a>). 
+    Other than InfoSec, Karan loves watching and playing soccer, loves evening runs with his dog 
+    and going to the gym.
 - plenary: true
   title: Wrap-Up - Day 1
   day: 0
@@ -402,11 +457,49 @@
   track: 0
   remote: false
   abstract: |- 
-    
+    Everyone loves cheese, right? This talk will apply the Swiss cheese model to AppSec, each cheese slice 
+    is a security activity, a layer of the defenses there to reduce the risk of threats becoming reality 
+    and prevent vulnerabilities from various sources making their way into production systems.
   description: |-
-    
+    This talk leans on some of my background in aviation maintenance and safety software as aviation is one 
+    of the places where the Swiss cheese model originated. It has also been used more recently to model the 
+    COVID pandemic defenses. I will apply the model here to describe how we can use security activities in 
+    the application development lifecycle to reduce the risk of threats becoming a reality. Each slice of the 
+    cheese being a security activity, each hole being a gap in the defenses that a threat might slip through. 
+    It will describe what in application security context active and latent failures are and in this context 
+    how vulnerabilities can relate to the four failure domains of the model: organizational influences 
+    (poor security culture, priorities elsewhere, lack of investment), supervision (training and guidance, 
+    documentation), preconditions (lack of controls, complex environments) and specific acts (activities of 
+    the threat actor, poor security practices).
+    </p>
+    <p>
+    No new ground-breaking security activities here; just all the good stuff championed by OWASP and 
+    explaining how these can fit into common software development lifecycles. Covering about how threats 
+    might still slip through, what might move the slices making the holes align or new ones appear so a 
+    threat could get through and become a vulnerability by looking at some of the limitations of each activity. 
+    What could be the next slice of cheese that might catch the threat and avoid an incident later in the 
+    development lifecycle. Share some of my experience in understanding when to do each activity and the 
+    problems I've previously encountered in working with development teams to introduce application security 
+    programs. Telling a story of some of the things I have seen work in practice, some that haven't worked 
+    so well, and questions that often come up when planning and implementing a set of security activities. 
+    It's not a one size fits all, some activities will suit individual contexts better than others. Layering 
+    is key both to provide defense in depth but also to enable a gradual rollout as the activities cost both 
+    effort and money. Delving briefly into what can be automated and what is best accepted as a manual process. 
+    Also looking at some of the Human Factors that influence the effectiveness of the defenses.
   bio: |- 
-    
+    has a background in 15 years as a web developer working on greenfield projects and initiating changes 
+    in development technologies prototyping new systems that he then helped release to market. He spent his 
+    last five years as a developer working with the Royal Air Force in the UK on an aircraft maintenance and 
+    support software. After meeting all the goals he'd set himself for a development career, he switched to 
+    Cyber Security to take on a new challenge. And there are possibly no wider fields and challenges than 
+    Cyber Security! Steve earned a Masters in Cyber security, then went out to industry to gain some experience,
+    starting with a short stint as a pen tester then moving on to working securing on IoT, SCADA electronics 
+    systems and vulnerability management for a custom Linux distro at Honeywell. At Honeywell, Steve was working 
+    with teams around the world to secure both hardware, operating systems and applications. Through Honeywell, 
+    he picked up some great experience working within a very mature and successful software and system security 
+    program, while obtaining some professional certificates along the way. Steven then worked with a large 
+    financial company in the UK, creating an application security framework, before moving to New Zealand with 
+    his young family at the start of 2021.
 - selected: true
   confirmed: false
   plenary: false
@@ -418,12 +511,39 @@
   block: 4
   track: 1
   remote: false
-  abstract: |- 
-    
   description: |-
-    
+    Vulnerabilities can be manifold and everywhere - in your repo, in your IPA, or when using the app. This talk 
+    will guide you on how to start to embed methodologies and open-source security tools into your SDLC to catch 
+    the "low-hanging fruits" early and have continuous security scans in your pipeline for iOS Apps.
+    </p>
+    <p>
+    We will go through many practical examples of how to use Github Actions, different open-source tools and 
+    leverage the power of SARIF (Static Analysis Results Interchange Format) to get your pipeline in full swing.
+    </p>
+    <p>
+    We start with by identifying secrets and how the scanning for them can be initiated even before being committed
+    into the repo. Together with Software Composition Analysis (SCA) of the package managers being used and Static 
+    Application Security Testing (SAST) of the source code Github Action will be used to trigger all of the scans 
+    automatically with each commit and Pull Request.
+    </p>
+    <p>
+    Implementing and starting scans in your CI/CD is setting the foundation, but managing the vulnerabilities is as 
+    important as detecting them. In another demonstration we use the SARIF file format and Github Code Scanning to 
+    flag false positives and bring sanity into the vulnerability management process.
+    </p>
+    <p>
+    We will conclude this talk by giving tips and tricks on how to handle the tool output, current limitations of 
+    the tools and which identified vulnerabilities you should be focusing on first.
   bio: |- 
-    
+    is the Technical Director of F-Secure Singapore and has hands-on experience in attacking and defending web 
+    and mobile apps for the last 10+ years. He became specialised in Application Security and has supported and 
+    guided software development projects for Mobile and Web Applications during the whole SDLC.
+    </p>
+    <p>
+    Besides his day job, since 2016, Sven has been one of the core project leaders and authors of the OWASP Mobile 
+    Security Testing Guide (MSTG) and OWASP Mobile Application Security Verification Standard (MASVS) and has 
+    created the OWASP Mobile Hacking Playground. Sven gives talks and workshops about Mobile Security worldwide to 
+    different audiences, ranging from developers to students and penetration testers.
 - plenary: true
   title: Break for Lunch - On Your Own
   day: 1
