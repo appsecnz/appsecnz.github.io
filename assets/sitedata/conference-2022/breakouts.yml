@@ -1,0 +1,33 @@
+# Definitions for this file
+# selected: true, if the Programme Committee has accepted the talk; false, if not
+# confirmed: true, if the speaker has confirmed their participation; false, if not
+# day: 1 - Thursday; 2 - Friday
+# block: Block number of the speaker's time slot - First speaking slot each day is Block 3
+# track: Track number (1 - Track One; 2 - Track Two; 3 - Demo/Breakout)
+# name: Speaker's name
+# title: Full title of talk
+# org: Speaker's organisation
+# remote: true, if speaker is presenting remotely; false, if not
+# video: URL of video, once uploaded to YouTube
+# length: Runtime of YouTube video
+# slides: full path to presentation slide deck, if in local assets; full URL, if not
+# format: File format for slide deck
+# size: File size of slide deck
+# abstract: short description of the talk
+# description: full-length description of the talk
+# bio: brief biography provided by the speaker 
+# twitter: speaker's Twitter handle (without the '@')
+# NOTE: For multiple speakers, use 'name2'/'bio2', 'name3'/'bio3', etc. - Speakers will be added to listings, until the next doesn't exist
+- selected: true
+  confirmed: false
+  title: '' 
+  name: 
+  org: 
+  remote: false
+  track: 1
+  abstract: |- 
+    
+  description: |-
+    
+  bio: |- 
+    

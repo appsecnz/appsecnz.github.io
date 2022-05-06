@@ -1,7 +1,8 @@
 ---
-layout: conference-2022/schedule-full-width
+layout: conference/schedule-full-width
 title: Conference Schedule
 description: Conference Schedule - 7-8 July
+datadir: conference-2022
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
