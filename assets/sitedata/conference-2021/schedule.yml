@@ -1,0 +1,127 @@
+days:
+- day: 1
+  dayofweek: Friday
+  dayofwk: Fri
+  date: 12
+  month: February
+  mon: Feb
+  year: 2021
+  yr: 21
+  time_blocks:
+  - block: 0
+    start: '08:00'
+    end: '09:15'
+    plenary: true
+  - block: 1
+    start: '09:15'
+    end: '09:55'
+    plenary: true
+  - block: 2
+    start: '10:00'
+    end: '10:30'
+    plenary: false
+  - block: 3
+    start: '10:35'
+    end: '11:05'
+    plenary: false
+  - block: 4
+    start: '11:10'
+    end: '11:40'
+    plenary: false
+  - block: 5
+    start: '11:45'
+    end: '12:15'
+    plenary: false
+  - block: 6
+    start: '12:15'
+    end: '13:30'
+    plenary: true
+  - block: 7
+    start: '13:30'
+    end: '14:20'
+    plenary: false
+  - block: 8
+    start: '14:25'
+    end: '14:55'
+    plenary: false
+  - block: 9
+    start: '14:55'
+    end: '15:25'
+    plenary: true
+  - block: 10
+    start: '15:25'
+    end: '16:15'
+    plenary: false
+  - block: 11
+    start: '16:20'
+    end: '16:50'
+    plenary: false
+  - block: 12
+    start: '16:55'
+    end: '17:30'
+    plenary: true
+- day: 1
+  dayofweek: Saturday
+  dayofwk: Sat
+  date: 13
+  month: February
+  mon: Feb
+  year: 2021
+  yr: 21
+  time_blocks:
+  - block: 0
+    start: '08:00'
+    end: '09:15'
+    plenary: true
+  - block: 1
+    start: '09:15'
+    end: '09:40'
+    plenary: true
+  - block: 2
+    start: '09:45'
+    end: '10:15'
+    plenary: false
+  - block: 3
+    start: '10:20'
+    end: '10:50'
+    plenary: false
+  - block: 4
+    start: '10:55'
+    end: '11:25'
+    plenary: false
+  - block: 5
+    start: '11:30'
+    end: '11:50'
+    plenary: false
+  - block: 6
+    start: '11:55'
+    end: '12:15'
+    plenary: false
+  - block: 7
+    start: '12:15'
+    end: '13:30'
+    plenary: true
+  - block: 8
+    start: '13:30'
+    end: '14:20'
+    plenary: false
+  - block: 9
+    start: '14:25'
+    end: '14:55'
+    plenary: false
+  - block: 10
+    start: '14:55'
+    end: '15:25'
+    plenary: true
+  - block: 11
+    start: '15:25'
+    end: '15:55'
+    plenary: false
+  - block: 12
+    start: '16:00'
+    end: '16:30'
+    plenary: false
+  - block: 13
+    start: '16:35'
+    end: '17:30'
+    plenary: true

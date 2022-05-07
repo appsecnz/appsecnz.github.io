@@ -51,12 +51,19 @@
   block: 3
   track: 0
   remote: false
-  abstract: |- 
-    
+  twitter: kirkj
   description: |-
-    
+    The OWASP Top 10 is the flagship project for the OWASP Foundation, and the first thing people think of.
+    </p>
+    <p>
+    This talk will introduce you to the OWASP Top 10 and get you excited about the rest of the day!
   bio: |- 
-    
+    works at RedShield, leads the OWASP New Zealand Chapter's Wellington Meetup, and has previously 
+    helped organise the annual OWASP NZ Day in Auckland.
+    </p>
+    <p>
+    Kirk worked as a web developer before switching to the defence team - setting up Xero's 
+    security practice, working as a pen tester, and in defence roles at several companies.
 - selected: true
   confirmed: true
   plenary: false
@@ -68,12 +75,33 @@
   block: 3
   track: 1
   remote: true
+  linkedin: mlmd
   abstract: |- 
-    
+    The migration of software from monoliths to microservices is long behind us, however managing 
+    microservices operations at scale comes with a layer of complexity, particularly with aspects 
+    of security that still have a learning curve. But what if all of this could be simplified and 
+    automated pretty easily?
   description: |-
-    
+    If we think about our production Kubernetes and microservices operations, in the same way we 
+    think about how we design and build our products, we could build and automate minimum viable 
+    security plans that we could easily bake into our config files and CI/CD processes. Once we 
+    build this foundational framework of security, it will always be possible to iterate and evolve 
+    our security framework, for advanced layers of security that often comes with time, increased 
+    experience, and greater maturity around security.
+    </p>
+    <p>
+    In this talk, we will present what MVS looks like for Kubernetes operations, how to build a 
+    cluster secured by design, continuously monitoring networking, container internals and primitives, 
+    and access management with a least privilege principle mindset. In this session we will demonstrate 
+    this through code, and even how this can work seamlessly with other CNCF ecosystem projects - 
+    from Helm to OPA, ArgoCD, Notary, as well at the most common DevOps stacks - Terraform, to AWS, 
+    Github Actions and more.
   bio: |- 
-    
+    is co-founder, and currently CTO, of Jit, the Continuous Security platform for Developers. David 
+    has a Ph.D. in Bioinformatics and over the past 20 years has been a full-stack developer, CTO 
+    and technical evangelist, mostly in the cloud, and specifically in cloud security. He has worked
+    for leading organizations such as MyHeritage, CloudLock (acquired by Cisco), and led the 
+    'advanced development team' for the CTO of Cisco's cloud security (a $500M ARR BU).
 - selected: true
   confirmed: false
   plenary: false
@@ -85,12 +113,34 @@
   block: 4
   track: 0
   remote: false
+  twitter: kevinnz
+  linkedin: kevinnz
   abstract: |- 
-    
+    'SOUP' stands for "Software of Unknown Provenance." This is software in your code base that 
+    has not been created under you development process. This talk is about finding known security 
+    vulnerabilities in these introduced packages. Small demonstration of how this can be done in 
+    the development pipeline.
   description: |-
-    
+    'SOUP' stands for Software of Unknown (or Uncertain) Provenance (or Pedigree), and is a term 
+    often used in the context of safety-critical and safety-involved systems such as medical software. 
+    SOUP is software that has not been developed with a known software development process or methodology, 
+    or which has unknown or no safety-related properties.<sup>1</sup>
+    </p>
+    <p>
+    This talk will be an introductory level technical talk on introducing Software Composition 
+    Analysis (SCA) into the development pipeline. The presentation will include a brief demo.
+    </p>
+    <p style="font-size: small;">
+    <sup>1</sup> <a href="https://en.wikipedia.org/wiki/Software_of_unknown_pedigree" target="_blank">https://en.wikipedia.org/wiki/Software_of_unknown_pedigree</a>
   bio: |- 
-    
+    helps run the Christchurch branch of 
+    <a href="https://www.meetup.com/ISIG-Christchurch-NZ/" target="_blank">ISIG</a> and a small 
+    hacker conference in Christchurch called <a href="https://chcon.nz" target="_blank">CHCon</a>. 
+    He has been programming for a living since 1986 (yes, longer than many of you have been alive) 
+    after studying at what is now known as Ara Institute of Canterbury. In those 30-plus years, he 
+    spent of lot of his time in Enterprise, Financial systems with mobile/Internet applications. 
+    In 2016, Kevin became an Offensive Security Certified Professional (OSCP). 
+    He works as a Senior Consultant on Datacom's AppSec Services team.
 - selected: true
   confirmed: true
   plenary: false
@@ -102,12 +152,40 @@
   block: 4
   track: 1
   remote: false
+  linkedin: kentostewart
   abstract: |- 
-    
+    During an incident, knowing your external perimeter is critical when trying to determine 
+    your attack surface, and OWASP Amass is a tool that can be used to help perform this at 
+    speed and scale. I will give an overview of OWASP Amass and how and why this should be 
+    used to assist organizations.
   description: |-
-    
+    For many organizations, knowing what their external perimeter is can be an ongoing challenge. 
+    A lack of asset management, shadow IT and disjointed internal teams remain almost ever-present, 
+    especially in older and larger enterprises. It's therefore not uncommon for a range of different 
+    applications or websites to be accessible on the wider internet without security teams being 
+    aware of them, or without sufficient logging in place to detect and respond to malicious activity 
+    targeting these sites.
+    </p>
+    <p>
+    So what happens when a remote code execution vulnerability is disclosed in log4j, a near-ubiquitous 
+    logging framework for Java? When you suddenly find yourself in a position where Internet-facing 
+    applications are being exploited en masse, but you don’t have a clear idea of what you even have 
+    on the internet to begin with?
+    </p>
+    <p>
+    Enter OWASP Amass - a tool to help information security professionals perform network mapping 
+    of attack surfaces and perform external asset discovery.
+    </p>
+    <p>
+    In this talk will give an overview of OWASP Amass along with how and why security or development 
+    teams should use it. I will also discuss a real-world use case on how OWASP Amass was utilized 
+    during Westpac's incident response to the now infamous log4j vulnerability, allowing us to rapidly 
+    map out our external perimeter to identify potentially vulnerable targets on the internet.
   bio: |- 
-    
+    enjoys doing all sorts of cyber security stuff, but he enjoys laughing at really bad memes even more.
+    </p>
+    <p>
+    "The inner machinations of my mind are an enigma" - <em>Patrick Star</em>
 - selected: true
   confirmed: true
   plenary: false
@@ -119,12 +197,30 @@
   block: 5
   track: 0
   remote: false
-  abstract: |- 
-    
+  twitter: aaronpk
+  linkedin: aaronparecki
   description: |-
-    
+    Even if you've never heard about OAuth, you've certainly used it in your daily life already. 
+    But what purpose does OAuth actually serve?
+    </p>
+    <p>
+    In this session, you'll learn about the original problems OAuth set out to solve, and how 
+    it evolved over the years into the foundation of nearly every modern system on the web.
+    </p>
+    <p>
+    This session explains OAuth through the lens of everyday life, without jargon or code. 
+    You'll learn how OAuth makes life easier for app developers, and how it enables the 
+    best blend of security and usability.    
   bio: |- 
-    
+    is a Senior Security Architect at Okta, with over 20 years of experience in the industry. 
+    He is the author of 
+    <a href="https://oauth2simplified.com/" target="_blank">OAuth 2.0 Simplified</a>, maintains 
+    <a href="https://oauth.net/" target="_blank">oauth.net</a>, and has taught the fundamentals of 
+    OAuth and online security to thousands of developers worldwide. He has been invited to speak at 
+    events around the world about OAuth, online security, privacy and data ownership. He is a regular 
+    contributor to several globally-recognized specifications at the IETF including 
+    <a href="https://oauth.net/2.1/" target="_blank">OAuth 2.1</a> and 
+    <a href="https://oauth.net/gnap/" target="_blank">GNAP</a>. 
 - selected: true
   confirmed: false
   plenary: false
@@ -136,12 +232,15 @@
   block: 5
   track: 1
   remote: false
-  abstract: |- 
-    
+  linkedin: hotanyar
   description: |-
-    
+    GraphQL is increasing in popularity and, increasingly developers are starting to pick it as their first 
+    choice for APIs. While it addresses some issues found in competing API standards (REST or SOAP), many 
+    of the same security issues still affect GraphQL. This talk will address common vulnerabilities and 
+    misconfigurations seen with applications using GraphQL and how they can be prevented.
   bio: |- 
-    
+    is a Security Consultant at CyberCX, where he has been hacking as his day job for about three years. 
+    He's interested in OSINT, physical pentesting, and web apps. He will <em>definitely</em> tell you a lot of dad jokes.
 - plenary: true
   title: Break for Lunch - On Your Own
   day: 0
@@ -158,12 +257,24 @@
   block: 7
   track: 0
   remote: false
+  twitter: parsley72
+  linkedin: tom-isaacson
   abstract: |- 
-    
+    A tour through the OWASP IoT Top 10 with examples of how things have gone wrong in the 
+    real world and ideas for improving things in the future.
   description: |-
-    
+    OWASP (the Open Web Application Security Project) is, of course, famous for their <strong>Top 10</strong>, but what 
+    some people don’t realise is that it's specifically the Top 10 <em>Web Application</em> Security Risks. There are 
+    other Top 10s, dealing with different areas. We're going to have a quick trip through the Internet of Things (IoT) 
+    Top 10. How does it differ from the Web App Top 10? Are there any overlaps? How has the IoT list changed over time?
+    </p>
+    <p>
+    This presentation is based on a previous talk, "IoT - How to fight the tyre fire," presented at the 2008 OWASP 
+    New Zealand Day conference, and has been updated to reflect changes as software, InfoSec, and the industry move forward.
   bio: |- 
-    
+    has been an embedded developer for 20 years. He hasn’t bothered learning web development because 
+    he still thinks the Internet is a passing fad, but was forced to think about security after 
+    his employer added networking to their products.
 - selected: true
   confirmed: false
   plenary: false
@@ -175,6 +286,8 @@
   block: 7
   track: 1
   remote: true
+  twitter: eyarzilb
+  linkedin: eyar-zilberman
   abstract: |- 
     How do you ensure the stability of your Kubernetes (K8s) clusters? Are you sure you don't have any 
     invalid data types? Are any mandatory fields missing? Specialized tools and a "shift-left" approach 
@@ -204,12 +317,49 @@
   block: 8
   track: 0
   remote: true
+  twitter: Dkrivelev
+  linkedin: daniel-krivelevich
   abstract: |- 
-    
+    As engineering systems and processes continue to grow in speed and diversity, security teams 
+    are struggling to understand this ecosystem well enough to provide good security guardrails. 
+    I suggest a new approach to securing engineering environments, covering all relevant aspects of CI/CD security.
   description: |-
-    
+    CI/CD pipelines are quickly becoming the path of least resistance for would-be attackers into 
+    sensitive internal systems, gaining access to critical data, with minimal effort.
+    </p>
+    <p>
+    In the InfoSec world, when we talk about CI/CD security, often times this focuses on specific 
+    aspects of securing your pipeline - scanning the code, protecting secrets, securely managing code 
+    deployments, or even authentication and authorization mechanisms, but we rarely talk about all of these together.
+    </p>
+    <p>
+    After years of being in the trenches and realizing that the attack surface is growing and the threat 
+    landscape becoming more and more complex, it has become increasingly apparent that security teams 
+    need to adapt and modify strategies to keep up with the new reality of CI/CD protection, without compromising developer velocity.
+    </p>
+    <p>
+    In this talk, I would like to propose a new way of thinking about CI/CD security - that encompasses 
+    the three disciplines that comprise CI/CD security - security in the pipeline, of the pipeline, and 
+    around the pipeline. Partial coverage of any or all of these disciplines simply will not cut it with 
+    the continuously evolving risk landscape. Security engineers need to address each of these aspects in 
+    their entirety to provide the full scope of coverage that modern organizations need, and I will take a 
+    deep dive on the challenges each introduce, and the approaches and techniques for mitigating them based 
+    on adversarial security research.
   bio: |- 
-    
+    is a Cyber Security expert and problem solver, with more than 15 years of enterprise security experience 
+    with a proven track record, having worked with 100+ enterprises across multiple industries, with a strong 
+    orientation to Application & Cloud Security. Daniel held several positions in 8200 (retired as Lieutenant), 
+    after which proceeded to a career in the Civilian Cyber Security industry, spanning across 3 primary disciplines:
+    </p>
+    <ul>
+    <li>Offensive Security (EY HASC);</li>
+    <li>Enterprise Application Security, SDLC (LivePerson); and</li>
+    <li>Incident Response, Cloud Security, Enterprise Posture (Sygnia).</li>
+    </ul>
+    <p>
+    After having led Application Security and Cloud Security with Sygnia for nearly four years, Daniel co-founded 
+    Cider Security as the company's CTO. Cider is an early-stage, post-seed, startup, focused on securing CI/CD 
+    pipelines, flows, and systems.
 - selected: true
   confirmed: true
   plenary: false
@@ -221,12 +371,40 @@
   block: 8
   track: 1
   remote: false
+  linkedin: nalauder
   abstract: |- 
-    
+    Server-Side Request Forgery (SSRF) allows attackers to interact with your internal systems 
+    and services. SSRF was number one in community surveys, during data collection for the 2021 OWASP 
+    Top 10. We discuss why this specific individual vulnerability deserves its place on the Top 10, and 
+    how developers can protect against it.
   description: |-
-    
+    As the only individual vulnerability in the 2021 OWASP Top 10, why was it number one in the community surveys?
+    </p>
+    <p>
+    A SSRF attack involves an attacker using your Internet-facing services to send requests on their behalf. 
+    Because this can generates requests from your own service, it can provide access to hosts on your internal network.
+    </p>
+    <p>
+    Despite being a single vulnerability, SSRF allows attackers to: 
+    </p>
+    <ul>
+    <li>Retrieve your cloud environment metadata;</li>
+    <li>Access your internal databases;</li>
+    <li>Access your internal management web applications; and</li>
+    <li>Bypass your perimeter firewalls.</li>
+    </ul>
+    </p>
+    <p>
+    This talk will provide a deep-dive into how SSRF works, the impact of exploitation, and 
+    controls developers can put in place to protect against it.
   bio: |- 
-    
+    is a Senior Security Consultant at Quantum Security. Since starting as an intern, he has tested systems 
+    ranging from web applications to radio stations, and all the fun stuff between. This led him to find 
+    his passion for researching and understanding specific exploits.
+    </p>
+    <p>
+    Nick always enjoys finding new and creative ways of Rickrolling his team, so feel free to send your 
+    favourite examples his way.
 - plenary: true
   title: Break for Afternoon Tea - Coffee/Tea Service Provided
   day: 0
@@ -244,12 +422,37 @@
   block: 10
   track: 0
   remote: false
+  linkedin: raafeyk
   abstract: |- 
-    
+    The capabilities of Application Security Testing tools are changing rapidly. As vendors continue to 
+    acquire and build new features, feature parity is on the horizon. For now, they're doing things their 
+    own unique way. Let’s compare the options to help decide whether the paid options are worth the $.     
   description: |-
-    
+    We've analysed many open-source and commercial Application Security Testing (AST) tools by scanning a 
+    set of our own applications, and measuring them on key metrics such as ease of use, integrations 
+    and overall usefulness.
+    </p>
+    <p>
+    In this talk, we'll examine:
+    </p>
+    <ul> 
+    <li>What core features commercial AST tooling options have, and how this has evolved over the past few years;</li>
+    <li>
+    How these tools operate and the various scanning techniques used to scan your code, third-party code, 
+    and configurations such as infrastructure as code and containers; and
+    </li>
+    <li>
+    The results of our analysis, comparing scan results, false-positive rates, and how commercial vendors 
+    fared against open-source options across all metrics.
+    </li>
+    </ul>
   bio: |- 
-    
+    is an eternal security optimist. He has been helping organisations understand their cyber risk and why 
+    they should at least <em>try</em> to embed security into their development processes.
+    </p>
+    <p>
+    As a founding member of Datacom's AppSec Services team, Raafey attempts to do more of the same, with 
+    a real focus on automating everything and making security stupidly simple.
 - selected: true
   confirmed: false
   plenary: false
@@ -261,12 +464,32 @@
   block: 10
   track: 1
   remote: true
+  twitter: omer_gil
+  linkedin: omer-gil
   abstract: |- 
-    
+    After researching, cross-referencing and analyzing some of the most notorious CI/CD security breaches, 
+    such as CodeCov, SolarWinds, and PHP, this talk will present the Top 10 CI/CD risks that were distilled 
+    from the most common patterns found in these attacks.
   description: |-
-    
+    All of us have heard about some of the most notorious CI/CD attacks over recents months and years from 
+    CodeCov, to SolarWinds, and PHP, just to name a few. But what many of us have been missing have been the 
+    specific attack vectors that these all have in common - and what you can do about them.
+    </p>
+    <p>
+    After researching, cross-referencing, and analyzing these attacks in detail, we'd like to present the 
+    Top 10 CI/CD risks based distilled from the patterns identified among these attacks, as result of many 
+    common anti-patterns in modern engineering organizations today, that all engineers should be aware of, 
+    and take precautions against. We will take a look at some of the obvious risk areas, and some of the less
+    well-known risks you are exposed to - from the code and architecture, to the culture, through the processes. 
+    And finally, what we can learn from well-known previous attacks to try and protect ourselves from future ones.
   bio: |- 
-    
+    is a seasoned application and cloud security expert with over 13 years of experience across multiple 
+    security disciplines. An experienced researcher and public speaker, Omer discovered the Web Cache Deception 
+    attack vector in 2017 (presented at Black Hat USA). He spent many years in various positions in 
+    the InfoSec domain, including the IDF, EY HASC and Magic Leap (leading the cloud security).
+    </p>
+    <p>
+    Today, Omer leads research at Cider Security, a hyper-growth startup focused on securing CI/CD pipelines.
 - selected: true
   confirmed: false
   plenary: false
@@ -278,6 +501,8 @@
   block: 11
   track: 0
   remote: false
+  twitter: bsd_daemon
+  linkedin: sven-schleier
   description: |-
     There are numerous ways of developing mobile applications today, but how do you ensure that security is part 
     of the development process? What are the attacks you should be concerned about and what can you do to avoid 
@@ -314,6 +539,7 @@
   block: 11
   track: 1
   remote: false
+  twitter: WiseFoxSecurity
   abstract: |- 
     I am sure all of you have heard about "Shift Left Security" in many presentations, but how do you 
     actually achieve this? Well, this is the talk for you - where I'll cover all the DevSecOps buzzwords 
@@ -388,12 +614,43 @@
   block: 2
   track: 0
   remote: false
+  twitter: gr4ybeard
+  linkedin: john-dileo
   abstract: |- 
-    
+    In May and June of 2022, the author's team collected data through our inaugural <strong>State of Application 
+    Security in New Zealand</strong> industry survey. This presentation will outline our objectives
+    and methodology, summarise the survey results, and highlight New Zealand enterprises'
+    successes - and opportunities for improvement - in securing the software we rely on. 
   description: |-
-    
+    There are any number of 'experts' and textbooks on application security (AppSec), ready to tell you all the
+    things we <em>should be</em> doing to secure your organisation's applications and data. But, how do the things 
+    you're <em>actually doing</em> stack up against what others New Zealand businesses do?
+    </p>
+    <p>
+    To help answer this question, our team has developed the <strong>State of Application Security in New Zealand</strong>
+    industry survey. Data collection for 2022's inaugural survey took place in May and June of this year. The 
+    survey's content and presentation are intended to serve a two-fold purpose - first, to gain an understanding of
+    the general state of AppSec practices around New Zealand; and second, to give New Zealand 
+    organisations a way to reflect on their AppSec practices and how they compare to what others are doing.
+    </p>
+    <p>
+    This presentation will outline our objectives
+    and methodology, summarise the survey results, and highlight New Zealand enterprises'
+    successes - and opportunities for improvement - in securing the software we rely on.
   bio: |- 
-    
+    is the Auckland-area leader of the OWASP New Zealand Chapter. He's currently a 
+    Principal Consultant on Datacom New Zealand's Application Security Services team, providing 
+    support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs.
+    </p>
+    <p>
+    Before turning to full-time roles in application security, John was active as a Java enterprise architect 
+    and Web application developer. In an earlier life, John had specialized in developing discrete-event simulations 
+    of large distributed systems, in a variety of languages - including the Java-based language (FreeSML) 
+    he developed as part of his doctoral research.
+    </p>
+    <p>
+    John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is 
+    active on the OWASP Education and Training Committee and Application Security Curriculum Project.
 - selected: true
   confirmed: false
   plenary: false
@@ -406,11 +663,45 @@
   track: 1
   remote: true
   abstract: |- 
-    
+    An innovative DevSecOps process, with supporting tools, will be presented. All the tools 
+    have been created within the PIACERE project, which aims to deliver the complete DevSecOps 
+    pipeline for devops and cloud developers. The unique concept of the Canary Environment for 
+    stress tests will be presented, as well.
   description: |-
-    
+    PIACERE, a unique and innovative DevSecOps process with supporting tools, will be presented. 
+    The PIACERE tools allow for the complete, secure and optimized deployment of the infrastructure 
+    to the selected cloud providers and private cloud. The unique concept of the Canary Environment 
+    for stress tests will be presented. The wide selection of supported IaC will be covered as well. 
+    All the tools are created within the PIACERE project which aims to deliver the complete DevSecOps 
+    pipeline for devops and cloud developers.
   bio: |- 
-    
+    is currently employed by 7bulls.com as an IT systems architect. He holds a Master's degree in 
+    computer science, with a specialization in Internet and mobile technologies. He is a longtime 
+    administrator of budget-, enterprise- and HPC-class computer systems and networks, with particular 
+    emphasis on virtualization and containerization technologies (QEMU, KVM, Docker, LXC, containerd, 
+    podman, CRI-O) and cloud technologies (OpenStack, Kubernetes). Radek is also an experienced Python 
+    and Node.js programmer. He is responsible for projects of IT systems and integrations between them.
+    </p>
+    <p>
+    Certification-wise, he is a Red Hat Certified Engineer (RHCE), Red Hat Certified Specialist 
+    in Ansible Automation, Certified OpenStack Administrator (COA), and Certified Kubernetes 
+    Administrator (CKA) and Application Developer (CKAD).
+    </p>
+    <p>
+    Radek is an active contributor in open-source projects, including OpenStack, holding the position of 
+    core reviewer in OpenStack projects related to deployment (Kolla, Kolla-Ansible) and quality 
+    assurance (QA; DevStack). He is also Vice-Chair of the OpenStack Technical Committee (TC).
+    </p>
+    <p>
+    In his scientific career, he has an open doctoral dissertation, in which he deals with the issue 
+    of feature selection using a method based on a measure rooted in the information theory and novel 
+    clustering algorithms. Previously, he worked on formal languages and general machine learning.
+    </p>
+    <p>
+    In his free time, Radek loves to develop his IT knowledge as well as learn foreign languages, 
+    with a preference for Romance languages. He is also a volunteer for a charity which helps kids 
+    grow more self-confident where he recruits and trains new candidates and oversees the tutoring 
+    process in his team. 
 - selected: true
   confirmed: false
   plenary: false
@@ -423,11 +714,21 @@
   track: 0
   remote: false
   abstract: |- 
-    
+    Being secure when you are small is hard. Everyone has a hundred jobs already and there is a 
+    shoestring budget if one of yours is security. This talk covers ten things you can do for free 
+    to improve the security of small businesses and make sure you can focus on the your priority of doing business.
   description: |-
-    
+    Doing security for a small business can seem daunting when enterprise software costs hundreds, 
+    thousands, or hundreds of thousands of dollars, and that's before you even get into buying 
+    security-specific devices like firewalls or logging servers. But you shouldn't let the idea 
+    of 'perfect' security prevent you from taking simple, and often free, steps to improve the 
+    security of your business to be 'good enough.'
   bio: |- 
-    
+    is the Principal Technical Security Consultant with Quantum Security. Sam has been an organiser 
+    and challenge developer of the New Zealand Cyber Security Challenge, for the last 3 years. 
+    His areas of interest include behavioral biometrics, the physical/digital security overlap, 
+    3D printing, and hash-cracking. In his spare, time Sam is also a technical advisor for 
+    the Harmful Digital Communications Act.
 - selected: true
   confirmed: false
   plenary: false
@@ -440,11 +741,22 @@
   track: 1
   remote: false
   abstract: |- 
-    
+    One of the most serious issues in web security would be when your database credentials are exposed, 
+    but many developers don't realise that the client-side code they are writing is actually leaking 
+    credentials to the world. Come and see how that could happen - and how to prevent it from happening.
   description: |-
-    
+    With the rise of JavaScript frameworks and cloud storage technologies, more and more modern web 
+    applications are choosing to access the database directly from the JavaScript client. How can that 
+    be done without compromising the security of the application? In this talk, we will look at a real-life 
+    case study from a security review, where a failure to secure the database communication could have had 
+    devastating consequences for the organisation. We will also cover the security best practices of how to 
+    implement client-side communication with cloud storage services, with a focus on AWS S3 buckets.
   bio: |- 
-    
+    is an ex-software engineer who found breaking things is much more fun than building things, so she 
+    is now a security consultant working at Aura Information Security. She has tested many applications 
+    across different industries and organisations, and loves using her development background to help 
+    people to build more secure applications. When she is not on a computer, you'll find her either in 
+    front of a sewing machine, playing an ukulele, or sitting in a cafe with church friends chatting about theology. 
 - selected: true
   confirmed: false
   plenary: false
@@ -456,6 +768,7 @@
   block: 4
   track: 0
   remote: false
+  twitter: SteveEzz
   abstract: |- 
     Everyone loves cheese, right? This talk will apply the Swiss cheese model to AppSec, each cheese slice 
     is a security activity, a layer of the defenses there to reduce the risk of threats becoming reality 
@@ -511,6 +824,8 @@
   block: 4
   track: 1
   remote: false
+  twitter: bsd_daemon
+  linkedin: sven-schleier
   description: |-
     Vulnerabilities can be manifold and everywhere - in your repo, in your IPA, or when using the app. This talk 
     will guide you on how to start to embed methodologies and open-source security tools into your SDLC to catch 
@@ -567,11 +882,45 @@
   track: 0
   remote: false
   abstract: |- 
-    
+    Imagine for a second what it would be like to be tasked with stopping randoms from 
+    entering your house, while being in a pretty nice looking house as far as randoms go. 
+    Now you hear a noise in the next room, you haven't heard anything like it before. 
+    It's a little scary. Whatcha gonna do?
   description: |-
-    
+    I'd never thought "this is what a deflating balloon must feel like," until I found out I 
+    was the lead Incident Responder in a Red Team scenario for a bank. Until that moment, I was the 
+    lead Incident Responder for a real security breach in a bank, because our bosses like to 
+    keep us on our toes and not tell us when they've let the we-pretend-to-be-bad-guys have a go.
+    </p>
+    <p>
+    To be fair, I've since become a we-pretend-to-be-bad-guys guy, so no hurt feelings.
+    </p>
+    <p>
+    In this talk, I'll step through what it's like to take the wheel during a heart racing 
+    event such as a security breach. This will include how incident responders and Security 
+    Operations Center (SOC) analysts get ready for attack, how we deal with the attack, and what we do after.
+    </p>
+    <p>
+    Incident responders and analysts aren't the only ones involved though, so I'd like to 
+    highlight the value of input from developers, managers, sysadmins and baristas among others 
+    during major events.
+    </p>
+    <p>
+    The key takeaways from this talk will include: 
+    </p>
+    <ol>
+    <li>Bother us! As incident responders, we'd rather help you deal with a small thing 
+    now, than respond to a big thing later.</li>
+    <li>A high-level view of effective incident response, focusing on the six-step model (preparation, 
+    identification, containment, eradication, recovery, review)</li>
+    <li>General agreement that incident response is a helluva ride.</li>
+    </ol>
+    Overall, we'll roughly follow the six-step incident response format while pondering how 
+    we'll pay our next therapy bill. This is Steph's welcome to Incident Response and a tale 
+    about how our Managers sometimes pull pranks on us by making us think we suck at our jobs.
   bio: |- 
-    
+    is a seasoned incident responder (with a GCIH certification) and occasionally impressive pentester
+    She also dabbles in psychology, behavioural science, and candles for fun.
 - selected: true
   confirmed: false
   plenary: false
@@ -583,12 +932,43 @@
   block: 7
   track: 1
   remote: false
+  twitter: kirkj
   abstract: |- 
-    
+    The log4j "Log4Shell" vulnerability, disclosed in December 2021, showed us the wide-reaching 
+    impacts a security issue can have, when it affects a core component within our supply chain.
+    </p>
+    <p>
+    Fixing log4j wasn’t straightforward for many organisations, but is there a place for the 
+    ModSecurity Core Rule Set (CRS) to protect your company?
   description: |-
-    
+    The log4j "Log4Shell" vulnerability, disclosed in December 2021, showed us the wide-reaching 
+    impacts a security issue can have, when it affects a core component within our supply chain.
+    Fixing log4j wasn’t straightforward for many organisations, but is there a place for the 
+    ModSecurity Core Rule Set to protect your company?
+    </p>
+    <p>
+    The OWASP ModSecurity Core Rule Set (CRS) is a flagship project, run by a team of volunteers 
+    under the OWASP umbrella. It has grown from strength to strength, and is now the most common 
+    ruleset used on web application firewalls (WAFs) today. It can be used on ModSecurity in Apache 
+    or nginx, in the new WAF Coraza, and is also used by many cloud and CDN providers as part of 
+    their own WAF offerings.
+    </p>
+    <p>
+    log4j gave us a good opportunity to understand the benefits and limitations of a web application 
+    firewall, to understand how rules and evasions work, and to see the benefits of being able to 
+    react quickly to issues.
+    </p>
+    <p>
+    This talk will introduce the ModSecurity and Coraza WAFs, discuss the Core Rule Set's approach 
+    to web application security, and discuss the specifics of the log4j vulnerabilities and how 
+    they could be defended.
   bio: |- 
-    
+    works at RedShield, leads the OWASP New Zealand Chapter's Wellington Meetup, and has previously 
+    helped organise the annual OWASP NZ Day in Auckland.
+    </p>
+    <p>
+    Kirk worked as a web developer before switching to the defence team - setting up Xero's 
+    security practice, working as a pen tester, and in defence roles at several companies.
 - selected: true
   confirmed: false
   plenary: false
@@ -600,12 +980,27 @@
   block: 8
   track: 0
   remote: false
+  twitter: pruby
+  linkedin: timothy-goddard-462a6840
   abstract: |- 
-    
+    When pentesters deliver findings, we observe very large differences in how customers respond. 
+    What distinguishes development shops that take security seriously is that they find and fix security 
+    issues systematically. In this presentation, Tim will show how we might accomplish this.
   description: |-
-    
+    When pentesters deliver findings, we observe very large differences in how customers respond. 
+    Some customers invest the minimum effort, fixing only the individual instance of a bug called 
+    out in the report. What distinguishes development shops that take security seriously, however, 
+    is that they find and fix issues systematically.
+    </p>
+    <p>
+    Tim will go through a worked example of an issue we might see in a vulnerability report, and 
+    demonstrate how we might go beyond minimally fixing that single instance. This will involve hunting 
+    for other similar instances in a codebase, fixing all the instances of the bug we can identify, and 
+    discussing how tools like Semgrep could help us prevent it re-occurring in future.
   bio: |- 
-    
+    comes from a software development and penetration testing background, which has lead him to become 
+    an enthusiastic proponent of fixing problems as early as possible. He works as a Principal Security 
+    Consultant in AppSec at CyberCX New Zealand. 
 - selected: true
   confirmed: false
   plenary: false
@@ -614,16 +1009,33 @@
   name: Noaa Barki
   org: datree
   name2: Shimon Tolts
+  org2: datree
   day: 1
   block: 8
   track: 1
   remote: true
+  twitter: BarkiNoaa
+  twitter2: shimontolts
+  linkedin: noaa-barki-159498163
+  linkedin2: tolts
   abstract: |- 
-    
+    GitOps can be very powerful, but it's also important to leverage it with caution. This talk will focus
+    on some of the best practices for working GitOps in your engineering organization.
   description: |-
-    
+    <strong>With great power comes great responsibility.</strong> While GitOps empowers your engineering
+    organization with greater ownership - it can also have the downsides of being dangerous, if not properly
+    managed and configured, as ultimately every engineer can impact production.
+    </p>
+    <p>
+    In this talk, we will go over some best practices when applying GitOps in your engineering organization, 
+    and ways to automate the validation of Infrastructure as Code config files, in order to build stability
+    inherently into your GitOps practices.
   bio: |- 
-    
+    is a full-stack developer, community manager, and tech writer who wishes to encourage developers to deepen 
+    the decisions we make during the development processes, research about the technologies we use and share 
+    our knowledge. She started her journey in the 8200 Unit of the IDF Intelligence forces where Noaa took her 
+    first steps in software development. In the last 4 years, her work has mainly included Angular, .NET, 
+    VanillaJS, and Typescript. She currently develops in React, NodeJS and Golang. 
 - plenary: true
   title: Break for Afternoon Tea - Coffee/Tea Service Provided
   day: 1
@@ -641,12 +1053,42 @@
   block: 10
   track: 0
   remote: true
+  twitter: CarolineWMWong
+  linkedin: carolinewmwong
   abstract: |- 
-    
+    Pentesting is critical for security. But how do you build in proactive, preventative measures when 
+    you're strapped for money, talent, and guidance? Join us to learn: the importance of pentesting 
+    in the SDLC, the value of pentesting at scale, and how to actually achieve it.
   description: |-
-    
+    Cyberattacks have been growing in frequency and severity over the past decade, and have increased 
+    exponentially since the onset of widespread remote work. The pressure is on for organizations to 
+    prioritize building and implementing a comprehensive security strategy to avoid becoming the latest 
+    cyberattack headline. Ransomware prevention, anyone?
+    </p>
+    <p>
+    Proactive, preventative testing is a critical step for enhancing an organization's security posture. 
+    Overall, it brings major awareness to companies, testing their people, processes and technologies – 
+    guiding the remediation of vulnerabilities before an actual attacker breaches the company.
+    </p>
+    <p>
+    But how do you build in proactive, preventative measures when you're strapped for money, talent, 
+    and guidance? In this talk I'll walk through a brief history of pentesting, its importance, and 
+    why automation alone isn’t good enough:
+    </p>
+    <ul>
+    <li>why pentesting is imperative in today's modern software development cycles;</li>
+    <li>the necessity and value of pentesting at scale; and</li>
+    <li>practical tips to actually achieve pentesting at a scale.</li>
+    </ul>
   bio: |- 
-    
+    is a leader in her field. She has experience delivering global programs across a range of tech 
+    companies. Her information security knowledge stems from her broad experience as a Cigital consultant, 
+    a Symantec product manager, and day-to-day leadership roles at eBay and Zynga. She’s also a master 
+    of delivery, she hosts the 
+    <a href="https://soundcloud.com/humans-of-infosec" target="_blank">Humans of InfoSec podcast</a>, 
+    teaches cybersecurity courses on LinkedIn Learning and has authored the popular textbook 
+    <a href="https://www.goodreads.com/book/show/13654596-security-metrics-a-beginner-s-guide" target="_blank">Security Metrics, A Beginner’s Guide</a>. 
+    Last, but not least, she has been the CSO at a pentesting company for years, so she understands this topic well.
 - selected: true
   confirmed: false
   plenary: false
@@ -658,12 +1100,51 @@
   block: 10
   track: 1
   remote: false
+  twitter: shmi012
+  linkedin: shofemiraz
   abstract: |- 
-    
+    During engagements, we often encounter non-standard configurations. These could lead to massive 
+    risks, due to the vulnerabilities they might introduce. Today I will demonstrate a number of bugs 
+    in popular content management systems (CMS) like Umbraco and how following security best practices 
+    might save some remediation effort.
   description: |-
-    
+    After reviewing a number of popular Content Management Systems (CMS), I identified exploits that 
+    were exposed due to the non-standard configuration that the client had implemented. These non-standard 
+    setups are not uncommon and are often introduced without sufficient security considerations.
+    </p>
+    <p>
+    This talk will walk the audience through a number of points across two scenarios, namely:
+    </p>
+    <ul>
+    <li>
+    A number of underlying Broken Access Control issues found in Umbraco CMS leading to Administrative
+    account takeover. While this issue resided within the Umbraco source code, it was only exposed due 
+    to a specific implementation that the client had made. I will discuss the underlying issue, how it 
+    was exploitable, its effect on the customer, and the changes that both the client and Umbraco made 
+    to resolve this issue.
+    </li>
+    <li>
+    A customer introduced a custom file delete function for their cloud storage. Due to a lack of user 
+    input sanitization, this led to remote command injection in the backend server. The application was 
+    using the Laravel framework; however, the issue originated from an extension of this framework and 
+    the use of an unsafe PHP function. I will discuss the underlying issue, the exploit and its effects, 
+    and the advice provided to the customer.
+    </li>
+    </ul>
+    <p>
+    Along with these scenarios, the message to the audience will be, "Often the default configuration 
+    and security best practices can provide a better outcome while saving some remediation effort.""
+    </p>
+    <p>
+    This will be a technical presentation assuming, the audience's basic understanding of the common 
+    web application security risks. The talk will include some source code snippets to identify 
+    the root cause of the issues.
   bio: |- 
-    
+    works as a security consultant for Insomnia Security. He has three years of combined industry 
+    penetration testing experience. He is particularly interested Web/Mobile application security 
+    and loves sharing his knowledge with others. Outside of work, he actively co-organizes and presents 
+    in a Monthly Security meetup, "Hack And Learn," where he facilitates learning both hacking and 
+    defending using various tools and techniques.
 - plenary: true
   title: Conference Closing Session
   name: Recognition, LEGO Build Video, Prize Giving

@@ -1,0 +1,12 @@
+- id: 0
+  name: Track One
+  location: 'Upstairs Auditorium<br/ >(Room 115)'
+  width: 32
+- id: 1
+  name: Track Two
+  location: 'Downstairs Auditorium<br />(Room 098)'
+  width: 32
+- id: 2
+  name: Demos/Breakouts
+  location: 'Case Room 3, Level 0<br />(Room 055)'
+  width: 20
