@@ -1,12 +1,24 @@
-# Definitions for this file
+# Definitions for this file - The design of the HTML-generation implementation is intended
+#   to support any number of days, time blocks, and technical tracks.
+# The current assumption is that there is one additional 'track,' supporting events and
+#   presentations that don't fit into the standard track-based format.
 # selected: true, if the Programme Committee has accepted the talk; false, if not
 # confirmed: true, if the speaker has confirmed their participation; false, if not
-# day: 0 - Thursday; 1 - Friday
+# day: 0 - First day of conference; 1 - Second day of conference; etc.
+# plenary: true, if the entry's content should span all track columns in the schedule grid.
+#   - To work correctly, there should be only one entry in the time block, and it must be placed in Track '0'
+#   - For content, use 'title,' 'name,' and 'org' properties - Content of 'title' (currently) renders
+#     on first line, in Bold; 'name' and 'org' display on second line in Italics (with '-' as separator, if both provided)
+# info: true, if the entry is 'informational' in nature (e.g., tea break, lunch) 
+#   - These render with a different background colour
+#   - Currently ignored, unless 'plenary' is also set to true 
 # block: Block number of the speaker's time slot - First block of the day is Block 0
-# track: Track number (0 - Track One; 1 - Track Two) - Demo/Breakout ("Track 3") info goes in breakouts-yyyy.yml
+# track: Track number (0 - Track One; 1 - Track Two; etc.)
+#   - Demo/Breakout ("Track 3") info goes in breakouts.yml
 # name: Speaker's name
 # title: Full title of talk
-# id: Whitespace-free ID/tag value for the talk
+# anchor: Whitespace-free ID/tag value for the talk
+#   - Ignored, if 'plenary' is true
 # org: Speaker's organisation
 # remote: true, if speaker is presenting remotely; false, if not
 # video: URL of video, once uploaded to YouTube
@@ -18,7 +30,8 @@
 # description: full-length description of the talk
 # bio: brief biography provided by the speaker 
 # twitter: speaker's Twitter handle (without the '@')
-# NOTE: For multiple speakers, use 'name2'/'bio2'and 'name3'/'bio3' - Automation currently supports up to 3 speakers per talk
+# NOTE: For multiple speakers, use 'name2'/'org2'/'bio2'/'twitter2'/'linkedin2' first, then 'name3'/'org3'/etc. 
+#   - Automation currently supports up to 3 speakers per talk
 - plenary: true
   title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
   name: Coffee/Tea Service Available

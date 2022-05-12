@@ -1,7 +1,9 @@
 ---
 title: International Participants
-layout: conference-2022/full-width
+layout: full-width
 tags: owaspnz22
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
 

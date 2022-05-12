@@ -1,12 +1,13 @@
 ---
-layout: conference-2022/tabbed-full-width
+layout: tabbed-full-width
 title: Conference
 description: OWASP New Zealand Day 2022
 tags: owaspnz22
 currency: nzd
 region: Oceania
 country: New Zealand
-postal-code: 
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
 ![Web Banner](/assets/images/2022_Banner_Graphic.jpg)   

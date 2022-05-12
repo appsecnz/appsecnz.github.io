@@ -1,7 +1,10 @@
 ---
-layout: conference-2022/full-width
+layout: full-width
 title: Demos/Breakouts
 description: Information about Sponsor Demos and Break-Out Sessions
+tags: owaspnz22
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
