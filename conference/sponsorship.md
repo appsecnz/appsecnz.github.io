@@ -97,7 +97,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Banner in Delegate Lounge** (see notes)|No|No|No|No|No|**Yes (2)**|
 |**Priority Demo Room Access**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Company Description on Conference Web Page**|**400 words**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
-|**Company *Spotlight* Description on Web Page**|**100 words**|**100 words**|**100 words**|**100 words**|No|**100 words**|
+|**Company *Spotlight* Description on Web Page** (see notes)|**100 words**|**100 words**|**100 words**|**100 words**|No|**100 words**|
 |**Pre-Conference Reception Tickets**|**12**|**8**|**6**|**4**|**2**|**4**|
 |**Free Conference Passes** (see notes)|**30**|**20**|**15**|**10**|**5**|**10**|
 |**Training Credits** (see notes)|**16**|**12**|**8**|**4**|**2**|No|
@@ -184,12 +184,25 @@ To claim these free registrations, sponsors must provide the names, email addres
   - The conference venue includes two tracks, conducted in separate
     auditoriums, as well as a "mini-track" in the Demo/Breakout Room. 
       - Diamond Sponsors may display one banner to the side of
-    each room's stage
+    each room's stage (two main tracks, plus Demo/Breakout 'track')
       - Platinum Sponsors may display one banner to the side of the stage in the two main track auditoriums 
       - Gold Sponsors may display a banner to the
     side of the stage in one auditorium. Gold Sponsors may express an
     auditorium preference, but final locations are at the discretion of
     the conference team.
+      - Any sponsor may display a banner to the side of the main presentation area
+      in the Demo/Breakout Room, while presenting.
+
+**Company Spotlight**   
+
+  - A "Sponsor Spotlight" is included on the footer of most website pages. 
+    One sponsor is selected randomly (on a weighted basis, by sponsor level)
+    at page load,
+    with a condensed version of the company's description (up to 100 words), 
+    the company's logo, and their sponsor level displayed.
+  - In addition, up to nine (9) other sponsors' logos are displayed in the
+    "Conference Sponsors" section of the footer - also selected on a weighted-random
+    basis. 
 
 **Promotional Items:**
 
