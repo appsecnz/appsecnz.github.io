@@ -1,7 +1,10 @@
 ---
 title: Call for Volunteers
-layout: conference-2022/full-width
 tags: owaspnz22
+
+layout: full-width
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
 

@@ -1,7 +1,10 @@
 ---
 title: CFT - OWASP NZ Day
-layout:  conference-2022/full-width
 tags: owaspnz22
+
+layout: full-width
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
 [![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
