@@ -2,7 +2,7 @@
 title: About Our Sponsors
 description: Sponsors - OWASP New Zealand Day 2022
 
-layout: full-width
+layout: conference/sponsors-full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---

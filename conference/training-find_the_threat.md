@@ -1,7 +1,8 @@
 ---
 title: Classroom Training - Can you find the threat? A Threat Modelling CTF
 description: Pre-Conference Training Class, 5 July - OWASP New Zealand Day 2022 
-layout: full-width
+
+layout: conference/full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---

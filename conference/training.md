@@ -2,7 +2,7 @@
 title: Pre-Conference Training
 description: Pre-Conference Training, 5-6 July - 2022 OWASP NZ Day
 
-layout: full-width
+layout: conference/full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---

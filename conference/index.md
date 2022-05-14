@@ -6,7 +6,7 @@ currency: nzd
 region: Oceania
 country: New Zealand
 
-layout: tabbed-full-width
+layout: conference/tabbed-full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---

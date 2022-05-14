@@ -2,7 +2,7 @@
 title: Diversity Fund - OWASP NZ Day
 tags: owaspnz22
 
-layout: full-width
+layout: conference/full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---

@@ -2,7 +2,7 @@
 title: Classroom Training - OWASP SAMM
 description: Pre-Conference Training Class, 5 July - OWASP New Zealand Day 2022 
 
-layout: full-width
+layout: conference/full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---

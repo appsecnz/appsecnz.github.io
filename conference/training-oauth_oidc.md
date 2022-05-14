@@ -2,7 +2,7 @@
 title: Classroom Training - Introduction to OAuth and OpenID Connect
 description: Pre-Conference Training Class, 6 July - OWASP New Zealand Day 2022 
 
-layout: full-width
+layout: conference/full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---

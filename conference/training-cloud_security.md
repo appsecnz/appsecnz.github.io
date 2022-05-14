@@ -1,7 +1,8 @@
 ---
 title: Online Training - Practical Cloud Security for AWS Infrastructure
 description: Pre-Conference Training Class, 5-6 July - OWASP New Zealand Day 2022 
-layout: full-width
+
+layout: conference/full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---
