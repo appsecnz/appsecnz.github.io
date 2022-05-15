@@ -494,7 +494,7 @@
   level: 3
   name: RedShield
   anchor: redshield
-  image: assets/images/sponsor-logo/Logo-RedShield.png
+  image: /assets/images/sponsor-logo/Logo-RedShield.png
   url: https://www.redshield.co/
   spotlight: |-
     Customers around the world rely on RedShield to remove their web application
