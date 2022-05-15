@@ -490,3 +490,29 @@
     <p>
     Clients regularly refer to our engineers, project managers, and salespeople as "experts," 
     "trusted advisers," "our secret weapon," and more.
+- active: true
+  level: 3
+  name: RedShield
+  anchor: redshield
+  image: assets/images/sponsor-logo/Logo-Redshield.png
+  url: https://www.redshield.co/
+  spotlight: |-
+    Customers around the world rely on RedShield to remove their web application
+    security risks. Our team of security experts, supported by proprietary technology,
+    follow a step-by-step best practice process that starts with applications in your risk
+    register, to either mitigate (protect) or remediate (secure) your threat surface.
+    </p>
+    <p>
+    Founded in New Zealand, owned and operated by an experienced team of
+    penetration testers and security technologists, we have become known for taking on
+    the security challenges that no one else will.
+  description: |-
+    Customers around the world rely on RedShield to remove their web application
+    security risks. Our team of security experts, supported by proprietary technology,
+    follow a step-by-step best practice process that starts with applications in your risk
+    register, to either mitigate (protect) or remediate (secure) your threat surface.
+    </p>
+    <p>
+    Founded in New Zealand, owned and operated by an experienced team of
+    penetration testers and security technologists, we have become known for taking on
+    the security challenges that no one else will.
