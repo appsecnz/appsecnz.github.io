@@ -18,6 +18,10 @@
   end: 2022-05-15 23:59:59+1200
   text: "<h3>Our two-day &quot;Mobile Security Testing Guide Hands-On&quot; class is now <em>in person</em>. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='training-reg'>Training Registration Site</a> to secure your spot.</h3>"
 - type: alert
-  start: 2022-05-16 12:00:00+1200
+  start: 2022-05-16 00:00:00+1200
   end: 2022-06-28 23:59:59+1200
-  text: "<h3><em>NEW CLASS</em>: A new one-day, in-person class, &quot;Introduction to OAuth and OpenID Connect,&quot; has been added on Wednesday, 6 July. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='training-reg'>Training Registration Site</a> to secure your spot.</h3>"
+  text: |-
+    <h3 align="center">
+    <em>NEW CLASS</em>: A new one-day, in-person class, &quot;Introduction to OAuth and OpenID Connect,&quot; has been added on Wednesday, 6 July. 
+    Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='training-reg'>Training Registration Site</a> to secure your spot.
+    </h3>
