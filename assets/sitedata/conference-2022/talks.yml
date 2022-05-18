@@ -532,7 +532,7 @@
     We are sharing the current status of the refactoring of the OWASP MASVS and the MSTG and what we’ve been able to 
     automate to get rid of manual processes and have more time focusing on the content!
   bio: |- 
-    is the Technical Director of F-Secure Singapore and has hands-on experience in attacking and defending web 
+    is the Technical Director of WithSecure Singapore and has hands-on experience in attacking and defending web 
     and mobile apps for the last 10+ years. He became specialised in Application Security and has supported and 
     guided software development projects for Mobile and Web Applications during the whole SDLC.
     </p>
@@ -828,7 +828,7 @@
   title: 'Get the Low-Hanging Fruits: How to find vulnerabilities in iOS apps'
   anchor: schleier-get-the-low
   name: Sven Schleier
-  org: F-Secure
+  org: WithSecure
   day: 1
   block: 4
   track: 1
@@ -859,7 +859,7 @@
     We will conclude this talk by giving tips and tricks on how to handle the tool output, current limitations of 
     the tools and which identified vulnerabilities you should be focusing on first.
   bio: |- 
-    is the Technical Director of F-Secure Singapore and has hands-on experience in attacking and defending web 
+    is the Technical Director of WithSecure Singapore and has hands-on experience in attacking and defending web 
     and mobile apps for the last 10+ years. He became specialised in Application Security and has supported and 
     guided software development projects for Mobile and Web Applications during the whole SDLC.
     </p>
