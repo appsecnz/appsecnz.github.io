@@ -4,6 +4,9 @@ layout: full-width
 title: Sitemap
 permalink: /sitemap/
 
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022 
+
 ---
 
 # Sitemap
