@@ -670,51 +670,47 @@
   title: 'PIACERE: DevSecOps automated'
   anchor: piliszek-piacere-devsecops-automated
   name: Rados&#322;aw (Radek) Piliszek
-  org: 7bulls
+  org: 7bulls.com
   day: 1
   block: 2
   track: 1
   remote: true
+  linkedin: rados%C5%82aw-piliszek-5558097b
   abstract: |- 
-    An innovative DevSecOps process, with supporting tools, will be presented. All the tools 
+    An innovative DevSecOps framework - including process and supporting tools - will be presented. All the tools 
     have been created within the PIACERE project, which aims to deliver the complete DevSecOps 
-    pipeline for devops and cloud developers. The unique concept of the Canary Environment for 
+    pipeline for devops and cloud developers. The unique approach to the Canary Sandbox Environment for 
     stress tests will be presented, as well.
   description: |-
-    PIACERE, a unique and innovative DevSecOps process with supporting tools, will be presented. 
-    The PIACERE tools allow for the complete, secure and optimized deployment of the infrastructure 
-    to the selected cloud providers and private cloud. The unique concept of the Canary Environment 
-    for stress tests will be presented. The wide selection of supported IaC will be covered as well. 
-    All the tools are created within the PIACERE project which aims to deliver the complete DevSecOps 
-    pipeline for devops and cloud developers.
+    PIACERE, a unique and innovative DevSecOps framework - including process and supporting tools - will be presented. 
+    The PIACERE tools allow for complete, secure, and optimal deployment of infrastructure 
+    components to multiple cloud providers and private cloud, enabling both multi-cloud
+    and hybrid-cloud approaches. Both static and dynamic security testing techniques are 
+    applied apart from usual performance monitoring. The two kinds of observability approaches 
+    are linked to self-healing to ensure that the deployment stays healthy. There is also a 
+    self-learning phase to detect performance and security issues early. During the 
+    presentation, a unique approach to Canary Sandbox Environment will be covered too.
   bio: |- 
-    is currently employed by 7bulls.com as an IT systems architect. He holds a Master's degree in 
-    computer science, with a specialization in Internet and mobile technologies. He is a longtime 
-    administrator of budget-, enterprise- and HPC-class computer systems and networks, with particular 
-    emphasis on virtualization and containerization technologies (QEMU, KVM, Docker, LXC, containerd, 
-    podman, CRI-O) and cloud technologies (OpenStack, Kubernetes). Radek is also an experienced Python 
-    and Node.js programmer. He is responsible for projects of IT systems and integrations between them.
+    is currently employed by <a href="https://www.7bulls.com/en" target="_blank">7bulls.com</a>
+    as an IT solutions architect. His background is in computer systems and networks, with particular
+    emphasis on automation, virtualization, containerization and cloud technologies. Radek is also an
+    experienced Python and Node.js programmer. He is responsible for projects of IT systems and
+    integrations between them.
     </p>
     <p>
-    Certification-wise, he is a Red Hat Certified Engineer (RHCE), Red Hat Certified Specialist 
-    in Ansible Automation, Certified OpenStack Administrator (COA), and Certified Kubernetes 
-    Administrator (CKA) and Application Developer (CKAD).
+    Certification-wise, he holds several Red Hat and CNCF certifications.
     </p>
     <p>
-    Radek is an active contributor in open-source projects, including OpenStack, holding the position of 
-    core reviewer in OpenStack projects related to deployment (Kolla, Kolla-Ansible) and quality 
-    assurance (QA; DevStack). He is also Vice-Chair of the OpenStack Technical Committee (TC).
+    Radek is also an active contributor in open source projects, holding the
+    position of core reviewer in OpenStack Kolla.
     </p>
     <p>
-    In his scientific career, he has an open doctoral dissertation, in which he deals with the issue 
-    of feature selection using a method based on a measure rooted in the information theory and novel 
-    clustering algorithms. Previously, he worked on formal languages and general machine learning.
+    In his scientific career, he has an open doctoral dissertation, in which
+    he deals with the issue of feature selection.
     </p>
     <p>
-    In his free time, Radek loves to develop his IT knowledge as well as learn foreign languages, 
-    with a preference for Romance languages. He is also a volunteer for a charity which helps kids 
-    grow more self-confident where he recruits and trains new candidates and oversees the tutoring 
-    process in his team. 
+    In his free time, Radek loves to develop his IT knowledge as well as
+    learn foreign languages, with preference for Romance languages. 
 - selected: true
   confirmed: false
   plenary: false

@@ -11,12 +11,24 @@ permalink: /sitemap/
 ## OWASP New Zealand Day 2022
 
 * [OWASP New Zealand Day 2022](conference/index.md)
+* [Conference Schedule](conference/schedule.md)
+* [Speakers and Abstracts](conference/speakers.md)
+* [Demos/Breakouts](conference/breakouts.md)
+* [Pre-Conference Training](conference/training.md)
+  * [Classroom Training - Mobile Security Testing Guide Hands-on](conference/training-mstg_hands_on.md)
+  * [Online Training - Practical Cloud Security for AWS Infrastructure](conference/training-cloud_security.md)
+  * [Classroom Training - Assess and Improve Your AppSec Programme using OWASP SAMM](conference/training-owasp_samm.md)
+  * [Classroom Training - Breaking in to 'Breaking In'](conference/training-breaking_in.md)
+  * [Classroom Training - Can You Find the Threat?](conference/training-find_the_threat.md)
+  * [Classroom Training - Introduction to OAuth and OpenID Connect](conference/training-oauth_oidc.md)
+  * [Classroom Training - AppSec 'Refresher' with OWASP Top 10 2021 Update](conference/training-appsec_refresher.md)
+  * [Online Training - Biohacking: The Invisible Threat](conference/training-biohacking.md)
+* [About Our Sponsors](conference/sponsors.md)
 * [Call for Sponsors](conference/sponsorship.md)
 * [COVID Contingency Plan](conference/covid.html)
-* [Call for Trainers and Presenters](conference/cfp_cft.md)
-* [Call for Volunteers](conference/volunteers.md)
+* [Diversity Fund](conference/diversity_fund.md)
 * [Code of Conduct](conference/conduct.md)
-* [About Our Sponsors](conference/sponsors.md)
+* [Call for Volunteers](conference/volunteers.md)
 * [International Attendees](conference/international.md)
 
 
