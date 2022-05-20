@@ -883,6 +883,7 @@
 - selected: true
   confirmed: false
   plenary: false
+  withdrawn: true
   title: Who Are You and Why Are You in My House?
   anchor: dean-who-are-you
   name: Stephanie (Steph) Dean
