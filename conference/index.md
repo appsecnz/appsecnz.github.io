@@ -107,19 +107,19 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**, [Auth0](spon
 
 ## Important Dates
 
-* **CFP and CFT Opened:** 15 October 2021
-* **CFT Closed:** 15 November 2021
-* **CFP First-Round Cutoff:** 15 November 2021
-* **Original CFP Closed:** 31 December 2021
-* **Supplemental CFP Opens:** 20 January 2022
-* **Supplemental CFP Closed:** 17 February 2022
-* **Training Registration Opened:** 2 December 2021
-* **Conference Registration Opened:** 14 December 2021
-* **Last Day for T-Shirt Purchases:** 6 June 2022 - Orders go to the printer the next morning!
-* **"Early Bird" Conference Registration Ends:** 20 June 2022 - From 21 June, there's an additional $20 "Procrastinator Fee"
-* **Training Registration Closes:** 29 June 2022
-* **Pre-Conference Training Dates:** 5-6 July 2022
 * **Main Conference Dates:** 7-8 July 2022
+* **Pre-Conference Training Dates:** 5-6 July 2022
+* **Training Registration Closes:** 29 June 2022
+* **"Early Bird" Conference Registration Ends:** 20 June 2022 - From 21 June, there's an additional $20 "Procrastinator Fee"
+* **Last Day for T-Shirt Purchases:** 6 June 2022 - Orders go to the printer the next morning!
+
+* **Conference Registration Opened:** 14 December 2021
+* **Training Registration Opened:** 2 December 2021
+* **Supplemental CFP Closed:** 17 February 2022
+* **Supplemental CFP Opened:** 20 January 2022
+* **Original CFP Closed:** 31 December 2021
+* **CFT Closed:** 15 November 2021
+* **CFP and CFT Opened:** 15 October 2021
 
 ## Conference Venue
 
