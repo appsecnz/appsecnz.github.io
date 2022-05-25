@@ -422,44 +422,30 @@
     and data so our customers can innovate with speed and safety.
 - active: true
   level: 3
-  name: HCL Software
-  anchor: hcl-software
-  image: /assets/images/sponsor-logo/Logo-HCL.png
-  url: https://www.hcltechsw.com/
+  name: HCL AppScan
+  anchor: hcl-appscan
+  image: /assets/images/sponsor-logo/Logo-HCL_AppScan.png
+  url: https://www.hcltechsw.com/appscan/codesweep
   spotlight: |-
-    HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. 
-    We develop, market, sell, and support over 30 product families in the areas of Customer Experience, 
-    Digital Solutions, Secure DevOps, Security, and Automation.
+    HCL AppScan is a powerful Application Security tool which can enable you to meet your end-to-end 
+    security requirement. It has the capability for security testing with SAST/DAST/IAST/SCA and much more. 
+    The AppScan suite offers a community tool for developers to check their code for vulnerabilities on 
+    every pull, get started with Codesweep.
     </p>
     <p>
-    <strong>Innovations</strong> - We are innovating fresh business and technology solutions to solve real customer problems.
-    </p>
-    <p>
-    <strong>Client Advocacy</strong> - A customer-centric approach is the foundational element of the HCL Software business philosophy.
-    <br />
-    Our goal is to build stronger relationships with our customers and ensure their long-term success with our software.
-    </p>
-    <p>
-    <strong>Partners</strong> - HCL Partner Connect is a one-stop shop for software-based offerings to enable growth and scale.
-    </br />
-    Get everything you need to innovate and deliver.
+    Positioned as a Gartner Magic Quadrant <strong>Leader</strong> for Application Security Testing, AppScan 
+    helps to drive substantial savings - lower development and testing costs - by moving security testing and 
+    defect remediation earlier in the SDLC and reducing incidents in production that impact revenue and productivity.
   description: |-
-    HCL Software is a division of HCL Technologies (HCL) that operates its primary software business. 
-    We develop, market, sell, and support over 30 product families in the areas of Customer Experience, 
-    Digital Solutions, Secure DevOps, Security, and Automation.
+    HCL AppScan is a powerful Application Security tool which can enable you to meet your end-to-end 
+    security requirement. It has the capability for security testing with SAST/DAST/IAST/SCA and much more. 
+    The AppScan suite offers a community tool for developers to check their code for vulnerabilities on 
+    every pull, get started with Codesweep.
     </p>
     <p>
-    <strong>Innovations</strong> - We are innovating fresh business and technology solutions to solve real customer problems.
-    </p>
-    <p>
-    <strong>Client Advocacy</strong> - A customer-centric approach is the foundational element of the HCL Software business philosophy.
-    <br />
-    Our goal is to build stronger relationships with our customers and ensure their long-term success with our software.
-    </p>
-    <p>
-    <strong>Partners</strong> - HCL Partner Connect is a one-stop shop for software-based offerings to enable growth and scale.
-    </br />
-    Get everything you need to innovate and deliver.
+    Positioned as a Gartner Magic Quadrant <strong>Leader</strong> for Application Security Testing, AppScan 
+    helps to drive substantial savings - lower development and testing costs - by moving security testing and 
+    defect remediation earlier in the SDLC and reducing incidents in production that impact revenue and productivity.
 - active: true
   level: 3
   name: Kordia 
