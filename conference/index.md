@@ -130,7 +130,6 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**, [Auth0](spon
     Buildings WG (Sir Paul Reeves Building) and WA   
     2 Governor Fitzroy Place, Auckland  
     **Map:** [Google Maps](https://goo.gl/maps/tJVwWVyC16hLnpNf9)   
-    **Virtual Campus Tour:** [Walkinto](https://walkinto.in/tour/bkBenXdUpbbyerlhm_IaZ)   
     
 **Stream One:** Level 4   
 **Room:** Lecture Theatre WG403   
