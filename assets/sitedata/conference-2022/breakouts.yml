@@ -77,7 +77,7 @@
 - active: true
   day: 0
   block: 10
-  stream-off: true
+  nostream: true
   name: Quantum Security
   title: 'Speed Interviews'
   anchor: quantum-interviews
@@ -86,21 +86,21 @@
     chat with the Quantum Security team.
     </p>
     <p>
-    Visit the Quantum Team at their exhibition booth, to book in a time for your chat.
+    To book in a time for your chat, visit the Quantum Team at their exhibition booth.
     
 - active: true
   day: 0
   block: 11
-  stream-off: true
+  nostream: true
   name: Quantum Security
-  title: 'Speed Interviews'
+  title: 'Speed Interviews (continued)'
   anchor: quantum-interviews2
   description: |-
     Come by the Demo Room (WG 404), with your updated CV in hand, for a brief "getting to know you" 
     chat with the Quantum Security team.
     </p>
     <p>
-    Visit the Quantum Team at their exhibition booth, to book in a time for your chat.
+    To book in a time for your chat, visit the Quantum Team at their exhibition booth.
     
 - active: false
   day: 0
