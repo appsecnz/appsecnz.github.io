@@ -74,13 +74,33 @@
   day: 0
   block: 9
 
-- active: false
+- active: true
   day: 0
   block: 10
+  stream-off: true
+  name: Quantum Security
+  title: 'Speed Interviews'
+  anchor: quantum-interviews
+  description: |-
+    Come by the Demo Room (WG 404), with your updated CV in hand, for a brief "getting to know you" 
+    chat with the Quantum Security team.
+    </p>
+    <p>
+    Visit the Quantum Team at their exhibition booth, to book in a time for your chat.
     
-- active: false
+- active: true
   day: 0
   block: 11
+  stream-off: true
+  name: Quantum Security
+  title: 'Speed Interviews'
+  anchor: quantum-interviews
+  description: |-
+    Come by the Demo Room (WG 404), with your updated CV in hand, for a brief "getting to know you" 
+    chat with the Quantum Security team.
+    </p>
+    <p>
+    Visit the Quantum Team at their exhibition booth, to book in a time for your chat.
     
 - active: false
   day: 0
