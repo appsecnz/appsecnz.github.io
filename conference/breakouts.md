@@ -3,7 +3,7 @@ title: Demos/Breakouts
 description: Information about Sponsor Demos and Break-Out Sessions
 tags: owaspnz22
 
-layout: conference/full-width
+layout: conference/breakouts-full-width
 dataDir: conference-2022
 sponsorsEventName: OWASP New Zealand Day 2022
 ---

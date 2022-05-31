@@ -1,33 +1,185 @@
 # Definitions for this file
-# selected: true, if the Programme Committee has accepted the talk; false, if not
-# confirmed: true, if the speaker has confirmed their participation; false, if not
-# day: 1 - Thursday; 2 - Friday
+# active: true, if the information contained in this file should be used to render 
+#         a Demo/Breakout entry in the schedule; false, if the block should be left blank
+# day: 0 - Thursday; 1 - Friday
 # block: Block number of the speaker's time slot - First speaking slot each day is Block 3
-# track: Track number (1 - Track One; 2 - Track Two; 3 - Demo/Breakout)
-# name: Speaker's name
+# name: Host/Sponsor name
 # title: Full title of talk
-# org: Speaker's organisation
-# remote: true, if speaker is presenting remotely; false, if not
+# org: Host's organisation - for Breakout meetings
 # video: URL of video, once uploaded to YouTube
 # length: Runtime of YouTube video
 # slides: full path to presentation slide deck, if in local assets; full URL, if not
 # format: File format for slide deck
 # size: File size of slide deck
-# abstract: short description of the talk
 # description: full-length description of the talk
-# bio: brief biography provided by the speaker 
-# twitter: speaker's Twitter handle (without the '@')
-# NOTE: For multiple speakers, use 'name2'/'bio2', 'name3'/'bio3', etc. - Speakers will be added to listings, until the next doesn't exist
-- selected: true
-  confirmed: false
-  title: '' 
-  name: 
-  org: 
-  remote: false
-  track: 1
-  abstract: |- 
+- active: false
+  day: 0
+  block: 0
+
+- active: false
+  day: 0
+  block: 1
+
+- active: false
+  day: 0
+  block: 2
+
+- active: false
+  day: 0
+  block: 3
     
+- active: true
+  day: 0
+  block: 4
+  name: Snyk
+  title: 'Building Security into Your Azure DevOps Practice with Snyk' 
+  anchor: snyk-azure-devops
   description: |-
+    We will demonstrate how you can give developers working in the Azure ecosystem a 
+    unique security feedback loop, with direct, actionable fixes, from code to cloud, 
+    back to code. By connecting observed cloud security insights with developer-driven 
+    workflows, developers can prioritize and remediate vulnerabilities faster in cloud 
+    native workflows. This results in reduced risk due to more secure cloud environments 
+    and increased developer productivity, leading to better and faster innovation.
+
+- active: true
+  day: 0
+  block: 5
+  name: Datacom/Lacework
+  title: 'Lacework - Product Overview and Demo' 
+  anchor: datacom-lacework
     
-  bio: |- 
+- active: false
+  day: 0
+  block: 6
+
+- active: true
+  day: 0
+  block: 7
+  name: Checkmarx
+  title: 'Checkmarx Application Security Testing (CxAST) Platform Demo' 
+  anchor: checkmarx-ast-platform
+  description: |-
+    In this session we will walk through the newly released Checkmarx Application Security 
+    Testing (AST) Platform, providing a one-stop-shop solution for all aspects of Application 
+    Security Testing. The demonstration will focus on Static Code Analysis (SAST), Software 
+    Composition Analysis (SCA), Infrastructure as Code Analysis (KICS) and their use cases 
+    as a part of SDLC, including DevOps (CI/CD) integrations.
+
+- active: false
+  day: 0
+  block: 8
     
+- active: false
+  day: 0
+  block: 9
+
+- active: false
+  day: 0
+  block: 10
+    
+- active: false
+  day: 0
+  block: 11
+    
+- active: false
+  day: 0
+  block: 12
+
+- active: false
+  day: 0
+  block: 13
+
+- active: false
+  day: 0
+  block: 14
+
+- active: false
+  day: 1
+  block: 0
+
+- active: false
+  day: 1
+  block: 1
+
+- active: true
+  day: 1
+  block: 2
+  name: Checkmarx
+  title: 'Supply Chain Assurance in DevOps' 
+  anchor: checkmarx-supply-chain
+  description: |-
+    Open-source libraries have become an essential part of almost all modern applications.  
+    Without open-source, software development would be stuck in the slow lane. Not "reinventing the 
+    wheel" each time you need certain functionality in an app saves time and effort, and as a result, 
+    open-source isn't going away anytime soon. If anything, it's becoming more and more widespread.  
+    But there's a certain amount of risk that comes with using open source components, modules, and 
+    libraries. Today, it's increasingly important to protect yourself from these risks. In this 
+    presentation, we will discuss the importance and prevalence of open-source software as well as 
+    the ways you can protect yourself from its attendant risks and licensing issues. 
+    The goal is to catch issues early, before they can become fatal.
+
+- active: true
+  day: 1
+  block: 3
+  name: Datacom
+  title: 'Datacom ARMada - Overview and Demo'
+  anchor: datacom-armada 
+    
+- active: true
+  day: 1
+  block: 4
+  name: Snyk   
+  title: 'How to Avoid Cloud-Native Security Risks with Snyk'
+  anchor: snyk-cloud-native 
+  description: |-
+    Cloud and DevOps practices blur the boundary between application development and the production 
+    cloud environment. We will show you how to identify risks coming from vulnerabilities in open-source 
+    dependencies and containers and correlate these with cloud misconfigurations in order to find the 
+    fastest path to reduce your risk. We will demonstrate how you can avoid top infrastructure-as-code 
+    (IaC) misconfigurations from being deployed to your environment and how to identify and remediate
+    drift from that known good state.
+
+- active: false
+  day: 1
+  block: 5
+
+- active: false
+  day: 1
+  block: 6
+
+- active: true
+  day: 1
+  block: 7
+  name: HCL AppScan
+  title: 'The New and Powerful AppScan from HCL Software' 
+  anchor: hcl-appscan
+  description: |-
+    HCL AppScan, previously known as IBM AppScan, is a family of desktop and web security testing 
+    and monitoring tools helping businesses transform their application security and delivery with more
+    robust capability. Learn on the latest with HCL AppScan and how it continues to enable security
+    teams to meet their objectives since 1998.
+
+- active: true
+  day: 1
+  block: 8
+  name: Micro Focus
+  title: 'Product Overview and Demo' 
+  anchor: micro-focus
+    
+- active: false
+  day: 1
+  block: 9
+
+- active: false
+  day: 1
+  block: 10
+    
+- active: false
+  day: 1
+  block: 11
+
+- active: false
+  day: 1
+  block: 12
+
