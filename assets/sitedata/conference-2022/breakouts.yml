@@ -66,9 +66,12 @@
     Composition Analysis (SCA), Infrastructure as Code Analysis (KICS) and their use cases 
     as a part of SDLC, including DevOps (CI/CD) integrations.
 
-- active: false
+- active: true
   day: 0
   block: 8
+  name: RedShield
+  title: 'See Application Shielding in Action'
+  anchor: redshield-in-action
     
 - active: false
   day: 0
