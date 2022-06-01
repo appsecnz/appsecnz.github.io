@@ -18,6 +18,8 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 ### We're always looking for a few good women and men, to assist with conference preparations and to help things go smoothly during the event.
 
+If you're keen to help out, please fill out our [Volunteer Information Form](https://forms.gle/4QdBarzZpUhxz5ko7).
+
 For more information, feel free to [contact us](mailto:info@appsec.org.nz).
 
 ## Conference Committee
