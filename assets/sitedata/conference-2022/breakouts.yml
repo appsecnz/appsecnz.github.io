@@ -194,9 +194,17 @@
   day: 1
   block: 9
 
-- active: false
+- active: true
   day: 1
   block: 10
+  name: Auth0
+  title: 'Auth0 Extensibility: Run your own custom code during the login process!'
+  description: |-
+    Let's make Auth0 unique to our needs, by uploading our own custom code. By modifying the login process 
+    as a programming level, we can simplify the work that our applications need to do later. This is a live 
+    coding demo, and there might be chocolates for audience members that spot the inevitable bugs. 
+    It's like extreme pair programming. Don't miss it!
+
     
 - active: false
   day: 1

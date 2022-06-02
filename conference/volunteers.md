@@ -27,9 +27,9 @@ For more information, feel free to [contact us](mailto:info@appsec.org.nz).
 * John DiLeo - Conference Chair, OWASP New Zealand Chapter Leader (Auckland)
 * Austin Chamberlain - Programme Chair, AppSec NZ Treasurer
 * Kirk Jackson - OWASP New Zealand Chapter Leader (Wellington)
-* Will Howard - Sponsor Relations Team Lead
-* Anneke Smitheram
+* Grant Finer - Sponsor Relations Team Lead
 * Ramandeep Kaur - Pre-Conference Reception Host
+* Anneke Smitheram
 * Jatinder Oberoi
 * Ben Seymour
 * Noah Miller
