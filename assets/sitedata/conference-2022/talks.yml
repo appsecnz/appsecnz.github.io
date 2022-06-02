@@ -54,7 +54,7 @@
   track: 0
   info: true
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: OWASP Top 10 Overview
   anchor: jackson-owasp-top-10
@@ -116,7 +116,7 @@
     for leading organizations such as MyHeritage, CloudLock (acquired by Cisco), and led the 
     'advanced development team' for the CTO of Cisco's cloud security (a $500M ARR BU).
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: "Waiter, There's a CVE in my SOUP!"
   anchor: alcock-waiter-theres-a
@@ -235,7 +235,7 @@
     <a href="https://oauth.net/2.1/" target="_blank">OAuth 2.1</a> and 
     <a href="https://oauth.net/gnap/" target="_blank">GNAP</a>. 
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Fantastic GraphQL Bugs and Where to Find Them
   anchor: ragtah-fantastic-graphql-bugs
@@ -289,7 +289,7 @@
     he still thinks the Internet is a passing fad, but was forced to think about security after 
     his employer added networking to their products.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: A Deep Dive into Kubernetes Schema Validation
   anchor: zilberman-a-deep-dive
@@ -320,7 +320,7 @@
     decided he needed to step out of his comfort zone, and today he's an entrepreneur and 
     Chief Product Officer at <a href="https://datree.io/" target="_blank">datree</a>.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: The Three Disciplines of CI/CD Security
   anchor: krivelevich-the-three-disciplines
@@ -425,7 +425,7 @@
   track: 0
   info: true
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: "Let's Pick Our AppSec Toolkit"
   anchor: khan-lets-pick-our
@@ -467,7 +467,7 @@
     As a founding member of Datacom's AppSec Services team, Raafey attempts to do more of the same, with 
     a real focus on automating everything and making security stupidly simple.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Top 10 Security Risks in CI/CD Systems
   anchor: gil-top-10-security
@@ -504,7 +504,7 @@
     <p>
     Today, Omer leads research at Cider Security, a hyper-growth startup focused on securing CI/CD pipelines.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Mobile Wanderlust! Our journey to version 2.0
   anchor: schleier-mobile-wanderlust-our
@@ -542,7 +542,7 @@
     created the OWASP Mobile Hacking Playground. Sven gives talks and workshops about Mobile Security worldwide to 
     different audiences, ranging from developers to students and penetration testers.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Building Your First DevSecOps Pipeline
   anchor: sharma-building-your-first
@@ -617,7 +617,7 @@
   track: 0
   info: false
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: State of AppSec in New Zealand - 2022
   anchor: dileo-state-of-appsec
@@ -665,7 +665,7 @@
     John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is 
     active on the OWASP Education and Training Committee and Application Security Curriculum Project.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: 'PIACERE: DevSecOps automated'
   anchor: piliszek-piacere-devsecops-automated
@@ -712,7 +712,7 @@
     In his free time, Radek loves to develop his IT knowledge as well as
     learn foreign languages, with preference for Romance languages. 
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Ten Free Uplifts for Protecting Small Businesses
   anchor: shute-ten-free-uplifts
@@ -739,7 +739,7 @@
     3D printing, and hash-cracking. In his spare, time Sam is also a technical advisor for 
     the Harmful Digital Communications Act.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: 'Not Under the Doormat: Securing your database credentials on the web application client side'
   anchor: huang-not-under-the
@@ -767,7 +767,7 @@
     people to build more secure applications. When she is not on a computer, you'll find her either in 
     front of a sewing machine, playing an ukulele, or sitting in a cafe with church friends chatting about theology. 
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Application Security and Cheese
   anchor: esler-application-security-and
@@ -823,7 +823,7 @@
     financial company in the UK, creating an application security framework, before moving to New Zealand with 
     his young family at the start of 2021.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: 'Get the Low-Hanging Fruits: How to find vulnerabilities in iOS apps'
   anchor: schleier-get-the-low
@@ -932,7 +932,7 @@
     is a seasoned incident responder (with a GCIH certification) and occasionally impressive pentester
     She also dabbles in psychology, behavioural science, and candles for fun.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Forging a Response to Log4Shell using OWASP ModSecurity Core Rule Set (CRS) 
   anchor: jackson-forging-a-response
@@ -980,7 +980,7 @@
     Kirk worked as a web developer before switching to the defence team - setting up Xero's 
     security practice, working as a pen tester, and in defence roles at several companies.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Fix Every Instance
   anchor: goddard-fix-every-instance
@@ -1012,7 +1012,7 @@
     an enthusiastic proponent of fixing problems as early as possible. He works as a Principal Security 
     Consultant in AppSec at CyberCX New Zealand. 
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Validating Configs from Code to Deployment in the GitOps World
   anchor: barki-tolts-validating-configs-from
@@ -1053,7 +1053,7 @@
   track: 0
   info: true
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Pentesting at Scale
   anchor: wong-pentesting-at-scale
@@ -1100,7 +1100,7 @@
     <a href="https://www.goodreads.com/book/show/13654596-security-metrics-a-beginner-s-guide" target="_blank">Security Metrics, A Beginner’s Guide</a>. 
     Last, but not least, she has been the CSO at a pentesting company for years, so she understands this topic well.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: When Twiddling the Dials Goes Wrong
   anchor: miraz-when-twiddling-the
