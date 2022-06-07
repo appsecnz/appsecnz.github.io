@@ -881,56 +881,29 @@
   track: 0
   info: true
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
-  withdrawn: true
-  title: Who Are You and Why Are You in My House?
-  anchor: dean-who-are-you
-  name: Stephanie (Steph) Dean
+  title: OWASP SAMM v2.0 and Benchmarking
+  anchor: glas-samm-benchmarking
+  name: Brian Glas
   day: 1
   block: 7
   track: 0
-  remote: false
+  remote: true
   abstract: |- 
-    Imagine for a second what it would be like to be tasked with stopping randoms from 
-    entering your house, while being in a pretty nice looking house as far as randoms go. 
-    Now you hear a noise in the next room, you haven't heard anything like it before. 
-    It's a little scary. Whatcha gonna do?
-  description: |-
-    I'd never thought "this is what a deflating balloon must feel like," until I found out I 
-    was the lead Incident Responder in a Red Team scenario for a bank. Until that moment, I was the 
-    lead Incident Responder for a real security breach in a bank, because our bosses like to 
-    keep us on our toes and not tell us when they've let the we-pretend-to-be-bad-guys have a go.
-    </p>
-    <p>
-    To be fair, I've since become a we-pretend-to-be-bad-guys guy, so no hurt feelings.
-    </p>
-    <p>
-    In this talk, I'll step through what it's like to take the wheel during a heart racing 
-    event such as a security breach. This will include how incident responders and Security 
-    Operations Center (SOC) analysts get ready for attack, how we deal with the attack, and what we do after.
-    </p>
-    <p>
-    Incident responders and analysts aren't the only ones involved though, so I'd like to 
-    highlight the value of input from developers, managers, sysadmins and baristas among others 
-    during major events.
-    </p>
-    <p>
-    The key takeaways from this talk will include: 
-    </p>
-    <ol>
-    <li>Bother us! As incident responders, we'd rather help you deal with a small thing 
-    now, than respond to a big thing later.</li>
-    <li>A high-level view of effective incident response, focusing on the six-step model (preparation, 
-    identification, containment, eradication, recovery, review)</li>
-    <li>General agreement that incident response is a helluva ride.</li>
-    </ol>
-    Overall, we'll roughly follow the six-step incident response format while pondering how 
-    we'll pay our next therapy bill. This is Steph's welcome to Incident Response and a tale 
-    about how our Managers sometimes pull pranks on us by making us think we suck at our jobs.
+    Learn more about how the OWASP Software Assurance Maturity Model (SAMM) can be used to build 
+    and grow software assurance in an organization. We'll walk through the features of SAMM v2.0 
+    and the future of SAMM Benchmark that we are currently developing to provide measurement 
+    capabilities and comparisons for SAMM participants. 
   bio: |- 
-    is a seasoned incident responder (with a GCIH certification) and occasionally impressive pentester
-    She also dabbles in psychology, behavioural science, and candles for fun.
+    has over 20 years of experience in various roles in IT and over a decade and a half of that 
+    in application development and security. His day job is serving as an Assistant Professor, teaching 
+    a full load of Computer Science and Cybersecurity classes at Union University (Jackson, Tennessee, USA). 
+    He helped build FedEx's AppSec team, worked on the Trustworthy Computing team at Microsoft, 
+    consulted on software security for years, and served as a project lead and active contributor for SAMM v1.1-2.0+ 
+    and OWASP Top 10 2017 and 2021.  Brian is a contributor to the RABET-V Pilot Program for election-related 
+    technology. He holds several Cybersecurity and IT certifications and is currently working on his Doctor of 
+    Computer Science in Cybersecurity and Information Assurance.
 - selected: true
   confirmed: false
   plenary: false
