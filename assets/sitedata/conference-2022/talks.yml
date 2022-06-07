@@ -54,7 +54,7 @@
   track: 0
   info: true
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: OWASP Top 10 Overview
   anchor: jackson-owasp-top-10
@@ -116,7 +116,7 @@
     for leading organizations such as MyHeritage, CloudLock (acquired by Cisco), and led the 
     'advanced development team' for the CTO of Cisco's cloud security (a $500M ARR BU).
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: "Waiter, There's a CVE in my SOUP!"
   anchor: alcock-waiter-theres-a
@@ -235,7 +235,7 @@
     <a href="https://oauth.net/2.1/" target="_blank">OAuth 2.1</a> and 
     <a href="https://oauth.net/gnap/" target="_blank">GNAP</a>. 
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Fantastic GraphQL Bugs and Where to Find Them
   anchor: ragtah-fantastic-graphql-bugs
@@ -289,7 +289,7 @@
     he still thinks the Internet is a passing fad, but was forced to think about security after 
     his employer added networking to their products.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: A Deep Dive into Kubernetes Schema Validation
   anchor: zilberman-a-deep-dive
@@ -320,7 +320,7 @@
     decided he needed to step out of his comfort zone, and today he's an entrepreneur and 
     Chief Product Officer at <a href="https://datree.io/" target="_blank">datree</a>.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: The Three Disciplines of CI/CD Security
   anchor: krivelevich-the-three-disciplines
@@ -359,20 +359,15 @@
     deep dive on the challenges each introduce, and the approaches and techniques for mitigating them based 
     on adversarial security research.
   bio: |- 
-    is a Cyber Security expert and problem solver, with more than 15 years of enterprise security experience 
-    with a proven track record, having worked with 100+ enterprises across multiple industries, with a strong 
-    orientation to Application & Cloud Security. Daniel held several positions in 8200 (retired as Lieutenant), 
-    after which proceeded to a career in the Civilian Cyber Security industry, spanning across 3 primary disciplines:
+    is a Cyber Security expert and problem solver, with more than 15 years of enterprise security experience
+    with a strong orientation to Application & Cloud Security. Daniel held several positions in 8200, 
+    after which spent several years hopping between defensive and offensive security positions. 
     </p>
-    <ul>
-    <li>Offensive Security (EY HASC);</li>
-    <li>Enterprise Application Security, SDLC (LivePerson); and</li>
-    <li>Incident Response, Cloud Security, Enterprise Posture (Sygnia).</li>
-    </ul>
     <p>
-    After having led Application Security and Cloud Security with Sygnia for nearly four years, Daniel co-founded 
-    Cider Security as the company's CTO. Cider is an early-stage, post-seed, startup, focused on securing CI/CD 
-    pipelines, flows, and systems.
+    After having led Application Security and Cloud Security with Sygnia for four years,
+    working with 100+ enterprises on optimizing Cyber resilience, Daniel Co-Founded Cider Security as 
+    the company's CTO. Cider is an hyper-growth startup building the world’s first AppSec OS, 
+    focused on securing CI/CD pipelines, flows, and systems.
 - selected: true
   confirmed: true
   plenary: false
@@ -425,7 +420,7 @@
   track: 0
   info: true
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: "Let's Pick Our AppSec Toolkit"
   anchor: khan-lets-pick-our
@@ -467,18 +462,22 @@
     As a founding member of Datacom's AppSec Services team, Raafey attempts to do more of the same, with 
     a real focus on automating everything and making security stupidly simple.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Top 10 Security Risks in CI/CD Systems
   anchor: gil-top-10-security
   name: Omer Gil
   org: Cider Security
+  name2: Daniel Krivelevich
+  org2: Cider Security
   day: 0
   block: 10
   track: 1
   remote: true
   twitter: omer_gil
   linkedin: omer-gil
+  twitter2: Dkrivelev
+  linkedin2: daniel-krivelevich
   abstract: |- 
     After researching, cross-referencing and analyzing some of the most notorious CI/CD security breaches, 
     such as CodeCov, SolarWinds, and PHP, this talk will present the Top 10 CI/CD risks that were distilled 
@@ -496,15 +495,27 @@
     well-known risks you are exposed to - from the code and architecture, to the culture, through the processes. 
     And finally, what we can learn from well-known previous attacks to try and protect ourselves from future ones.
   bio: |- 
-    is a seasoned application and cloud security expert with over 13 years of experience across multiple 
-    security disciplines. An experienced researcher and public speaker, Omer discovered the Web Cache Deception 
-    attack vector in 2017 (presented at Black Hat USA). He spent many years in various positions in 
-    the InfoSec domain, including the IDF, EY HASC and Magic Leap (leading the cloud security).
+    is a seasoned application and cloud security expert with 15 years of experience across multiple 
+    security disciplines. An experienced researcher and public speaker, Omer discovered the Web Cache Deception
+    attack vector in 2017, co-authored the "Top 10 CI/CD Security Risks" project, 
+    and participated in the creation of the "CI/CD Goat" project.
     </p>
     <p>
-    Today, Omer leads research at Cider Security, a hyper-growth startup focused on securing CI/CD pipelines.
+    After having spent many years in various positions in the InfoSec domain, including the IDF, EY HASC 
+    and Magic Leap (leading cloud security), today, Omer leads research at Cider Security, 
+    a hyper-growth startup focused on securing CI/CD pipelines.
+  bio2: |- 
+    is a Cyber Security expert and problem solver, with more than 15 years of enterprise security experience
+    with a strong orientation to Application & Cloud Security. Daniel held several positions in 8200, 
+    after which spent several years hopping between defensive and offensive security positions. 
+    </p>
+    <p>
+    After having led Application Security and Cloud Security with Sygnia for four years,
+    working with 100+ enterprises on optimizing Cyber resilience, Daniel Co-Founded Cider Security as 
+    the company's CTO. Cider is an hyper-growth startup building the world’s first AppSec OS, 
+    focused on securing CI/CD pipelines, flows, and systems.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Mobile Wanderlust! Our journey to version 2.0
   anchor: schleier-mobile-wanderlust-our
@@ -542,7 +553,7 @@
     created the OWASP Mobile Hacking Playground. Sven gives talks and workshops about Mobile Security worldwide to 
     different audiences, ranging from developers to students and penetration testers.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Building Your First DevSecOps Pipeline
   anchor: sharma-building-your-first
@@ -617,7 +628,7 @@
   track: 0
   info: false
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: State of AppSec in New Zealand - 2022
   anchor: dileo-state-of-appsec
@@ -665,7 +676,7 @@
     John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is 
     active on the OWASP Education and Training Committee and Application Security Curriculum Project.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: 'PIACERE: DevSecOps automated'
   anchor: piliszek-piacere-devsecops-automated
@@ -712,7 +723,7 @@
     In his free time, Radek loves to develop his IT knowledge as well as
     learn foreign languages, with preference for Romance languages. 
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Ten Free Uplifts for Protecting Small Businesses
   anchor: shute-ten-free-uplifts
@@ -734,12 +745,12 @@
     security of your business to be 'good enough.'
   bio: |- 
     is the Principal Technical Security Consultant with Quantum Security. Sam has been an organiser 
-    and challenge developer of the New Zealand Cyber Security Challenge, for the last 3 years. 
-    His areas of interest include behavioral biometrics, the physical/digital security overlap, 
-    3D printing, and hash-cracking. In his spare, time Sam is also a technical advisor for 
-    the Harmful Digital Communications Act.
+    and challenge developer of the New Zealand Cyber Security Challenge (NZCSC), VicCTF, 
+    and Hamiltr0n (Kiwicon CTF). His areas of interest include behavioral biometrics, 
+    the physical/digital security overlap, 3D printing, and hash-cracking. 
+    In his spare time Sam is also a technical advisor for the Harmful Digital Communications Act.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: 'Not Under the Doormat: Securing your database credentials on the web application client side'
   anchor: huang-not-under-the
@@ -767,7 +778,7 @@
     people to build more secure applications. When she is not on a computer, you'll find her either in 
     front of a sewing machine, playing an ukulele, or sitting in a cafe with church friends chatting about theology. 
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Application Security and Cheese
   anchor: esler-application-security-and
@@ -783,31 +794,22 @@
     is a security activity, a layer of the defenses there to reduce the risk of threats becoming reality 
     and prevent vulnerabilities from various sources making their way into production systems.
   description: |-
-    This talk leans on some of my background in aviation maintenance and safety software as aviation is one 
-    of the places where the Swiss cheese model originated. It has also been used more recently to model the 
-    COVID pandemic defenses. I will apply the model here to describe how we can use security activities in 
-    the application development lifecycle to reduce the risk of threats becoming a reality. Each slice of the 
-    cheese being a security activity, each hole being a gap in the defenses that a threat might slip through. 
-    It will describe what in application security context active and latent failures are and in this context 
-    how vulnerabilities can relate to the four failure domains of the model: organizational influences 
-    (poor security culture, priorities elsewhere, lack of investment), supervision (training and guidance, 
-    documentation), preconditions (lack of controls, complex environments) and specific acts (activities of 
-    the threat actor, poor security practices).
+    This talk leans on some of my background in aviation maintenance and safety software as aviation is 
+    one of the places where the Swiss cheese model originated. It has also been used more recently to model 
+    the COVID pandemic defenses. I will apply the model here to describe how we can use security activities 
+    in the application development lifecycle to reduce the risk of vulnerabilities getting into production 
+    systems. Each slice of the cheese being a security activity, each hole being a gap in the defenses that
+    a vulnerability might slip through. It will describe some parts of the model and how they could apply 
+    to the application security context. 
     </p>
     <p>
     No new ground-breaking security activities here; just all the good stuff championed by OWASP and 
-    explaining how these can fit into common software development lifecycles. Covering about how threats 
-    might still slip through, what might move the slices making the holes align or new ones appear so a 
-    threat could get through and become a vulnerability by looking at some of the limitations of each activity. 
-    What could be the next slice of cheese that might catch the threat and avoid an incident later in the 
-    development lifecycle. Share some of my experience in understanding when to do each activity and the 
-    problems I've previously encountered in working with development teams to introduce application security 
-    programs. Telling a story of some of the things I have seen work in practice, some that haven't worked 
-    so well, and questions that often come up when planning and implementing a set of security activities. 
-    It's not a one size fits all, some activities will suit individual contexts better than others. Layering 
-    is key both to provide defense in depth but also to enable a gradual rollout as the activities cost both 
-    effort and money. Delving briefly into what can be automated and what is best accepted as a manual process. 
-    Also looking at some of the Human Factors that influence the effectiveness of the defenses.
+    explaining how these can fit into common software development lifecycles. Covering how vulnerabilities 
+    might still slip through and looking at some of the Human Factors that influence the effectiveness of 
+    the defenses. What could be the next slice of cheese that might catch the vulnerability and avoid an 
+    incident later in the development lifecycle. Sharing some of my experience in understanding when to 
+    do each activity and the problems I've previously encountered in working with development teams to 
+    introduce application security programs. 
   bio: |- 
     has a background in 15 years as a web developer working on greenfield projects and initiating changes 
     in development technologies prototyping new systems that he then helped release to market. He spent his 
@@ -819,11 +821,11 @@
     systems and vulnerability management for a custom Linux distro at Honeywell. At Honeywell, Steve was working 
     with teams around the world to secure both hardware, operating systems and applications. Through Honeywell, 
     he picked up some great experience working within a very mature and successful software and system security 
-    program, while obtaining some professional certificates along the way. Steven then worked with a large 
+    program, while obtaining some professional certificates along the way. Steve then worked with a large 
     financial company in the UK, creating an application security framework, before moving to New Zealand with 
     his young family at the start of 2021.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: 'Get the Low-Hanging Fruits: How to find vulnerabilities in iOS apps'
   anchor: schleier-get-the-low
@@ -905,7 +907,7 @@
     technology. He holds several Cybersecurity and IT certifications and is currently working on his Doctor of 
     Computer Science in Cybersecurity and Information Assurance.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Forging a Response to Log4Shell using OWASP ModSecurity Core Rule Set (CRS) 
   anchor: jackson-forging-a-response
@@ -953,7 +955,7 @@
     Kirk worked as a web developer before switching to the defence team - setting up Xero's 
     security practice, working as a pen tester, and in defence roles at several companies.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Fix Every Instance
   anchor: goddard-fix-every-instance
@@ -985,7 +987,7 @@
     an enthusiastic proponent of fixing problems as early as possible. He works as a Principal Security 
     Consultant in AppSec at CyberCX New Zealand. 
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Validating Configs from Code to Deployment in the GitOps World
   anchor: barki-tolts-validating-configs-from
@@ -1026,7 +1028,7 @@
   track: 0
   info: true
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: Pentesting at Scale
   anchor: wong-pentesting-at-scale
@@ -1073,12 +1075,12 @@
     <a href="https://www.goodreads.com/book/show/13654596-security-metrics-a-beginner-s-guide" target="_blank">Security Metrics, A Beginner’s Guide</a>. 
     Last, but not least, she has been the CSO at a pentesting company for years, so she understands this topic well.
 - selected: true
-  confirmed: false
+  confirmed: true
   plenary: false
   title: When Twiddling the Dials Goes Wrong
   anchor: miraz-when-twiddling-the
   name: Shofe Miraz
-  org: Insomnia Security
+  org: CyberCX
   day: 1
   block: 10
   track: 1
@@ -1123,7 +1125,7 @@
     web application security risks. The talk will include some source code snippets to identify 
     the root cause of the issues.
   bio: |- 
-    works as a security consultant for Insomnia Security. He has three years of combined industry 
+    works as a security consultant for CyberCX. He has three years of combined industry 
     penetration testing experience. He is particularly interested Web/Mobile application security 
     and loves sharing his knowledge with others. Outside of work, he actively co-organizes and presents 
     in a Monthly Security meetup, "Hack And Learn," where he facilitates learning both hacking and 
