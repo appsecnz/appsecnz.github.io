@@ -31,7 +31,7 @@ Let's get your Web Apps and APIs under security regression testing with OWASP Pu
 
 **Course Fee:** NZ $500.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" }
+**Registration Site:** Registration unavailable - Class Cancelled, due to change in instructor's availability
 
 **Maximum Enrolment:** 36 attendees
 

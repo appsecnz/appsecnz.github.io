@@ -15,7 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 # Biohacking: The Invisible Threat
 
-## Half-Day Interactive (Online) Training - OWASP New Zealand Day 2022
+## CANCELLED Half-Day Interactive (Online) Training - OWASP New Zealand Day 2022
 
 ## Abstract
 
@@ -31,7 +31,7 @@ Security professionals won't allow users into their environment with hacking too
 
 **Course Fee:** NZ $225.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2022-training](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" }
+**Registration Site:** Registration unavailable - Class Cancelled, due to change in instructor's availability
 
 ## Course Description
 
