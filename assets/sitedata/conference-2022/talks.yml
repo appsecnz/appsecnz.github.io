@@ -994,16 +994,12 @@
   anchor: barki-tolts-validating-configs-from
   name: Noaa Barki
   org: datree
-  name2: Shimon Tolts
-  org2: datree
   day: 1
   block: 8
   track: 1
   remote: true
   twitter: BarkiNoaa
-  twitter2: shimontolts
   linkedin: noaa-barki-159498163
-  linkedin2: tolts
   abstract: |- 
     GitOps can be very powerful, but it's also important to leverage it with caution. This talk will focus
     on some of the best practices for working GitOps in your engineering organization.
