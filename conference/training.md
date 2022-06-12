@@ -73,10 +73,6 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 * *[AppSec 'Refresher' Training with OWASP Top 10 2021 Update](training-appsec_refresher.md)*, Datacom AppSec Training team - $250
 
-### Half-day, Online Class:
-
-* *[Biohacking: The Invisible Threat](training-biohacking.md)*, Len Noe - $225
-
 **NOTES:** 
 
 * Registration for classes may close earlier, if all spots are filled. 

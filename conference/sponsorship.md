@@ -125,7 +125,7 @@ In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, 
 
 The diagram below depicts the planned arrangement of exhibition spaces in the WG Building Atrium.
 
-![Diagram-Atrium Layout](/assets/images/Exhibition_Area-Cropped2.png)
+![Diagram-Atrium Layout](/assets/images/WG201_Sponsor_Booths.png)
 
 Unless otherwise requested, each exhibition space will be provided power strips (two (2) each in **Diamond** and **Platinum** spaces, one (1) each in others), and all tables will be fully draped. Booths will be configured by the venue team on Wednesday morning, and will be available for sponsor staff to set up after noon on Wednesday (6 July). If desired, sponsors are welcome to staff their booths on Wednesday afternoon, through the close of pre-conference training (5:30 p.m.).
 
