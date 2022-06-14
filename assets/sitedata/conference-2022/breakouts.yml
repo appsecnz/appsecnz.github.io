@@ -24,30 +24,40 @@
   day: 0
   block: 2
 
-- active: false
-  day: 0
-  block: 3
-    
 - active: true
   day: 0
-  block: 4
+  block: 3
   name: Snyk
-  title: 'Building Security into Your Azure DevOps Practice with Snyk' 
+  title: 'Building Security into Your <strong>Azure</strong> DevOps Practice with Snyk' 
   anchor: snyk-azure-devops
   description: |-
     We will demonstrate how you can give developers working in the Azure ecosystem a 
     unique security feedback loop, with direct, actionable fixes, from code to cloud, 
     back to code. By connecting observed cloud security insights with developer-driven 
-    workflows, developers can prioritize and remediate vulnerabilities faster in cloud 
-    native workflows. This results in reduced risk due to more secure cloud environments 
+    workflows, developers can prioritize and remediate vulnerabilities faster in Cloud-Native 
+    workflows. This results in reduced risk due to more secure cloud environments 
     and increased developer productivity, leading to better and faster innovation.
 
 - active: true
   day: 0
-  block: 5
+  block: 4
   name: Datacom/Lacework
   title: 'Lacework - Product Overview and Demo' 
   anchor: datacom-lacework
+    
+- active: true
+  day: 0
+  block: 5
+  name: Snyk
+  title: 'Building Security into Your <strong>AWS</strong> DevOps Practice with Snyk'
+  anchor: snyk-aws-devops
+  description: |-
+    We will demonstrate how you can give developers working in the AWS ecosystem a 
+    unique security feedback loop, with direct, actionable fixes, from code to cloud, 
+    back to code. By connecting observed cloud security insights with developer-driven 
+    workflows, developers can prioritize and remediate vulnerabilities faster in Cloud-Native 
+    workflows. This results in reduced risk due to more secure cloud environments 
+    and increased developer productivity, leading to better and faster innovation.
     
 - active: false
   day: 0
