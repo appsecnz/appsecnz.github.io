@@ -529,3 +529,32 @@
     Micro Focus helps you solve the digital dilemma of how to balance today's needs with 
     tomorrow's opportunities. Our broad portfolio of enterprise software products and supporting 
     services provides the keys you need to accelerate, simplify, strengthen, and analyze your core operations.
+- active: true
+  level: Supporting Sponsor
+  name: CyberWarFare
+  anchor: cyber-war-fare
+  image: /assets/images/sponsor-logo/Logo-CyberWarFare.png
+  url: https://www.cyberwarfare.live/
+  spotlight: |-
+    We are an Ed-Tech startup working on simulating critical infrastructure as a playground for cyber security 
+    enthusiasts, professionals, enterprises, and government agencies to practise and upskill security posture of 
+    critical assets. 
+    </p>
+    <p>
+    Customers can learn 24x7 through our seamless browser based realistic labs that are mapped 
+    with industry recognized security frameworks in real-time.
+  description: |-
+    We are an Ed-Tech startup working on simulating critical infrastructure as a playground for cyber security 
+    enthusiasts, professionals, enterprises & government agencies to practise and upskill security posture of 
+    critical assets. 
+    </p>
+    <p>
+    Customers can learn 24x7 through our seamless browser based realistic labs that are mapped 
+    with industry recognized security frameworks in real-time. Our offered training / classes vary from critical 
+    on-prem technologies to cloud focused technologies, which we believe can be scaled globally with approximately 
+    8-11 million workforce combining India & USA alone. 
+    </p>
+    <p>
+    We believe in gender-diverse teams, that is why we are 
+    offering free classes to support girls, women, and gender minorities. We have confidence in inspiring these 
+    populations towards cybersecurity's mission and in-demand skills.
