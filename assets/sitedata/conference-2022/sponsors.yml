@@ -420,7 +420,7 @@
     <p>
     Our vision is to be the security platform for the cloud. We are changing security forever with automation 
     and data so our customers can innovate with speed and safety.
-- active: true
+- active: false
   level: 3
   name: HCL AppScan
   anchor: hcl-appscan
@@ -530,7 +530,7 @@
     tomorrow's opportunities. Our broad portfolio of enterprise software products and supporting 
     services provides the keys you need to accelerate, simplify, strengthen, and analyze your core operations.
 - active: true
-  level: Supporting Sponsor
+  level: 6
   name: CyberWarFare
   anchor: cyber-war-fare
   image: /assets/images/sponsor-logo/Logo-CyberWarFare.png
