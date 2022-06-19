@@ -52,7 +52,7 @@ The main conference on Thursday and Friday will have two streams throughout both
 **Stream Two:**   
 * Technical Topics
 
-Throughout the conference, an exhibition area will be open in the main atrium. Representatives from many of our Premier Sponsors will be on hand throughout the event, to answer your questions about their products and services, or to discuss employment opportunities they may have available. There will be door prize drawings at the Closing Session on Friday. To qualify for the drawings, you will need to visit with each sponsor during the conference, and have them stamp your entry card.
+Throughout the conference, an exhibition area will be open in the main atrium. Representatives from many of our Premier Sponsors will be on hand throughout the event, to answer your questions about their products and services, or to discuss employment opportunities they may have available. There will be door prize drawings at the Closing Session on Friday. To qualify for the drawings, you will need to visit with each exhibiting sponsor during the conference, and have them stamp your entry card.
 
 ## Registration Fees
  
@@ -139,7 +139,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**, [Auth0](spon
 **Room:** Lecture Theatre WA220   
 **Overflow:** Room WA224B
 
-**Demo/Breakout Room:** Level 4   
+**Sponsor Demos:** Level 4   
 **Room:** Case Room WG404
 
 **Delegate Lounge:** Level 2
