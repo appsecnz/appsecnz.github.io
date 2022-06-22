@@ -24,10 +24,19 @@
   day: 0
   block: 2
 
-- active: false
+- active: true
   day: 0
   block: 3
-    
+  name: HCL AppScan
+  title: 'Continuous Security with HCL AppScan'
+  anchor: hcl-continuous-security
+  description: |-
+    Traditionally security maturity models all suggest that the work is "done" when you reach 
+    Level 5. Sadly, nothing could be further from the truth. Security needs to be a cycle/model 
+    that continues. We have adapted our maturity model to a vision that outlines continuous  
+    improvement to application security, forming the modern security model for success called
+    'Continuous Security.'
+
 - active: true
   day: 0
   block: 4
@@ -171,9 +180,17 @@
   day: 1
   block: 6
 
-- active: false
+- active: true
   day: 1
   block: 7
+  name: HCL AppScan
+  title: 'The New and Powerful AppScan from HCL Software' 
+  anchor: hcl-appscan
+  description: |-
+    HCL AppScan, previously known as IBM AppScan, is a family of desktop and web security testing 
+    and monitoring tools helping businesses transform their application security and delivery with more
+    robust capability. Learn on the latest with HCL AppScan and how it continues to enable security
+    teams to meet their objectives since 1998.
 
 - active: true
   day: 1

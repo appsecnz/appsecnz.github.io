@@ -420,7 +420,8 @@
     <p>
     Our vision is to be the security platform for the cloud. We are changing security forever with automation 
     and data so our customers can innovate with speed and safety.
-- active: false
+
+- active: true
   level: 3
   name: HCL AppScan
   anchor: hcl-appscan
@@ -476,6 +477,7 @@
     <p>
     Clients regularly refer to our engineers, project managers, and salespeople as "experts," 
     "trusted advisers," "our secret weapon," and more.
+
 - active: true
   level: 3
   name: RedShield
@@ -502,6 +504,7 @@
     Founded in New Zealand, owned and operated by an experienced team of
     penetration testers and security technologists, we have become known for taking on
     the security challenges that no one else will.
+
 - active: true
   level: 3
   name: Micro Focus
@@ -529,6 +532,7 @@
     Micro Focus helps you solve the digital dilemma of how to balance today's needs with 
     tomorrow's opportunities. Our broad portfolio of enterprise software products and supporting 
     services provides the keys you need to accelerate, simplify, strengthen, and analyze your core operations.
+
 - active: true
   level: 6
   name: CyberWarFare
