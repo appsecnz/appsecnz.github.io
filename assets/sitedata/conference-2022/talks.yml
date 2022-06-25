@@ -376,7 +376,7 @@
   name: Nick Lauder
   org: Quantum Security
   day: 0
-  block: 8
+  block: 10
   track: 1
   remote: false
   linkedin: nalauder
@@ -471,7 +471,7 @@
   name2: Daniel Krivelevich
   org2: Cider Security
   day: 0
-  block: 10
+  block: 8
   track: 1
   remote: true
   twitter: omer_gil
