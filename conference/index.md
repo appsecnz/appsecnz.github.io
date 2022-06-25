@@ -23,7 +23,7 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 -----
 
-We are proud to present the OWASP New Zealand Conference, to be held at the Auckland University of Technology (AUT) on Thursday and Friday, July 7th and 8th, 2022. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
+We are proud to present the 13th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, July 7th and 8th, 2022. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
@@ -63,7 +63,7 @@ Early registration (on or before 31 January):
 
 ## Training
 
-In addition to the main conference on Thursday and Friday, we are pleased to be offer training opportunities on Tuesday and Wednesday (5-6 July 2022), at the same venue.
+In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (5-6 July 2022), at the same venue.
 
 [Training Registration](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" } is open until 28 June. Information on the classes offered can be found on our [Pre-Conference Training](training.md) page.
 
