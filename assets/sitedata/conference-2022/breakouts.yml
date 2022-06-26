@@ -81,6 +81,11 @@
   name: RedShield
   title: 'See Application Shielding in Action'
   anchor: redshield-in-action
+  description: |-
+    In this session we will demonstrate how shielding works to mitigate specific vulnerabilities. 
+    Shields can modify application behaviour and resolve the types of vulnerabilities that are usually 
+    left to developers to fix. We will also provide an overview of the RedShield portal, which customers 
+    get access to as part of RedShield's service.
     
 - active: false
   day: 0
