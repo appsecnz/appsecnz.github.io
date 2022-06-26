@@ -37,8 +37,8 @@
 				"url": "/conference/sponsorship.html"
 			},
 			{
-				"title": "COVID Contingency Plan",
-				"url": "/conference/covid.html"
+				"title": "COVID Protection Policy",
+				"url": "/conference/covid-policy.html"
 			},
 			{
 				"title": "Diversity Fund",
@@ -55,6 +55,10 @@
 			{
 				"title": "International Attendees",
 				"url": "/conference/international.html"
+			},
+			{
+				"title": "COVID Contingency Plan",
+				"url": "/conference/covid.html"
 			}
 			]
 		},
