@@ -18,53 +18,53 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 ## On Campus
 
-Refuel
+#### Refuel
 Level 2, WG Building
 
-#Newsfeed
+#### #Newsfeed
 Level 3 WG Building
 
-Mojo AUT
+#### Mojo AUT
 Level 2, WZ Building
 
 ## Towards Queen Street
 
-Kang Nam Station
+#### Kang Nam Station
 329 Queen Street, Auckland CBD, Auckland 1010
 
-Kiwi Fish and Chips
+#### Kiwi Fish and Chips
 17B Wakefield Street, Auckland CBD, Auckland 1010
 
-Nandos
+#### Nandos
 360 Queen Street, Auckland CBD, Auckland 1010
 
-Turkish Shawarma & Pizza
+#### Turkish Shawarma & Pizza
 350 Queen Street, Auckland CBD, Auckland 1010
 
-PALSUN
+#### PALSUN
 Level1/57 Lorne Street, Auckland CBD, Auckland 1010
 
 ## Towards Symonds Street
 
-Kong's Eatery
+#### Kong's Eatery
 17 Mount Street, Auckland CBD, Auckland 1010
 
-Ikkyu Japanese
+#### Ikkyu Japanese
 15 Mount Street, Auckland CBD, Auckland 1010
 
-Pita Pit
+#### Pita Pit
 43 Symonds Street, Grafton, Auckland 1010
 
-Starbucks Symonds Street
+#### Starbucks Symonds Street
 The Forte Building, 37 Symonds Street, Auckland 1010
 
-Standing Room Espresso Symonds Street
+#### Standing Room Espresso Symonds Street
 27 Symonds Street, Auckland 1010
 
-Subway
+#### Subway
 25 Symonds Street, Auckland CBD, Auckland 1010
 
-Craven 'A'
+#### Craven 'A'
 4 Saint Paul Street, Auckland CBD, Auckland 1010
 
 
