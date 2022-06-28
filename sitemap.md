@@ -33,7 +33,7 @@ sponsorsEventName: OWASP New Zealand Day 2022
 * [Code of Conduct](conference/conduct.md)
 * [Call for Volunteers](conference/volunteers.md)
 * [International Attendees](conference/international.md)
-
+* [Food and Drink](conference/lunch.md)
 
 ## 2021 AppSec New Zealand Conference
 
