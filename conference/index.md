@@ -45,7 +45,9 @@ All three streams of the conference (Track 1, Track 2, and the Sponsor Demos) wi
 Within the event site, you can configure your personal agenda for the event, chat with other conference participants, and view the live-streamed presentations wherever you happen to be.
 
 <p style="font-size: x-large; text-align: center;">
-  <a href="https://whova.com/portal/webapp/auotm_202203/" target="_blank">Visit our Whova Event site</a>
+  <a href="https://whova.com/portal/webapp/auotm_202203/" target="_blank">Visit our Whova Event site</a>   
+  <br />
+  If you're asked for an "Invitation Code," this should work: <strong>OWASPNZDAY</strong>
 </p>
 
 <div style="height:212px !important;line-height:1.4em !important;font-family:Helvetica !important;width:300px !important;background-color:#f9f9f9 !important;border:1px solid #ccc !important;padding:10px !important; margin: auto;"><div style="height:150px !important;">
