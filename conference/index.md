@@ -156,11 +156,9 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**, [Auth0](spon
     
 **Stream One:** Level 4   
 **Room:** Lecture Theatre WG403   
-**Overflow:** Lecture Theatre WG126   
 
 **Stream Two:** Level 2   
 **Room:** Lecture Theatre WA220   
-**Overflow:** Room WA224B
 
 **Sponsor Demos:** Level 4   
 **Room:** Case Room WG404

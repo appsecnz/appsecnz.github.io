@@ -1,12 +1,10 @@
 - id: 0
   name: Track One
   location: Room WG403
-  overflow: Room WG126
   width: 32
 - id: 1
   name: Track Two
   location: Room WA220
-  overflow: Room WA224B
   width: 32
 - id: 2
   name: Demos/Breakouts
