@@ -18,6 +18,10 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 ## On Campus
 
+#### Carty McCartface
+
+Level 2 Foyer, WG Building - right next to the sponsors!
+
 #### Refuel
 
 Level 2, WG Building
