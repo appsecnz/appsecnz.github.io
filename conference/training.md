@@ -65,8 +65,6 @@ Each day, regardless of format, classes will follow this schedule (all times are
 ### One-day, Face-to-Face Classes:
 
 * *[Assess and Improve Your AppSec Programme using OWASP SAMM](training-owasp_samm.md)*, Raafey Khan - $500
-* *[Breaking in to 'Breaking in'](training-breaking_in.md)*, Kevin Alcock - $500
-* *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright - $500
 * *[Introduction to OAuth and OpenID Connect](training-oauth_oidc.md)*, Aaron Parecki - $500
 
 ### Half-day, Face-to-Face Class:

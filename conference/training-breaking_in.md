@@ -15,7 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 # Breaking In to 'Breaking In'
 
-## One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2022
+## CANCELLED One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2022
 
 ## Abstract
 

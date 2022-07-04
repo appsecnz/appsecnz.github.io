@@ -15,7 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 # Can you find the threat? A Threat Modelling CTF
 
-## One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2022
+## CANCELLED One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2022
 
 ## Course Details 
 
