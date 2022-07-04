@@ -118,42 +118,15 @@
 - selected: true
   confirmed: true
   plenary: false
-  title: "Waiter, There's a CVE in my SOUP!"
-  anchor: alcock-waiter-theres-a
-  name: Kevin Alcock
-  org: Datacom
+  title: OWASP Top 10 Overview (continued)
+  anchor: jackson-owasp-top-10
+  name: Kirk Jackson
+  org: RedShield
   day: 0
   block: 4
   track: 0
   remote: false
-  twitter: kevinnz
-  linkedin: kevinnz
-  abstract: |- 
-    'SOUP' stands for "Software of Unknown Provenance." This is software in your code base that 
-    has not been created under you development process. This talk is about finding known security 
-    vulnerabilities in these introduced packages. Small demonstration of how this can be done in 
-    the development pipeline.
-  description: |-
-    'SOUP' stands for Software of Unknown (or Uncertain) Provenance (or Pedigree), and is a term 
-    often used in the context of safety-critical and safety-involved systems such as medical software. 
-    SOUP is software that has not been developed with a known software development process or methodology, 
-    or which has unknown or no safety-related properties.<sup>1</sup>
-    </p>
-    <p>
-    This talk will be an introductory level technical talk on introducing Software Composition 
-    Analysis (SCA) into the development pipeline. The presentation will include a brief demo.
-    </p>
-    <p style="font-size: small;">
-    <sup>1</sup> <a href="https://en.wikipedia.org/wiki/Software_of_unknown_pedigree" target="_blank">https://en.wikipedia.org/wiki/Software_of_unknown_pedigree</a>
-  bio: |- 
-    helps run the Christchurch branch of 
-    <a href="https://www.meetup.com/ISIG-Christchurch-NZ/" target="_blank">ISIG</a> and a small 
-    hacker conference in Christchurch called <a href="https://chcon.nz" target="_blank">CHCon</a>. 
-    He has been programming for a living since 1986 (yes, longer than many of you have been alive) 
-    after studying at what is now known as Ara Institute of Canterbury. In those 30-plus years, he 
-    spent of lot of his time in Enterprise, Financial systems with mobile/Internet applications. 
-    In 2016, Kevin became an Offensive Security Certified Professional (OSCP). 
-    He works as a Senior Consultant on Datacom's AppSec Services team.
+
 - selected: true
   confirmed: true
   plenary: false
