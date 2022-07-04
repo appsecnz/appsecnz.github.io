@@ -201,8 +201,15 @@
   day: 1
   block: 8
   name: Micro Focus
-  title: 'Product Overview and Demo' 
+  title: 'Untangle the noodle: Simplifying DevSecOps' 
   anchor: micro-focus
+  description: |-
+    Trying to start and run a DevSecOps program can be annoying and complex, with the hundred different 
+    solutions out there. Join our demo session and see how CyberRes Fortify can help simplify your life, 
+    while ensuring your software supply chain is secure.
+    </p>
+    <p>
+    Fortify your DevSecOps, so it's worthy of trust
     
 - active: false
   day: 1
