@@ -137,7 +137,7 @@
   day: 0
   block: 4
   track: 1
-  remote: false
+  remote: true
   linkedin: kentostewart
   abstract: |- 
     During an incident, knowing your external perimeter is critical when trying to determine 
@@ -245,6 +245,7 @@
   remote: false
   twitter: parsley72
   linkedin: tom-isaacson
+  withdrawn: true
   abstract: |- 
     A tour through the OWASP IoT Top 10 with examples of how things have gone wrong in the 
     real world and ideas for improving things in the future.
