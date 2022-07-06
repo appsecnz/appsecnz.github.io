@@ -236,32 +236,18 @@
 - selected: true
   confirmed: false
   plenary: false
-  title: The OWASP Internet of Things (IoT) Top 10
-  anchor: isaacson-the-owasp-internet
-  name: Tom Isaacson
+  title: Deep Dive into Authentication Flows
+  anchor: dechrai-deep-dive
+  name: Ben Dechrai
   day: 0
   block: 7
   track: 0
   remote: false
-  twitter: parsley72
-  linkedin: tom-isaacson
-  withdrawn: true
   abstract: |- 
-    A tour through the OWASP IoT Top 10 with examples of how things have gone wrong in the 
-    real world and ideas for improving things in the future.
-  description: |-
-    OWASP (the Open Web Application Security Project) is, of course, famous for their <strong>Top 10</strong>, but what 
-    some people don’t realise is that it's specifically the Top 10 <em>Web Application</em> Security Risks. There are 
-    other Top 10s, dealing with different areas. We're going to have a quick trip through the Internet of Things (IoT) 
-    Top 10. How does it differ from the Web App Top 10? Are there any overlaps? How has the IoT list changed over time?
-    </p>
-    <p>
-    This presentation is based on a previous talk, "IoT - How to fight the tyre fire," presented at the 2008 OWASP 
-    New Zealand Day conference, and has been updated to reflect changes as software, InfoSec, and the industry move forward.
-  bio: |- 
-    has been an embedded developer for 20 years. He hasn’t bothered learning web development because 
-    he still thinks the Internet is a passing fad, but was forced to think about security after 
-    his employer added networking to their products.
+    Have you heard of Authcode? PKCE? Device flow? Implicit flow? Do you know what they do? How the work? This 
+    session will dive into a number of authorisation flows to help you understand the history of how they came about, 
+    what problems each one tries to solve, and in which situations they are useful.
+
 - selected: true
   confirmed: true
   plenary: false
