@@ -65,6 +65,9 @@
   track: 0
   remote: false
   twitter: kirkj
+  slides: /assets/presentations/conference-2022/Jackson-Introduction_to_the_OWASP_Top_Ten.pdf
+  format: PDF
+  size: 0.7MB
   description: |-
     The OWASP Top 10 is the flagship project for the OWASP Foundation, and the first thing people think of.
     </p>
@@ -89,6 +92,9 @@
   track: 1
   remote: true
   linkedin: mlmd
+  slides: /assets/presentations/conference-2022/Melamed-Minimum_Viable_Security_for_Microservices.pdf
+  format: PDF
+  size: 4.4MB
   abstract: |- 
     The migration of software from monoliths to microservices is long behind us, however managing 
     microservices operations at scale comes with a layer of complexity, particularly with aspects 
@@ -219,6 +225,9 @@
   track: 1
   remote: false
   linkedin: hotanyar
+  slides: /assets/presentations/conference-2022/Ragtah-Fantastic_GraphQL_Bugs_and_Where_To_Find_Them.pdf
+  format: PDF
+  size: 2.4MB
   description: |-
     GraphQL is increasing in popularity and, increasingly developers are starting to pick it as their first 
     choice for APIs. While it addresses some issues found in competing API standards (REST or SOAP), many 
@@ -261,6 +270,9 @@
   remote: true
   twitter: eyarzilb
   linkedin: eyar-zilberman
+  slides: /assets/presentations/conference-2022/Zilberman-A_Deep_Dive_Into_Kubernetes_Schema_Validation.pdf
+  format: PDF
+  size: 3.5MB
   abstract: |- 
     How do you ensure the stability of your Kubernetes (K8s) clusters? Are you sure you don't have any 
     invalid data types? Are any mandatory fields missing? Specialized tools and a "shift-left" approach 
@@ -340,6 +352,9 @@
   track: 1
   remote: false
   linkedin: nalauder
+  slides: /assets/presentations/conference-2022/Lauder-Server_Side_Request_Forgery.pdf
+  format: PDF
+  size: 1.9MB
   abstract: |- 
     Server-Side Request Forgery (SSRF) allows attackers to interact with your internal systems 
     and services. SSRF was number one in community surveys, during data collection for the 2021 OWASP 
@@ -438,6 +453,9 @@
   linkedin: omer-gil
   twitter2: Dkrivelev
   linkedin2: daniel-krivelevich
+  slides: /assets/presentations/conference-2022/Gil-Krivelevich-Top_10_Security_Risks_in_CI_CD_Systems.pdf
+  format: PDF
+  size: 9.3MB  
   abstract: |- 
     After researching, cross-referencing and analyzing some of the most notorious CI/CD security breaches, 
     such as CodeCov, SolarWinds, and PHP, this talk will present the Top 10 CI/CD risks that were distilled 
@@ -487,6 +505,9 @@
   remote: false
   twitter: bsd_daemon
   linkedin: sven-schleier
+  slides: /assets/presentations/conference-2022/Schleier-Securing_Mobile_Apps_with_the_MASVS.pdf
+  format: PDF
+  size: 3.7MB
   description: |-
     There are numerous ways of developing mobile applications today, but how do you ensure that security is part 
     of the development process? What are the attacks you should be concerned about and what can you do to avoid 
@@ -524,6 +545,9 @@
   track: 1
   remote: false
   twitter: WiseFoxSecurity
+  slides: /assets/presentations/conference-2022/Sharma-Building_Your_First_DevSecOps_Pipeline.pdf
+  format: PDF
+  size: 5.9MB
   abstract: |- 
     I am sure all of you have heard about "Shift Left Security" in many presentations, but how do you 
     actually achieve this? Well, this is the talk for you - where I'll cover all the DevSecOps buzzwords 
@@ -600,6 +624,9 @@
   remote: false
   twitter: gr4ybeard
   linkedin: john-dileo
+  slides: /assets/presentations/conference-2022/DiLeo-State_of_AppSec_in_New_Zealand.pdf
+  format: PDF
+  size: 1.0MB
   abstract: |- 
     In May and June of 2022, the author's team collected data through our inaugural <strong>State of Application 
     Security in New Zealand</strong> industry survey. This presentation will outline our objectives
@@ -749,6 +776,9 @@
   track: 0
   remote: false
   twitter: SteveEzz
+  slides: /assets/presentations/conference-2022/Esler-Application_Security_and_Cheese.pdf
+  format: PDF
+  size: 1.4MB
   abstract: |- 
     Everyone loves cheese, right? This talk will apply the Swiss cheese model to AppSec, each cheese slice 
     is a security activity, a layer of the defenses there to reduce the risk of threats becoming reality 
@@ -797,6 +827,9 @@
   remote: false
   twitter: bsd_daemon
   linkedin: sven-schleier
+  slides: /assets/presentations/conference-2022/Schleier-Get_the_low_hanging_fruits.pdf
+  format: PDF
+  size: 7.9MB
   description: |-
     Vulnerabilities can be manifold and everywhere - in your repo, in your IPA, or when using the app. This talk 
     will guide you on how to start to embed methodologies and open-source security tools into your SDLC to catch 
@@ -879,6 +912,9 @@
   track: 1
   remote: false
   twitter: kirkj
+  slides: /assets/presentations/conference-2022/Jackson-Log4Shell_Core_Rule_Set.pdf
+  format: PDF
+  size: 3.3MB
   abstract: |- 
     The log4j "Log4Shell" vulnerability, disclosed in December 2021, showed us the wide-reaching 
     impacts a security issue can have, when it affects a core component within our supply chain.
@@ -928,6 +964,9 @@
   remote: false
   twitter: pruby
   linkedin: timothy-goddard-462a6840
+  slides: /assets/presentations/conference-2022/Goddard-Fix_Every_Instance.pdf
+  format: PDF
+  size: 1.2MB
   abstract: |- 
     When pentesters deliver findings, we observe very large differences in how customers respond. 
     What distinguishes development shops that take security seriously is that they find and fix security 
@@ -997,6 +1036,9 @@
   remote: true
   twitter: CarolineWMWong
   linkedin: carolinewmwong
+  slides: /assets/presentations/conference-2022/Wong-Pentesting_at_Scale.pdf
+  format: PDF
+  size: 9.7MB
   abstract: |- 
     Pentesting is critical for security. But how do you build in proactive, preventative measures when 
     you're strapped for money, talent, and guidance? Join us to learn: the importance of pentesting 
