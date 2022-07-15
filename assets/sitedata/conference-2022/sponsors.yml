@@ -562,3 +562,25 @@
     We believe in gender-diverse teams, that is why we are 
     offering free classes to support girls, women, and gender minorities. We have confidence in inspiring these 
     populations towards cybersecurity's mission and in-demand skills.
+    
+- active: true
+  level: 6
+  name: Dice for Hire
+  anchor: dice-for-hire
+  image: /assets/images/sponsor-logo/Logo-Dice_for_Hire.png
+  url: https://diceforhire.com/
+  spotlight: |-
+    Dice for Hire is a new way to build strong teams. We offer Table-top Role Playing Games, such as Dungeons & Dragons, as a Service. 
+    </p>
+    <p>
+    We bring the game directly to your office. Forge strong bonds in your teams, while embarking on an adventure facilitated by our 
+    legendary Dice Masters. We match your experience level, to bring you a session as challenging as you want it to be. From one-shots, 
+    to recurring campaigns, or larger-scale events: Dice for Hire has your next adventure covered.
+  description: |-
+    Dice for Hire is a new way to build strong teams. We offer Table-top Role Playing Games, such as Dungeons & Dragons, as a Service. 
+    </p>
+    <p>
+    We bring the game directly to your office. Forge strong bonds in your teams, while embarking on an adventure facilitated by our 
+    legendary Dice Masters. We match your experience level, to bring you a session as challenging as you want it to be. From one-shots, 
+    to recurring campaigns, or larger-scale events: Dice for Hire has your next adventure covered.
+  
