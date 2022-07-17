@@ -145,6 +145,9 @@
   track: 1
   remote: true
   linkedin: kentostewart
+  slides: /assets/presentations/conference-2022/Stewart-Mapping_Your_External_Perimeter_during_an_Incident_with_OWASP_Amass.pdf
+  format: PDF
+  size: 5.1MB
   abstract: |- 
     During an incident, knowing your external perimeter is critical when trying to determine 
     your attack surface, and OWASP Amass is a tool that can be used to help perform this at 
@@ -191,6 +194,9 @@
   remote: false
   twitter: aaronpk
   linkedin: aaronparecki
+  slides: /assets/presentations/conference-2022/Parecki-Why_Do_We_Really_Need_OAuth.pdf
+  format: PDF
+  size: 27.2MB
   description: |-
     Even if you've never heard about OAuth, you've certainly used it in your daily life already. 
     But what purpose does OAuth actually serve?
@@ -252,6 +258,9 @@
   block: 7
   track: 0
   remote: false
+  slides: https://bendechrai.github.io/all-the-flows
+  format: web
+  size: online
   abstract: |- 
     Have you heard of Authcode? PKCE? Device flow? Implicit flow? Do you know what they do? How the work? This 
     session will dive into a number of authorisation flows to help you understand the history of how they came about, 
@@ -674,6 +683,9 @@
   track: 1
   remote: true
   linkedin: rados%C5%82aw-piliszek-5558097b
+  slides: /assets/presentations/conference-2022/Piliszek-PIACERE_DevSecOps_Automated.pdf
+  format: PDF
+  size: 1.7MB
   abstract: |- 
     An innovative DevSecOps framework - including process and supporting tools - will be presented. All the tools 
     have been created within the PIACERE project, which aims to deliver the complete DevSecOps 
@@ -747,6 +759,9 @@
   block: 3
   track: 1
   remote: false
+  slides: /assets/presentations/conference-2022/Huang-Not_Under_the_Doormat.pdf
+  format: PDF
+  size: 2.2MB
   abstract: |- 
     One of the most serious issues in web security would be when your database credentials are exposed, 
     but many developers don't realise that the client-side code they are writing is actually leaking 
@@ -886,6 +901,9 @@
   block: 7
   track: 0
   remote: true
+  slides: /assets/presentations/conference-2022/Glas-OWASP_SAMM_v2_0_and_Benchmarking.pdf
+  format: PDF
+  size: 4.1MB
   abstract: |- 
     Learn more about how the OWASP Software Assurance Maturity Model (SAMM) can be used to build 
     and grow software assurance in an organization. We'll walk through the features of SAMM v2.0 
@@ -1086,6 +1104,9 @@
   remote: false
   twitter: shmi012
   linkedin: shofemiraz
+  slides: /assets/presentations/conference-2022/Miraz-When_Twiddling_the_Dials_Goes_Wrong.pdf
+  format: PDF
+  size: 2.7MB
   abstract: |- 
     During engagements, we often encounter non-standard configurations. These could lead to massive 
     risks, due to the vulnerabilities they might introduce. Today I will demonstrate a number of bugs 
