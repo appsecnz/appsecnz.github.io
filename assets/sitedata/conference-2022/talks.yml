@@ -68,6 +68,7 @@
   slides: /assets/presentations/conference-2022/Jackson-Introduction_to_the_OWASP_Top_Ten.pdf
   format: PDF
   size: 0.7MB
+  video: https://youtu.be/DQH6ajbhCGw 
   description: |-
     The OWASP Top 10 is the flagship project for the OWASP Foundation, and the first thing people think of.
     </p>
@@ -95,6 +96,7 @@
   slides: /assets/presentations/conference-2022/Melamed-Minimum_Viable_Security_for_Microservices.pdf
   format: PDF
   size: 4.4MB
+  video: https://youtu.be/P5dLQF1p1BE
   abstract: |- 
     The migration of software from monoliths to microservices is long behind us, however managing 
     microservices operations at scale comes with a layer of complexity, particularly with aspects 
@@ -148,6 +150,7 @@
   slides: /assets/presentations/conference-2022/Stewart-Mapping_Your_External_Perimeter_during_an_Incident_with_OWASP_Amass.pdf
   format: PDF
   size: 5.1MB
+  video: https://youtu.be/23tQ4zLA-9A
   abstract: |- 
     During an incident, knowing your external perimeter is critical when trying to determine 
     your attack surface, and OWASP Amass is a tool that can be used to help perform this at 
@@ -197,6 +200,7 @@
   slides: /assets/presentations/conference-2022/Parecki-Why_Do_We_Really_Need_OAuth.pdf
   format: PDF
   size: 27.2MB
+  video: https://youtu.be/wlUCF4Y9T6k
   description: |-
     Even if you've never heard about OAuth, you've certainly used it in your daily life already. 
     But what purpose does OAuth actually serve?
@@ -234,6 +238,7 @@
   slides: /assets/presentations/conference-2022/Ragtah-Fantastic_GraphQL_Bugs_and_Where_To_Find_Them.pdf
   format: PDF
   size: 2.4MB
+  video: https://youtu.be/uTvspYJgMuM
   description: |-
     GraphQL is increasing in popularity and, increasingly developers are starting to pick it as their first 
     choice for APIs. While it addresses some issues found in competing API standards (REST or SOAP), many 
@@ -261,6 +266,7 @@
   slides: https://bendechrai.github.io/all-the-flows
   format: web
   size: online
+  video: https://youtu.be/vk8nLTWfjOs
   abstract: |- 
     Have you heard of Authcode? PKCE? Device flow? Implicit flow? Do you know what they do? How the work? This 
     session will dive into a number of authorisation flows to help you understand the history of how they came about, 
@@ -282,6 +288,7 @@
   slides: /assets/presentations/conference-2022/Zilberman-A_Deep_Dive_Into_Kubernetes_Schema_Validation.pdf
   format: PDF
   size: 3.5MB
+  video: https://youtu.be/hpwHtY0oyZ4
   abstract: |- 
     How do you ensure the stability of your Kubernetes (K8s) clusters? Are you sure you don't have any 
     invalid data types? Are any mandatory fields missing? Specialized tools and a "shift-left" approach 
@@ -313,6 +320,7 @@
   remote: true
   twitter: Dkrivelev
   linkedin: daniel-krivelevich
+  video: https://youtu.be/gwd7vrCthHA
   abstract: |- 
     As engineering systems and processes continue to grow in speed and diversity, security teams 
     are struggling to understand this ecosystem well enough to provide good security guardrails. 
@@ -364,6 +372,7 @@
   slides: /assets/presentations/conference-2022/Lauder-Server_Side_Request_Forgery.pdf
   format: PDF
   size: 1.9MB
+  video: https://youtu.be/uFHJ1-qRJtU
   abstract: |- 
     Server-Side Request Forgery (SSRF) allows attackers to interact with your internal systems 
     and services. SSRF was number one in community surveys, during data collection for the 2021 OWASP 
@@ -415,6 +424,7 @@
   track: 0
   remote: false
   linkedin: raafeyk
+  video: https://youtu.be/N_fMM0ZJLlY
   abstract: |- 
     The capabilities of Application Security Testing tools are changing rapidly. As vendors continue to 
     acquire and build new features, feature parity is on the horizon. For now, they're doing things their 
@@ -464,7 +474,8 @@
   linkedin2: daniel-krivelevich
   slides: /assets/presentations/conference-2022/Gil-Krivelevich-Top_10_Security_Risks_in_CI_CD_Systems.pdf
   format: PDF
-  size: 9.3MB  
+  size: 9.3MB
+  video: https://youtu.be/y-TrVqEwrjs
   abstract: |- 
     After researching, cross-referencing and analyzing some of the most notorious CI/CD security breaches, 
     such as CodeCov, SolarWinds, and PHP, this talk will present the Top 10 CI/CD risks that were distilled 
@@ -517,6 +528,7 @@
   slides: /assets/presentations/conference-2022/Schleier-Securing_Mobile_Apps_with_the_MASVS.pdf
   format: PDF
   size: 3.7MB
+  video: https://youtu.be/xCUxGSvwxDg
   description: |-
     There are numerous ways of developing mobile applications today, but how do you ensure that security is part 
     of the development process? What are the attacks you should be concerned about and what can you do to avoid 
@@ -557,6 +569,7 @@
   slides: /assets/presentations/conference-2022/Sharma-Building_Your_First_DevSecOps_Pipeline.pdf
   format: PDF
   size: 5.9MB
+  video: https://youtu.be/jhNZw4myinc
   abstract: |- 
     I am sure all of you have heard about "Shift Left Security" in many presentations, but how do you 
     actually achieve this? Well, this is the talk for you - where I'll cover all the DevSecOps buzzwords 
@@ -636,6 +649,7 @@
   slides: /assets/presentations/conference-2022/DiLeo-State_of_AppSec_in_New_Zealand.pdf
   format: PDF
   size: 1.0MB
+  video: https://youtu.be/ui7WQ0W3kFU
   abstract: |- 
     In May and June of 2022, the author's team collected data through our inaugural <strong>State of Application 
     Security in New Zealand</strong> industry survey. This presentation will outline our objectives
@@ -686,6 +700,7 @@
   slides: /assets/presentations/conference-2022/Piliszek-PIACERE_DevSecOps_Automated.pdf
   format: PDF
   size: 1.7MB
+  video: https://youtu.be/QHxBfZW_EJ0
   abstract: |- 
     An innovative DevSecOps framework - including process and supporting tools - will be presented. All the tools 
     have been created within the PIACERE project, which aims to deliver the complete DevSecOps 
@@ -732,6 +747,7 @@
   block: 3
   track: 0
   remote: false
+  video: https://youtu.be/N1IGDOSsN9U
   abstract: |- 
     Being secure when you are small is hard. Everyone has a hundred jobs already and there is a 
     shoestring budget if one of yours is security. This talk covers ten things you can do for free 
@@ -762,6 +778,7 @@
   slides: /assets/presentations/conference-2022/Huang-Not_Under_the_Doormat.pdf
   format: PDF
   size: 2.2MB
+  video: https://youtu.be/JvFTaDwdUu4
   abstract: |- 
     One of the most serious issues in web security would be when your database credentials are exposed, 
     but many developers don't realise that the client-side code they are writing is actually leaking 
@@ -794,6 +811,7 @@
   slides: /assets/presentations/conference-2022/Esler-Application_Security_and_Cheese.pdf
   format: PDF
   size: 1.4MB
+  video: https://youtu.be/DshMuCKKY4Y
   abstract: |- 
     Everyone loves cheese, right? This talk will apply the Swiss cheese model to AppSec, each cheese slice 
     is a security activity, a layer of the defenses there to reduce the risk of threats becoming reality 
@@ -845,6 +863,7 @@
   slides: /assets/presentations/conference-2022/Schleier-Get_the_low_hanging_fruits.pdf
   format: PDF
   size: 7.9MB
+  video: https://youtu.be/Y_KF842oeJc
   description: |-
     Vulnerabilities can be manifold and everywhere - in your repo, in your IPA, or when using the app. This talk 
     will guide you on how to start to embed methodologies and open-source security tools into your SDLC to catch 
@@ -904,6 +923,7 @@
   slides: /assets/presentations/conference-2022/Glas-OWASP_SAMM_v2_0_and_Benchmarking.pdf
   format: PDF
   size: 4.1MB
+  video: https://youtu.be/PMubSNRAFVI
   abstract: |- 
     Learn more about how the OWASP Software Assurance Maturity Model (SAMM) can be used to build 
     and grow software assurance in an organization. We'll walk through the features of SAMM v2.0 
@@ -933,6 +953,7 @@
   slides: /assets/presentations/conference-2022/Jackson-Log4Shell_Core_Rule_Set.pdf
   format: PDF
   size: 3.3MB
+  video: https://youtu.be/us33zk4OPG0
   abstract: |- 
     The log4j "Log4Shell" vulnerability, disclosed in December 2021, showed us the wide-reaching 
     impacts a security issue can have, when it affects a core component within our supply chain.
@@ -985,6 +1006,7 @@
   slides: /assets/presentations/conference-2022/Goddard-Fix_Every_Instance.pdf
   format: PDF
   size: 1.2MB
+  video: https://youtu.be/TW0SptR0us4
   abstract: |- 
     When pentesters deliver findings, we observe very large differences in how customers respond. 
     What distinguishes development shops that take security seriously is that they find and fix security 
@@ -1017,6 +1039,7 @@
   remote: true
   twitter: BarkiNoaa
   linkedin: noaa-barki-159498163
+  video: https://youtu.be/4i4XIzOf8wM
   abstract: |- 
     GitOps can be very powerful, but it's also important to leverage it with caution. This talk will focus
     on some of the best practices for working GitOps in your engineering organization.
@@ -1057,6 +1080,7 @@
   slides: /assets/presentations/conference-2022/Wong-Pentesting_at_Scale.pdf
   format: PDF
   size: 9.7MB
+  video: https://youtu.be/AO-MZB9EIgE
   abstract: |- 
     Pentesting is critical for security. But how do you build in proactive, preventative measures when 
     you're strapped for money, talent, and guidance? Join us to learn: the importance of pentesting 
@@ -1107,6 +1131,7 @@
   slides: /assets/presentations/conference-2022/Miraz-When_Twiddling_the_Dials_Goes_Wrong.pdf
   format: PDF
   size: 2.7MB
+  video: https://youtu.be/ru5t1txBfrs
   abstract: |- 
     During engagements, we often encounter non-standard configurations. These could lead to massive 
     risks, due to the vulnerabilities they might introduce. Today I will demonstrate a number of bugs 
