@@ -320,6 +320,9 @@
   remote: true
   twitter: Dkrivelev
   linkedin: daniel-krivelevich
+  slides: /assets/presentations/conference-2022/Krivelevich-The_Three_Disciplines_of_CI_CD Security.pdf
+  format: PDF
+  size: 5.8MB 
   video: https://youtu.be/gwd7vrCthHA
   abstract: |- 
     As engineering systems and processes continue to grow in speed and diversity, security teams 
