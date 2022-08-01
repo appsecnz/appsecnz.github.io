@@ -36,6 +36,8 @@
     that continues. We have adapted our maturity model to a vision that outlines continuous  
     improvement to application security, forming the modern security model for success called
     'Continuous Security.'
+  video: https://youtu.be/cR7gZD60W5Y
+  length: '25:49'
 
 - active: true
   day: 0
@@ -50,6 +52,8 @@
     workflows, developers can prioritize and remediate vulnerabilities faster in Cloud-Native 
     workflows. This results in reduced risk due to more secure cloud environments 
     and increased developer productivity, leading to better and faster innovation.
+  video: https://youtu.be/qSAa6KVuWrg
+  length: '28:37'
 
 - active: true
   day: 0
@@ -74,6 +78,8 @@
     Security Testing. The demonstration will focus on Static Code Analysis (SAST), Software 
     Composition Analysis (SCA), Infrastructure as Code Analysis (KICS) and their use cases 
     as a part of SDLC, including DevOps (CI/CD) integrations.
+  video: https://youtu.be/mFrkapNv5rs
+  length: '48:35'
 
 - active: true
   day: 0
@@ -86,6 +92,9 @@
     Shields can modify application behaviour and resolve the types of vulnerabilities that are usually 
     left to developers to fix. We will also provide an overview of the RedShield portal, which customers 
     get access to as part of RedShield's service.
+    </p>
+    <p>
+    No video published, at sponsor's request
     
 - active: false
   day: 0
@@ -155,6 +164,8 @@
     presentation, we will discuss the importance and prevalence of open-source software as well as 
     the ways you can protect yourself from its attendant risks and licensing issues. 
     The goal is to catch issues early, before they can become fatal.
+  video: https://youtu.be/yp0-CsBQpO4
+  length: '25:46'
 
 - active: true
   day: 1
@@ -162,6 +173,8 @@
   name: Datacom
   title: 'Datacom ARMada - Overview and Demo'
   anchor: datacom-armada 
+  description: |-
+    No video published, at sponsor's request
     
 - active: true
   day: 1
@@ -176,6 +189,8 @@
     fastest path to reduce your risk. We will demonstrate how you can avoid top infrastructure-as-code 
     (IaC) misconfigurations from being deployed to your environment and how to identify and remediate
     drift from that known good state.
+  video: https://youtu.be/hLgm9QDBNuA
+  length: '29:00'
 
 - active: false
   day: 1
@@ -196,6 +211,8 @@
     and monitoring tools helping businesses transform their application security and delivery with more
     robust capability. Learn on the latest with HCL AppScan and how it continues to enable security
     teams to meet their objectives since 1998.
+  video: https://youtu.be/QoTmV-17dgk
+  length: '47:14'
 
 - active: true
   day: 1
@@ -210,6 +227,8 @@
     </p>
     <p>
     Fortify your DevSecOps, so it's worthy of trust
+  video: https://youtu.be/ufEgjEabnzE
+  length: '34:22'
     
 - active: false
   day: 1
@@ -225,6 +244,8 @@
     as a programming level, we can simplify the work that our applications need to do later. This is a live 
     coding demo, and there might be chocolates for audience members that spot the inevitable bugs. 
     It's like extreme pair programming. Don't miss it!
+  video: https://youtu.be/-Tmu9F2dbko
+  length: '31:31'
 
     
 - active: false
