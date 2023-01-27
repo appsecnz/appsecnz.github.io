@@ -1,21 +1,21 @@
 ---
 title: Conference Schedule
-description: Conference Schedule - 7-8 July
+description: Conference Schedule - 6-7 July
 
 layout: conference/schedule-full-width
-dataDir: conference-2022
-sponsorsEventName: OWASP New Zealand Day 2022
+dataDir: conference-2023
+sponsorsEventName: OWASP New Zealand Day 2023
 ---
 
-[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
-# Conference Schedule - 7-8 July
+# Conference Schedule - 6-7 July
 
-## AppSec New Zealand Day 2022
+## AppSec New Zealand Day 2023
 
-### Visit our [Registration Site](https://events.humanitix.com/owaspnz2022){: target="registration" } to register today!
+### [Conference Registration](https://events.humanitix.com/owaspnz2023){: target="registration" } opens on 15 February!
 
 **Presentation abstracts and speaker biographies can be found on [this page](speakers.md){:target="speakers"}.
 

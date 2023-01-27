@@ -1,0 +1,12 @@
+- id: 0
+  name: Track One
+  location: Room WG403
+  width: 32
+- id: 1
+  name: Track Two
+  location: Room WA220
+  width: 32
+- id: 2
+  name: Demos/Breakouts
+  location: Room WG404
+  width: 20

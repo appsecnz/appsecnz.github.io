@@ -1,25 +1,29 @@
 ---
 title: Pre-Conference Training
-description: Pre-Conference Training, 4-5 July - 2023 OWASP NZ Day
+description: Pre-Conference Training, 5-6 July - 2022 OWASP NZ Day
 
 layout: conference/full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2023
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
-[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
-# Pre-Conference Training - 4-5 July
+# Pre-Conference Training - 5-6 July
 
-## OWASP New Zealand Day 2023
+## OWASP New Zealand Day 2022
+
+### Our [Training Registration Site](https://events.humanitix.com/owaspnz2022-training){: target="training-reg" } is now live! Training registration open through 29 June.
+
+### Special Note - One online class, *Practical Cloud Security for AWS Infrastructure*, will be held on *both* its original dates (15-16 Feb) and our new dates (5-6 July). Registration is open for both dates.
 
 ### Registration Fees 
 
-* Half-day class: $250 per person (classroon) / $225 per person (online)   
-* One-day class: $500 per person (classroom) / $450 per person (online)   
-* Two-day class: $1,000 per person (classroom) / $900 per person (online)   
+* Half-day class: $250 per person (face-to-face) / $225 per person (online)
+* One-day class: $500 per person (face-to-face)
+* Two-day class: $1,000 per person (face-to-face) / $900 per person (online)
 
 ### Team Discounts
 
@@ -40,7 +44,7 @@ The registration and information desk will open at 8:00 a.m. each day. Conferenc
 
 In addition the main conference on Thursday and Friday, we will be offering a selection of world-class training opportunities on Tuesday and Wednesday. We anticipate our training schedule will include a mix of class lengths (half-day, one-day, and two-day) and formats (face-to-face, instructor-remote, and live online).
 
-Each day, regardless of format, classes will follow this schedule (all times are NZST):
+Each day, regardless of format, classes will follow this schedule (all times are NZDT):
 
 * 8:00 a.m.  - Check-in desk opens; online class sessions started for support
 * 8:45 a.m.  - Class sessions start
@@ -50,12 +54,22 @@ Each day, regardless of format, classes will follow this schedule (all times are
 * 3:15 p.m.  - Afternoon Tea
 * 5:30 p.m.  - Classes end
 
-## Classes on Offer
+### Two-day, Face-to-Face Class:
 
-**Our [Call for Training](https://www.papercall.io/owaspnz2023-training) is now open**, and will close on 28 February. We expect to have the schedule of classes confirmed on or about the 10th of March, and training registration will open on 15th March.
+* *[Mobile Security Testing Guide Hands-on](training-mstg_hands_on.md)*, Sven Schleier - $1,000
 
-Pre-Conference Training registration will **CLOSE** one week before the event, on Tuesday, 27 June. From 28 June, no refunds or changes will be permitted, but attendee substitutions will be accepted.
+### Two-day, Online Class:
 
+* *[Practical Cloud Security for AWS Infrastructure](training-cloud_security.md)*, Jayesh Singh Chauhan - $900
+
+### One-day, Face-to-Face Classes:
+
+* *[Assess and Improve Your AppSec Programme using OWASP SAMM](training-owasp_samm.md)*, Raafey Khan - $500
+* *[Introduction to OAuth and OpenID Connect](training-oauth_oidc.md)*, Aaron Parecki - $500
+
+### Half-day, Face-to-Face Class:
+
+* *[AppSec 'Refresher' Training with OWASP Top 10 2021 Update](training-appsec_refresher.md)*, Datacom AppSec Training team - $250
 
 **NOTES:** 
 
@@ -67,5 +81,5 @@ Spaces will fill up fast, so get in quickly!
 
 Check-in desk will be located in the Level 3 lobby (WG 306), and will open at 8:00 a.m. each day
 
-Morning and afternoon tea breaks will be provided. Lunch will be available for pre-purchase (at time of registration), or you're free to see to your own lunch.
+Morning and afternoon tea breaks will be provided; lunch will be on your own.
 

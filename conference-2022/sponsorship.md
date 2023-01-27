@@ -1,21 +1,21 @@
 ---
-title: Call for Sponsors - OWASP NZ Day 2023
-tags: owaspnz23
+title: Call for Sponsors - OWASP NZ Day 2022
+tags: owaspnz22
 
 layout: conference/full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2023
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
-[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Call for Sponsors
 
-## 2023 OWASP New Zealand Day
+## 2022 OWASP New Zealand Day
 
-The 2023 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 7-8 July, 2023. This event 
+The 2022 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 7-8 July, 2022. This event 
 is unique among New Zealand security conferences, in that it's entirely dedicated to application security. AppSec New Zealand Incorporated is, once again, managing the logistics and finances for the event. This year, we have been able to secure a licensing arrangement with the OWASP Foundation, allowing us to return to the event's traditional "OWASP New Zealand Day" branding.
 
 Due to scheduling conflicts at the University of Auckland, we have been unable to secure our usual venue. In 2022 and 2023, 
@@ -33,15 +33,13 @@ Sponsorship funds collected are used for things such as:
 * **Catering -** To promote a collegial environment for networking among application security professionals, we're scheduling three (3) catered tea breaks
 * **Administration -** While we do our best to keep day-to-day administrative and operating costs low, we do need to cover ongoing expenses such as insurance, accounting services, and storage fees
 
-Due to increased service fees and catering charges, the overall budget for this year's conference is approximately 15% larger than for last year's event. The rates for our Premier Sponsorship packages have been increased slightly to help defray these increased costs.
+With the change of venue, along with year-on-year increases to service fees and catering charges, the overall budget for this year's conference is approximately 25% larger than for last year's AppSec New Zealand Conference event. The rates for our existing Premier Sponsorship packages have been increased only slightly; the bulk of the increase will be covered by other changes we've made (delegate registration fees, revised training fee structure, etc.).
 
 ## Facts
 
 The 2020 OWASP New Zealand Day was supported by 13 premier sponsors and attracted more than 800 delegates. For more information on previous OWASP New Zealand Day events, please visit the OWASP New Zealand Chapter's [website](https://owasp.org/www-chapter-new-zealand/). 
 
-Attendance for the first [AppSec New Zealand Conference](/conference-2021), in February 2021, was a bit lower, with approximately 650 delegates attending in person. 2021 also marked our first experience with live-streaming the event, with approximately 300 live-stream registrations. Considering it was our first event under the new name, our first attempt at hosting a two-day conference - *and* the event ended just 30 hours before Auckland's first "snap lockdown" - we consider the event a great success. Those constraints notwithstanding, the AppSec New Zealand Conference was supported by 15 Premier Sponsors, which allowed us to provide travel and training assistance to 33 delegates.
-
-In 2022, we returned to the OWASP New Zealand Day brand. We were able to hold a hybrid conference, in July, after many COVID-related restrictions had been relaxed; despite this, in-person attendance (450) was lower than hoped, while we enjoyed a strong online participation through our live-stream offering. The event was supported by 17 sponsors, and our first ever sponsored LEGO Build was popular with conference attendees.
+Attendance for the first [AppSec New Zealand Conference](/conference-2021), in February 2021, was a bit lower, with approximately 650 delegates attending in person. 2021 also marked our first experience with live-streaming the event, with approximately 300 live-stream registrations. Considering it was our first event under the new name, our first attempt at hosting a two-day conference - *and* the event ended just 30 hours before Auckland's first "snap lockdown" - we consider the event a great success. Those constraints notwithstanding, the AppSec New Zealand Conference was supported by 15 Premier Sponsors, which allowed us to provide travel and training assistance to 33 delegates, 
 
 The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Web Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand ([owasp.org.nz](https://owasp.org.nz)). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
 ([sign up](https://lists.owasp.org/mailman/listinfo/owasp-newzealand)). 
@@ -50,7 +48,7 @@ Those who regularly attend AppSec conferences include IT project managers, IT se
 IT security consultants, Web application architects and developers, QA
 managers, QA testers and system administrators.
 
-Throughout its 12 years of operation under the local OWASP chapter, the OWASP New Zealand Day conference attracted more than 90% of its delegates and presenters from within New Zealand. This year, we anticipate pre-registrations for the conference will regain much the ground lost versus pre-COVID numbers, and on-the-day attendance will be 650 or more.
+Throughout its 12 years of operation under the local OWASP chapter, the OWASP New Zealand Day conference attracted more than 90% of its delegates and presenters from within New Zealand. Border restrictions may still be in place in July, which would impact the ability of delegates, speakers, and sponsors to attend from outside New Zealand this year. Nonetheless, we anticipate pre-registrations for the conference will once again sell out, and on-the-day attendance will be between 650 and 750.
 
 ## About AppSec New Zealand
 
@@ -67,22 +65,24 @@ To express interest in supporting the conference as a sponsor, please
 
 ## Premium Sponsorship Packages
 
-### Highlights of Changes for 2023
+### Highlights of Changes for 2022
 
-This year, we've made a few slight adjustments to our Premier Sponsorship packages:
+This year, we've made a few adjustments to our Premier Sponsorship packages, to help meet the increased costs for the event:
 
+* We've introduced a new, **Diamond** sponsorship level, of which only one (1) will be available
+* We've increased the number of available **Platinum** sponsor spots from two (2) to three (3)
+* For **Diamond** and **Platinum** sponsorships, exhibition space is included in the fee
 * Each Premier Sponsor package includes a number of free conference passes and conference t-shirts ($40 value per person)
-* Each Sponsor Exhibition space ("booth") includes a number of vouchers, for our catered lunch each day.
 
 ### LEGO Build and Video Sponsorship
 
-In addition to the tiered sponsorship packages detailed below, we're continuing this exciting *a la carte* opportunity: A LEGO Build Sponsorship! Beginning with the 2022 conference, we've added a Delegate Lounge, adjacent to the Sponsor Exhibition Area. In the Delegate Lounge, conference participants will be able to take part in group builds of several LEGO sets throughout the conference. 
+In addition to the tiered sponsorship packages detailed below, we've introduced an exciting new *a la carte* opportunity this year: A LEGO Build Sponsorship! For the 2022 conference, we're adding an Delegate Lounge, adjacent to the Sponsor Exhibition Area. In the Delegate Lounge, conference participants will be able to take part in a group build of a LEGO Millennium Falcon ([Set #75192](https://www.lego.com/en-nz/product/millennium-falcon-75192)). 
 
-The conference A/V team will capture time-sequenced photos of the build area, and will present a first-cut version of the stop-motion video during the closing session on Friday afternoon. The LEGO Build sponsor will be recognised at the beginning and end of the video, to be published on the OWASP New Zealand Chapter's [YouTube channel](https://www.youtube.com/channel/UCWjcSSETjqhzBlVxXTW1zhg) and promoted through social media.
+Throughout the conference, the A/V team will capture time-sequenced photos of the build area, and will present a first-cut version of the stop-motion video during the closing session on Friday afternoon. The sponsor will be recognised at the beginning and end of the video, to be published on the OWASP New Zealand Chapter's [YouTube channel](https://www.youtube.com/channel/UCWjcSSETjqhzBlVxXTW1zhg) and promoted through social media.
 
-In addition, all LEGO sets will be awarded to conference delegates during the prize giving at our closing session. The LEGO Build sponsor will be invited to the stage to draw the names of all LEGO prize winners. All LEGO sets *completed* during the conference will be included as part of the top LEGO prize; each incomplete/unopened set will be awarded as a separate prize.
+In addition, the sponsor will be invited to the stage to draw the first name in our prize giving, and that person (if present) will be awarded the completed model (a $1,500 value).
 
-The fee for this one-of-a-kind *a la carte* sponsorship is **$5,000**, to cover the costs of purchasing the LEGO sets and producing the video. Other associated sponsor benefits are similar to those of a **Silver** sponsorship.
+The fee for this one-of-a-kind *a la carte* sponsorship is **$4,500**, to cover the set purchase and video production costs. Other associated sponsor benefits are similar to those of a **Silver** sponsorship.
 
 ### Premier Sponsor Fees and Benefits
 
@@ -91,9 +91,9 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 |        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |LEGO Build |
 |-------:|:--------:|:----------:|:------:|:--------:|:--------:|:---------:|
-|**Enrolment Limit**| 1 | 3 | 8 | -- | -- | 1 |
-|**Rate**|$12,800|$7,800|$5,350|$3,750|$2,350|$5,000|
-|**Exhibition Space Fee**|**Incl.**|**Incl.**|$450|$300|$300|$300|
+|**Enrolment Limit**| 1<br />**(SOLD OUT)** | 3<br />**(SOLD OUT)** | 8<br />**(JUST 1 LEFT)** | -- | -- |1<br />**(SOLD OUT)** |
+|**Rate**|$12,500|$7,200|$5,250|$3,750|$2,250|$4,500|
+|**Exhibition Space Fee**|**Incl.**|$450|$350|$250|$250|N/A|
 |**Banner in Conference Lobby** (see notes)|**Yes (2)**|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (2)**|**Yes (1)**|No|No|No|
 |**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|**Yes**|No|**Yes**|
@@ -101,9 +101,8 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Priority Demo Room Access**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Company Description on Conference Web Page**|**400 words**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
 |**Company *Spotlight* Description on Web Page** (see notes)|**100 words**|**100 words**|**100 words**|**100 words**|No|**100 words**|
-|**Pre-Conference Reception Tickets**|**10**|**8**|**6**|**4**|**2**|**4**|
-|**Exhibitor Passes** (see notes)|**8**|**6**|**4**|**2**|**2**|**2**|
-|**Free Conference Passes** (see notes)|**20**|**15**|**10**|**5**|**5**|**5**|
+|**Pre-Conference Reception Tickets**|**12**|**8**|**6**|**4**|**2**|**4**|
+|**Free Conference Passes** (see notes)|**30**|**20**|**15**|**10**|**5**|**10**|
 |**Training Credits** (see notes)|**16**|**12**|**8**|**4**|**2**|No|
 |**Logo on Delegate Badges**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Logo on Conference T-Shirts**|**Yes**|**Yes**|**Yes**|No|No|No|
@@ -118,12 +117,11 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, with space provided as part of each sponsorship package. Some sponsors, however, didn't wish to make use of the space provided. For this year's conference, we've made the exhibition space an optional add-on for some sponsorship levels, so those sponsors can decide whether to have a booth.
 
-|        |Diamond   |Platinum    |Gold    |Silver<br />Bronze<br />LEGO Build |
-|-------:|:--------:|:----------:|:------:|:--------:|
-|**Booth Size**|**30m<sup>2</sup>**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|
-|**Seating**|4 tables<br />8 chairs|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|
-|**Plug Boards**|2|2|1|1|
-|**Rate**|Incl.|Incl.|$450|$300|
+|        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |
+|-------:|:--------:|:----------:|:------:|:--------:|:--------:|
+|**Booth Size**|**30m<sup>2</sup>**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|**6m<sup>2</sup>**|
+|**Seating**|4 tables<br />8 chairs|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|1 table<br />2 chairs|
+|**Rate**|Incl.|$450|$350|$250|$250|
 
 The diagram below depicts the planned arrangement of exhibition spaces in the WG Building Atrium.
 
@@ -133,9 +131,24 @@ Unless otherwise requested, each exhibition space will be provided power strips 
 
 **Optional Video Displays:** 
 
-**55" Flat-Panel Displays:** The venue's A/V support team can provide 55" HDMI-compatible displays on fixed stands, for use in sponsor exhibition spaces. The cost is $500 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup. The Diamond sponsor's exhibition space can accommodate up to three (3) displays, Platinum Sponsor spaces can accommodate up to two (2) displays, and Gold/Silver/Bronze Sponsor spaces can accommodate one (1).
+**55" Flat-Panel Displays:** The venue's A/V support team can provide 55" HDMI-compatible displays on fixed stands, for use in sponsor exhibition spaces. The cost is $450 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup. The Diamond sponsor's exhibition space can accommodate up to three (3) displays, Platinum and Gold Sponsor spaces can accommodate two (2) displays, and Silver/Bronze Sponsor spaces can accommodate one (1).
 
-**Video Wall:** There is a permanently installed video wall, located above one end of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one sponsor to reserve the video wall and display recorded content throughout the main conference (Thursday and Friday). The cost for this option is $600.
+**Video Wall (NO LONGER AVAILABLE):** There is a permanently installed video wall, located above one end of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one Gold Sponsor to reserve the booth directly below the video wall and use it during the main conference (Thursday and Friday). The cost for this option is $500.
+
+## COVID-19 Contingencies
+
+Owing to the continuing uncertainty around the Omicron COVID variant, the conference planning team has decided to activate our contingency plan, and postpone the conference to our alternate dates - Tuesday through Friday, 5-8 July, at the same venue.
+
+Our planning team is operating with the confident outlook that Auckland will be operating at COVID Protection Framework ("traffic light") Green, by July. Despite that confidence, we have plans in place to keep things moving if we're wrong. The information presented below is based on the government guidance in effect on 15 January 2022, and is subject to change.
+
+In the event Auckland is at COVID Protection Framework level 'Red' four weeks before the new conference dates (7 June), we will convert the event to a restricted-attendance event, with a limited number of local delegates permitted to attend in person, and additional restrictions to (or elimination of) some activities, in accordance with the government guidance in effect at that time. We also intend to follow the example of other recent conferences, and deliver delegate packs (t-shirts, tote bags, promotional materials, etc.) to them via post - to that end, a portion of the catering budget will be redirected to packing and shipping those items. 
+
+Provide Auckland is at COVID Protection Framework level 'Green' or 'Orange' from 7 June through the first day of the conference (5 July), the event will proceed as planned on the new dates.
+
+For more information, please review our [COVID Contingency Plan](covid.md) page.
+
+Given changes can occur with little notice, and owing to the cancellation policies applying to many conference expenses, we anticipate some funds will be 'sunk' in fees for services we're unable to use - possibly including A/V and other charges related to Sponsor Exhibition booths. If we are forced to cancel the in-person event, we'll refund any portion of the Exhibition booth fee and optional A/V charges (see above) we're able to recover, up to 100%.
+
 
 ### Notes
 
@@ -152,13 +165,9 @@ Our Pre-Conference Training is planned to include a mix of half-day, one-day, an
 
 For 2022, we have introduced a $30 per person registration fee for most delegates, while keeping the event FREE for students and unwaged delegates. For registered delegates, conference t-shirts will again be an optional purchase, at $15 each ($12 for students/unwaged). 
 
-Each sponsorship package includes a number of free conference passes (see table above). Each sponsor-supported delegate will also receive free conference t-shirt. Sponsors will be provided a set of single-use Discount Codes, which you are free to use or distribute as you wish, provided they **are not resold**.
+Each sponsorship package includes a number of free conference passes (see table above). Each sponsor delegate will also receive free conference t-shirt.
 
-**Exhibitor Passes:**
-
-Each sponsor requesting an exhibition space ("booth"), including all **Diamond** and **Platinum** sponsors, will receive passes for team members who attend the conference to staff their booth. Each Exhibitor Pass includes free registration for the conference, a conference t-shirt, and lunch vouchers for Thursday and Friday.
-
-To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide delegate information on or before Thursday, 8 June. Sponsor delegates whose information is provided after 8 June cannot be guaranteed a t-shirt.
+To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide delegate information on or before Monday, 6 June. Sponsor delegates whose information is provided after 6 June cannot be guaranteed a t-shirt.
 
 **Sponsor Logos:**
 

@@ -5,7 +5,7 @@
 # image: relative URL to the logo image
 # url: url of the company website
 # description: description of the company
-- active: true
+- active: false
   level: 1
   name: Quantum Security
   anchor: quantum
@@ -35,12 +35,12 @@
     <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
     and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
     all round the world.
-- active: true
+- active: false
   level: 2
   name: CyberCX
   anchor: cybercx
   image: /assets/images/sponsor-logo/Logo-CyberCX.png
-  url: https://cybercx.com/
+  url: https://cybercx.co.nz/
   spotlight: |-
     CyberCX. We secure our communities.
     </p>
@@ -71,7 +71,7 @@
     </p>
     <p>
     Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank" onclick="handleOutboundLinkClicks(event);">www.cybercx.co.nz</a>.
-- active: true
+- active: false
   level: 2
   name: Datacom
   anchor: datacom
@@ -115,11 +115,11 @@
     <p>
     <strong>There isn't a safer pair of hands to secure the future of your business.
     </strong>
-- active: true
+- active: false
   level: LEGO Build Sponsor
   name: Auth0
   anchor: auth0-1
-  image: /assets/images/sponsor-logo/Logo-Auth0-125.png
+  image: /assets/images/sponsor-logo/Logo-Auth0_black.svg
   url: https://auth0.com/
   spotlight: |-
     <strong>Built for Developers, Trusted by Global Enterprises.</strong>
@@ -157,7 +157,7 @@
     </p>
     <p>
     We help the very best businesses and organizations solve identity.
-- active: true
+- active: false
   level: 4
   name: Flux
   anchor: flux
@@ -187,7 +187,7 @@
     Our mission is to empower visionary companies that are leading the energy transition; 
     enabling them to respond to changing generation, distribution and consumption models 
     by moving faster, pricing smarter and integrating widely.
-- active: true
+- active: false
   level: 2
   name: Snyk
   anchor: snyk
@@ -205,7 +205,7 @@
     <p>
     Snyk’s unique combination of developer-first tooling and best in class security depth 
     enables businesses to easily build security into their continuous development process.
-- active: true
+- active: false
   level: 3
   name: Pulse Security 
   anchor: pulse
@@ -219,7 +219,7 @@
     Pulse Security is a specialist information security consultancy.
     </p>
     <p>We're here to help your business stay protected from adversaries.
-- active: true
+- active: false
   level: 4
   name: SEQA Information Security
   anchor: seqa
@@ -227,7 +227,7 @@
   url: https://www.seqa.co.nz/
   spotlight: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
   description: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
-- active: true
+- active: false
   level: 3
   name: Lateral Security 
   image: /assets/images/sponsor-logo/Logo-Lateral_Security-125.png
@@ -264,7 +264,7 @@
     </p>
     <p>
     Our company vision: "To improve the IT security and safety of our customers and all New Zealanders"
-- active: true
+- active: false
   level: 3
   name: Checkmarx
   anchor: checkmarx
@@ -294,11 +294,11 @@
     Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
     entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
     instilling security into modern development. 
-- active: true
+- active: false
   level: 3
   name: Auth0
   anchor: auth0-2
-  image: /assets/images/sponsor-logo/Logo-Auth0-125.png
+  image: /assets/images/sponsor-logo/Logo-Auth0_black.svg
   url: https://auth0.com/
   spotlight: |-
     <strong>Built for Developers, Trusted by Global Enterprises.</strong>
@@ -336,7 +336,7 @@
     </p>
     <p>
     We help the very best businesses and organizations solve identity.
-- active: true
+- active: false
   level: 5
   name: SecureFlag
   anchor: secureflag
@@ -364,7 +364,7 @@
     coding practices. Developers learn secure coding at their own pace with updated examples and 
     hands-on practice that improves their competency and prepares the organization to confidently 
     achieve its business goals.
-- active: true
+- active: false
   level: 5
   name: Cobalt Labs
   anchor: cobalt
@@ -390,7 +390,7 @@
     <p>
     We're an award-winning (and fully remote) workplace with Scandinavian roots, an American base, 
     and a global outlook. Together, we're committed to helping agile teams remediate risk quickly and innovate securely.
-- active: true
+- active: false
   level: 5
   name: Lacework
   anchor: lacework
@@ -421,4 +421,166 @@
     Our vision is to be the security platform for the cloud. We are changing security forever with automation 
     and data so our customers can innovate with speed and safety.
 
+- active: false
+  level: 3
+  name: HCL AppScan
+  anchor: hcl-appscan
+  image: /assets/images/sponsor-logo/Logo-HCL_AppScan.png
+  url: https://www.hcltechsw.com/appscan/codesweep
+  spotlight: |-
+    HCL AppScan is a powerful Application Security tool which can enable you to meet your end-to-end 
+    security requirement. It has the capability for security testing with SAST/DAST/IAST/SCA and much more. 
+    The AppScan suite offers a community tool for developers to check their code for vulnerabilities on 
+    every pull, get started with Codesweep.
+    </p>
+    <p>
+    Positioned as a Gartner Magic Quadrant <strong>Leader</strong> for Application Security Testing, AppScan 
+    helps to drive substantial savings - lower development and testing costs - by moving security testing and 
+    defect remediation earlier in the SDLC and reducing incidents in production that impact revenue and productivity.
+  description: |-
+    HCL AppScan is a powerful Application Security tool which can enable you to meet your end-to-end 
+    security requirement. It has the capability for security testing with SAST/DAST/IAST/SCA and much more. 
+    The AppScan suite offers a community tool for developers to check their code for vulnerabilities on 
+    every pull, get started with Codesweep.
+    </p>
+    <p>
+    Positioned as a Gartner Magic Quadrant <strong>Leader</strong> for Application Security Testing, AppScan 
+    helps to drive substantial savings - lower development and testing costs - by moving security testing and 
+    defect remediation earlier in the SDLC and reducing incidents in production that impact revenue and productivity.
+- active: false
+  level: 3
+  name: Kordia 
+  anchor: kordia
+  image: /assets/images/sponsor-logo/Logo-Kordia.svg
+  url: https://www.kordia.co.nz/
+  spotlight: |-
+    <strong>A RICH HISTORY OF KEEPING NEW ZEALANDERS CONNECTED</strong>
+    <br />
+    If you phone us, we don't put you through to some remote call centre based overseas. Kordia's engineers 
+    work alongside the sales team and, as a result, you get instant access to the right people who can answer 
+    your questions, and fast. In fact, 75 percent of all technical queries are resolved by the person who 
+    first answered the phone. It's this level of service, combined with our in-depth knowledge of business-critical 
+    services, that enables us to be trusted experts to our customers.
+    </p>
+    <p>
+    Clients regularly refer to our engineers, project managers, and salespeople as "experts," 
+    "trusted advisers," "our secret weapon," and more.
+  description: |-
+    <strong>A RICH HISTORY OF KEEPING NEW ZEALANDERS CONNECTED</strong>
+    <br />
+    If you phone us, we don't put you through to some remote call centre based overseas. Kordia's engineers 
+    work alongside the sales team and, as a result, you get instant access to the right people who can answer 
+    your questions, and fast. In fact, 75 percent of all technical queries are resolved by the person who 
+    first answered the phone. It's this level of service, combined with our in-depth knowledge of business-critical 
+    services, that enables us to be trusted experts to our customers.
+    </p>
+    <p>
+    Clients regularly refer to our engineers, project managers, and salespeople as "experts," 
+    "trusted advisers," "our secret weapon," and more.
 
+- active: false
+  level: 3
+  name: RedShield
+  anchor: redshield
+  image: /assets/images/sponsor-logo/Logo-RedShield.png
+  url: https://www.redshield.co/
+  spotlight: |-
+    Customers around the world rely on RedShield to remove their web application
+    security risks. Our team of security experts, supported by proprietary technology,
+    follow a step-by-step best practice process that starts with applications in your risk
+    register, to either mitigate (protect) or remediate (secure) your threat surface.
+    </p>
+    <p>
+    Founded in New Zealand, owned and operated by an experienced team of
+    penetration testers and security technologists, we have become known for taking on
+    the security challenges that no one else will.
+  description: |-
+    Customers around the world rely on RedShield to remove their web application
+    security risks. Our team of security experts, supported by proprietary technology,
+    follow a step-by-step best practice process that starts with applications in your risk
+    register, to either mitigate (protect) or remediate (secure) your threat surface.
+    </p>
+    <p>
+    Founded in New Zealand, owned and operated by an experienced team of
+    penetration testers and security technologists, we have become known for taking on
+    the security challenges that no one else will.
+
+- active: false
+  level: 3
+  name: Micro Focus
+  anchor: micro-focus
+  image: /assets/images/sponsor-logo/Logo-Micro_Focus.svg
+  url: 
+  spotlight: |-
+    Micro Focus is one of the world's largest enterprise software providers. We deliver 
+    mission-critical technology and supporting services that help thousands of customers 
+    worldwide manage core IT elements of their business so they can run and transform—at 
+    the same time.
+  description: |-
+    <strong>Who We Are</strong>
+    </p>
+    <p>
+    Micro Focus is one of the world's largest enterprise software providers. We deliver 
+    mission-critical technology and supporting services that help thousands of customers 
+    worldwide manage core IT elements of their business so they can run and transform—at 
+    the same time.
+    </p>
+    <p>
+    <strong>What We Do</strong>
+    </p>
+    <p>
+    Micro Focus helps you solve the digital dilemma of how to balance today's needs with 
+    tomorrow's opportunities. Our broad portfolio of enterprise software products and supporting 
+    services provides the keys you need to accelerate, simplify, strengthen, and analyze your core operations.
+
+- active: false
+  level: 6
+  name: CyberWarFare
+  anchor: cyber-war-fare
+  image: /assets/images/sponsor-logo/Logo-CyberWarFare.png
+  url: https://www.cyberwarfare.live/
+  spotlight: |-
+    We are an Ed-Tech startup working on simulating critical infrastructure as a playground for cyber security 
+    enthusiasts, professionals, enterprises, and government agencies to practise and upskill security posture of 
+    critical assets. 
+    </p>
+    <p>
+    Customers can learn 24x7 through our seamless browser based realistic labs that are mapped 
+    with industry recognized security frameworks in real-time.
+  description: |-
+    We are an Ed-Tech startup working on simulating critical infrastructure as a playground for cyber security 
+    enthusiasts, professionals, enterprises & government agencies to practise and upskill security posture of 
+    critical assets. 
+    </p>
+    <p>
+    Customers can learn 24x7 through our seamless browser based realistic labs that are mapped 
+    with industry recognized security frameworks in real-time. Our offered training / classes vary from critical 
+    on-prem technologies to cloud focused technologies, which we believe can be scaled globally with approximately 
+    8-11 million workforce combining India & USA alone. 
+    </p>
+    <p>
+    We believe in gender-diverse teams, that is why we are 
+    offering free classes to support girls, women, and gender minorities. We have confidence in inspiring these 
+    populations towards cybersecurity's mission and in-demand skills.
+    
+- active: false
+  level: 6
+  name: Dice for Hire
+  anchor: dice-for-hire
+  image: /assets/images/sponsor-logo/Logo-Dice_for_Hire.png
+  url: https://diceforhire.com/
+  spotlight: |-
+    Dice for Hire is a new way to build strong teams. We offer Table-top Role Playing Games, such as Dungeons & Dragons, as a Service. 
+    </p>
+    <p>
+    We bring the game directly to your office. Forge strong bonds in your teams, while embarking on an adventure facilitated by our 
+    legendary Dice Masters. We match your experience level, to bring you a session as challenging as you want it to be. From one-shots, 
+    to recurring campaigns, or larger-scale events: Dice for Hire has your next adventure covered.
+  description: |-
+    Dice for Hire is a new way to build strong teams. We offer Table-top Role Playing Games, such as Dungeons & Dragons, as a Service. 
+    </p>
+    <p>
+    We bring the game directly to your office. Forge strong bonds in your teams, while embarking on an adventure facilitated by our 
+    legendary Dice Masters. We match your experience level, to bring you a session as challenging as you want it to be. From one-shots, 
+    to recurring campaigns, or larger-scale events: Dice for Hire has your next adventure covered.
+  

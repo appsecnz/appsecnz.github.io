@@ -5,7 +5,7 @@
 			"url": "/"
 		},
 		{
-			"title": "2022 CONFERENCE",
+			"title": "OWASP NZ Day 2023",
 			"url": "/conference",
 			"items": [
 			{
@@ -37,10 +37,6 @@
 				"url": "/conference/sponsorship.html"
 			},
 			{
-				"title": "COVID Protection Policy",
-				"url": "/conference/covid-policy.html"
-			},
-			{
 				"title": "Diversity Fund",
 				"url": "/conference/diversity_fund.html"
 			},
@@ -57,12 +53,70 @@
 				"url": "/conference/international.html"
 			},
 			{
+				"title": "Food and Drink",
+				"url": "/conference/lunch.html"
+			}
+			]
+		},
+		{
+			"title": "OWASP NZ Day 2022",
+			"url": "/conference-2022",
+			"items": [
+			{
+				"title": "Conference Home Page",
+				"url": "/conference-2022"
+			},
+			{
+				"title": "Conference Schedule",
+				"url": "/conference-2022/schedule.html"
+			},
+			{
+				"title": "Speakers and Abstracts",
+				"url": "/conference-2022/speakers.html"
+			},
+			{
+				"title": "Demos/Breakouts",
+				"url": "/conference-2022/breakouts.html"
+			},
+			{
+				"title": "Pre-Conference Training",
+				"url": "/conference-2022/training.html"
+			},
+			{
+				"title": "About Our Sponsors",
+				"url": "/conference-2022/sponsors.html"
+			},
+			{
+				"title": "Call for Sponsors",
+				"url": "/conference-2022/sponsorship.html"
+			},
+			{
+				"title": "COVID Protection Policy",
+				"url": "/conference-2022/covid-policy.html"
+			},
+			{
+				"title": "Diversity Fund",
+				"url": "/conference-2022/diversity_fund.html"
+			},
+			{
+				"title": "Code of Conduct",
+				"url": "/conference-2022/conduct.html"
+			},
+			{
+				"title": "Volunteers",
+				"url": "/conference-2022/volunteers.html"
+			},
+			{
+				"title": "International Attendees",
+				"url": "/conference-2022/international.html"
+			},
+			{
 				"title": "COVID Contingency Plan",
-				"url": "/conference/covid.html"
+				"url": "/conference-2022/covid.html"
 			},
 			{
 				"title": "Food and Drink",
-				"url": "/conference/lunch.html"
+				"url": "/conference-2022/lunch.html"
 			}
 			]
 		},

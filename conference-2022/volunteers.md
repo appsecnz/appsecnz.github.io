@@ -1,24 +1,24 @@
 ---
 title: Call for Volunteers
-tags: owaspnz23
+tags: owaspnz22
 
 layout: conference/full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2023
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
 
-[![Web Banner](/assets/images/2023_Banner_Graphic-Gradient.jpeg)](/conference/){: style="width: 100%;" }   
+[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/){: style="width: 100%;" }   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Call for Volunteers
 
-## OWASP New Zealand Day 2023
+## OWASP New Zealand Day 2022
 
 ### We're always looking for a few good women and men, to assist with conference preparations and to help things go smoothly during the event.
 
-If you're keen to help out, please fill out our [Volunteer Information Form](https://forms.gle/c3hqZDhGufTC62yw7).
+If you're keen to help out, please fill out our [Volunteer Information Form](https://forms.gle/4QdBarzZpUhxz5ko7).
 
 For more information, feel free to [contact us](mailto:info@appsec.org.nz).
 
@@ -26,9 +26,9 @@ For more information, feel free to [contact us](mailto:info@appsec.org.nz).
 
 * John DiLeo - Conference Chair, OWASP New Zealand Chapter Leader (Auckland)
 * Austin Chamberlain - Programme Chair, AppSec NZ Treasurer
-* Kirk Jackson - Diversity Fund, OWASP New Zealand Chapter Leader (Wellington)
-* Grant Finer
-* Ramandeep Kaur
+* Kirk Jackson - OWASP New Zealand Chapter Leader (Wellington)
+* Grant Finer - Sponsor Relations Team Lead
+* Ramandeep Kaur - Pre-Conference Reception Host
 * Anneke Smitheram
 * Jatinder Oberoi
 * Ben Seymour

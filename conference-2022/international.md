@@ -1,20 +1,22 @@
 ---
 title: International Participants
-tags: owaspnz23
+tags: owaspnz22
 
 layout: conference/full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2023
+dataDir: conference-2022
+sponsorsEventName: OWASP New Zealand Day 2022
 ---
 
 
-[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Attending the Conference from Outside New Zealand
 
-## OWASP New Zealand Day 2023
+## OWASP New Zealand Day 2022
+
+**As of 1 May 2022, the New Zealand Government reopened our borders, permitting quarantine-free travel to New Zealand by *fully vaccinated* travellers from [Visa Waiver Countries](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/general-information/visa-waiver-countries). This is, of course, subject to change, and those planning to attend from outside New Zealand should be prepared for such an event.**
 
 **Please be aware of the current visa / travel authorisation requirements below.**
 

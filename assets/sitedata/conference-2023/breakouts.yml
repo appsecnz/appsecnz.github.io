@@ -1,0 +1,125 @@
+# Definitions for this file
+# active: true, if the information contained in this file should be used to render 
+#         a Demo/Breakout entry in the schedule; false, if the block should be left blank
+# day: 0 - Thursday; 1 - Friday
+# block: Block number of the speaker's time slot - First speaking slot each day is Block 3
+# name: Host/Sponsor name
+# title: Full title of talk
+# org: Host's organisation - for Breakout meetings
+# video: URL of video, once uploaded to YouTube
+# length: Runtime of YouTube video
+# slides: full path to presentation slide deck, if in local assets; full URL, if not
+# format: File format for slide deck
+# size: File size of slide deck
+# description: full-length description of the talk
+- active: false
+  day: 0
+  block: 0
+
+- active: false
+  day: 0
+  block: 1
+
+- active: false
+  day: 0
+  block: 2
+
+- active: false
+  day: 0
+  block: 3
+
+- active: false
+  day: 0
+  block: 4
+
+- active: false
+  day: 0
+  block: 5
+    
+- active: false
+  day: 0
+  block: 6
+
+- active: false
+  day: 0
+  block: 7
+
+- active: false
+  day: 0
+  block: 8
+    
+- active: false
+  day: 0
+  block: 9
+
+- active: false
+  day: 0
+  block: 10
+    
+- active: false
+  day: 0
+  block: 11
+    
+- active: false
+  day: 0
+  block: 12
+
+- active: false
+  day: 0
+  block: 13
+
+- active: false
+  day: 0
+  block: 14
+
+- active: false
+  day: 1
+  block: 0
+
+- active: false
+  day: 1
+  block: 1
+
+- active: false
+  day: 1
+  block: 2
+
+- active: false
+  day: 1
+  block: 3
+    
+- active: false
+  day: 1
+  block: 4
+
+- active: false
+  day: 1
+  block: 5
+
+- active: false
+  day: 1
+  block: 6
+
+- active: false
+  day: 1
+  block: 7
+
+- active: false
+  day: 1
+  block: 8
+    
+- active: false
+  day: 1
+  block: 9
+
+- active: false
+  day: 1
+  block: 10
+    
+- active: false
+  day: 1
+  block: 11
+
+- active: false
+  day: 1
+  block: 12

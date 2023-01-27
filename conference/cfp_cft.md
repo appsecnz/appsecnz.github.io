@@ -1,23 +1,25 @@
 ---
 title: CFT - OWASP NZ Day
-tags: owaspnz22
+tags: owaspnz23
 
 layout: conference/full-width
-dataDir: conference-2022
-sponsorsEventName: OWASP New Zealand Day 2022
+dataDir: conference-2023
+sponsorsEventName: OWASP New Zealand Day 2023
 ---
 
-[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Pre-Conference Training
 
-## OWASP New Zealand Day 2022
+## OWASP New Zealand Day 2023
 
 ### Call for Training
 
-The official Call for Training (CFT) opened on 15 October 2021, and **is now closed**. Proposals were invited for half-day, one-day, and two-day classes. 
+The official Call for Training (CFT) **is now open**, and will close on 28 February. Proposals are invited for half-day, one-day, and two-day classes, in both face-to-face (classroom) and live online formats. 
+
+The conference committee plans to notify training providers of their selection by 7 March, and publish the Pre-Conference Training schedule by 14 March.
 
 ### Registration Fees 
 
