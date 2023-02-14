@@ -21,6 +21,10 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## Conference Registration opens 15th February!
 
+## The [Call for Presentations](https://papercall.io/owaspnz2023) is now open! First-round review will take place in early March - the final CfP deadline is 29th April.
+
+## The [Call for Training](https://papercall.io/owaspnz2023-training) is open through 28th February! Our training schedule will be announced in early March.
+
 -----
 
 We are proud to present the 12th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, July 7th and 8th, 2023. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
@@ -145,9 +149,9 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**.
 
 * **Conference Registration Opens:** 1 March 2023
 * **Training Registration Opens:** 15 March 2023
-* **CFP Closes:** 30 April 2023
+* **[Call for Presentations](https://papercall.io/owaspnz2023) (CFP) Closes:** 28 April 2023 (11:59 p.m.)
 * **CFP First-Round Notifications:** 15 March 2023
-* **CFT Closes:** 28 February 2023
+* **[Call for Training](https://papercall.io/owaspnz2023-training) CFT Closes:** 28 February 2023 (11:59 p.m.)
 * **CFP and CFT Opened:** 26 January 2023
 
 ## Conference Venue
