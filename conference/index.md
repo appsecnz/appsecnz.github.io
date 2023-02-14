@@ -21,13 +21,13 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## Conference Registration opens 15th February!
 
-## The [Call for Presentations](https://papercall.io/owaspnz2023) is now open! First-round review will take place in early March - the final CfP deadline is 29th April.
+## The [Call for Presentations](https://papercall.io/owaspnz2023) is now open! First-round review will take place in early March - the final CFP deadline is 28th April.
 
 ## The [Call for Training](https://papercall.io/owaspnz2023-training) is open through 28th February! Our training schedule will be announced in early March.
 
 -----
 
-We are proud to present the 12th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, July 7th and 8th, 2023. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
+We are proud to present the 13th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, July 7th and 8th, 2023. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
