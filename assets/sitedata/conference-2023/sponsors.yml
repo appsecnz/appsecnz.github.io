@@ -5,8 +5,8 @@
 # image: relative URL to the logo image
 # url: url of the company website
 # description: description of the company
-- active: false
-  level: 1
+- active: true
+  level: 2
   name: Quantum Security
   anchor: quantum
   image: /assets/images/sponsor-logo/Logo-Quantum_Security-125.png
@@ -71,8 +71,8 @@
     </p>
     <p>
     Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank" onclick="handleOutboundLinkClicks(event);">www.cybercx.co.nz</a>.
-- active: false
-  level: 2
+- active: true
+  level: 3
   name: Datacom
   anchor: datacom
   image: /assets/images/sponsor-logo/Datacom-Primary-Logo-RGB.svg
@@ -295,48 +295,6 @@
     entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
     instilling security into modern development. 
 - active: false
-  level: 3
-  name: Auth0
-  anchor: auth0-2
-  image: /assets/images/sponsor-logo/Logo-Auth0_black.svg
-  url: https://auth0.com/
-  spotlight: |-
-    <strong>Built for Developers, Trusted by Global Enterprises.</strong>
-    </p>
-    <p>
-    We solve the most complex and large-scale identity use cases for global enterprises with our 
-    extensible and easy-to-integrate platform, securing billions of logins every year.
-    </p>
-    <p>
-    With employees located in over 30 countries, our support teams are available 24/7, worldwide. 
-    Our global presence enables us to provide peerless support and availability, assisting customers 
-    all over the world.
-    </p>
-    <p>
-    Our leadership team is comprised of industry leaders and domain experts, bringing decades of 
-    cumulative insight and experience to our company and customers.
-    </p>
-    <p>
-    We help the very best businesses and organizations solve identity.
-  description: |-
-    <strong>Built for Developers, Trusted by Global Enterprises.</strong>
-    </p>
-    <p>
-    We solve the most complex and large-scale identity use cases for global enterprises with our 
-    extensible and easy-to-integrate platform, securing billions of logins every year.
-    </p>
-    <p>
-    With employees located in over 30 countries, our support teams are available 24/7, worldwide. 
-    Our global presence enables us to provide peerless support and availability, assisting customers 
-    all over the world.
-    </p>
-    <p>
-    Our leadership team is comprised of industry leaders and domain experts, bringing decades of 
-    cumulative insight and experience to our company and customers.
-    </p>
-    <p>
-    We help the very best businesses and organizations solve identity.
-- active: false
   level: 5
   name: SecureFlag
   anchor: secureflag
@@ -447,36 +405,31 @@
     Positioned as a Gartner Magic Quadrant <strong>Leader</strong> for Application Security Testing, AppScan 
     helps to drive substantial savings - lower development and testing costs - by moving security testing and 
     defect remediation earlier in the SDLC and reducing incidents in production that impact revenue and productivity.
-- active: false
+- active: true
   level: 3
-  name: Kordia 
-  anchor: kordia
-  image: /assets/images/sponsor-logo/Logo-Kordia.svg
-  url: https://www.kordia.co.nz/
-  spotlight: |-
-    <strong>A RICH HISTORY OF KEEPING NEW ZEALANDERS CONNECTED</strong>
-    <br />
-    If you phone us, we don't put you through to some remote call centre based overseas. Kordia's engineers 
-    work alongside the sales team and, as a result, you get instant access to the right people who can answer 
-    your questions, and fast. In fact, 75 percent of all technical queries are resolved by the person who 
-    first answered the phone. It's this level of service, combined with our in-depth knowledge of business-critical 
-    services, that enables us to be trusted experts to our customers.
-    </p>
-    <p>
-    Clients regularly refer to our engineers, project managers, and salespeople as "experts," 
-    "trusted advisers," "our secret weapon," and more.
+  name: Aura Information Security 
+  image: /assets/images/Logo-Aura_Information_Security-125.jpg
+  url: https://www.aurainfosec.com/
   description: |-
-    <strong>A RICH HISTORY OF KEEPING NEW ZEALANDERS CONNECTED</strong>
-    <br />
-    If you phone us, we don't put you through to some remote call centre based overseas. Kordia's engineers 
-    work alongside the sales team and, as a result, you get instant access to the right people who can answer 
-    your questions, and fast. In fact, 75 percent of all technical queries are resolved by the person who 
-    first answered the phone. It's this level of service, combined with our in-depth knowledge of business-critical 
-    services, that enables us to be trusted experts to our customers.
+    Aura Information Security is a leading provider of information security consulting services to corporates 
+    and governments in Australia and New Zealand.
     </p>
     <p>
-    Clients regularly refer to our engineers, project managers, and salespeople as "experts," 
-    "trusted advisers," "our secret weapon," and more.
+    Aura’s focus is to provide the very best independent security advice and support to businesses, so 
+    their digital world is more secure, reliable and resilient.
+    </p>
+    <p>
+    Aura was awarded 'Best Security Company' at the Information Security (iSANZ) awards in two consecutive years, 2017 and 2018.
+  spotlight: |-
+    Aura Information Security is a leading provider of information security consulting services to corporates 
+    and governments in Australia and New Zealand.
+    </p>
+    <p>
+    Aura’s focus is to provide the very best independent security advice and support to businesses, so 
+    their digital world is more secure, reliable and resilient.
+    </p>
+    <p>
+    Aura was awarded 'Best Security Company' at the Information Security (iSANZ) awards in two consecutive years, 2017 and 2018.   
 
 - active: false
   level: 3
