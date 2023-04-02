@@ -52,10 +52,26 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ## Classes on Offer
 
-**Our [Call for Training](https://www.papercall.io/owaspnz2023-training) is now open**, and will close on 28 February. We expect to have the schedule of classes confirmed on or about the 10th of March, and training registration will open on 15th March.
+Pre-Conference Training registration will **CLOSE** on Friday, 23 June. From 24 June, no refunds or changes will be permitted, but attendee substitutions will be accepted.
 
-Pre-Conference Training registration will **CLOSE** one week before the event, on Tuesday, 27 June. From 28 June, no refunds or changes will be permitted, but attendee substitutions will be accepted.
+#### Two-day, in-person (classroom) training - Tuesday and Wednesday, 4-5 July:
 
+* *Hacking Android, iOS, and IoT Applications by Example*, Abraham Aranguren
+* *Hacking Modern Web Apps: Master the Future of Attack Vectors*, Instructor TBC (7A Security)
+* *Cloud Security Masterclass: Defender's Guide to Security AWS and Azure Infrastructure, Abhinav Singh
+
+#### One-day, in-person (classroom) training - Tuesday, 4 July:
+
+* *Hacking Android and IoT Applications by Example*, Abraham Aranguren
+
+#### One-day, in-person (classroom) training - Wednesday, 5 July:
+
+* *Hacking iOS and IoT Applications by Example*, Abraham Aranguren
+* *Can you find the threat? A Threat Modelling CTF*, Wade Winright
+
+#### Half-day, in-person (classroom) training - Wednesday morning, 5 July:
+
+* *Application Security 'Refresher' Training*, John DiLeo
 
 **NOTES:** 
 
@@ -67,5 +83,5 @@ Spaces will fill up fast, so get in quickly!
 
 Check-in desk will be located in the Level 3 lobby (WG 306), and will open at 8:00 a.m. each day
 
-Morning and afternoon tea breaks will be provided. Lunch will be available for pre-purchase (at time of registration), or you're free to see to your own lunch.
+Morning and afternoon tea breaks will be provided. Lunch is available for pre-purchase (through 23 June), or you're free to see to your own lunch.
 

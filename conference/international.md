@@ -34,3 +34,6 @@ Here are the requirements, as we (the conference committee) understand them - th
 
 If you're unsure what travel documentation you need, we highly recommend you [contact Immigration New Zealand](https://www.immigration.govt.nz/contact) early.
 
+**IMPORTANT NOTE:** The conference team **will not** provide Invitation Letters to individuals *attending* the conference. Selected/invited speakers and trainers will be provided Invitation Letters, if needed.
+
+

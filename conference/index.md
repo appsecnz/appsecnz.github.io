@@ -19,15 +19,15 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## Auckland University of Technology (AUT) City Campus
 
-## Conference Registration opens 15th February!
+## [Conference Registration](https://events.humanitix.com/owaspnz2023) is now open! Book your tickets now!
 
-## The [Call for Presentations](https://papercall.io/owaspnz2023) is now open! First-round review will take place in early March - the final CFP deadline is 28th April.
+## [Pre-Conference Training Registration](https://events.humanitix.com/owaspnz2023-training) is now open! Training registration will close on Friday, 23rd June.
 
-## The [Call for Training](https://papercall.io/owaspnz2023-training) is open through 28th February! Our training schedule will be announced in early March.
+## The [Call for Presentations](https://papercall.io/owaspnz2023) is still open! Final CFP deadline is 28th April.
 
 -----
 
-We are proud to present the 13th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, July 7th and 8th, 2023. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
+We are proud to present the 13th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, July 6th and 7th, 2023. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
@@ -143,15 +143,13 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**.
 
 * **Main Conference Dates:** 6-7 July 2023
 * **Pre-Conference Training Dates:** 4-5 July 2023
-* **Training Registration Closes:** 27 June 2023
+* **Training Registration Closes:** 23 June 2023
 * **"Early Bird" Conference Registration Ends:** 18 June 2023 - From 19 June, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 8 June 2023 - Orders go to the printer the next morning!
 
-* **Conference Registration Opens:** 1 March 2023
-* **Training Registration Opens:** 15 March 2023
+* **Conference and Training Registration Opened:** 3 April 2023
 * **[Call for Presentations](https://papercall.io/owaspnz2023) (CFP) Closes:** 28 April 2023 (11:59 p.m.)
-* **CFP First-Round Notifications:** 15 March 2023
-* **[Call for Training](https://papercall.io/owaspnz2023-training) CFT Closes:** 28 February 2023 (11:59 p.m.)
+* **Call for Training (CFT) Closed:** 28 February 2023
 * **CFP and CFT Opened:** 26 January 2023
 
 ## Conference Venue
@@ -165,10 +163,10 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**.
     **Map:** [Google Maps](https://goo.gl/maps/tJVwWVyC16hLnpNf9)   
     
 **Stream One:** Level 4   
-**Room:** Lecture Theatre WG403 (Overflow room TBC)   
+**Room:** Lecture Theatre WG403   
 
 **Stream Two:** Level 2   
-**Room:** Lecture Theatre WA220 (Overflow room TBC)   
+**Room:** Lecture Theatre WA220   
 
 **Sponsor Demos:** Level 4   
 **Room:** Case Room WG404
@@ -179,6 +177,14 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**.
 **Sponsor Exhibition Area:** Level 2 Atrium and Forum (WG200/201)
 
 **Registration and Information Desks:** Level 3 Foyer (WG306)
+
+### Lunch Service
+
+**New for 2023!** This year, we're introducing the option to *pre-order* lunch service at the venue. For $25.00 (plus GST) per person, you can pre-order lunch each day. To take advantage of this option, add a lunch ticket to your order, for each day you'd like to purchase lunch, when registering for the conference and/or training class.   
+
+The conference planning team are still finalising the lunch menu - that information will be added here, when available.
+
+Lunch pre-orders **close** on Friday, 23rd June.
 
 ## Accommodations
 
