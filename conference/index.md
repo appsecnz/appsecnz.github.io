@@ -144,6 +144,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**.
 * **Main Conference Dates:** 6-7 July 2023
 * **Pre-Conference Training Dates:** 4-5 July 2023
 * **Training Registration Closes:** 23 June 2023
+* **Last Day to Pre-Order Lunches:** 23 June 2023
 * **"Early Bird" Conference Registration Ends:** 18 June 2023 - From 19 June, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 8 June 2023 - Orders go to the printer the next morning!
 
