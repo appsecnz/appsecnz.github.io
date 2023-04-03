@@ -1,8 +1,8 @@
 - type: notice
   text: "<p><strong>Save the Dates! The 2023 OWASP New Zealand Day conference will take place 4-7 July, at the AUT City Campus. Watch <a href='https://appsec.org.nz/conference/'>this space</a> for updates.</p>"
 - type: notice
-  start: 2021-12-14 18:00:00+1300
-  end: 2022-02-18 16:59:59+1300
+  start: 2023-04-03 00:00:00+1200
+  end: 2023-04-09 23:59:59+1200
   text: "<h3>Conference registration is now open. Visit our <a href='https://events.humanitix.com/owaspnz2023/' target='registration'>Main Conference Registration Site</a> to book your tickets.</h3>"
 - type: alert
   text: |-
@@ -11,8 +11,8 @@
       <br />
       Conference registration is open - Visit our <a href='https://events.humanitix.com/owaspnz2023/' target='registration'>Main Conference Registration Site</a> to book your tickets.
     </h3> 
-  start: 2022-02-17 00:00:00+1300
-  end: 2022-07-04 23:59:59+1200
+  start: 2023-04-10 00:00:00+1200
+  end: 2022-07-06 23:59:59+1200
 - type: alert
   start: 2022-04-11 00:00:00+1300
   end: 2022-05-15 23:59:59+1200
