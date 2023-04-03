@@ -9,7 +9,7 @@
   level: 2
   name: Quantum Security
   anchor: quantum
-  image: /assets/images/sponsor-logo/Logo-Quantum_Security-125.png
+  image: /assets/images/2023-sponsors/Logo-Quantum_Security-125.png
   url: https://www.quantumsecurity.co.nz/
   spotlight: |-
     Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
@@ -39,7 +39,7 @@
   level: 2
   name: CyberCX
   anchor: cybercx
-  image: /assets/images/sponsor-logo/Logo-CyberCX.png
+  image: /assets/images/2023-sponsors/Logo-CyberCX.png
   url: https://cybercx.co.nz/
   spotlight: |-
     CyberCX. We secure our communities.
@@ -75,7 +75,7 @@
   level: 3
   name: Datacom
   anchor: datacom
-  image: /assets/images/sponsor-logo/Datacom-Primary-Logo-RGB.svg
+  image: /assets/images/2023-sponsors/Datacom-Primary-Logo-RGB.svg
   url: https://datacom.com/
   spotlight: |-
     Choose us.
@@ -119,7 +119,7 @@
   level: LEGO Build Sponsor
   name: Auth0
   anchor: auth0-1
-  image: /assets/images/sponsor-logo/Logo-Auth0_black.svg
+  image: /assets/images/2023-sponsors/Logo-Auth0_black.svg
   url: https://auth0.com/
   spotlight: |-
     <strong>Built for Developers, Trusted by Global Enterprises.</strong>
@@ -161,7 +161,7 @@
   level: 4
   name: Flux
   anchor: flux
-  image: /assets/images/sponsor-logo/Flux Primary Logo Aubergine_RGB.jpg
+  image: /assets/images/2023-sponsors/Flux Primary Logo Aubergine_RGB.jpg
   url: https://www.fluxfederation.com/
   spotlight: |-
     Flux is a global technology company known for creating software products and experiences 
@@ -191,7 +191,7 @@
   level: 2
   name: Snyk
   anchor: snyk
-  image: /assets/images/sponsor-logo/Logo-Snyk-225.png
+  image: /assets/images/2023-sponsors/Logo-Snyk-225.png
   url: https://snyk.io
   spotlight: |-
     <strong>Snyk empowers software-driven businesses to develop fast and stay secure</strong>
@@ -209,7 +209,7 @@
   level: 3
   name: Pulse Security 
   anchor: pulse
-  image: /assets/images/sponsor-logo/Logo-Pulse_Security.png
+  image: /assets/images/2023-sponsors/Logo-Pulse_Security.png
   url: https://pulsesecurity.co.nz/
   spotlight: |-
     Pulse Security is a specialist information security consultancy.
@@ -223,52 +223,47 @@
   level: 4
   name: SEQA Information Security
   anchor: seqa
-  image: /assets/images/sponsor-logo/Logo-SEQA-150.png
+  image: /assets/images/2023-sponsors/Logo-SEQA-150.png
   url: https://www.seqa.co.nz/
   spotlight: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
   description: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
-- active: false
+- active: true
   level: 3
-  name: Lateral Security 
-  image: /assets/images/sponsor-logo/Logo-Lateral_Security-125.png
-  url: https://www.lateralsecurity.com/
+  name: Tesserent 
+  image: /assets/images/2023-sponsors/Logo-Tesserent-RGB.png
+  url: https://tesserent.com/
   spotlight: |-
-    Lateral Security is New Zealand’s leading independent IT security company, providing tailored information security testing 
-    and advisory services.
+    With offices across Australia and New Zealand, Tesserent partners with clients to provide Managed Security Services, as well as a full 
+    suite of cybersecurity services. In 2021, Tesserent purchased New Zealand-based Lateral Security, an independent ICT security 
+    services company that uses a highly specialised team of management (advisory) and technical (testing) security consultants. 
+    We value quality over quantity, and this is reflected in every process within the business which is designed to provide business 
+    level actionable outcomes for our clients.
     </p>
     <p>
-    Lateral Security has 30 staff in offices located in Wellington, Auckland, Christchurch and relationships with service 
-    providers in Canada and the United States.
-    Clients include businesses and government agencies with the toughest security compliance requirements, including those 
-    in the financial services and telecommunications.
-    </p>
-    <p>
-    Our company vision: "To improve the IT security and safety of our customers and all New Zealanders"
+    Tesserent delivers comprehensive, tailored 
+    solutions to prevent, detect, and mitigate potential cyber-attacks. We have deep expertise in security advisory (GRC) and consulting, 
+    technical assurance and testing, cloud services, 24x7 managed services and monitoring, incident response and forensics and 
+    converged/physical security.
   description: |-
-    Lateral Security is New Zealand’s leading independent IT security company, providing tailored information security testing 
-    and advisory services.
+    Tesserent is an extraordinary cybersecurity success story. Founded in Melbourne, originally focusing on Managed Security Services 
+    and funded almost entirely by local investors, we’ve since grown to become Australia’s #1 ASX-listed cybersecurity provider. Now 
+    with offices across Australia and New Zealand, we partner with clients to provide not just Managed Security Services, but a full 
+    suite of cybersecurity services. In 2021, Tesserent purchased New Zealand-based Lateral Security, an independent ICT security 
+    services company that uses a highly specialised team of management (advisory) and technical (testing) security consultants. 
+    We value quality over quantity, and this is reflected in every process within the business which is designed to provide business 
+    level actionable outcomes for our clients.
     </p>
     <p>
-    Directors Nick von Dadelszen and Ratu Mason founded Lateral Security in 2008 after seeing the need for an independent 
-    ICT security services company that uses a highly specialised team of management (advisory) and technical (testing)
-    security consultants. The Directors value quality over quantity and this is reflected in every process within the 
-    business which is designed to provide business level actionable outcomes for our clients.
-    </p>
-    <p>
-    Lateral Security has 30 staff in offices located in Wellington, Auckland, Christchurch and relationships with service 
-    providers in Canada and the United States.
-    </p>
-    <p>
-    Clients include businesses and government agencies with the toughest security compliance requirements, including those 
-    in the financial services and telecommunications.
-    </p>
-    <p>
-    Our company vision: "To improve the IT security and safety of our customers and all New Zealanders"
+    Tesserent has 500 staff across Australasia with its New Zealand offices located in Wellington, Auckland, and Christchurch. Partnering
+    with over 1,200 mid-sized to enterprise, government, and critical infrastructure clients, Tesserent delivers comprehensive, tailored 
+    solutions to prevent, detect, and mitigate potential cyber-attacks. We have deep expertise in security advisory (GRC) and consulting, 
+    technical assurance and testing, cloud services, 24x7 managed services and monitoring, incident response and forensics and 
+    converged/physical security.
 - active: false
   level: 3
   name: Checkmarx
   anchor: checkmarx
-  image: /assets/images/sponsor-logo/Logo-Checkmarx.png
+  image: /assets/images/2023-sponsors/Logo-Checkmarx.png
   url: https://checkmarx.com/
   spotlight: |-
     <strong>When Software is Everywhere, Security is Everything</strong>
@@ -298,7 +293,7 @@
   level: 5
   name: SecureFlag
   anchor: secureflag
-  image: /assets/images/sponsor-logo/Logo-SecureFlag-Captured.png
+  image: /assets/images/2023-sponsors/Logo-SecureFlag-Captured.png
   url: https://www.secureflag.com/index.html
   spotlight: |-
     Old-fashioned Secure Coding training programs with multiple-choice quizzes, boring slideshows 
@@ -326,7 +321,7 @@
   level: 5
   name: Cobalt Labs
   anchor: cobalt
-  image: /assets/images/sponsor-logo/Logo-Cobalt_Labs-Captured.png
+  image: /assets/images/2023-sponsors/Logo-Cobalt_Labs-Captured.png
   url: https://www.cobalt.io/
   spotlight: |-
     Cobalt was founded on the belief that pentesting can be better. We pioneered the Pentest as a 
@@ -352,7 +347,7 @@
   level: 5
   name: Lacework
   anchor: lacework
-  image: /assets/images/sponsor-logo/Logo-Lacework-Captured.png
+  image: /assets/images/2023-sponsors/Logo-Lacework-Captured.png
   url: https://www.lacework.com/
   spotlight: |-
     <strong>A bright vision for the future</strong>
@@ -383,7 +378,7 @@
   level: 3
   name: HCL AppScan
   anchor: hcl-appscan
-  image: /assets/images/sponsor-logo/Logo-HCL_AppScan.png
+  image: /assets/images/2023-sponsors/Logo-HCL_AppScan.png
   url: https://www.hcltechsw.com/appscan/codesweep
   spotlight: |-
     HCL AppScan is a powerful Application Security tool which can enable you to meet your end-to-end 
@@ -408,7 +403,7 @@
 - active: true
   level: 3
   name: Aura Information Security 
-  image: /assets/images/sponsor-logo/Logo-Aura_Information_Security-125.jpg
+  image: /assets/images/2023-sponsors/Logo-Aura_Information_Security-125.jpg
   url: https://www.aurainfosec.com/
   description: |-
     Aura Information Security is Kordia Group's independent provider of information security consulting services to 
@@ -429,7 +424,7 @@
   level: 3
   name: RedShield
   anchor: redshield
-  image: /assets/images/sponsor-logo/Logo-RedShield.png
+  image: /assets/images/2023-sponsors/Logo-RedShield.png
   url: https://www.redshield.co/
   spotlight: |-
     Customers around the world rely on RedShield to remove their web application
@@ -456,7 +451,7 @@
   level: 3
   name: Micro Focus
   anchor: micro-focus
-  image: /assets/images/sponsor-logo/Logo-Micro_Focus.svg
+  image: /assets/images/2023-sponsors/Logo-Micro_Focus.svg
   url: 
   spotlight: |-
     Micro Focus is one of the world's largest enterprise software providers. We deliver 
@@ -484,7 +479,7 @@
   level: 6
   name: CyberWarFare
   anchor: cyber-war-fare
-  image: /assets/images/sponsor-logo/Logo-CyberWarFare.png
+  image: /assets/images/2023-sponsors/Logo-CyberWarFare.png
   url: https://www.cyberwarfare.live/
   spotlight: |-
     We are an Ed-Tech startup working on simulating critical infrastructure as a playground for cyber security 
@@ -514,7 +509,7 @@
   level: 6
   name: Dice for Hire
   anchor: dice-for-hire
-  image: /assets/images/sponsor-logo/Logo-Dice_for_Hire.png
+  image: /assets/images/2023-sponsors/Logo-Dice_for_Hire.png
   url: https://diceforhire.com/
   spotlight: |-
     Dice for Hire is a new way to build strong teams. We offer Table-top Role Playing Games, such as Dungeons & Dragons, as a Service. 

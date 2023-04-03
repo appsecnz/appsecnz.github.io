@@ -67,11 +67,11 @@ Pre-Conference Training registration will **CLOSE** on Friday, 23 June. From 24 
 #### One-day, in-person (classroom) training - Wednesday, 5 July:
 
 * *Hacking iOS and IoT Applications by Example*, Abraham Aranguren
-* *Can you find the threat? A Threat Modelling CTF*, Wade Winright
+* *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 5 July:
 
-* *Application Security 'Refresher' Training*, John DiLeo
+* *[Application Security 'Refresher' Training](training-appsec_refresher.md)*, John DiLeo
 
 **NOTES:** 
 
