@@ -1,5 +1,5 @@
 ---
-title: Classroom Training - Secure Your SDLC using OWASP SAMM-ASAP!
+title: Classroom Training - Secure Your SDLC using OWASP SAMM - ASAP!
 description: Pre-Conference Training Class, 4 July - OWASP New Zealand Day 2023 
 
 layout: conference/full-width
@@ -13,7 +13,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }   
 
-# Secure Your SDLC using OWASP SAMM-ASAP!
+# Secure Your SDLC using OWASP SAMM - ASAP!
 
 ## One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2023
 
