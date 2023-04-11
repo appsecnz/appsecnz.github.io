@@ -58,7 +58,7 @@ Pre-Conference Training registration will **CLOSE** on Friday, 23 June. From 24 
 
 * *Hacking Android, iOS, and IoT Applications by Example*, Abraham Aranguren
 * *Hacking Modern Web Apps: Master the Future of Attack Vectors*, Instructor TBC (7A Security)
-* *Cloud Security Masterclass: Defender's Guide to Security AWS and Azure Infrastructure, Abhinav Singh
+* *Cloud Security Masterclass: Defender's Guide to Security AWS and Azure Infrastructure*, Abhinav Singh
 
 #### One-day, in-person (classroom) training - Tuesday, 4 July:
 
