@@ -21,7 +21,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 **Dates:** Wednesday, 5 July 2022
 
-**Time:** 8:45 a.m. to 5:30 p.m. (NZDT)
+**Time:** 8:45 a.m. to 5:30 p.m. (NZST)
 
 **Instructor:** Wade Winright   
 

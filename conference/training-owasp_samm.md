@@ -25,7 +25,7 @@ Incorporating a mix of lectures and workshops, this training delivers an in-dept
 
 **Dates:** Tuesday, 4 July 2022
 
-**Time:** 8:45 a.m. to 5:30 p.m. (NZDT)
+**Time:** 8:45 a.m. to 5:30 p.m. (NZST)
 
 **Instructor:** John Ellingsworth   
 
