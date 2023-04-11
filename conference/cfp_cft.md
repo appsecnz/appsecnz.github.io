@@ -46,7 +46,7 @@ The registration and information desk will open at 8:00 a.m. each day. Conferenc
 
 In addition the main conference on Thursday and Friday, we will be offering a selection of world-class training opportunities on Tuesday and Wednesday. We anticipate our training schedule will include a mix of class lengths (half-day, one-day, and two-day) and formats (face-to-face, instructor-remote, and live online).
 
-Each day, regardless of format, classes will follow this schedule (all times are NZDT):
+Each day, regardless of format, classes will follow this schedule (all times are NZST):
 
 * 8:00 a.m.  - Check-in desk opens; online class sessions started for support
 * 8:45 a.m.  - Class sessions start
