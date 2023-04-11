@@ -7,7 +7,7 @@ dataDir: conference-2023
 sponsorsEventName: OWASP New Zealand Day 2023
 ---
 
-[![Web Banner](/assets/images/2022_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
 [Back to Pre-Conference Training Page](training.md)
 {: style="text-align: right; font-size: small;" }   
 [Back to Conference Home Page](index.md)
