@@ -35,6 +35,51 @@
     <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
     and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
     all round the world.
+- active: true
+  level: 2
+  name: DEFEND
+  anchor: defend
+  image: /assets/images/2023-sponsors/Logo-DEFEND_with_TM.png
+  url: https://www.defend.co.nz/
+  spotlight: |-
+    DEFEND is a proven and award winning cybersecurity company providing outcome-oriented services and leading 
+    capability practices for our customers.
+    </p>
+    <p>
+    Our Secure Development Practice specialises in the delivery of a holistic suite of cybersecurity services to 
+    customers, ranging across assessment, application design, secure code, build, test and proactively secure & manage.
+    </p>
+    <p>
+    DEFEND are based in Auckland, Wellington, Christchurch and the Midland Regions supporting New Zealand, as well as 
+    International organisations.
+  description: |-
+    DEFEND is a proven and award winning cybersecurity company providing outcome-oriented services and leading
+    capability practices for our customers, including both New Zealand and Global Organisations of National Significance.
+    </p>
+    <p>
+    We focus on a number of verticals that includes Government, Enterprise, Commercial, Health, Utilities, Manufacturing, 
+    Service Providers along with a deep dive into IT/OT convergence to protect critical infrastructure and services that 
+    keep our country and customers operating.
+    </p>
+    <p>
+    DEFEND provides a full range of cybersecurity services with our cybersecurity consultancy, architecture, engineering, 
+    secure development and penetration testing services, delivered through our Practices and Cybersecurity Transformation 
+    Service. We offer Managed Security Services including Incident Management, Handling and Response, Threat Management, 
+    Vulnerability Management, Security Capability Management, Secure Connectivity and Secure Cloud managed services.
+    </p>
+    <p>
+    Our Secure Development Practice specialises in the delivery of a holistic suite of cybersecurity services to customers, 
+    ranging across assessment, application design, secure code, build, test and proactively secure & manage.
+    </p>
+    <p>
+    Through our FiRe product, DEFEND delivers external, independent technical risk assurance and provides a full range of 
+    specialised security testing to New Zealand companies and organisations with a global reach. FiRe is dedicated to 
+    providing meaningful remediation advice with the focus on implementing mitigations and improving processes with our 
+    customers to enable faster business growth and speed to market.
+    </p>
+    <p>
+    DEFEND are based in Auckland, Wellington, Christchurch and the Midland Regions supporting New Zealand, as well as 
+    International organisations.
 - active: false
   level: 2
   name: CyberCX
