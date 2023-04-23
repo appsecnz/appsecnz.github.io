@@ -27,7 +27,7 @@ Incorporating a mix of lectures and workshops, this training delivers an in-dept
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZST)
 
-**Instructor:** John Ellingsworth   
+**Instructor:** Raafey Khan, Cyber CX   
 
 **Course Fee:** NZ $500.00 (plus GST and ticketing fees)
 
@@ -81,4 +81,9 @@ And, in case you're concerned about confidentiality issues, all participants are
 
 ## Your Instructor
 
-**John Ellingsworth** - John is a security principal at a Fortune 1000 company where he helps software development teams build and deliver secure enterprise solutions. When not delivering secure software solutions, he can be found hanging out with his family, often outdoors, and probably scaling mountains. John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project.
+**Raafey Khan**   
+
+An eternal security optimist, Raafey has been helping organisations in NZ and the UK understand their cyber risk and why they should at least *try* to embed security into their development processes.
+
+As a founding member of Datacom's Application Security Services team, Raafey attempts to do more of the same for Datacom's clients, with a real focus on automating everything and making security stupidly simple.
+

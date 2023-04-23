@@ -63,7 +63,7 @@ Pre-Conference Training registration will **CLOSE** on Friday, 23 June. From 24 
 #### One-day, in-person (classroom) training - Tuesday, 4 July:
 
 * *Hacking Android and IoT Applications by Example*, Abraham Aranguren
-* *[Secure Your SDLC using OWASP SAMM - ASAP!](training-owasp_samm.md)*, John Ellingsworth
+* *[Secure Your SDLC using OWASP SAMM - ASAP!](training-owasp_samm.md)*, Raafey Khan
 
 #### One-day, in-person (classroom) training - Wednesday, 5 July:
 
