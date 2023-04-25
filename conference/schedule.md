@@ -15,7 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## AppSec New Zealand Day 2023
 
-### [Conference Registration](https://events.humanitix.com/owaspnz2023){: target="registration" } opens on 15 February!
+### [Conference Registration](https://events.humanitix.com/owaspnz2023){: target="registration" } is now open! Don't miss out - get your tickets now!
 
 **Presentation abstracts and speaker biographies can be found on [this page](speakers.md){:target="speakers"}.
 

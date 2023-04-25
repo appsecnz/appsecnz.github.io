@@ -11,16 +11,16 @@
     start: '08:00'
     plenary: true
   - block: 1
-    start: '09:15'
-    end: '10:15'
+    start: '09:00'
     plenary: true
   - block: 2
-    start: '10:15'
+    start: '09:15'
+    end: '10:05'
     plenary: true
   - block: 3
-    start: '10:20'
+    start: '10:05'
     end: '10:50'
-    plenary: false
+    plenary: true
   - block: 4
     start: '10:55'
     end: '11:25'
@@ -75,15 +75,15 @@
     start: '08:00'
     plenary: true
   - block: 1
-    start: '10:00'
-    end: '10:15'
+    start: '09:40'
+    end: '09:55'
     plenary: true
   - block: 2
-    start: '10:20'
-    end: '10:50'
+    start: '10:00'
+    end: '10:30'
     plenary: false
   - block: 3
-    start: '10:55'
+    start: '10:35'
     end: '11:25'
     plenary: false
   - block: 4
@@ -96,11 +96,11 @@
     plenary: true
   - block: 6
     start: '13:30'
-    plenary: true
-  - block: 7
-    start: '13:30'
     end: '14:20'
     plenary: false
+  - block: 7
+    start: '14:00'
+    plenary: true
   - block: 8
     start: '14:25'
     end: '14:55'

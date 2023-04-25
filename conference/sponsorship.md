@@ -30,7 +30,8 @@ Sponsorship funds collected are used for things such as:
 * **Promotion -** We would like to reach a wider audience, by utilising paid advertising and online promotion for the event
 * **Printed Materials -** Printed materials will include conference programs, badge lanyards, delegate tote bags, volunteer and delegate t-shirts, and information and room signage
 * **Recognition Items -** We love our speakers and trainers, and wish to show them our appreciation with small gifts
-* **Catering -** To promote a collegial environment for networking among application security professionals, we're scheduling three (3) catered tea breaks
+* **Catering -** To promote a collegial environment for networking among application security professionals, we're scheduling daily tea breaks and providing coffee/tea service each morning
+* **Live Streaming -** Throughout both days of the main conference, we'll be live-streaming all presentations and sessions. Live-stream registration fees only partially offset the costs for on-site audio/visual and live-stream services
 * **Administration -** While we do our best to keep day-to-day administrative and operating costs low, we do need to cover ongoing expenses such as insurance, accounting services, and storage fees
 
 Due to increased service fees and catering charges, the overall budget for this year's conference is approximately 15% larger than for last year's event. The rates for our Premier Sponsorship packages have been increased slightly to help defray these increased costs.
@@ -41,14 +42,15 @@ The 2020 OWASP New Zealand Day was supported by 13 premier sponsors and attracte
 
 Attendance for the first [AppSec New Zealand Conference](/conference-2021), in February 2021, was a bit lower, with approximately 650 delegates attending in person. 2021 also marked our first experience with live-streaming the event, with approximately 300 live-stream registrations. Considering it was our first event under the new name, our first attempt at hosting a two-day conference - *and* the event ended just 30 hours before Auckland's first "snap lockdown" - we consider the event a great success. Those constraints notwithstanding, the AppSec New Zealand Conference was supported by 15 Premier Sponsors, which allowed us to provide travel and training assistance to 33 delegates.
 
-In 2022, we returned to the OWASP New Zealand Day brand. We were able to hold a hybrid conference, in July, after many COVID-related restrictions had been relaxed; despite this, in-person attendance (450) was lower than hoped, while we enjoyed a strong online participation through our live-stream offering. The event was supported by 17 sponsors, and our first ever sponsored LEGO Build was popular with conference attendees.
+In 2022, we returned to the OWASP New Zealand Day brand. We were able to hold a hybrid conference in July, after many COVID-related restrictions had been relaxed; despite this, in-person attendance (450) was lower than hoped, while we enjoyed a strong online participation through our live-stream offering. The event was supported by 17 sponsors, and our first-ever sponsored LEGO Build was popular with conference attendees.
 
-The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Web Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand ([owasp.org.nz](https://owasp.org.nz)). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
+The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Worldwide Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand ([owasp.org.nz](https://owasp.org.nz)). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
 ([sign up](https://lists.owasp.org/mailman/listinfo/owasp-newzealand)). 
 
 Those who regularly attend AppSec conferences include IT project managers, IT security managers,
-IT security consultants, Web application architects and developers, QA
-managers, QA testers and system administrators.
+IT security consultants, software architects and developers, QA
+managers, QA testers and system administrators. In addition, approximately one third of conference attendees are 
+current students in Computer Science, Information Systems, or Cyber Security programmes.
 
 Throughout its 12 years of operation under the local OWASP chapter, the OWASP New Zealand Day conference attracted more than 90% of its delegates and presenters from within New Zealand. This year, we anticipate pre-registrations for the conference will regain much the ground lost versus pre-COVID numbers, and on-the-day attendance will be 650 or more.
 

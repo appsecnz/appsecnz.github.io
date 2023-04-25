@@ -33,180 +33,444 @@
 # NOTE: For multiple speakers, use 'name2'/'org2'/'bio2'/'twitter2'/'linkedin2' first, then 'name3'/'org3'/etc. 
 #   - Automation currently supports up to 3 speakers per talk
 - plenary: true
-  title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
-  name: Coffee/Tea Service Available
   day: 0
   block: 0
   track: 0
   info: true
+  title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
+  name: Coffee/Tea Service Available
 
 - plenary: true
-  title: Opening Session - Welcome to OWASP New Zealand Day 2023!
-  name: John DiLeo
-  org: Conference Chair
   day: 0
   block: 1
   track: 0
-  info: false
+  info: true
+  title: Delegate Lounge Opens - LEGO<sup>&reg;</sup> Build Begins
 
 - plenary: true
-  title: Delegate Lounge Opens - LEGO Build Begins
   day: 0
   block: 2
   track: 0
-  info: true
-
-- selected: true
-  confirmed: false
-  plenary: false
-  day: 0
-  block: 3
-  track: 0
-
-- selected: true
-  confirmed: false
-  plenary: false
-  day: 0
-  block: 11
-  track: 1
-
-- selected: true
-  confirmed: false
-  plenary: false
-  day: 0
-  block: 4
-  track: 0
-  remote: false
-
-- selected: true
-  confirmed: false
-  plenary: false
-  day: 0
-  block: 4
-  track: 1
-
-- selected: true
-  confirmed: false
-  plenary: false
-  day: 0
-  block: 5
-  track: 0
-
-- selected: true
-  confirmed: false
-  plenary: false
-  day: 0
-  block: 5
-  track: 1
-  remote: false
+  info: false
+  title: Opening Session - Welcome to OWASP New Zealand Day 2023!
+  name: John DiLeo
+  org: Conference Chair
 
 - plenary: true
-  title: Break for Lunch - On Your Own
+  day: 0
+  block: 3
+  info: false
+  title: Opening Keynote
+  name: Vandana Verma Singh
+  org: Chair, OWASP Global Board of Directors
+  
+- plenary: false
+  selected: true
+  confirmed: true
+  day: 0
+  block: 4
+  track: 0
+  title: Fantastic Cloud Security Mistakes and How to Find Them
+  name: Sarah Young
+  org: Microsoft
+  abstract: |-
+    Many cloud security breaches start from implementation mistakes: whether it be bad coding practices, 
+    misconfiguration, etc. Before (best case) your security team or (worst case) an outside attacker finds 
+    them; how can you be proactive about finding and fixing common security mistakes?
+  description: |-
+    In this session, we will look at the most exploited cloud security mistakes and what you can do to 
+    prevent them from happening in your environment.
+    </p>
+    <p>
+    Talk breakdown is as follows: 
+    <ul>
+    <li>Today's threat landscape</li>
+    <li>Perception vs. reality</li>
+    <li>Top security mistakes and remediation by area:
+       <ul>
+       <li>Identity</li>
+       <li>Endpoint management</li>
+       <li>Apps</li>
+       <li>Data Monitoring</li>
+       </ul>
+     </li>
+     </ul>
+  bio: |-
+    is a Senior Cloud Security Advocate working at Microsoft. She has lived all over the place,
+    but currently calls Melbourne home. Sarah has been working in cyber security since before it was cool, 
+    holds numerous industry qualifications has co-authored few Microsoft Press technical books. In 2019, Sarah 
+    won the Security Champion award at the Australian Women in Security Awards. She is an active supporter of 
+    both local and international security and cloud native communities. Sarah spends most of her spare time 
+    speaking at security conferences in various parts of the world, eating hipster brunches and high teas and 
+    spending a disproportionate amount of her income on her dogs.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  day: 0
+  block: 4
+  track: 1
+  remote: false
+  title: How to Have Visibility and Security of Your CI/CD Ecosystem
+  name: Pramod Rana
+  org: Netskope
+  abstract: |-
+    I will present how an organization can approach the visibility, and thus the security, <strong>OF</strong> their CI/CD ecosystem, 
+    some common attack areas - access controls, credentials hygiene, misconfiguration, etc. - and possible solutions. 
+    I will introduce CICDGuard, a graph-based CI/CD ecosystem visualizer and security analyzer.
+  description: |-
+    CI/CD platforms are an integral part of the overall software supply chain and it processes a lot of sensitive data, 
+    compromise of which can affect the entire organization. Security <strong>IN</strong> CI/CD is a well-discussed topic; 
+    security <strong>OF</strong> CI/CD deserves the same attention.
+    </p>
+    <p>
+    One of the challenges with security of CI/CD, like most areas of security, is the lack of visibility regarding what 
+    actually makes up the CI/CD ecosystem. Security starts with being aware of what needs to be secure.
+    </p>
+    <p>
+    In this talk, I will be presenting how an organization can approach the visibility, and thus the security 
+    <strong>OF</strong> their CI/CD ecosystem, along with some common attack areas like access controls, credentials hygiene, 
+    misconfiguration, etc., and their possible solutions.
+    </p>
+    <p>
+    I will introduce CICDGuard - a graph-based CI/CD ecosystem visualizer and security analyzer, which:
+    <ol>
+    <li>Represents the entire CI/CD ecosystem in graph form, providing intuitive visibility and solving the awareness problem;</li>
+    <li>Identifies common security flaws across supported technologies and provides industry best practices and guidelines for identified flaws; and</li>
+    <li>Supports a variety of technologies - GitHub, GitHub Action, Jenkins, JFrog, Spinnaker, Drone</li>
+    </ol>
+  bio: |-
+    is author of the following open-source projects:
+    <ul>
+    <li>Omniscient - LetsMapYourNetwork: a graph-based asset management framework</li>
+    <li>vPrioritizer - Art of Risk Prioritization: a risk prioritization framework</li>
+    <li>sec-depend-aider - Dependabot pull request monitoring automation platform</li>
+    </ul>
+    </p>
+    <p>
+    He has presented at BlackHat, Defcon, nullcon, OWASP Global AppSec and GrayHat before.
+    </p>
+    <p>
+    He leads the application security team at Netskope, with a primary focus on integrating security controls in the development
+    process and providing Security Testing-as-a-Service to other teams. He loves to understand new security practices and how 
+    to practically implement them.
+- selected: true
+  confirmed: false
+  plenary: false
+  day: 0
+  block: 5
+  track: 0
+
+- plenary: false
+  selected: true
+  confirmed: true
+  day: 0
+  block: 5
+  track: 1
+  title: 'MPT: Pentest in Action'
+  name: Jyoti Raval
+  org: Harness
+  abstract: |-
+    In ever evolving software development world, security is also becoming fast paced. Hence, each product going through the  
+    pentest cycle has to be managed effectively and efficiently. Managing multiple pentests and testers is important. 
+    A single pane of glass view for all of these with risk posture is helpful.
+  description: |-
+    Security penetration testing is becoming as necessary and as usual a practice as software testing. Most, if not all, 
+    organisations either have their own penetration testing team or they utilise third-party pentesters.
+    </p>
+    <p>
+    Imagine any fast-paced organisation developing multiple product lines and planning to release each of them from time 
+    to time. It becomes challenging for the organisation's security team to efficiently manage all of these pentest activities 
+    running and effectively produce security assessment reports and track them.
+    </p>
+    <p>
+    Because of such volume of work, the numbers of pentesters in organisations are increasing to keep up. Each pentester 
+    is doing multiple pentests. The next cycle of a previous pentest can get assigned to another pentester. Each pentesting 
+    cycle has issues and recurring issues. And above all, managing all these using Excel worksheets is nightmare.
+    </p>
+    <p>
+    A pentesting activity knowledge base is kind of must. A single-pane-of-glass view to all pentests running, and the issues 
+    identified, is a necessity for everyone involved in the security review cycle.
+    </p>
+    <p>
+    To solve these challenges, I have developed a solution called <strong>Managing Pentest (MPT): Pentest in Action</strong>.
+    </p>
+    <p>
+    MPT helps us solve various problems:
+    <ul>
+    <li>Asset DB to know all organisation assets that are in pentest process. You can’t secure what you are not aware of!</li>
+    <li>Tracking each pentest</li>
+    <li>Pentesting activity knowledge which comprises of what particular let say application does, or the purpose of 
+    hardware that we are testing</li>
+    <li>When the next pentester takes over the testing all they have to do is view the asset and associated information, 
+    which is already there</li>
+    <li>Time taken for each pentest</li>
+    <li>Real time tracking of activity</li>
+    <li>Issue status</li>
+    <li>Common issues that are observed</li>
+    </ul>
+    </p>
+    <p>
+    Why MPT? MPT also provides security pentest analytics, which helps us not only track and view everything in 
+    single pane of glass but also:
+    <ul>
+    <li>Finding improvement areas to boost pen tester productivity</li>
+    <li>Understand the current risk posture</li>
+    <li>Understand recurring issues</li>
+    <li>Average amount of time taken for each pentest vs. asset size</li>
+    <li>Average high/medium/low fixing time</li>
+    <li>Most num of vulnerabilities fixed in a year</li>
+    <li>Class of new vulnerabilities coming</li>
+    <li>Developer trends</li>
+    <li>Open findings</li>
+    <li>Critical assessments</li>
+    <li>Asset health</li>
+    <li>Top pentester reported findings</li>
+    <li>Average busy time for each pentester</li>
+    </ul>
+  bio: |-
+    works as Staff Product Security Engineer at Harness. She is responsible for securing product end-to-end and involved 
+    in various phases of security life cycle. She is author of the Phishing Simulation Assessment and MPT tools, and has 
+    presented at Defcon, BlackHat, Nullcon, HITB, and Infosec Girls. She also heads OWASP Pune chapter.
+
+- plenary: true
   day: 0
   block: 6
   track: 0
   info: true
+  title: Break for Lunch
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 0
   block: 7
   track: 0
+  title: Securing REST API Endpoints (or, How to avoid another Optus)
+  name: James Cooper
+  org: Cosive
+  abstract: |-
+    Optus and their customers had a very bad time in 2022, with a massive data breach resulting in PII and ID 
+    documents released into the wild. This happened because a REST API was not properly secured. We’ll talk about the 
+    practical steps you can take to prevent this from happening to you.
+  description: |-
+    In September 2022, the major Australian telco Optus suffered a significant data breach. Initial reports suggested 
+    records for as many as 10 million customers (more than one-third of Australia’s total population) leaked. In the end, 
+    Optus got lucky, and the so-called hacker only leaked 10,000 records before getting spooked by the intense focus on the 
+    incident and abandoning their attempts to monetise the data. Nevertheless, the risk of the rest being leaked remained, 
+    forcing a massive effort from ID issuers to reissue passports, driver's licences, and other PII documents.
+    </p>
+    <p>
+    This was not just another typical data breach that was forgotten in a week - it had a broad impact in Australia and 
+    suddenly shifted thinking in other organisations. The whole affair was undoubtedly costly to Optus, both financially 
+    and reputationally. The most embarrassing part, though, is that the data were supposedly scraped from an API endpoint 
+    that should have been secured but wasn't. This talk will briefly speculate on why that might have been, and then 
+    describe various high-level technical and cultural approaches you can use to guard against something like this 
+    happening to your organisation.
+    </p>
+    <p>
+    The purpose of this talk is <strong>NOT</strong> to embarrass Optus or its staff. Rather, the point is for all of 
+    us to learn what went wrong and (more importantly) do our best to avoid repeating the same mistake(s). This talk is 
+    aimed primarily at Web developers relatively new to thinking about security - especially those working on REST 
+    APIs - and managers keen to help their team avoid making similar mistakes. There should be something for just 
+    about everyone interested in web application security, however.
+  bio: |-
+    holds a Ph.D. in Computer Science, and currently works as a Security Developer at Cosive New Zealand. There, he 
+    spends most of his time working on Web applications such as Phishfeeder, with occasional side-lines in other tasks 
+    like developing third-party MISP integrations with customers' products or debating the merits of various programming 
+    languages and paradigms. He also spends too much time in the InfoSecNZ Slack and making Simpsons references.
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 0
-  block: 3
+  block: 7
   track: 1
+  title: 'The Automation Threat Landscape: The evolution of BOTs and fraud'
+  name: Guy Brown
+  org: Fastly
+  abstract: |-
+    BOTs have evolved to become one of the hardest problems to solve in security. I will highlight use-cases for 
+    automation, against some well known e-commerce platforms, and demonstrate the real-world tools used by threat 
+    actors today to conduct account takeover and fraud.
+  description: |-
+    Every application on the Internet has an automation problem - only the difference is the level of sophistication 
+    of the automated threat. Whether it's something as simple as a vulnerability scanner or a more sophisticated bad 
+    actor crafting a tool to target your application, organisations are forced to put some security controls in place 
+    to mitigate the threat and reduce the risk of fraud and account takeover.
+    </p>
+    <p>
+    As BOTs have become more sophisticated it is harder to distinguish between traffic from a real human and traffic 
+    from automation crafted by a skilful bad actor. The result is often that websites will resort to crude measures 
+    like CAPTCHA to attempt to prove someone is human - something that bad actors can easily bypass and resulting 
+    in a terrible user experience for everyone else.
+    </p>
+    <p>
+    This talk will walk through the timeline of how BOTs have evolved to become one of the hardest problems to 
+    solve in security. Mapping to the OWASP Automated Threat handbook, I will highlight use-cases for automation 
+    against some well known e-commerce platforms, and demonstrate the real world tools used by threat actors today 
+    to conduct account takeover and fraud.
+  bio: |-
+    has over 25 years' experience in the IT industry, including 20 years as a dedicated Security professional 
+    in the Australia Pacific region. He has gained a large amount of experience across the Application Security, 
+    Network Security, Automated Threats, and the DDoS landscape.
+    </p>
+    <p>
+    Guy has been helping large enterprise and government organisations secure their digital assets across on-prem,
+    cloud, and hybrid cloud environments as companies embark on digital transformation projects.
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 0
   block: 8
   track: 0
+  title: What Happens When a Meteor Takes Out My Data Centre?
+  name: Peter Jakowetz
+  org: PrivSec Consulting
+  abstract: |-
+    Resilience is a concept often discussed, but often not well understood. There are a wide range of tools 
+    that engineers can use to improve the availability of their service. You should leave this talk with a 
+    better understanding of concepts such as DR, HA, RPO, RTO and BCP.
+  description: |-
+    In this talk, we'll discuss several key concepts around resiliency in IT. 
+    </p>
+    <p>
+    Specifically, this talk will address:
+    <ul>
+    <li>disaster recovery (DR);</li>
+    <li>high availability (HA);</li>
+    <li>backups;</li>
+    <li>business continuity; and</li>
+    <li>load balancing. 
+    </ul>
+    </p>
+    <p>
+    It will highlight the similarities and differences between these concepts, how they link together, and 
+    how they are used in real-world scenarios.
+  bio: |-
+    runs a security consultancy in Wellington, providing GRC and Penetration testing services. When not 
+    providing assurance to organisations throughout the country, he can often be found hanging out with 
+    his kid, going for walks with his dog, Tui, or procrastinating over the 100 unfinished projects in his garage.
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 0
-  block: 10
+  block: 8
   track: 1
+  title: The CAGE Challenges
+  name: Austin Chamberlain
+  org: New Zealand Defence Force
 
 - plenary: true
-  title: Break for Afternoon Tea - Coffee/Tea Service Provided
   day: 0
   block: 9
   track: 0
   info: true
+  title: Break for Afternoon Tea - Coffee/Tea Service Provided
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 0
   block: 10
   track: 0
+  title: 
+  name: 
+  org: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+    
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 0
-  block: 8
+  block: 10
   track: 1
+  title: 
+  name: 
+  org: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+    
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 0
   block: 11
   track: 0
+  title: 
+  name: 
+  org: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+    
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 0
-  block: 7
+  block: 11
   track: 1
+  title: 
+  name: 
+  org: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+    
 
 - plenary: true
-  title: Wrap-Up - Day 1
   day: 0
   block: 12
   track: 0
   info: false
+  title: Wrap-Up - Day 1
 
 - plenary: true
-  title: Delegate Lounge Closes
   day: 0
   block: 13
   track: 0
   info: true
+  title: Delegate Lounge Closes
 
 - plenary: true
-  name: Evening Activities - On Your Own
   day: 0
   block: 14
   track: 0
   info: true
+  name: Evening Activities - On Your Own
 
 - plenary: true
-  title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
-  name: Coffee/Tea Service Available<br />Delegate Lounge Opens
   day: 1
   block: 0
   track: 0
   info: true
+  title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
+  name: Coffee/Tea Service Available<br />Delegate Lounge Opens
 
 - plenary: true
-  title: Welcome to OWASP New Zealand Day 2023 - Day 2
-  name: John DiLeo
-  org: Conference Chair
   day: 1
   block: 1
   track: 0
   info: false
+  title: Welcome to OWASP New Zealand Day 2023 - Day 2
+  name: John DiLeo
+  org: Conference Chair
   
 - selected: true
   confirmed: false
@@ -219,7 +483,7 @@
   confirmed: false
   plenary: false
   day: 1
-  block: 10
+  block: 2
   track: 1
 
 - selected: true
@@ -251,32 +515,32 @@
   track: 1
 
 - plenary: true
-  title: Break for Lunch - On Your Own
+  title: Break for Lunch
   day: 1
   block: 5
   track: 0
   info: true
 
-- plenary: true
-  title: LEGO Build Ends
+- selected: true
+  confirmed: false
+  plenary: false
   day: 1
   block: 6
   track: 0
-  info: true
 
 - selected: true
   confirmed: false
   plenary: false
+  day: 1
+  block: 6
+  track: 1
+
+- plenary: true
+  title: LEGO<sup>&reg;</sup> Build Ends
   day: 1
   block: 7
   track: 0
-
-- selected: true
-  confirmed: false
-  plenary: false
-  day: 1
-  block: 7
-  track: 1
+  info: true
 
 - selected: true
   confirmed: false
@@ -310,12 +574,12 @@
   confirmed: false
   plenary: false
   day: 1
-  block: 2
+  block: 10
   track: 1
 
 - plenary: true
   title: Conference Closing Session
-  name: Recognition, LEGO Build Video, Prize Giving
+  name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
   day: 1
   block: 11
   track: 0
