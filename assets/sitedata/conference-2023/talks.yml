@@ -154,9 +154,10 @@
     He leads the application security team at Netskope, with a primary focus on integrating security controls in the development
     process and providing Security Testing-as-a-Service to other teams. He loves to understand new security practices and how 
     to practically implement them.
-- selected: true
+
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 0
   block: 5
   track: 0
@@ -371,68 +372,126 @@
   title: Break for Afternoon Tea - Coffee/Tea Service Provided
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 0
   block: 10
   track: 0
-  title: 
-  name: 
-  org: 
+  title: 'Privacy by Design: A standard approach in software development?'
+  name: Chris Esther
+  org: CyberCX
   abstract: |-
-    
+    How should we approach the privacy of personal information when designing new software systems? In this session, 
+    we will review the concept of Privacy by Design, developed by Ann Cavoukian, and examine the recent associated 
+    ISO 31700 standard, using an example software system.
   description: |-
-    
+    In February, the International Standards Organisation (ISO) published ISO 31700, which provides a standardised 
+    approach to Privacy by Design (PbD). In this session, we will review the concept of PbD and examine what contribution 
+    the ISO standard provides. We will use a real-world example application to illustrate the PbD principles.
   bio: |-
-    
+    is a Principal Consultant within the Strategy &amp; Risk practice of CyberCX. He has significant experience in software 
+    development and information security, gained within the financial services, media &amp; digital, and consulting sectors - 
+    in London and New Zealand. He has held senior technology and information security roles - including at TVNZ and Paymark - 
+    and has provided security architecture, PCI DSS, ISO 27001, and privacy advisory to a wide range of commercial and 
+    government organisations in New Zealand.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 0
   block: 10
   track: 1
-  title: 
-  name: 
-  org: 
+  title: What Could Possibly Go Wrong in a Kubernetes Cluster?
+  name: William Koh
+  org: WithSecure
   abstract: |-
-    
+    Dive into the hidden perils of Kubernetes (K8S) in this talk to unravel security pitfalls and master the art of safeguarding 
+    your container orchestration. Join us to explore the realm of Kubernetes, learn best practices, and protect your cluster 
+    against nasty threats.
   description: |-
-    
+    "Hey, client X. We are now the cluster admin of your Kubernetes cluster. Do you maybe have some time for us to walk 
+    you through the assessment?"
+    </p>
+    <p>
+    Kubernetes (K8S) is getting more attention in recent years, due to its fantastic features and supports in driving CI/CD pipelines 
+    for organisations and its ability to orchestrate containers. An attacker has multiple ways to attack a K8S cluster, mainly through 
+    misconfigurations such as in role based access controls (RBAC) or network policies or vulnerabilities in the containers.
+    </p>
+    <p>
+    In this talk, we will reveal activities going on behind the scene in a K8S cluster review from the perspective of an attacker 
+    and will show-case this in various demonstrations. Common threats and attack vectors that could be found in various cluster 
+    environments, such as managed and self-managed, will also be dissected and explained to you. The talk will be concluded with 
+    some of the established ways that you can use to secure a cluster environment.
+    </p>
+    <p>
+    Want to secure your K8S cluster? See you there!
   bio: |-
-    
+    is a Security Consultant from WithSecure Singapore, specialising in penetration testing, Kubernetes and Container security, 
+    and is certified as OSCP, CKA, and CKS. He has experience in supporting and leading multiple offensive security engagements 
+    across application, network, and cloud security. In his free time, William likes exploring new technologies by setting up his own test environment for technical deep dives. 
+    He has also delivered training and workshops at conferences such as Bsides Singapore, SinCon Reloaded 2023 and Australian Cyber 
+    Conference Canberra 2023.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 0
   block: 11
   track: 0
-  title: 
-  name: 
-  org: 
+  title: "Waiter, There's a CVE in My SOUP"
+  name: Kevin Alcock
+  org: Katipo Information Security
   abstract: |-
-    
+    'SOUP' stands for "software of unknown provenance." This is software in your code base that has not been created under your 
+    development process. This talk is about finding known security vulnerabilities in these introduced packages and will include
+    a brief demonstration of how this can be done in the development pipeline.
   description: |-
-    
+    'SOUP' stands for software of unknown (or uncertain) provenance (or pedigree), and is a term often used in the context of 
+    safety-critical and safety-involved systems such as medical software. SOUP is software that has not been developed with a 
+    known software development process or methodology, or which has unknown or no safety-related properties.<sup>&dagger;</sup>
+    </p>
+    <p>
+    This will be an introductory-level technical talk on introducing Software Composition Analysis (SCA) into the development 
+    pipeline. There will be a brief demo.
+    </p>
+    <p>
+    <sup>&dagger;</sup><a href="https://en.wikipedia.org/wiki/Software_of_unknown_pedigree" target="_blank">https://en.wikipedia.org/wiki/Software_of_unknown_pedigree</a>
   bio: |-
-    
+    helps run the Christchurch branch of <a href="https://isig.org.nz/" target="_blank">ISIG</a>. He has been programming for a living since 1986 (yes, longer 
+    than most of you have been alive) after studying at what is now known as Ara Institute of Canterbury. In those 30-plus years he 
+    spent of lot of his time in Enterprise, Financial systems with mobile/internet applications. 2016 he became an 
+    Offensive Security Certified Professional (<a href="https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/" target="_blank">OSCP</a>). 
+    He is the founder and principal consultant at Katipo Information Security.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 0
   block: 11
   track: 1
-  title: 
-  name: 
+  title: Bypassing Anti-Virus using BadUSB
+  name: Cristian Cornea 
   org: 
   abstract: |-
-    
+    During this presentation, we will look at how we can bypass most anti-virus detection using a payload embedded on a BadUSB device, 
+    resulting in a "silver bullet" for gaining initial access inside a victim network. A demo will be also included during the presentation.
   description: |-
-    
+    Agenda for the presentation: 
+    <ul>
+    <li>AMSI Bypass Development</li>
+    <li>Execution Policy Bypass</li>
+    <li>Payload Runner Development</li>
+    <li>Deploying Attack using BadUSB</li>
+    <li>Post-Exploitation Persistence</li>
+    <li>DEMO</li>
+    <li>Prevention</li>
+    </ul>
   bio: |-
-    
+    is a highly credentialed (OSCE | OSEP | OSWE | OSCP | CEH | CPTC | PenTest+ | eWPT | ECIH | CREST) InfoSec professional,
+    providing pentesting and security consultation for clients all over the world: Australia, U.S., U.K., Middle East, 
+    Singapore, India, Central Africa, Europe. Trainer for U.S. Department of Defense, Slovenian National Bureau of Investigation, 
+    Polish Military CERT; Speaker @ Defcamp, HEK.SI, RST Con, HackTheZone, and Unbreakable; EC-Council Certified Ethical Hacker (CEH) 
+    Scheme Committee Member; InfoSec Writer on Medium
 
 - plenary: true
   day: 0
@@ -472,122 +531,264 @@
   name: John DiLeo
   org: Conference Chair
   
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 1
   block: 2
   track: 0
+  title: State of AppSec in New Zealand - 2023
+  name: State of AppSec Survey Team
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 1
   block: 2
   track: 1
+  title: 'Exploiting XSS: alert(1) to admin'
+  name: Dave Reeves
+  org: Aura Information Security
+  abstract: |-
+    The purpose of my talk is to dive deep into client-side injection attacks, which can be initiated from a number of 
+    points within a Web app, and also provide a number of different attack vectors, including internal services, gaining 
+    privilege escalation, and more.
+  description: |-
+    XSS has fallen in the <a href="https://owasp.org/Top10/" target="_blank">OWASP Top Ten</a> in recent years, largely 
+    due to a shift towards using modern front-end frameworks that sanitize user input appropriately by default. However, 
+    XSS is still a prevalent vulnerability in older web apps and can still appear in modern web apps. This talk covers the 
+    broader concepts of web app security surrounding the issue; from developing the code and infrastructure necessary for 
+    exploiting it during penetration testing, to understanding browser security, HTTP security headers, and exploring 
+    successful remediation methods.
+  bio: |-
+    is a penetration tester based in Wellington, NZ. He has a solid background in computer science and technology, a huge 
+    interest in security and taking on outside-the-box challenges. He's been learning Mandarin Chinese for more than 10 years, 
+    is super interested in manual lens photography, optics, astronomy, and learning other technical scientific topics.
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 1
   block: 3
   track: 0
+  title: From DevOps to DevSecOps
+  name: Karan Sharma
+  org: Wise Fox Security
+  abstract: |-
+    Are you struggling to balance security and agility in your organization? Join my talk on Implementing DevSecOps to learn 
+    practical tips and best practices for integrating security into your DevOps pipeline. Transform your organization's security 
+    posture and drive innovation with confidence.
+  description: |-
+    In today's rapidly evolving threat landscape, it's critical to integrate security into every stage of the development lifecycle. 
+    However, traditional security approaches can hinder agility and innovation. This is where DevSecOps comes in, providing a framework 
+    for building security into the DevOps pipeline. In this talk, I will share practical tips and best practices for implementing 
+    DevSecOps in your organization, including how to integrate security as code, use automated security tools, and conduct regular 
+    testing and reviews. Join me to learn how to transform your organization's security posture and drive innovation with confidence. 
+    Don't miss out on this essential topic for any modern organization.
+    </p>
+    <p>
+    We will cover topics such as:
+    <ul>
+    <li>What is DevSecOps and its benefits?</li>
+    <li>Importance of security in DevOps</li>
+    <li>Challenges while implementing DevSecOps</li>
+    <li>How to overcome such challenges</li>
+    <li>Integrating Security into DevOps Processes</li>
+    <li>Best Practices for Implementing DevSecOps and more</li>
+    </ul>
+  bio: |-
+    has been in this field for over 12 years. He has worked as a Pentester for NZ telcos, banks, health sectors and manufacturing 
+    companies. He now runs his own security consulting company called Wise Fox Security, that offers services in Offensive Security 
+    and DevSecOps space. He has also completed a few of the 'customary' certifications, including OSWE, OSCP, eWPTX and Certified 
+    DevSecOps Professional (CDP). Karan has spoken at a number of other security conferences. He has a YouTube channel you can 
+    subscribe to (Wise Fox Security). Other than InfoSec, Karan loves watching and playing football, loves evening runs with his 
+    dog and going to the gym.
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 1
   block: 3
   track: 1
+  title: The Many Sins of Web3
+  name: Stephen Morgan
+  abstract: |-
+    This may shock you, but...did you know that many of the assertions made by blockchain advocates weren't entirely accurate?!? 
+    Let us cherry pick the worst security offenses from a retired cryptocurrency early adopter.
+  description: |-
+    Whether it is the future of finance or a technological Wolpertinger,<sup>&Dagger;</sup> blockchain and its dependencies sure made a splash in 
+    the last few years. Amongst the many promises were how secure the technology was, but what is "security" in the context of 
+    cryptocurrencies and what can we learn from the sector as developers and security practitioners in fiat-land? If this thing 
+    is so secure, then why is my bridge wiped, and all my apes gone? This talk will explore both the obvious (self-custody, 
+    immutability, pseudo-anonymity) and less obvious (UX, programming language design) issues with blockchain broadly from a 
+    technological angle, without all the societal posturing and misappropriation of client funds.
+    </p>
+    <p>
+    <sup>&Dagger;</sup><a href="https://en.wikipedia.org/wiki/Wolpertinger" target="_blank">https://en.wikipedia.org/wiki/Wolpertinger</a>
+  bio: |-
+    is a Security Engineer/Consultant largely within the fintech industry. He enjoys long walks on the beach and getting 
+    Security teams to fund Application Security.
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 1
   block: 4
   track: 0
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 1
   block: 4
   track: 1
 
 - plenary: true
-  title: Break for Lunch
+  info: true
   day: 1
   block: 5
   track: 0
-  info: true
+  title: Break for Lunch
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 1
   block: 6
   track: 0
+  title: Revamping OWASP DevSecOps Guidelines
+  name: Milan Singh Thakur
+  org: 
+  abstract: |-
+    This talk will present a deep dive into the revamped OWASP DevSecOps Guidelines. Revolutionise your Cyber Security strategy 
+    with OWASP DevSecOps - the game-changing approach that seamlessly integrates security into every stage of software development. 
+    Don't settle for less, upgrade to DevSecOps now!
+  description: |-
+    The OWASP DevSecOps Guidelines project provides a comprehensive set of best practices for integrating security into the DevOps 
+    process. This is essential because traditional security measures are often insufficient to protect modern software systems that 
+    are deployed frequently and rapidly. By following these guidelines, organizations can better manage risk, reduce vulnerabilities, 
+    and ultimately build more secure software. It is crucial for every organization to understand and implement DevSecOps because the 
+    cost of a data breach can be devastating - not only in terms of financial loss but also damage to reputation and customer trust. 
+    A strong DevSecOps strategy can help organizations prevent breaches before they occur, giving them a competitive advantage and peace of mind.
+  bio: |-
+    is an active member of the cyber security community and has made significant contributions to the field. He is a frequent 
+    speaker at industry conferences and has written extensively on topics such as DevSecOps, cloud security, and threat modelling. 
+    Milan is also an active contributor to the OWASP community, a non-profit organization dedicated to improving software security.
+    </p>
+    <p>
+    As part of his work with OWASP, Milan has contributed to several important initiatives, including the DevSecOps Guidelines project. 
+    He has also served as a mentor to emerging cyber security professionals and is committed to promoting knowledge sharing and 
+    collaboration within the industry.
+    </p>
+    <p>
+    Overall, Milan's contributions to the cyber security domain have been significant and far-reaching. He is a trusted thought leader 
+    in the field and is highly respected by his peers for his expertise, dedication, and commitment to excellence.
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 1
   block: 6
   track: 1
+  title: Understanding and Securing Cloud Resources using a Layered Approach
+  name: Ruskin Dantra
+  org: Amazon Web Services
+  abstract: |-
+    Securing your resources in the cloud starts simple although with an ever-changing threat landscape, it soon gets complicated. 
+    We'll take you through a series of exercises to help you understand how you can secure cloud resources from a networking and 
+    connectivity perspective using a layered approach.
+  description: |-
+    As cloud adoption accelerates across the industry, building a secure network in the cloud remains one of the top priorities. 
+    In this talk, you'll learn about architecture approach and how multiple layers of security controls can be defined to build a 
+    resilient, secure and scalable network in the cloud. At the end of this talk you will walk away with an understanding of the 
+    differences between identity, resource and endpoint policies, how they work together and how you can debug and diagnose any issues.
+  bio: |-
+    has been in the technology space for 18 years and is a software engineer by trade. He has spent most of his career in the 
+    application development space using C++ and C# developing WinForms and XAML applications and then moving to web applications 
+    using ASP.NET and React. He started his cloud journey just under a decade ago when he launched his first VM in AWS (an EC2 
+    instance). He currently works at AWS in Auckland as a Senior Solutions Architect helping customers accelerate their cloud journey. 
+    His passions are software engineering and networking.
 
 - plenary: true
-  title: LEGO<sup>&reg;</sup> Build Ends
+  info: true
   day: 1
   block: 7
   track: 0
-  info: true
+  title: LEGO<sup>&reg;</sup> Build Ends
 
-- selected: true
-  confirmed: false
-  plenary: false
+- plenary: false
+  selected: true
+  confirmed: true
   day: 1
   block: 8
   track: 0
+  title: Thoughts on Threat Modelling
+  name: John DiLeo
+  org: IriusRisk and OWASP NZ
+  abstract: |-
+    As an Application Security Consultant, I've had numerous opportunities over the years, to present training and talks on threat modelling. 
+    Over the years, my thinking has evolved, and I've focused on using threat modeling as a source of "consequential" security 
+    requirements - security features our applications require <strong>as a consequence</strong> of including a functional capability specified 
+    by or on behalf of our users.
+    </p>
+    <p>
+    The approach I teach and facilitate is based on Adam Shostack's "Four Questions," but has been expanded and (I think) clarified. In this 
+    talk, I'll briefly touch on the "Five Ws" (Why, What, When, Where, and Who) of threat modelling, then present an overview of my 
+    "Seven Questions" approach to modelling.
+  bio: |-
+    is the Auckland-area leader of the OWASP New Zealand Chapter. He heads up iriusRisk's Solution Architecture team for 
+    the Asia/Pacific (APAC) Region, providing support and guidance to customers in launching, managing, and maturing their 
+    enterprise threat modelling programs. Until recently, John led the Application Security Services team at Datacom, and 
+    previously served as the internal Application Security Architect at two Auckland-based companies.
+    </p>
+    <p>
+    Before turning to full-time roles in application security, John was active as a Java enterprise architect and Web 
+    application developer. In earlier lives, John has been a full-time professor, and had specialised in developing 
+    discrete-event simulations of large distributed systems, in a variety of languages.
+    </p>
+    <p>
+    John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, leads the OWASP State of AppSec
+    Survey Project, and is a member of the OWASP Education and Training Committee.
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 1
   block: 8
   track: 1
 
 - plenary: true
-  title: Break for Afternoon Tea - Coffee/Tea Service Provided
+  info: true
   day: 1
   block: 9
   track: 0
-  info: true
+  title: Break for Afternoon Tea - Coffee/Tea Service Provided
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 1
   block: 10
   track: 0
 
-- selected: true
+- plenary: false
+  selected: false
   confirmed: false
-  plenary: false
   day: 1
   block: 10
   track: 1
 
 - plenary: true
-  title: Conference Closing Session
-  name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
+  info: false
   day: 1
   block: 11
   track: 0
-  info: false
+  title: Conference Closing Session
+  name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
 
 - plenary: true
-  name: Post-Conference Gathering - Location TBC
+  info: true
   day: 1
   block: 12
   track: 0
-  info: true
+  name: Post-Conference Gathering - Location TBC
