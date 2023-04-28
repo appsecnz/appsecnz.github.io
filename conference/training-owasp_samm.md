@@ -19,7 +19,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## Abstract
 
-Incorporating a mix of lectures and workshops, this training delivers an in-depth view of and practical implementation of the [https://owaspsamm.org OWASP Software Assurance Maturity Model (SAMM)]. SAMM provides an effective and measurable way for organizations to analyze and improve their software security posture.
+Incorporating a mix of lectures and workshops, this training delivers an in-depth view of and practical implementation of the [OWASP Software Assurance Maturity Model (SAMM)](https://owaspsamm.org). SAMM provides an effective and measurable way for organizations to analyze and improve their software security posture.
 
 ## Course Details 
 
