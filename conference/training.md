@@ -56,23 +56,23 @@ Pre-Conference Training registration will **CLOSE** on Friday, 23 June. From 24 
 
 #### Two-day, in-person (classroom) training - Tuesday and Wednesday, 4-5 July:
 
-* *Hacking Android, iOS, and IoT Applications by Example*, Abraham Aranguren
-* *Hacking Modern Web Apps: Master the Future of Attack Vectors*, Instructor TBC (7A Security)
-* *Cloud Security Masterclass: Defender's Guide to Security AWS and Azure Infrastructure*, Abhinav Singh
+* *[Hacking Android, iOS, and IoT Applications by Example](training-hacking_mobile_apps.md)*, Abhishek J.M. (7A Security)
+* *[Hacking Modern Web Apps: Master the Future of Attack Vectors](training-hacking_web_apps.md)*, Ashwin Shenoi (7A Security)
+* *[Cloud Security Masterclass: Defender's Guide to Security AWS and Azure Infrastructure](training-cloud_security.md)*, Abhinav Singh
 
 #### One-day, in-person (classroom) training - Tuesday, 4 July:
 
-* *Hacking Android and IoT Applications by Example*, Abraham Aranguren
-* *[Secure Your SDLC using OWASP SAMM - ASAP!](training-owasp_samm.md)*, Raafey Khan
+* *[Hacking Android and IoT Applications by Example](training-hacking_android_apps.md)*, Abhishek J.M. (7A Security)
+* *[Secure Your SDLC using OWASP SAMM - ASAP!](training-owasp_samm.md)*, Raafey Khan (CyberCX)
 
 #### One-day, in-person (classroom) training - Wednesday, 5 July:
 
-* *Hacking iOS and IoT Applications by Example*, Abraham Aranguren
-* *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright
+* *[Hacking iOS and IoT Applications by Example](training-hacking_ios_apps.md)*, Abhishek J.M. (7A Security)
+* *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright (SalesForce)
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 5 July:
 
-* *[Application Security 'Refresher' Training](training-appsec_refresher.md)*, John DiLeo
+* *[Application Security 'Refresher' Training](training-appsec_refresher.md)*, John DiLeo (OWASP New Zealand)
 
 **NOTES:** 
 
