@@ -83,7 +83,8 @@ And, in case you're concerned about confidentiality issues, all participants are
 
 **Raafey Khan**   
 
-An eternal security optimist, Raafey has been helping organisations in NZ and the UK understand their cyber risk and why they should at least *try* to embed security into their development processes.
+An eternal security optimist, Raafey’s goal is to help organisations understand their cyber risk and why they should at least *try* 
+to embed security into their development processes.
 
-As a founding member of Datacom's Application Security Services team, Raafey attempts to do more of the same for Datacom's clients, with a real focus on automating everything and making security stupidly simple.
-
+Raafey leads the Application Security team for CyberCX globally, with a focus on automating everything and making security simple 
+for development teams.
