@@ -58,3 +58,11 @@ Described as inspiring and life-changing, Lauren is a dynamic and highly engagin
 When she's not speaking about resilience, leadership, emotional intelligence and workplace wellbeing, Lauren is at home in rural Manawatu, 
 where she lives with her husband, three children and a menagerie of animals. She can often be found hosting dinner parties, playing board 
 games, or spending time outdoors.
+
+#### Testimonials
+
+"I can HIGHLY recommend Lauren, she is a fabulous presenter with passion, zest, humour and professionalism - she is a truly transformational person who will affect your world in a profoundly positive way! She is MUST see and leader in her field." – *Angela Cossey*
+
+"Lauren Parsons shined bright as a keynote speaker at FMI’s PD Week, engaging our delegates with an endless supply of energy that had them up and moving around with a smile on their faces. It was a joy to work with Lauren." – *Chris Egan, CEO, Financial Management Institute of Canada*
+
+"Quite simply the best course I've ever done" – *Kym Weiss, Practice Manager*
