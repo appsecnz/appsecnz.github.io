@@ -15,7 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 # {{ page.description }}
 
-## 5 - 8 July 2023
+## 4 - 7 July 2023
 
 ## Auckland University of Technology (AUT) City Campus
 
