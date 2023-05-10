@@ -197,5 +197,12 @@ Upon completing this training, attendees will have learned to:
 
 ## Your Instructor
 
-**Ashwin Shenoi**   
+**Ashwin Shenoi** is a Senior Security Engineer at CRED, with an avid passion for application security. He is 
+highly skilled in application penetration testing and automation. Ashwin is a core member of team bi0s, a 
+top-ranked Capture The Flag (CTF) team, according to CTFTime. In his role as head of the Web Security team at team bi0s, 
+he also serves as the core challenge setter and organizer for various editions of InCTF and other CTFs organised by the team. 
+Ashwin is also a Security Trainer with 7ASecurity, and has presented talks and security training at various security conferences
+such as BlackHat Asia, BlackHat USA, BlackHat Europe, Nullcon, and ThreatCon. Ashwin has a strong background in identifying 
+and exploiting vulnerabilities in open-source applications, and he has been credited with multiple CVEs as part of his contributions 
+to the security community.
 

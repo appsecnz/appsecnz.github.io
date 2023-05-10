@@ -190,5 +190,13 @@ Upon completing this training, attendees will have learned to:
 
 ## Your Instructor
 
-**Abhishek J.M.**   
+<img src="/assets/images/2023/Photo-Abhishek.jpeg" alt="Photo of Abhishek JM" style="float: left; width: 125px; margin-right: 15px;" />
 
+**Abhishek J.M.** is a Lead Security Engineer at CRED with primary research focus in mobile security. With 
+years of experience in security, he leads two projects - Adhrit and EVABS - and has presented his work at 
+prominent conferences like BlackHat Asia 2023, BlackHat US 2022, BlackHat Europe 2021, OWASP Seasides 2019, 
+ThreatCon 2019 and BlackHat Asia 2020 where his tool (Adhrit) was featured PortSwiggers *The Daily Swig*. He 
+has also delivered talks at community Meetups like Cysinfo &amp; bi0s Meetup, and was an assisting trainer 
+at the International Summer School for Information Security and Protection, 2016. As a trainer with 7ASecurity, 
+he has conducted training at notable conferences like the 2012 AppSec New Zealand Conference, 44Con 2020 &amp; 2022, 
+ThreatCon 2021, c0c0n 2019 &amp; 2022, and Shu-ha-ri Labs 2020.  
