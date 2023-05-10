@@ -13,8 +13,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }   
 
-# Overcome the Overwhelm
-## Boost Resilience, Reduce Stress, and Supercharge Your Productivity
+# Overcome the Overwhelm: Boost Resilience, Reduce Stress, and Supercharge Your Productivity
 
 ## One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2023
 

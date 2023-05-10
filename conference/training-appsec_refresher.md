@@ -45,8 +45,6 @@ The topics we'll cover during this half-day session include:
 
 ## Your Instructor
 
-**John DiLeo**
-
 <img src="/assets/images/2023/Photo-John_DiLeo.jpg" alt="Photo of John DiLeo" style="float: left; width: 125px; margin-right: 15px;" />
 
 **Dr. John DiLeo** is the Auckland-area leader of the OWASP New Zealand Chapter. John currently works as IriusRisk's Solution Architect for the Asia/Pacific Region. Until recently,
