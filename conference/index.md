@@ -135,7 +135,7 @@ As an added bonus, a few lucky conference delegates will go home with LEGO sets,
 
 To be eligible to win LEGO sets, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desks (on Level 3 and in the Sponsor Exhibition area).
 
-The **LEGO Build** is brought to you by our **LEGO Build Sponsor**.
+The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](https://iriusrisk.com)**.
 
 **Volunteer Lounge / Speaker Green Room -** Throughout the main conference, speakers and volunteers can visit our restricted-access lounge on Level 3 of the WG Building. There, you'll be able to monitor the goings-on in both conference tracks, go over (or write) your slides, grab a cup of coffee or a snack, and relax before your moment of glory on our stage. Conference volunteers can use the space to relax, work on various tasks, or have a quiet catch-up.
 
@@ -149,7 +149,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor**.
 * **Last Day for T-Shirt Purchases:** 8 June 2023 - Orders go to the printer the next morning!
 
 * **Conference and Training Registration Opened:** 3 April 2023
-* **[Call for Presentations](https://papercall.io/owaspnz2023) (CFP) Closes:** 28 April 2023 (11:59 p.m.)
+* **Call for Presentations(CFP) Closed:** 28 April 2023
 * **Call for Training (CFT) Closed:** 28 February 2023
 * **CFP and CFT Opened:** 26 January 2023
 
