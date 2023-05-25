@@ -91,30 +91,32 @@ The fee for this one-of-a-kind *a la carte* sponsorship is **$5,000**, to cover 
 All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 {: style="font-weight: bold; font-size: small;" }
 
-|        |Diamond   |Platinum    |Gold    |Silver    |Bronze    |LEGO Build |
-|-------:|:--------:|:----------:|:------:|:--------:|:--------:|:---------:|
-|**Enrolment Limit**| 1 | 3<br />**(1 remaining)** | 8<br />**(4 remaining)** | -- | -- | 1<br />**(SOLD OUT)** |
-|**Rate**|$12,800|$7,800|$5,350|$3,750|$2,350|$5,000|
-|**Exhibition Space Fee**|**Incl.**|**Incl.**|$450|$300|$300|$300|
-|**Banner in Conference Lobby** (see notes)|**Yes (2)**|**Yes**|No|No|No|No|
-|**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (2)**|**Yes (1)**|No|No|No|
-|**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|**Yes**|No|**Yes**|
-|**Banner in Delegate Lounge** (see notes)|No|No|No|No|No|**Yes (2)**|
-|**Priority Demo Room Access**|**Yes**|**Yes**|**Yes**|No|No|No|
-|**Company Description on Conference Web Page**|**400 words**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
-|**Company *Spotlight* Description on Web Page** (see notes)|**100 words**|**100 words**|**100 words**|**100 words**|No|**100 words**|
-|**Pre-Conference Reception Tickets**|**10**|**8**|**6**|**4**|**2**|**4**|
-|**Exhibitor Passes** (see notes)|**8**|**6**|**4**|**2**|**2**|**2**|
-|**Free Conference Passes** (see notes)|**20**|**15**|**10**|**5**|**5**|**5**|
-|**Training Credits** (see notes)|**16**|**12**|**8**|**4**|**2**|No|
-|**Logo on Delegate Badges**|**Yes**|**Yes**|**Yes**|No|No|No|
-|**Logo on Conference T-Shirts**|**Yes**|**Yes**|**Yes**|No|No|No|
-|**Logo on Room Signs**|**Yes**|**Yes**|**Yes**|No|No|No|
-|**Logo on Conference Tote Bags**|**Yes**|**Yes**|**Yes**|**Yes**|No|**Yes**|
-|**Logo on Conference Website**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
-|**Mention in Pre-Conference Publicity**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
-|**Recognition during Opening/Closing Sessions**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
-|**Promotional Items in Conference Tote Bags** (see notes)|**Yes<br />(up to 5)**|**Yes<br />(up to 3)**|**Yes<br />(up to 2)**|**Yes (1)**|**Yes (1)**|**Yes (1)**|
+|        |Platinum    |Gold    |Silver    |Bronze    |LEGO Build |
+|-------:|:----------:|:------:|:--------:|:--------:|:---------:|
+|**Rate**|$7,250|$5,350|$3,750|$2,350|$5,000<br />**(SOLD)**|
+|**Exhibition Space Fee**|$550|$450|$300|$300|$300|
+|**Exhibition Spaces**| 4<br />**(1 LEFT)** | 8<br />**(4 LEFT)** | 4<sup>&dagger;</sup> | 4<sup>&dagger;</sup> | -- |
+|**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
+|**Banner at Side of Stage** (see notes)|**Yes (2)**|**Yes (1)**|No|No|No|
+|**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|No|**Yes**|
+|**Banner in Delegate Lounge** (see notes)|No|No|No|No|**Yes (2)**|
+|**Priority Demo Room Access**|**Yes**|**Yes**|No|No|No|
+|**Company Description on Conference Web Page**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
+|**Company *Spotlight* Description on Web Page** (see notes)|**100 words**|**100 words**|**100 words**|No|**100 words**|
+|**Pre-Conference Reception Tickets**|**8**|**6**|**4**|**2**|**4**|
+|**Exhibitor Passes** (see notes)|**6**|**4**|**2**|**2**|**2**|
+|**Free Conference Passes** (see notes)|**15**|**10**|**5**|**5**|**5**|
+|**Training Credits** (see notes)|**12**|**8**|**4**|**2**|No|
+|**Logo on Delegate Badges**|**Yes**|**Yes**|No|No|No|
+|**Logo on Conference T-Shirts**|**Yes**|**Yes**|No|No|No|
+|**Logo on Room Signs**|**Yes**|**Yes**|No|No|No|
+|**Logo on Conference Tote Bags**|**Yes**|**Yes**|**Yes**|No|**Yes**|
+|**Logo on Conference Website**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
+|**Pre-Conference Publicity**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
+|**Recognition during Sessions**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
+|**Promotional Items** (see notes)|**Yes<br />(up to 3)**|**Yes<br />(up to 2)**|**Yes (1)**|**Yes (1)**|**Yes (1)**|
+
+<sup>&dagger;</sup> A *total* of four (4) exhibition spaces are available for Silver and Bronze sponsors.
 
 ## Exhibition Space
 
