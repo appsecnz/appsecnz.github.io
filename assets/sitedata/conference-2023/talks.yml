@@ -360,9 +360,48 @@
   day: 0
   block: 8
   track: 1
-  title: The CAGE Challenges
-  name: Austin Chamberlain
-  org: New Zealand Defence Force
+  title: Breaking Mobile App Defenses with Frida and Reverse Engineering
+  name: Shofe Miraz
+  org: CyberCX
+  abstract: |-
+    Mobile app testing can often be challenging, especially with built-in anti-tampering detection in place. 
+    Join us as we will explore the secrets for bypassing these checks and share practical tips for developers 
+    to make reverse engineering and tampering mobile application more difficult.
+  description: |-
+    Are you a mobile app developer interested in safeguarding your app from tampering and reverse engineering 
+    attempts? Or are you a security researcher curious about the latest techniques for bypassing anti-tampering 
+    libraries in modern mobile applications?
+    </p>
+    <p>
+    After evaluating several mobile applications built using Flutter and similar frameworks, we have noticed the 
+    use of anti-tampering libraries, particularly in financial applications, to detect and protect the app from 
+    running on modified or higher-privilege devices. While this approach may provide some assurance to 
+    companies/developers, it poses a challenge for security researchers who wish to analyze the application's security 
+    aspects. Bypassing these checks can also be time-consuming, due to the extensive checks performed by popular 
+    frameworks such as IOSSecuritySuite for iOS and Rootbear for Android.
+    </p>
+    <p>
+    In this presentation, we will discuss the difficulties of working with precompiled applications where the 
+    source code is not readily available. We will share reverse engineering techniques to identify the functions 
+    responsible for the anti-tampering and anti-root detection checks. Furthermore, we will attempt to bypass the 
+    checks with the use of a well-known dynamic instrumentation framework, <strong>Frida</strong>. The aim is to 
+    demonstrate that, with the appropriate tools and some patience, it is possible to overcome these protection 
+    mechanisms.
+    </p>
+    <p>
+    The talk will also provide developers with guidance on making these tampering/reverse engineering efforts 
+    more difficult. The primary message is that as it is feasible to bypass most checks with enough time and effort, 
+    adding complexity to the app’s security measures can discourage the competition.
+    </p>
+    <p>
+    A few technical aspects are present in this presentation such as the source code of these open-source detection 
+    libraries, assembly code, and a demo of the tools in action. While experience with mobile app testing is 
+    advantageous, it is not required for this talk.
+  bio: |-
+    works as a security consultant for CyberCX. He has four years of combined industry penetration testing experience, 
+    is particularly interested Web/Mobile application security, and loves sharing his knowledge with others. Outside of 
+    work, he actively co-organizes and presents in a Monthly Security meetup, "Hack And Learn," where he facilitates 
+    learning both hacking and defending using various tools and techniques.
 
 - plenary: true
   day: 0
@@ -653,6 +692,7 @@
 - plenary: false
   selected: true
   confirmed: true
+  remote: true
   day: 1
   block: 6
   track: 0
