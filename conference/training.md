@@ -68,7 +68,7 @@ Pre-Conference Training registration will **CLOSE** on Friday, 23 June. From 24 
 #### One-day, in-person (classroom) training - Wednesday, 5 July:
 
 * *[Hacking iOS and IoT Applications by Example](training-hacking_ios_apps.md)*, Abhishek J.M. (7A Security)
-* *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright (SalesForce)
+* *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright (Aiven)
 * *[Overcome the Overwhelm: Boost Resilience, Reduce Stress, and Supercharge Your Productivity](training-overcome_the_overwhelm.md)*, Lauren Parsons
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 5 July:

@@ -23,7 +23,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZST)
 
-**Instructor:** Wade Winright   
+**Instructor:** Wade Winright (Aiven)   
 
 **Course Fee:** NZ $500.00 (plus GST and ticketing fees)
 
@@ -47,4 +47,4 @@ Everyone from pen-testers, to auditors, to compliance nerds, to software enginee
 
 **Wade Winright**
 
-Based out of Auckland, Wade is a Director of Security Assurance at [Salesforce](https://www.salesforce.com/au/) who is passionate to make this series of tubes we call home a safer place for all, and has been modelling threats for far more years than he’d care to admit. Twitter: [@vashta_nerdrada](https://www.twitter.com/vashth_nerdrada)
+Based out of Auckland, Wade is Senior Director of Global Security Operations at [Aiven](https://www.aiven.io) who is passionate to make this series of tubes we call home a safer place for all, and has been modelling threats for far more years than he’d care to admit. Twitter: [@vashta_nerdrada](https://www.twitter.com/vashth_nerdrada)

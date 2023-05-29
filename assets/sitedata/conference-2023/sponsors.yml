@@ -167,13 +167,30 @@
   image: /assets/images/2023-sponsors/Logo-IriusRisk.png
   url: https://iriusrisk.com/
   spotlight: |-
-    IriusRisk is the only turnkey Threat Modeling Solution for Security Champions and Developers. It 
-    enables Dev teams to design secure software before they write a line of code, and enables CISOs 
-    to manage software security risk.  At scale.
+    <strong>Secure Software By Design. Automated.</strong>
+    </p>
+    <p>
+    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
+    </p>
+    <p>
+    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
+    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
+    security risk. At scale.
   description: |-
-    IriusRisk is the only turnkey Threat Modeling Solution for Security Champions and Developers. It 
-    enables Dev teams to design secure software before they write a line of code, and enables CISOs 
-    to manage software security risk.  At scale.
+    We are IriusRisk, the industry leader in automated threat modeling and secure software design, working 
+    with clients that include several of the top 10 Globally Systemically Important Banks (G-SIBs). Our platform 
+    automates the threat modeling process, enabling developers to design and build secure software. At scale.
+    </p>
+    <p>
+    <strong>Secure Software By Design. Automated.</strong>
+    </p>
+    <p>
+    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
+    </p>
+    <p>
+    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
+    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
+    security risk. At scale.
 - active: true
   level: 3
   name: IriusRisk
@@ -181,13 +198,30 @@
   image: /assets/images/2023-sponsors/Logo-IriusRisk.png
   url: https://iriusrisk.com/
   spotlight: |-
-    IriusRisk is the only turnkey Threat Modeling Solution for Security Champions and Developers. It 
-    enables Dev teams to design secure software before they write a line of code, and enables CISOs 
-    to manage software security risk.  At scale.
+    <strong>Secure Software By Design. Automated.</strong>
+    </p>
+    <p>
+    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
+    </p>
+    <p>
+    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
+    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
+    security risk. At scale.
   description: |-
-    IriusRisk is the only turnkey Threat Modeling Solution for Security Champions and Developers. It 
-    enables Dev teams to design secure software before they write a line of code, and enables CISOs 
-    to manage software security risk.  At scale.
+    We are IriusRisk, the industry leader in automated threat modeling and secure software design, working 
+    with clients that include several of the top 10 Globally Systemically Important Banks (G-SIBs). Our platform 
+    automates the threat modeling process, enabling developers to design and build secure software. At scale.
+    </p>
+    <p>
+    <strong>Secure Software By Design. Automated.</strong>
+    </p>
+    <p>
+    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
+    </p>
+    <p>
+    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
+    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
+    security risk. At scale.
 - active: false
   level: 2
   name: Snyk
@@ -206,14 +240,49 @@
     <p>
     Snyk’s unique combination of developer-first tooling and best in class security depth 
     enables businesses to easily build security into their continuous development process.
-- active: false
-  level: 4
-  name: SEQA Information Security
-  anchor: seqa
-  image: /assets/images/2023-sponsors/Logo-SEQA-150.png
-  url: https://www.seqa.co.nz/
-  spotlight: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
-  description: At SEQA Information Security our mission is to make a difference in the resilience of New Zealand businesses from cyberattacks. We do this by providing world-class information security services and solutions that are relevant to modern businesses.</p><p>SEQA brings together highly-skilled information security professionals to offer a range of modern security advisory solutions that are relevant in today’s fast-paced marketplace.</p><p>Our partnership with quality assurance is what makes us agile, innovative and flexible. It allows us to draw on a wide range of complimentary skills that are critical to building robust applications such as Business Analysis, Software Engineering, Automation, Functional and Performance testing. We can offer our customers an end to end secure quality assurance service.</p><p>SEQA ensures the security needs across a range of industries including; government, corporates and medium-sized business.
+- active: true
+  level: 3
+  name: Planit
+  anchor: planit
+  image: /assets/images/2023-sponsors/Logo-Planit-CMYK.jpg
+  url: https://www.planittesting.com/
+  spotlight: |-
+    Planit empowers businesses with vision, precision, and independence to enhance their software quality, 
+    delivery processes, and security posture. Our dedicated security specialists provide organisations with 
+    the expertise and tools to mitigate security risks, protect data, resolve vulnerabilities, and safeguard 
+    their reputation.
+    </p>
+    <p>
+    For over two decades, leading companies worldwide have relied on Planit to optimise their applications, 
+    ensuring a seamless, speedy, and exceptional user experience. Moreover, we assist organisations in 
+    transforming their delivery by adopting modern tools and practices that enhance efficiency, enable resilience, 
+    ensure security, and drive continuous quality.
+  description: |-
+    Planit empowers businesses with vision, precision, and independence to enhance their software quality, 
+    delivery processes, and security posture. Our dedicated security specialists provide organisations with 
+    the expertise and tools to mitigate security risks, protect data, resolve vulnerabilities, and safeguard 
+    their reputation.
+    </p>
+    <p>
+    For over two decades, leading companies worldwide have relied on Planit to optimise their applications, 
+    ensuring a seamless, speedy, and exceptional user experience. Moreover, we assist organisations in 
+    transforming their delivery by adopting modern tools and practices that enhance efficiency, enable resilience, 
+    ensure security, and drive continuous quality.
+    </p>
+    <p>
+    Our innovative security solution, Planit Strike, offers continuous application protection tailored to the 
+    specific needs of organisations. It can be seamlessly integrated into their CI/CD pipeline or used on-demand. 
+    With Planit Strike, organisations can shift left, increasing velocity upstream while maintaining the highest 
+    level of security.
+    </p>
+    <p> 
+    Recognised in Gartner's Magic Quadrant for Application Testing Services, Worldwide, our 2,000+ specialist 
+    consultants are industry leaders in quality assurance and engineering. They come backed by a hub of shared 
+    knowledge, test assets, accelerators, and our guarantee of testing efficiencies.
+    </p>
+    <p>
+    Being ISO 27001 Certified, businesses can be confident that they are securely engaging the right people with 
+    the right skills to achieve the right outcomes, whether delivering locally or remotely.
 - active: true
   level: 3
   name: Tesserent 
