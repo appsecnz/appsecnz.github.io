@@ -76,7 +76,7 @@ This year, we've made a few slight adjustments to our Premier Sponsorship packag
 * Each Premier Sponsor package includes a number of free conference passes and conference t-shirts ($40 value per person)
 * Each Sponsor Exhibition space ("booth") includes a number of vouchers, for our catered lunch each day.
 
-### LEGO Build and Video Sponsorship
+### LEGO Build and Video Sponsorship (SOLD)
 
 In addition to the tiered sponsorship packages detailed below, we're continuing this exciting *a la carte* opportunity: A LEGO Build Sponsorship! Beginning with the 2022 conference, we've added a Delegate Lounge, adjacent to the Sponsor Exhibition Area. In the Delegate Lounge, conference participants will be able to take part in group builds of several LEGO sets throughout the conference. 
 
@@ -95,7 +95,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |-------:|:----------:|:------:|:--------:|:--------:|:---------:|
 |**Rate**|$7,250|$5,350|$3,750|$2,350|$5,000<br />**(SOLD)**|
 |**Exhibition Space Fee**|$550|$450|$300|$300|$300|
-|**Exhibition Spaces**| 4<br />**(1 LEFT)** | 8<br />**(4 LEFT)** | 4<sup>&dagger;</sup> | 4<sup>&dagger;</sup> | -- |
+|**Exhibition Spaces**| 4<br />**(1 LEFT)** | 8<br />**(3 LEFT)** | 4<sup>&dagger;</sup> | 4<sup>&dagger;</sup> | -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (2)**|**Yes (1)**|No|No|No|
 |**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|No|**Yes**|

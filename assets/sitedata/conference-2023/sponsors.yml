@@ -222,8 +222,8 @@
     IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
     Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
     security risk. At scale.
-- active: false
-  level: 2
+- active: true
+  level: 3
   name: Snyk
   anchor: snyk
   image: /assets/images/2023-sponsors/Logo-Snyk-225.png
