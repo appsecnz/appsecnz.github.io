@@ -111,7 +111,7 @@
   block: 4
   track: 1
   remote: false
-  title: How to Have Visibility and Security of Your CI/CD Ecosystem
+  title: How to Have Visibility and Security <em>of</em> Your CI/CD Ecosystem
   name: Pramod Rana
   org: Netskope
   abstract: |-
@@ -156,11 +156,27 @@
     to practically implement them.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 0
   block: 5
   track: 0
+  title: OWASP Top 10 Overview
+  name: Kirk Jackson
+  org: Lightspeed and OWASP NZ
+  abstract: |-
+    The OWASP Top 10 is a flagship project for the OWASP foundation, and the first thing people think of.
+    </p>
+    <p>
+    This talk will introduce you to the OWASP Top 10 and get you excited about the rest of the day!
+  bio: |-
+    works at Lightspeed, co-leads the OWASP Wellington meetup and has previously helped organise the annual OWASP NZ Day in Auckland.
+    </p>
+    <p>
+    Kirk worked as a web developer before switching to the defence team - setting up Xero’s security practice, working as a pen tester, and in defence roles at several companies.
+    </p>
+    <p>
+    Mastodon: @kirk@pageofwords.com
 
 - plenary: false
   selected: true
@@ -576,8 +592,36 @@
   day: 1
   block: 2
   track: 0
-  title: State of AppSec in New Zealand - 2023
-  name: State of AppSec Survey Team
+  title: 'The Enigmatic Eight: A cryptic tale of influential women in cyber security'
+  name: Toni James
+  org: Salesforce
+  abstract: |- 
+    This talk will highlight influential women in cyber security history, but this isn't your usual list of women in tech. 
+    They are unique pioneers who truly contributed to information security in remarkable ways, with very little recognition 
+    and delivered in the style of a Murder Mystery graphic novel.
+  description: |-
+    <strong>Prologue: An Invitation to the Manor</strong>
+    </p>
+    <p>
+    On a foggy evening, and the edge of a small village, stood a grand, old manor. Eight envelopes adorned with intricate 
+    calligraphy found their way to the hands of eight exceptional women. Each invitation bore the same cryptic message:
+    </p>
+    <p>
+    <em>Join us at Cypher Manor to unravel a murder most mysterious.</em>
+    </p>
+    <p>
+    As the clock struck eight, the women arrived, and the grand hall echoed with whispers of introductions. Little did 
+    they know that they were about to embark on a thrilling journey through the enigmatic world of cyber security.
+    </p>
+    <p>
+    Intrigued? Join us as we delve into the feats and accomplishments of eight historic heroines, all while they search 
+    for clues to solve the <strong>Murder Mystery at Cypher Manor</strong>.
+  bio: |-
+    is an accomplished security engineer, consultant, software engineer, conference organiser, committee member and speaker. 
+    With a passion for increasing the representation of women and minorities in the tech industry, she focuses on encouraging 
+    young women and career changers to join her in challenging the status quo and breaking down barriers. Outside of work, 
+    Toni is an avid snowboarder, mountain biker, and hiker enjoying her life with her family and dogs in the Korowai mountains 
+    in the South Island of New Zealand.
 
 - plenary: false
   selected: true
@@ -669,18 +713,71 @@
     Security teams to fund Application Security.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 1
   block: 4
   track: 0
+  title: Leverage OWASP Projects and Tools to Secure Your SDLC
+  name: Raafey Khan
+  org: CyberCX
+  abstract: |-
+    OWASP has over 200 projects to help you build secure software. I'll be talking about one of my favourites - the Software 
+    Assurance Maturity Model (SAMM) - and how you can use other OWASP projects and tools to meet the requirements and mature 
+    your application security maturity.
+  description: |-
+    The OWASP Software Assurance Maturity Model (SAMM) is a great resource to understand your current application security 
+    maturity and what activities you need to undertake to mature your application security practices. In this talk, I'll provide 
+    a "how-to" guide on implementing these activities across the 5 SAMM domains using various other OWASP projects, tools and frameworks.
+  bio: |-
+    is an eternal security optimist. His goal is to help organisations understand their cyber risk and why they should <em>at least try</em> 
+    to embed security into their development processes.
+    </p>
+    <p>
+    Raafey leads the Application Security team for CyberCX globally, with a focus on automating everything and making security simple 
+    for development teams.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 1
   block: 4
   track: 1
+  title: 'FOSSology: OSS for Open-Source License Compliance'
+  name: Gaurav Mishra
+  name2: Shaheem Azmal M MD
+  org: Siemens
+  abstract: |- 
+    FOSSology is an open-source license compliance software system and toolkit. The tool allows scanning, analysis, and 
+    reporting of license, copyright, export control, etc. The tool can enhance automation capabilities and can generate 
+    SBOM-like SPDX with the licensing and copyright information.
+  description: |- 
+    FOSSology is an open-source license compliance software system and toolkit. As a toolkit, you can run automated license, 
+    copyright, and export control scans from the command line. As a system, a Web interface provides you with a compliance 
+    workflow. License, copyright and export control scanners are tools used in the workflow.
+    </p>
+    <p>
+    FOSSology is a reputed tool for Open Source license compliance and related tasks. The tool has advance capabilities 
+    to allow users and experts to analyze the results in a web UI. At the same time, tool has a robust set of CLI for 
+    interactions. Recently, the tool has enhanced its REST API to open possibilities for integration with other tools/pipelines.
+    </p>
+    <p>
+    We will be presenting and highlighting the features of FOSSology along with the REST API endpoints. The REST endpoints can 
+    be used as a starting point for any integration. We will also include a demo integration of license and copyright scanning 
+    using FOSSology in a CI environment.
+    </p>
+    <p>
+    After the talk, you will be able to analyze open source components, understand licenses and obligations used in it, and 
+    generate various reports. FOSSology supports creation of DEP5 format, SPDX RDF and Tag-Value format along with its own Word 
+    report and CLIXML reports.
+    </p>
+    <p>
+    Read more about FOSSology: <a href="https://fossology.org" target="_blank">https://fossology.org</a>
+  bio: |- 
+    has been working as a Research Professional at Siemens for over five years, and specifically in the license compliance space 
+    with the FOSSology OpenSource organization for the past five years. He is a maintainer and developer of the FOSSology, Atarashi,
+    and Nirjas projects under the org. Gaurav has also mentored college students participating in Google Summer of Code since 2018,
+    and underprivileged students with Katalyst NGO.
 
 - plenary: true
   info: true
@@ -791,11 +888,42 @@
     Survey Project, and is a member of the OWASP Education and Training Committee.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 1
   block: 8
   track: 1
+  title: 'Protecting Pipelines: Secure software delivery using the OWASP CI/CD Top Ten'
+  name: Julian Simpson
+  org: Safe Advisory
+  abstract: |-
+    When they work well, CI/CD pipelines have been a game changer for delivering software to users. This talk covers the 
+    evolution of pipelines from their humble beginnings, how we get them wrong, and how to secure your CI/CD systems and 
+    pipelines so they deliver exactly what you want, and no more.
+  description: |-
+    It's amazing what we can do these days with CI/CD pipelines. They've eliminated a lot of technical gruntwork and allowed 
+    teams to deliver like never before.
+    </p>
+    <p>
+    What we don't celebrate so much is what a choice target CI/CD systems are for insider and external threat actors. Some 
+    systems make it too easy to subvert pipelines and convince them to do bad things. In this talk, we’ll cover:
+    </p>
+    <ul>
+    <li>The origins of CI, and some of the origins of CI/CD in software projects from the turn of the century until 2020;</li>
+    <li>Why all the pipelines are YAML these days, and what a good enterprise CI/CD pipeline can look like, including security tools; and</li>
+    <li>How to think about the security of your pipelines and CI/CD systems, using OWASP CI/CD Top 10.</li>
+    </ul>
+    <p>
+    This talk isn't tool-specific, but examples will be shown in tools like Azure DevOps or Buildkite. We'll share some 
+    the example pipelines for attendees to refer to later.
+  bio: |-
+    used to be all about getting software across the last mile into production. Now that nobody so much as blinks while 
+    deploying several times a day, Julian is all about securing that software and the tools we use to spin it.
+    </p>
+    <p>
+    Accordingly, Julian is a security consultant for Safe Advisory, specialising in DevSecOps and cloud security. Previously 
+    Julian has been (in no particular order) a Systems Administrator, DevOps Consultant, Jack of All Trades at startups, 
+    in New Zealand, UK, USA, and Sweden. Julian lives in Auckland and likes getting out on 2 wheels at the weekend.
 
 - plenary: true
   info: true
@@ -805,19 +933,93 @@
   title: Break for Afternoon Tea - Coffee/Tea Service Provided
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 1
   block: 10
   track: 0
+  title: 'The "A" in AppSec Stands for "Agile"'
+  name: Fadzayi Chiwandire
+  org: CyberCX
+  abstract: |-
+    It's time to embrace agile methodologies in AppSec! By integrating security into every step of your SDLC, you can quickly 
+    detect and respond to vulnerabilities and improve your security posture. Not only will you ensure security, but also 
+    enhance collaboration between development and security teams.
+  description: |-
+    The apparent cultural divide between application security engineers and developers has sparked great debate around the 
+    controversial topic of whether embedding security is a potential blocker to the software development lifecycle.
+    </p>
+    <p>
+    In this session, we explore the beauty of integrating agile methodologies with application security to effectively reduce 
+    the amount of software released with known vulnerabilities. Both these concepts initially require more of a cultural shift 
+    within any organisation before implementing processes and technology, understanding that security engineers are enablers 
+    and not blockers aiming to bake security into the SDLC process without affecting deployments negatively.
+    </p>
+    <p>
+    Most importantly, the goal is to effect each change and embed security in each of the SDLC phases in small bite chunks, 
+    making sure each step is well crafted, customised and perfected before moving on to the next step after all the whole process 
+    is a jungle gym and not a vertical ladder.
+  bio: |-
+    is an Application Security Consultant and Penetration Tester at CyberCX in Perth, Australia. She is also a co-host of the 
+    WestCoast Cyber podcast. She comes from a software engineering background in which she specialised in FinTech for close 
+    to a decade, assisting financial institutions to build user experience-driven software. In 2018, Fadzayi Founded DIV:A Initiative, 
+    a non-profit initiative dedicated to empowering young girls between the ages of 8 and 18 years from South Africa's disadvantaged 
+    communities with coding skills, in order to address the industry's gender imbalance.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 1
   block: 10
   track: 1
-
+  title: 'The Art of Cyber Espionage: Unleashing the power of SCADA and ICS hacking'
+  name: Shahmeer Amir
+  org: Younite
+  abstract: |-
+    In today's digital age, the use of SCADA and ICS systems is widespread across various industries such as oil and gas, energy, 
+    manufacturing, transportation, and many others. These systems provide essential functionality in monitoring and controlling 
+    critical infrastructure, making them a target.
+  description: |- 
+    This presentation will provide a practical understanding of SCADA and ICS hacking techniques and the steps that organizations 
+    can take to protect themselves from attacks. The session will begin with an overview of SCADA and ICS systems, their components, 
+    and their importance in critical infrastructure.
+    </p>
+    <p>
+    The presentation will then move on to explore the techniques used by attackers to compromise these systems. This will include 
+    live demonstrations of attacks that manipulate the systems to cause physical damage, disrupt operations, and steal data. 
+    Attendees will be able to see firsthand the power of SCADA and ICS hacking, and how attackers can use these techniques 
+    to penetrate even the most secure systems.
+    </p>
+    <p>
+    The session will also cover the steps that organizations can take to harden their SCADA and ICS systems against attacks. 
+    Attendees will learn how to identify vulnerabilities and implement best practices to secure their systems. We will explore 
+    different types of attacks, including advanced persistent threats (APTs), and the strategies that can be used to 
+    detect and respond to them.
+  bio: |-
+    is a world-renowned Ethical Hacker and the 3rd most accomplished bug hunter who has helped over 400 Fortune companies, 
+    including Facebook, Microsoft, Yahoo, and Twitter, resolve critical security issues in their systems. He has founded 
+    multiple entrepreneurial ventures in the field of Cyber Security, and currently leads three startups in four countries.
+    </p>
+    <p>
+    As the CEO of Younite, Shahmeer's premier company is working on next-generation audio-video communication technologies. 
+    He is also the CEO of Veiliux, Asia's first mainstream Cyber Security startup present in the Asia Pacific, UAE, and the UK. 
+    Authiun, another startup, is a complete passwordless authentication solution for the 21st century.
+    </p>
+    <p>
+    Shahmeer is the Cyber Security Advisor to the Ministry of Finance Government of Pakistan, involved in multiple projects 
+    regarding Deep Sea Tracking, Digital Transformation of Legislation, and Digitization of Pakistani Cultural Content. He is 
+    also a member of Forbes Technology Council.
+    </p>
+    <p>
+    As an Engineer and a Cyber Security professional with relevant certifications from renowned organizations like EC-Council, 
+    Mile2, and SANS. Shahmeer is currently looking at the Blockchain technology for his doctorate. He has authored three books, 
+    including Bug Bounty Hunting Essentials, and a dozen research papers.
+    </p>
+    <p>
+    Shahmeer is a highly sought-after keynote speaker on Cyber Security, Blockchain, and other technologies, having been 
+    invited to over 80 conferences globally. including Blackhat, GiSec, FIC, AEC Alberta, Hackfest and many more. He has also 
+    been accepted at multiple prestigious academic institutions in their entrepreneurship programs, including Stanford. As a 
+    CTO of companies, Shahmeer has learned to code in 25 languages and read code in 35, making him an expert in multiple technologies.
 - plenary: true
   info: false
   day: 1
