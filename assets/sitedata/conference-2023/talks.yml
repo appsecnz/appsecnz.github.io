@@ -73,6 +73,7 @@
   title: Fantastic Cloud Security Mistakes and How to Find Them
   name: Sarah Young
   org: Microsoft
+  anchor: young-fantastic-cloud-security-mistakes
   abstract: |-
     Many cloud security breaches start from implementation mistakes: whether it be bad coding practices, 
     misconfiguration, etc. Before (best case) your security team or (worst case) an outside attacker finds 
@@ -114,6 +115,7 @@
   title: How to Have Visibility and Security <em>of</em> Your CI/CD Ecosystem
   name: Pramod Rana
   org: Netskope
+  anchor: rana-visibility-and-security 
   abstract: |-
     I will present how an organization can approach the visibility, and thus the security, <strong>OF</strong> their CI/CD ecosystem, 
     some common attack areas - access controls, credentials hygiene, misconfiguration, etc. - and possible solutions. 
@@ -164,6 +166,7 @@
   title: OWASP Top 10 Overview
   name: Kirk Jackson
   org: Lightspeed and OWASP NZ
+  anchor: jackson-top-ten-overview 
   abstract: |-
     The OWASP Top 10 is a flagship project for the OWASP foundation, and the first thing people think of.
     </p>
@@ -187,6 +190,7 @@
   title: 'MPT: Pentest in Action'
   name: Jyoti Raval
   org: Harness
+  anchor: raval-pentest-in-action 
   abstract: |-
     In ever evolving software development world, security is also becoming fast paced. Hence, each product going through the  
     pentest cycle has to be managed effectively and efficiently. Managing multiple pentests and testers is important. 
@@ -266,6 +270,7 @@
   title: Securing REST API Endpoints (or, How to avoid another Optus)
   name: James Cooper
   org: Cosive
+  anchor: cooper-securing-api-endpoints
   abstract: |-
     Optus and their customers had a very bad time in 2022, with a massive data breach resulting in PII and ID 
     documents released into the wild. This happened because a REST API was not properly secured. We’ll talk about the 
@@ -306,6 +311,7 @@
   title: 'The Automation Threat Landscape: The evolution of BOTs and fraud'
   name: Guy Brown
   org: Fastly
+  anchor: brown-automation-threat-landscape 
   abstract: |-
     BOTs have evolved to become one of the hardest problems to solve in security. I will highlight use-cases for 
     automation, against some well known e-commerce platforms, and demonstrate the real-world tools used by threat 
@@ -345,6 +351,7 @@
   title: What Happens When a Meteor Takes Out My Data Centre?
   name: Peter Jakowetz
   org: PrivSec Consulting
+  anchor: jakowetz-what-happens-when
   abstract: |-
     Resilience is a concept often discussed, but often not well understood. There are a wide range of tools 
     that engineers can use to improve the availability of their service. You should leave this talk with a 
@@ -379,6 +386,7 @@
   title: Breaking Mobile App Defenses with Frida and Reverse Engineering
   name: Shofe Miraz
   org: CyberCX
+  anchor: miraz-breaking-mobile-app
   abstract: |-
     Mobile app testing can often be challenging, especially with built-in anti-tampering detection in place. 
     Join us as we will explore the secrets for bypassing these checks and share practical tips for developers 
@@ -435,6 +443,7 @@
   title: 'Privacy by Design: A standard approach in software development?'
   name: Chris Esther
   org: CyberCX
+  anchor: esther-privacy-by-design
   abstract: |-
     How should we approach the privacy of personal information when designing new software systems? In this session, 
     we will review the concept of Privacy by Design, developed by Ann Cavoukian, and examine the recent associated 
@@ -459,6 +468,7 @@
   title: What Could Possibly Go Wrong in a Kubernetes Cluster?
   name: William Koh
   org: WithSecure
+  anchor: koh-kubernetes-cluster
   abstract: |-
     Dive into the hidden perils of Kubernetes (K8S) in this talk to unravel security pitfalls and master the art of safeguarding 
     your container orchestration. Join us to explore the realm of Kubernetes, learn best practices, and protect your cluster 
@@ -496,6 +506,7 @@
   title: "Waiter, There's a CVE in My SOUP"
   name: Kevin Alcock
   org: Katipo Information Security
+  anchor: alcock-cve-in-my-soup 
   abstract: |-
     'SOUP' stands for "software of unknown provenance." This is software in your code base that has not been created under your 
     development process. This talk is about finding known security vulnerabilities in these introduced packages and will include
@@ -527,6 +538,7 @@
   title: Bypassing Anti-Virus using BadUSB
   name: Cristian Cornea 
   org: 
+  anchor: cornea-bypassing-anti-virus
   abstract: |-
     During this presentation, we will look at how we can bypass most anti-virus detection using a payload embedded on a BadUSB device, 
     resulting in a "silver bullet" for gaining initial access inside a victim network. A demo will be also included during the presentation.
@@ -595,6 +607,7 @@
   title: 'The Enigmatic Eight: A cryptic tale of influential women in cyber security'
   name: Toni James
   org: Salesforce
+  anchor: james-enigmatic-eight
   abstract: |- 
     This talk will highlight influential women in cyber security history, but this isn't your usual list of women in tech. 
     They are unique pioneers who truly contributed to information security in remarkable ways, with very little recognition 
@@ -632,6 +645,7 @@
   title: 'Exploiting XSS: alert(1) to admin'
   name: Dave Reeves
   org: Aura Information Security
+  anchor: reeves-exploiting-xss 
   abstract: |-
     The purpose of my talk is to dive deep into client-side injection attacks, which can be initiated from a number of 
     points within a Web app, and also provide a number of different attack vectors, including internal services, gaining 
@@ -657,6 +671,7 @@
   title: From DevOps to DevSecOps
   name: Karan Sharma
   org: Wise Fox Security
+  anchor: sharma-devops-to-devsecops
   abstract: |-
     Are you struggling to balance security and agility in your organization? Join my talk on Implementing DevSecOps to learn 
     practical tips and best practices for integrating security into your DevOps pipeline. Transform your organization's security 
@@ -695,6 +710,7 @@
   track: 1
   title: The Many Sins of Web3
   name: Stephen Morgan
+  anchor: morgan-sins-of-web3
   abstract: |-
     This may shock you, but...did you know that many of the assertions made by blockchain advocates weren't entirely accurate?!? 
     Let us cherry pick the worst security offenses from a retired cryptocurrency early adopter.
@@ -721,6 +737,7 @@
   title: Leverage OWASP Projects and Tools to Secure Your SDLC
   name: Raafey Khan
   org: CyberCX
+  anchor: khan-leveraging-owasp-tools
   abstract: |-
     OWASP has over 200 projects to help you build secure software. I'll be talking about one of my favourites - the Software 
     Assurance Maturity Model (SAMM) - and how you can use other OWASP projects and tools to meet the requirements and mature 
@@ -747,6 +764,7 @@
   name: Gaurav Mishra
   name2: Shaheem Azmal M MD
   org: Siemens
+  anchor: mishra-fossology
   abstract: |- 
     FOSSology is an open-source license compliance software system and toolkit. The tool allows scanning, analysis, and 
     reporting of license, copyright, export control, etc. The tool can enhance automation capabilities and can generate 
@@ -796,6 +814,7 @@
   title: Revamping OWASP DevSecOps Guidelines
   name: Milan Singh Thakur
   org: 
+  anchor: thakur-revamping-owasp-devsecops
   abstract: |-
     This talk will present a deep dive into the revamped OWASP DevSecOps Guidelines. Revolutionise your Cyber Security strategy 
     with OWASP DevSecOps - the game-changing approach that seamlessly integrates security into every stage of software development. 
@@ -830,6 +849,7 @@
   title: Understanding and Securing Cloud Resources using a Layered Approach
   name: Ruskin Dantra
   org: Amazon Web Services
+  anchor: dantra-securing-cloud-resources
   abstract: |-
     Securing your resources in the cloud starts simple although with an ever-changing threat landscape, it soon gets complicated. 
     We'll take you through a series of exercises to help you understand how you can secure cloud resources from a networking and 
@@ -862,6 +882,7 @@
   title: Thoughts on Threat Modelling
   name: John DiLeo
   org: IriusRisk and OWASP NZ
+  anchor: dileo-threat-modelling
   abstract: |-
     As an Application Security Consultant, I've had numerous opportunities over the years, to present training and talks on threat modelling. 
     Over the years, my thinking has evolved, and I've focused on using threat modeling as a source of "consequential" security 
@@ -895,7 +916,8 @@
   track: 1
   title: 'Protecting Pipelines: Secure software delivery using the OWASP CI/CD Top Ten'
   name: Julian Simpson
-  org: Safe Advisory
+  org: SafeAdvisory
+  anchor: simpson-protecting-pipelines
   abstract: |-
     When they work well, CI/CD pipelines have been a game changer for delivering software to users. This talk covers the 
     evolution of pipelines from their humble beginnings, how we get them wrong, and how to secure your CI/CD systems and 
@@ -941,6 +963,7 @@
   title: 'The "A" in AppSec Stands for "Agile"'
   name: Fadzayi Chiwandire
   org: CyberCX
+  anchor: chiwandire-a-in-appsec
   abstract: |-
     It's time to embrace agile methodologies in AppSec! By integrating security into every step of your SDLC, you can quickly 
     detect and respond to vulnerabilities and improve your security posture. Not only will you ensure security, but also 
@@ -975,6 +998,7 @@
   title: 'The Art of Cyber Espionage: Unleashing the power of SCADA and ICS hacking'
   name: Shahmeer Amir
   org: Younite
+  anchor: amir-cyber-espionage
   abstract: |-
     In today's digital age, the use of SCADA and ICS systems is widespread across various industries such as oil and gas, energy, 
     manufacturing, transportation, and many others. These systems provide essential functionality in monitoring and controlling 
@@ -1020,6 +1044,7 @@
     invited to over 80 conferences globally. including Blackhat, GiSec, FIC, AEC Alberta, Hackfest and many more. He has also 
     been accepted at multiple prestigious academic institutions in their entrepreneurship programs, including Stanford. As a 
     CTO of companies, Shahmeer has learned to code in 25 languages and read code in 35, making him an expert in multiple technologies.
+
 - plenary: true
   info: false
   day: 1
