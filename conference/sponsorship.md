@@ -122,12 +122,12 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, with space provided as part of each sponsorship package. Some sponsors, however, didn't wish to make use of the space provided. For this year's conference, we've made the exhibition space an optional add-on for some sponsorship levels, so those sponsors can decide whether to have a booth.
 
-|        |Diamond   |Platinum    |Gold    |Silver<br />Bronze<br />LEGO Build |
-|-------:|:--------:|:----------:|:------:|:--------:|
-|**Booth Size**|**30m<sup>2</sup>**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|
-|**Seating**|4 tables<br />8 chairs|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|
-|**Plug Boards**|2|2|1|1|
-|**Rate**|Incl.|Incl.|$450|$300|
+|        |Platinum    |Gold    |Silver<br />Bronze<br />LEGO Build |
+|-------::----------:|:------:|:--------:|
+|**Booth Size**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|
+|**Seating**|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|
+|**Plug Boards**|1|1|1|
+|**Rate**|$550|$450|$300|
 
 The diagram below depicts the planned arrangement of exhibition spaces in the WG Building Atrium.
 
