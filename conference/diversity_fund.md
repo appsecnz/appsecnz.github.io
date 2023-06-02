@@ -43,7 +43,7 @@ We *strongly* encourage you to consider applying for travel support from Interne
 ### Process for Applying for Diversity Fund Support
 
 * Fill out our **[Application Form](https://forms.gle/SGEdF4eCz8v8f3HW6)** 
-* We will review and approve applications each week. The first reviews will be completed by 15 May.
+* We will review and approve applications each week. 
 * We will contact all applicants and let them know the results of the review.
 * Successful applicants are responsible for booking their own travel and accommodations.
 * Diversity fund travel support is provided as a reimbursement, *after* the conference, of actual expenses incurred - up to the specified allowance for each item.
