@@ -23,8 +23,6 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## [Pre-Conference Training Registration](https://events.humanitix.com/owaspnz2023-training) is now open! Training registration will close on Friday, 23rd June.
 
-## The [Call for Presentations](https://papercall.io/owaspnz2023) is still open! Final CFP deadline is 28th April.
-
 -----
 
 We are proud to present the 13th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, July 6th and 7th, 2023. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
