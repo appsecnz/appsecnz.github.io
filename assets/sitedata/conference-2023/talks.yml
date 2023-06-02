@@ -165,7 +165,9 @@
   track: 0
   title: OWASP Top 10 Overview
   name: Kirk Jackson
-  org: Lightspeed and OWASP NZ
+  name2: Cat Salanguit
+  org: Lightspeed / OWASP NZ
+  org2: Lightspeed
   anchor: jackson-top-ten-overview 
   abstract: |-
     The OWASP Top 10 is a flagship project for the OWASP foundation, and the first thing people think of.
@@ -177,9 +179,13 @@
     </p>
     <p>
     Kirk worked as a web developer before switching to the defence team - setting up Xero’s security practice, working as a pen tester, and in defence roles at several companies.
-    </p>
-    <p>
     Mastodon: @kirk@pageofwords.com
+  bio2: |- 
+    works at Lightspeed and she's currently looking after the company's Application Security and managing their Bug Bounty programs. 
+    She worked in the security consulting space as a Pentester before joining Lightspeed. Cat is passionate to help folks get one step 
+    closer to doing what they want to do securely. Outside work, you can find Cat indulging in activities that fuel her creativity and 
+    curiosity. She is a dedicated cat lover. On the side, she enjoys reading books, drinking iced coffee, hiking, travelling the world, 
+    and chasing sunsets.
 
 - plenary: false
   selected: true
@@ -881,7 +887,7 @@
   track: 0
   title: Thoughts on Threat Modelling
   name: John DiLeo
-  org: IriusRisk and OWASP NZ
+  org: IriusRisk / OWASP NZ
   anchor: dileo-threat-modelling
   abstract: |-
     As an Application Security Consultant, I've had numerous opportunities over the years, to present training and talks on threat modelling. 
