@@ -6,35 +6,37 @@
 # url: url of the company website
 # description: description of the company
 - active: true
-  level: 2
-  name: Quantum Security
-  anchor: quantum
-  image: /assets/images/2023-sponsors/Logo-Quantum_Security-125.png
-  url: https://www.quantumsecurity.co.nz/
+  level: LEGO Build Sponsor
+  name: IriusRisk
+  anchor: irius_risk-1
+  image: /assets/images/2023-sponsors/Logo-IriusRisk.png
+  url: https://iriusrisk.com/
   spotlight: |-
-    Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
-    process. We utilise only the best personnel available in the market to ensure our clients 
-    receive the best. We engage our clients throughout and provide comprehensive and readable reports.
+    <strong>Secure Software By Design. Automated.</strong>
     </p>
     <p>
-    Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, 
-    experienced account managers, and a dedicated management team with a passion for information security.
-    </p>
-    <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
-    and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
-    all round the world.
-  description: |- 
-    Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
-    process. We utilise only the best personnel available in the market to ensure our clients 
-    receive the best. We engage our clients throughout and provide comprehensive and readable reports.
+    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
     </p>
     <p>
-    Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, 
-    experienced account managers, and a dedicated management team with a passion for information security.
+    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
+    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
+    security risk. At scale.
+  description: |-
+    We are IriusRisk, the industry leader in automated threat modeling and secure software design, working 
+    with clients that include several of the top 10 Globally Systemically Important Banks (G-SIBs). Our platform 
+    automates the threat modeling process, enabling developers to design and build secure software. At scale.
     </p>
-    <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
-    and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
-    all round the world.
+    <p>
+    <strong>Secure Software By Design. Automated.</strong>
+    </p>
+    <p>
+    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
+    </p>
+    <p>
+    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
+    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
+    security risk. At scale.
+
 - active: true
   level: 2
   name: DEFEND
@@ -80,8 +82,67 @@
     <p>
     DEFEND are based in Auckland, Wellington, Christchurch and the Midland Regions supporting New Zealand, as well as 
     International organisations.
-- active: false
+
+- active: true
   level: 2
+  name: Fastly
+  anchor: fastly
+  image: /assets/images/2023-sponsors/Logo-Fastly.svg
+  url: https://www.fastly.com/
+
+- active: true
+  level: 2
+  name: Quantum Security
+  anchor: quantum
+  image: /assets/images/2023-sponsors/Logo-Quantum_Security-125.png
+  url: https://www.quantumsecurity.co.nz/
+  spotlight: |-
+    Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
+    process. We utilise only the best personnel available in the market to ensure our clients 
+    receive the best. We engage our clients throughout and provide comprehensive and readable reports.
+    </p>
+    <p>
+    Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, 
+    experienced account managers, and a dedicated management team with a passion for information security.
+    </p>
+    <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
+    and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
+    all round the world.
+  description: |- 
+    Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
+    process. We utilise only the best personnel available in the market to ensure our clients 
+    receive the best. We engage our clients throughout and provide comprehensive and readable reports.
+    </p>
+    <p>
+    Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, 
+    experienced account managers, and a dedicated management team with a passion for information security.
+    </p>
+    <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
+    and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
+    all round the world.
+
+- active: true
+  level: 3
+  name: Aura Information Security 
+  image: /assets/images/2023-sponsors/Logo-Aura_Information_Security-125.jpg
+  url: https://www.aurainfosec.com/
+  description: |-
+    Aura Information Security is Kordia Group's independent provider of information security consulting services to 
+    corporates and governments in Australia and New Zealand.
+    </p>
+    <p>
+    Aura's focus is to provide the very best independent security advice and support to businesses, so that 
+    their digital world is more secure, reliable, and resilient. Visit <a href="https://aurainfosec.com" target="_blank">aurainfosec.com</a> for more info.
+  spotlight: |-
+    Aura Information Security is Kordia Group's independent provider of information security consulting services to 
+    corporates and governments in Australia and New Zealand.
+    </p>
+    <p>
+    Aura's focus is to provide the very best independent security advice and support to businesses, so that 
+    their digital world is more secure, reliable, and resilient. Visit <a href="https://aurainfosec.com" target="_blank">aurainfosec.com</a> for more info.
+
+- active: true
+  level: 3
   name: CyberCX
   anchor: cybercx
   image: /assets/images/2023-sponsors/Logo-CyberCX.png
@@ -116,6 +177,7 @@
     </p>
     <p>
     Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank" onclick="handleOutboundLinkClicks(event);">www.cybercx.co.nz</a>.
+
 - active: true
   level: 3
   name: Datacom
@@ -160,37 +222,7 @@
     <p>
     <strong>There isn't a safer pair of hands to secure the future of your business.
     </strong>
-- active: true
-  level: LEGO Build Sponsor
-  name: IriusRisk
-  anchor: irius_risk-1
-  image: /assets/images/2023-sponsors/Logo-IriusRisk.png
-  url: https://iriusrisk.com/
-  spotlight: |-
-    <strong>Secure Software By Design. Automated.</strong>
-    </p>
-    <p>
-    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
-    </p>
-    <p>
-    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
-    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
-    security risk. At scale.
-  description: |-
-    We are IriusRisk, the industry leader in automated threat modeling and secure software design, working 
-    with clients that include several of the top 10 Globally Systemically Important Banks (G-SIBs). Our platform 
-    automates the threat modeling process, enabling developers to design and build secure software. At scale.
-    </p>
-    <p>
-    <strong>Secure Software By Design. Automated.</strong>
-    </p>
-    <p>
-    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
-    </p>
-    <p>
-    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
-    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
-    security risk. At scale.
+
 - active: true
   level: 3
   name: IriusRisk
@@ -222,6 +254,7 @@
     IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
     Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
     security risk. At scale.
+
 - active: true
   level: 3
   name: Snyk
@@ -240,6 +273,7 @@
     <p>
     Snyk’s unique combination of developer-first tooling and best in class security depth 
     enables businesses to easily build security into their continuous development process.
+
 - active: true
   level: 3
   name: Planit
@@ -283,6 +317,7 @@
     <p>
     Being ISO 27001 Certified, businesses can be confident that they are securely engaging the right people with 
     the right skills to achieve the right outcomes, whether delivering locally or remotely.
+
 - active: true
   level: 3
   name: Tesserent 
@@ -314,6 +349,7 @@
     solutions to prevent, detect, and mitigate potential cyber-attacks. We have deep expertise in security advisory (GRC) and consulting, 
     technical assurance and testing, cloud services, 24x7 managed services and monitoring, incident response and forensics and 
     converged/physical security.
+
 - active: false
   level: 3
   name: Checkmarx
@@ -371,25 +407,6 @@
     Positioned as a Gartner Magic Quadrant <strong>Leader</strong> for Application Security Testing, AppScan 
     helps to drive substantial savings - lower development and testing costs - by moving security testing and 
     defect remediation earlier in the SDLC and reducing incidents in production that impact revenue and productivity.
-- active: true
-  level: 3
-  name: Aura Information Security 
-  image: /assets/images/2023-sponsors/Logo-Aura_Information_Security-125.jpg
-  url: https://www.aurainfosec.com/
-  description: |-
-    Aura Information Security is Kordia Group's independent provider of information security consulting services to 
-    corporates and governments in Australia and New Zealand.
-    </p>
-    <p>
-    Aura's focus is to provide the very best independent security advice and support to businesses, so that 
-    their digital world is more secure, reliable, and resilient. Visit <a href="https://aurainfosec.com" target="_blank">aurainfosec.com</a> for more info.
-  spotlight: |-
-    Aura Information Security is Kordia Group's independent provider of information security consulting services to 
-    corporates and governments in Australia and New Zealand.
-    </p>
-    <p>
-    Aura's focus is to provide the very best independent security advice and support to businesses, so that 
-    their digital world is more secure, reliable, and resilient. Visit <a href="https://aurainfosec.com" target="_blank">aurainfosec.com</a> for more info.
 
 - active: false
   level: 3
