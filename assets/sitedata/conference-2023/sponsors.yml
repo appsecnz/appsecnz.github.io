@@ -89,6 +89,8 @@
   anchor: fastly
   image: /assets/images/2023-sponsors/Logo-Fastly.svg
   url: https://www.fastly.com/
+  description: '&nbsp;'
+  spotlight: '&nbsp;'
 
 - active: true
   level: 2
@@ -340,6 +342,29 @@
     solutions to prevent, detect, and mitigate potential cyber-attacks. We have deep expertise in security advisory (GRC) and consulting, 
     technical assurance and testing, cloud services, 24x7 managed services and monitoring, incident response and forensics and 
     converged/physical security.
+    
+- active: true
+  level: 3
+  name: Defence Technology Agency
+  anchor: dta
+  image: /assets/images/2023-sponsors/Logo-Defence_Technology_Agency.svg
+  url: https://www.dta.mil.nz/
+  spotlight: |-
+    The Defence Technology Agency | Pokap&umacr; Hangarau o Te Ope K&amacr;tua supports the New Zealand Defence Force (NZDF) 
+    by providing technical and scientific advice based on good scientific practice, is independent, unbiased, transparent and 
+    timely. The technical solutions we develop are used across the spectrum of defence operations.
+    </p>
+    <p>
+    We are a business unit of the NZDF, with our main facility located at the Devonport Naval Base in Auckland and staff 
+    based at HQNZDF, Wellington.
+  description: |-
+    The Defence Technology Agency | Pokap&umacr; Hangarau o Te Ope K&amacr;tua supports the New Zealand Defence Force (NZDF) 
+    by providing technical and scientific advice based on good scientific practice, is independent, unbiased, transparent and 
+    timely. The technical solutions we develop are used across the spectrum of defence operations.
+    </p>
+    <p>
+    We are a business unit of the NZDF, with our main facility located at the Devonport Naval Base in Auckland and staff 
+    based at HQNZDF, Wellington.
 
 - active: false
   level: 3
