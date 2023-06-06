@@ -543,6 +543,7 @@
   track: 1
   title: Bypassing Anti-Virus using BadUSB
   name: Cristian Cornea 
+  remote: true
   org: 
   anchor: cornea-bypassing-anti-virus
   abstract: |-
