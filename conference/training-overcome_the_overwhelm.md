@@ -58,6 +58,8 @@ When she's not speaking about resilience, leadership, emotional intelligence and
 where she lives with her husband, three children and a menagerie of animals. She can often be found hosting dinner parties, playing board 
 games, or spending time outdoors.
 
+**[Program Overview Video](https://youtu.be/7FpsxVorvtY){: target="_blank" }** (YouTube, 3:14)
+
 #### Testimonials
 
 "I can HIGHLY recommend Lauren, she is a fabulous presenter with passion, zest, humour and professionalism - she is a truly transformational person who will affect your world in a profoundly positive way! She is MUST see and leader in her field." – *Angela Cossey*
