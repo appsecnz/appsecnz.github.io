@@ -366,6 +366,24 @@
     We are a business unit of the NZDF, with our main facility located at the Devonport Naval Base in Auckland and staff 
     based at HQNZDF, Wellington.
 
+- active: true
+  level: 5
+  name: SafeAdvisory
+  anchor: safe_advisory
+  image: /assets/images/2023-sponsors/Logo-SafeAdvisory.png
+  url: https://www.safeadvisory.co.nz/
+  description: |-
+    SafeAdvisory is a boutique cyber security consultancy, founded and based in Aotearoa New Zealand. 
+    We provide bespoke security advice and resources with a local focus.
+    </p>
+    <p>
+    At SafeAdvisory, we know that security is for everyone, and we deliver fit for purpose security consulting to businesses of 
+    all shapes and sizes.
+    </p>
+    <p>
+    The solutions and advice we provide aren't pulled from a template somewhere; we work with each of our clients to make sure 
+    our advice is hitting the mark for you, and leaving your business more secure than when we met.
+
 - active: false
   level: 3
   name: Checkmarx
