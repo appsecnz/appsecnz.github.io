@@ -89,9 +89,23 @@
   anchor: fastly
   image: /assets/images/2023-sponsors/Logo-Fastly.svg
   url: https://www.fastly.com/
-  description: '&nbsp;'
-  spotlight: '&nbsp;'
-
+  description: |-
+    Developers change the way the world experiences the web: they drive the next groundbreaking innovation, power the 
+    companies that connect us, and create experiences that can transform our lives. And we built Fastly to make sure they always 
+    have what they need to make it happen.
+    </p>
+    <p>
+    Our powerful edge cloud network empowers developers to run, secure, and deliver websites and applications — as close to the 
+    users as possible, to create unforgettable experiences at global scale.
+  spotlight: |-
+    Developers change the way the world experiences the web: they drive the next groundbreaking innovation, power the 
+    companies that connect us, and create experiences that can transform our lives. And we built Fastly to make sure they always 
+    have what they need to make it happen.
+    </p>
+    <p>
+    Our powerful edge cloud network empowers developers to run, secure, and deliver websites and applications — as close to the 
+    users as possible, to create unforgettable experiences at global scale.
+  
 - active: true
   level: 2
   name: Quantum Security
