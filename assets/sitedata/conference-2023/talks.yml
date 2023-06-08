@@ -275,7 +275,6 @@
   track: 0
   title: Securing REST API Endpoints (or, How to avoid another Optus)
   name: James Cooper
-  org: Cosive
   anchor: cooper-securing-api-endpoints
   abstract: |-
     Optus and their customers had a very bad time in 2022, with a massive data breach resulting in PII and ID 
