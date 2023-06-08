@@ -15,7 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## OWASP New Zealand Day 2023
 
-We want to make the OWASP New Zealand Day conference a welcoming environment for all attendees. To that end, we would like to remind you that all activities associated with this event are subject to AppSec New Zealand's Conference Policies. At their core, these policies are intended to promote and maintain an inclusive, welcoming environment for all participants - actions detrimental to that environment are unwelcome.
+We want to make the OWASP New Zealand Day conference a welcoming environment for all attendees. To that end, we would like to remind you that all activities associated with this event are subject to [AppSec New Zealand's Conference Policies](https://appsec.org.nz/about/policies.html). At their core, these policies are intended to promote and maintain an inclusive, welcoming environment for all participants - actions detrimental to that environment are unwelcome.
 
 Speakers, trainers and sponsors have all been reminded of these policies, and are expected to abide by them like all attendees.
 
