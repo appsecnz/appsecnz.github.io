@@ -15,7 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## 2023 OWASP New Zealand Day
 
-The 2023 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 7-8 July, 2023. This event 
+The 2023 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 6-7 July 2023. This event 
 is unique among New Zealand security conferences, in that it's entirely dedicated to application security. AppSec New Zealand Incorporated is, once again, managing the logistics and finances for the event. This year, we have been able to secure a licensing arrangement with the OWASP Foundation, allowing us to return to the event's traditional "OWASP New Zealand Day" branding.
 
 Due to scheduling conflicts at the University of Auckland, we have been unable to secure our usual venue. In 2022 and 2023, 
@@ -73,8 +73,8 @@ To express interest in supporting the conference as a sponsor, please
 
 This year, we've made a few slight adjustments to our Premier Sponsorship packages:
 
-* Each Premier Sponsor package includes a number of free conference passes and conference t-shirts ($40 value per person)
-* Each Sponsor Exhibition space ("booth") includes a number of vouchers, for our catered lunch each day.
+* Each Premier Sponsor package includes a number of free conference passes and conference t-shirts ($45 value per person)
+* Each Sponsor Exhibition space ("booth") includes a number of Exhibitor Passes, which include tickets for lunch each day ($95 value per person).
 
 ### LEGO Build and Video Sponsorship (SOLD)
 
