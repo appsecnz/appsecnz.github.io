@@ -38,7 +38,6 @@
   track: 0
   info: true
   title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
-  name: Coffee/Tea Service Available
 
 - plenary: true
   day: 0
@@ -437,7 +436,7 @@
   block: 9
   track: 0
   info: true
-  title: Break for Afternoon Tea - Coffee/Tea Service Provided
+  title: Afternoon Tea Break
 
 - plenary: false
   selected: true
@@ -593,7 +592,7 @@
   track: 0
   info: true
   title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
-  name: Coffee/Tea Service Available<br />Delegate Lounge Opens
+  name: Delegate Lounge Opens
 
 - plenary: true
   day: 1
@@ -958,7 +957,7 @@
   day: 1
   block: 9
   track: 0
-  title: Break for Afternoon Tea - Coffee/Tea Service Provided
+  title: Afternoon Tea Break
 
 - plenary: false
   selected: true

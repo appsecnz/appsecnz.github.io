@@ -120,7 +120,7 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 **Lunch Service -** This year, we're working with the catering team at AUT, to provide an on-site option for lunch each day, at an additional cost. Details are still TBC, and pre-purchase will be required (as part of your conference and/or training registration). Complimentary lunch will be provided to speakers, trainers, and sponsor exhibitors. We are offering this service as a convenience - you are, as always, welcome to explore the area and find lunch on your own.
 
-**Delegate Lounge -** Throughout the main conference on Thursday and Friday, we'll have a Delegate Lounge available in Room WA224A. The entrance to the Delegate Lounge is from the Sponsor Exhibition Area. The Delegate Lounge is a great place to catch up with colleagues, grab a cup of coffee or tea, or add a few pieces to our **LEGO Build**.   
+**Delegate Lounge -** Throughout the main conference on Thursday and Friday, we'll have a Delegate Lounge available in Room WA224A. The entrance to the Delegate Lounge is from the Sponsor Exhibition Area. The Delegate Lounge is a great place to catch up with colleagues or add a few pieces to one of the ongoing **LEGO Build** projects.   
 
 **Delegate Lounge Hours:**   
 
@@ -134,8 +134,6 @@ As an added bonus, a few lucky conference delegates will go home with LEGO sets,
 To be eligible to win LEGO sets, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desks (on Level 3 and in the Sponsor Exhibition area).
 
 The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](https://iriusrisk.com)**.
-
-**Volunteer Lounge / Speaker Green Room -** Throughout the main conference, speakers and volunteers can visit our restricted-access lounge on Level 3 of the WG Building. There, you'll be able to monitor the goings-on in both conference tracks, go over (or write) your slides, grab a cup of coffee or a snack, and relax before your moment of glory on our stage. Conference volunteers can use the space to relax, work on various tasks, or have a quiet catch-up.
 
 ## Important Dates
 
