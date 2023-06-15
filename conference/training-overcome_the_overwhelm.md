@@ -1,5 +1,5 @@
 ---
-title: Classroom Training - Overcome the Overwhelm
+title: Wellness Seminar - Overcome the Overwhelm
 description: Pre-Conference Training Class, 5 July - OWASP New Zealand Day 2023 
 
 layout: conference/full-width
@@ -13,21 +13,24 @@ sponsorsEventName: OWASP New Zealand Day 2023
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }   
 
-# Overcome the Overwhelm: Boost Resilience, Reduce Stress, and Supercharge Your Productivity
+# Overcome the Overwhelm: 
+## Boost Resilience, Reduce Stress, and Supercharge Your Productivity
 
-## One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2023
+## One-Day Wellbeing Seminar - OWASP New Zealand Day 2023
 
-## Course Details 
+![Class Display Ad](/assets/images/2023/Banner_Graphic-Overcome_the_Overwhelm.png){: style="margin-left: 200px; text-align: center; height: 450px;" }
+
+## Session Details 
 
 **Dates:** Wednesday, 5 July 2022
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZST)
 
-**Instructor:** Lauren Parsons   
+**Instructor:** Lauren Parsons, [Lauren Parsons Wellbeing](https://laurenparsonswellbeing.com/)   
 
 **Course Fee:** NZ $500.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2023-training](https://events.humanitix.com/owaspnz2023-training){: target="training-reg" }
+**Registration Site:** [https://events.humanitix.com/overcome-the-overwhelm](https://events.humanitix.com/overcome-the-overwhelm){: target="training-reg" }
 
 **Maximum Enrolment:** 60 attendees
 
@@ -58,7 +61,7 @@ When she's not speaking about resilience, leadership, emotional intelligence and
 where she lives with her husband, three children and a menagerie of animals. She can often be found hosting dinner parties, playing board 
 games, or spending time outdoors.
 
-**[Program Overview Video](https://youtu.be/7FpsxVorvtY){: target="_blank" }** (YouTube, 3:14)
+**[Lauren Parsons - Workplace Wellbeing Specialist](https://www.youtube.com/watch?v=kBxwcjxBrA4){: target="_blank" }** (YouTube, 2:55)
 
 #### Testimonials
 
