@@ -853,7 +853,9 @@
   track: 1
   title: Understanding and Securing Cloud Resources using a Layered Approach
   name: Ruskin Dantra
+  name2: Ratan Kumar
   org: Amazon Web Services
+  org2: Amazon Web Services
   anchor: dantra-securing-cloud-resources
   abstract: |-
     Securing your resources in the cloud starts simple although with an ever-changing threat landscape, it soon gets complicated. 
