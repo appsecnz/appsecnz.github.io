@@ -509,7 +509,7 @@
   track: 0
   title: "Waiter, There's a CVE in My SOUP"
   name: Kevin Alcock
-  org: Katipo Information Security
+  org: Seequent
   anchor: alcock-cve-in-my-soup 
   abstract: |-
     'SOUP' stands for "software of unknown provenance." This is software in your code base that has not been created under your 
@@ -643,7 +643,7 @@
 
 - plenary: false
   selected: true
-  confirmed: true
+  confirmed: false
   day: 1
   block: 2
   track: 1
@@ -871,18 +871,11 @@
     instance). He currently works at AWS in Auckland as a Senior Solutions Architect helping customers accelerate their cloud journey. 
     His passions are software engineering and networking.
 
-- plenary: true
-  info: true
-  day: 1
-  block: 7
-  track: 0
-  title: LEGO<sup>&reg;</sup> Build Ends
-
 - plenary: false
   selected: true
   confirmed: true
   day: 1
-  block: 8
+  block: 7
   track: 0
   title: Thoughts on Threat Modelling
   name: John DiLeo
@@ -917,7 +910,7 @@
   selected: true
   confirmed: true
   day: 1
-  block: 8
+  block: 7
   track: 1
   title: 'Protecting Pipelines: Secure software delivery using the OWASP CI/CD Top Ten'
   name: Julian Simpson
@@ -955,15 +948,16 @@
 - plenary: true
   info: true
   day: 1
-  block: 9
+  block: 8
   track: 0
   title: Afternoon Tea Break
+  name: LEGO<sup>&reg;</sup> Build Ends
 
 - plenary: false
   selected: true
   confirmed: true
   day: 1
-  block: 10
+  block: 9
   track: 0
   title: 'The "A" in AppSec Stands for "Agile"'
   name: Fadzayi Chiwandire
@@ -998,7 +992,7 @@
   selected: true
   confirmed: true
   day: 1
-  block: 10
+  block: 9
   track: 1
   title: 'The Art of Cyber Espionage: Unleashing the power of SCADA and ICS hacking'
   name: Shahmeer Amir
@@ -1053,7 +1047,7 @@
 - plenary: true
   info: false
   day: 1
-  block: 11
+  block: 10
   track: 0
   title: Conference Closing Session
   name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
@@ -1061,6 +1055,6 @@
 - plenary: true
   info: true
   day: 1
-  block: 12
+  block: 11
   track: 0
   name: Post-Conference Gathering - Location TBC
