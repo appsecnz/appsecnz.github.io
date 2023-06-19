@@ -164,9 +164,7 @@
   track: 0
   title: OWASP Top 10 Overview
   name: Kirk Jackson
-  name2: Cat Salanguit
   org: Lightspeed / OWASP NZ
-  org2: Lightspeed
   anchor: jackson-top-ten-overview 
   abstract: |-
     The OWASP Top 10 is a flagship project for the OWASP foundation, and the first thing people think of.
@@ -179,12 +177,6 @@
     <p>
     Kirk worked as a web developer before switching to the defence team - setting up Xero’s security practice, working as a pen tester, and in defence roles at several companies.
     Mastodon: @kirk@pageofwords.com
-  bio2: |- 
-    works at Lightspeed and she's currently looking after the company's Application Security and managing their Bug Bounty programs. 
-    She worked in the security consulting space as a Pentester before joining Lightspeed. Cat is passionate to help folks get one step 
-    closer to doing what they want to do securely. Outside work, you can find Cat indulging in activities that fuel her creativity and 
-    curiosity. She is a dedicated cat lover. On the side, she enjoys reading books, drinking iced coffee, hiking, travelling the world, 
-    and chasing sunsets.
 
 - plenary: false
   selected: true
@@ -269,9 +261,9 @@
 - plenary: false
   selected: true
   confirmed: true
-  day: 0
-  block: 7
-  track: 0
+  day: 1
+  block: 2
+  track: 1
   title: Securing REST API Endpoints (or, How to avoid another Optus)
   name: James Cooper
   anchor: cooper-securing-api-endpoints
@@ -642,29 +634,36 @@
 
 - plenary: false
   selected: true
-  confirmed: false
-  day: 1
-  block: 2
-  track: 1
-  title: 'Exploiting XSS: alert(1) to admin'
-  name: Dave Reeves
-  org: Aura Information Security
-  anchor: reeves-exploiting-xss 
-  abstract: |-
-    The purpose of my talk is to dive deep into client-side injection attacks, which can be initiated from a number of 
-    points within a Web app, and also provide a number of different attack vectors, including internal services, gaining 
-    privilege escalation, and more.
+  confirmed: true
+  day: 0
+  block: 7
+  track: 0
+  title: 'Managing Bug Bounty Programs: A learning journey'
+  name: Cat Salanguit
+  org: Lightspeed
+  anchor: salanguit-managing-bug-bounty-programs 
   description: |-
-    XSS has fallen in the <a href="https://owasp.org/Top10/" target="_blank">OWASP Top Ten</a> in recent years, largely 
-    due to a shift towards using modern front-end frameworks that sanitize user input appropriately by default. However, 
-    XSS is still a prevalent vulnerability in older web apps and can still appear in modern web apps. This talk covers the 
-    broader concepts of web app security surrounding the issue; from developing the code and infrastructure necessary for 
-    exploiting it during penetration testing, to understanding browser security, HTTP security headers, and exploring 
-    successful remediation methods.
+    Our systems will be hacked. This is the only reasonable cybersecurity prediction we can make.
+    If we are at risk of being hacked, the best scenario would be to be hacked by friendly forces so
+    we can plug the hole immediately. This will render the vulnerability useless for malicious
+    attackers. How can we find these vulnerabilities faster?
+    </p>
+    <p>
+    The answer is simple: <strong>Ask those who see something to say something.</strong>
+    </p>
+    <p>
+    At our organisation, we saw the importance of understanding the most significant threats facing the
+    cloud environment. We’ve asked security researchers on the Internet for help and invited them
+    to test us and let us know what they find, through a responsible way of submitting their security
+    findings to us. Since many people are testing our application, we launched a bug bounty
+    program to reward security researchers with monetary rewards for their efforts in reporting
+    security issues to us.
   bio: |-
-    is a penetration tester based in Wellington, NZ. He has a solid background in computer science and technology, a huge 
-    interest in security and taking on outside-the-box challenges. He's been learning Mandarin Chinese for more than 10 years, 
-    is super interested in manual lens photography, optics, astronomy, and learning other technical scientific topics.
+    works at Lightspeed and she's currently looking after the company's Application Security and managing their Bug Bounty programs. 
+    She worked in the security consulting space as a Pentester before joining Lightspeed. Cat is passionate to help folks get one step 
+    closer to doing what they want to do securely. Outside work, you can find Cat indulging in activities that fuel her creativity and 
+    curiosity. She is a dedicated cat lover. On the side, she enjoys reading books, drinking iced coffee, hiking, travelling the world, 
+    and chasing sunsets.
 
 - plenary: false
   selected: true
