@@ -44,17 +44,32 @@
   day: 0
   block: 7
 
-- active: false
+- active: true
   day: 0
   block: 8
-    
+  title: 'Hand Coding Security at the Edge: How to reduce your WAF bills'
+  name: Stephen (Max) Gillies
+  org: Fastly
+  description: |-
+    Fastly has been pushing logic to the edge since its inception. This is a hands-on session to get up and 
+    running on Fastly's global network. Join Max Gillies as he steps through two ways to reduce traffic to your WAF 
+    while increasing the real-time visibility of your web application traffic. During the session we'll define 
+    'the edge' and stare into the darkness which is edge security.
+  bio: |-
+    has been in Internet security for the last decades, and loves discussing Defence in Depth architectures using 
+    a 252Tb global network as the thick brown outside layer and your favourite web application firewall as the inside layers.
+
 - active: false
   day: 0
   block: 9
 
-- active: false
+- active: true
   day: 0
   block: 10
+  title: Automating the Threat Modelling Experience with IriusRisk
+  name: John DiLeo
+  org: IriusRisk
+  
     
 - active: false
   day: 0

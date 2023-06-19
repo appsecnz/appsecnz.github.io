@@ -261,9 +261,9 @@
 - plenary: false
   selected: true
   confirmed: true
-  day: 1
-  block: 2
-  track: 1
+  day: 0
+  block: 7
+  track: 0
   title: Securing REST API Endpoints (or, How to avoid another Optus)
   name: James Cooper
   anchor: cooper-securing-api-endpoints
@@ -433,9 +433,9 @@
 - plenary: false
   selected: true
   confirmed: true
-  day: 0
-  block: 10
-  track: 0
+  day: 1
+  block: 2
+  track: 1
   title: 'Privacy by Design: A standard approach in software development?'
   name: Chris Esther
   org: Konpura
@@ -636,7 +636,7 @@
   selected: true
   confirmed: true
   day: 0
-  block: 7
+  block: 10
   track: 0
   title: 'Managing Bug Bounty Programs: A learning journey'
   name: Cat Salanguit
