@@ -94,7 +94,7 @@ Early registration (on or before 18 June):
 
 In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (4-5 July 2023), at the same venue.
 
-[Training Registration](https://events.humanitix.com/owaspnz2023-training){: target="training-reg" } is open until 28 June. Information on the classes offered can be found on our [Pre-Conference Training](training.md) page.
+[Training Registration](https://events.humanitix.com/owaspnz2023-training){: target="training-reg" } is open until 23 June. Information on the classes offered can be found on our [Pre-Conference Training](training.md) page.
 
 ### Training Registration Fees 
 
