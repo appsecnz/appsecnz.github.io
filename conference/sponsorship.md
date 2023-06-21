@@ -94,7 +94,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |        |Platinum    |Gold    |Silver    |Bronze    |LEGO Build |
 |-------:|:----------:|:------:|:--------:|:--------:|:---------:|
 |**Rate**|$7,250|$5,350|$3,750|$2,350|$5,000<br />**(SOLD)**|
-|**Exhibition Space Fee**|$550|$450|$300|$300|$250|
+|**Exhibition Space Fee**|$550|$450|$300|$250|$300|
 |**Exhibition Spaces**| 4<br />**(1 LEFT)** | 8<br />**(2 LEFT)** | 4<sup>&dagger;</sup> | 4<sup>&dagger;</sup> | -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (2)**|**Yes (1)**|No|No|No|
