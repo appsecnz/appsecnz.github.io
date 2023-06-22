@@ -58,7 +58,7 @@ Pre-Conference Training registration will **CLOSE** on Friday, 23 June. From 24 
 
 * *[Hacking Android, iOS, and IoT Applications by Example](training-hacking_mobile_apps.md)*, Abhishek J.M. (7A Security)
 * *[Hacking Modern Web Apps: Master the Future of Attack Vectors](training-hacking_web_apps.md)*, Ashwin Shenoi (7A Security)
-* *[Cloud Security Masterclass: Defender's Guide to Security AWS and Azure Infrastructure](training-cloud_security.md)*, Abhinav Singh
+* *[Cloud Security Masterclass: Defender's Guide to Securing AWS and Azure Infrastructure](training-cloud_security.md)*, Abhinav Singh
 
 #### One-day, in-person (classroom) training - Tuesday, 4 July:
 
