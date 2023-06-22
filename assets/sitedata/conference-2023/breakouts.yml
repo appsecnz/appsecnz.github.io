@@ -40,9 +40,20 @@
   day: 0
   block: 6
 
-- active: false
+- active: true
+  nostream: true
   day: 0
   block: 7
+  title: 'Want to shift your career to the next gear? Shift left with DEFEND'
+  name: DEFEND
+  description: |-
+    Are you interested in cybersecurity and looking to move your training, study, or career in that direction? Come 
+    by the Demo Room and the DEFEND team would be happy to have a chat with you on ideas, recommendations, and advice 
+    in advancing your career in the cybersecurity industry. Or, if you'd like to find out more about DEFEND, what they do, 
+    and what opportunities there are with them, bring your CV along! 
+    </p>
+    <p>
+    To book in a time for a chat, visit the DEFEND team at their exhibition booth.
 
 - active: true
   day: 0
@@ -63,13 +74,9 @@
   day: 0
   block: 9
 
-- active: true
+- active: false
   day: 0
-  block: 10
-  title: Automating the Threat Modelling Experience with IriusRisk
-  name: John DiLeo
-  org: IriusRisk
-  
+  block: 10  
     
 - active: false
   day: 0
@@ -95,9 +102,20 @@
   day: 1
   block: 1
 
-- active: false
+- active: true
   day: 1
   block: 2
+  title: 'Hand Coding Security at the Edge: How to reduce your WAF bills'
+  name: Stephen (Max) Gillies
+  org: Fastly
+  description: |-
+    Fastly has been pushing logic to the edge since its inception. This is a hands-on session to get up and 
+    running on Fastly's global network. Join Max Gillies as he steps through two ways to reduce traffic to your WAF 
+    while increasing the real-time visibility of your web application traffic. During the session we'll define 
+    'the edge' and stare into the darkness which is edge security.
+  bio: |-
+    has been in Internet security for the last decades, and loves discussing Defence in Depth architectures using 
+    a 252Tb global network as the thick brown outside layer and your favourite web application firewall as the inside layers.
 
 - active: false
   day: 1
@@ -111,9 +129,12 @@
   day: 1
   block: 5
 
-- active: false
+- active: true
   day: 1
   block: 6
+  title: Level Up Your Threat Modelling Programme with IriusRisk
+  name: John DiLeo
+  org: IriusRisk
 
 - active: false
   day: 1
