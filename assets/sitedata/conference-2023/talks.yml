@@ -52,8 +52,6 @@
   track: 0
   info: false
   title: Opening Session - Welcome to OWASP New Zealand Day 2023!
-  name: John DiLeo
-  org: Conference Chair
 
 - plenary: true
   day: 0
@@ -591,8 +589,6 @@
   track: 0
   info: false
   title: Welcome to OWASP New Zealand Day 2023 - Day 2
-  name: John DiLeo
-  org: Conference Chair
   
 - plenary: false
   selected: true

@@ -398,149 +398,27 @@
     The solutions and advice we provide aren't pulled from a template somewhere; we work with each of our clients to make sure 
     our advice is hitting the mark for you, and leaving your business more secure than when we met.
 
-- active: false
-  level: 3
-  name: Checkmarx
-  anchor: checkmarx
-  image: /assets/images/2023-sponsors/Logo-Checkmarx.png
-  url: https://checkmarx.com/
-  spotlight: |-
-    <strong>When Software is Everywhere, Security is Everything</strong>
-    </p>
-    <p>
-    The way your company develops and depends on software has changed – and never has it exposed you to more risk. When 
-    software is everywhere, everything becomes an attack surface. And while software security has never been more
-    business-critical, you know if it gets in the way of DevOps, it just won’t work. Security must be inseparable from development.
-    </p>
-    <p>
-    Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
-    entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
-    instilling security into modern development. 
+- active: true
+  level: 5
+  name: 2degrees
+  anchor: 2degrees
+  image: /assets/images/2023-sponsors/Logo-2degrees.png
+  url: https://2degrees.nz/
   description: |-
-    <strong>When Software is Everywhere, Security is Everything</strong>
+    We're a full-service telco connecting good sorts all around New Zealand. Innovating at every turn, our people in Auckland, 
+    Wellington, and Christchurch are here to make New Zealand a better place to live.
     </p>
     <p>
-    The way your company develops and depends on software has changed – and never has it exposed you to more risk. When 
-    software is everywhere, everything becomes an attack surface. And while software security has never been more
-    business-critical, you know if it gets in the way of DevOps, it just won’t work. Security must be inseparable from development.
+    <strong>A purpose worth sharing</strong>
+    <br />
+    We'll shout it from the rooftops - Fighting For Fair. We're doing it by supporting our people, customers, community, and environment.
     </p>
     <p>
-    Checkmarx makes software security essential infrastructure: unified with DevOps, and seamlessly embedded into your 
-    entire CI/CD pipeline, from uncompiled code to runtime testing. Our holistic platform sets the new standard for 
-    instilling security into modern development. 
+    <strong>Sustainability focused</strong>
+    <br />
+    Reducing environmental impact involves conscious decisions about products, services, and business partners, 
+    including our building's 6-Star Greenstar rating for sustainable design.
 
-- active: false
-  level: 3
-  name: HCL AppScan
-  anchor: hcl-appscan
-  image: /assets/images/2023-sponsors/Logo-HCL_AppScan.png
-  url: https://www.hcltechsw.com/appscan/codesweep
-  spotlight: |-
-    HCL AppScan is a powerful Application Security tool which can enable you to meet your end-to-end 
-    security requirement. It has the capability for security testing with SAST/DAST/IAST/SCA and much more. 
-    The AppScan suite offers a community tool for developers to check their code for vulnerabilities on 
-    every pull, get started with Codesweep.
-    </p>
-    <p>
-    Positioned as a Gartner Magic Quadrant <strong>Leader</strong> for Application Security Testing, AppScan 
-    helps to drive substantial savings - lower development and testing costs - by moving security testing and 
-    defect remediation earlier in the SDLC and reducing incidents in production that impact revenue and productivity.
-  description: |-
-    HCL AppScan is a powerful Application Security tool which can enable you to meet your end-to-end 
-    security requirement. It has the capability for security testing with SAST/DAST/IAST/SCA and much more. 
-    The AppScan suite offers a community tool for developers to check their code for vulnerabilities on 
-    every pull, get started with Codesweep.
-    </p>
-    <p>
-    Positioned as a Gartner Magic Quadrant <strong>Leader</strong> for Application Security Testing, AppScan 
-    helps to drive substantial savings - lower development and testing costs - by moving security testing and 
-    defect remediation earlier in the SDLC and reducing incidents in production that impact revenue and productivity.
-
-- active: false
-  level: 3
-  name: RedShield
-  anchor: redshield
-  image: /assets/images/2023-sponsors/Logo-RedShield.png
-  url: https://www.redshield.co/
-  spotlight: |-
-    Customers around the world rely on RedShield to remove their web application
-    security risks. Our team of security experts, supported by proprietary technology,
-    follow a step-by-step best practice process that starts with applications in your risk
-    register, to either mitigate (protect) or remediate (secure) your threat surface.
-    </p>
-    <p>
-    Founded in New Zealand, owned and operated by an experienced team of
-    penetration testers and security technologists, we have become known for taking on
-    the security challenges that no one else will.
-  description: |-
-    Customers around the world rely on RedShield to remove their web application
-    security risks. Our team of security experts, supported by proprietary technology,
-    follow a step-by-step best practice process that starts with applications in your risk
-    register, to either mitigate (protect) or remediate (secure) your threat surface.
-    </p>
-    <p>
-    Founded in New Zealand, owned and operated by an experienced team of
-    penetration testers and security technologists, we have become known for taking on
-    the security challenges that no one else will.
-
-- active: false
-  level: 3
-  name: Micro Focus
-  anchor: micro-focus
-  image: /assets/images/2023-sponsors/Logo-Micro_Focus.svg
-  url: 
-  spotlight: |-
-    Micro Focus is one of the world's largest enterprise software providers. We deliver 
-    mission-critical technology and supporting services that help thousands of customers 
-    worldwide manage core IT elements of their business so they can run and transform—at 
-    the same time.
-  description: |-
-    <strong>Who We Are</strong>
-    </p>
-    <p>
-    Micro Focus is one of the world's largest enterprise software providers. We deliver 
-    mission-critical technology and supporting services that help thousands of customers 
-    worldwide manage core IT elements of their business so they can run and transform—at 
-    the same time.
-    </p>
-    <p>
-    <strong>What We Do</strong>
-    </p>
-    <p>
-    Micro Focus helps you solve the digital dilemma of how to balance today's needs with 
-    tomorrow's opportunities. Our broad portfolio of enterprise software products and supporting 
-    services provides the keys you need to accelerate, simplify, strengthen, and analyze your core operations.
-
-- active: false
-  level: 6
-  name: CyberWarFare
-  anchor: cyber-war-fare
-  image: /assets/images/2023-sponsors/Logo-CyberWarFare.png
-  url: https://www.cyberwarfare.live/
-  spotlight: |-
-    We are an Ed-Tech startup working on simulating critical infrastructure as a playground for cyber security 
-    enthusiasts, professionals, enterprises, and government agencies to practise and upskill security posture of 
-    critical assets. 
-    </p>
-    <p>
-    Customers can learn 24x7 through our seamless browser based realistic labs that are mapped 
-    with industry recognized security frameworks in real-time.
-  description: |-
-    We are an Ed-Tech startup working on simulating critical infrastructure as a playground for cyber security 
-    enthusiasts, professionals, enterprises & government agencies to practise and upskill security posture of 
-    critical assets. 
-    </p>
-    <p>
-    Customers can learn 24x7 through our seamless browser based realistic labs that are mapped 
-    with industry recognized security frameworks in real-time. Our offered training / classes vary from critical 
-    on-prem technologies to cloud focused technologies, which we believe can be scaled globally with approximately 
-    8-11 million workforce combining India & USA alone. 
-    </p>
-    <p>
-    We believe in gender-diverse teams, that is why we are 
-    offering free classes to support girls, women, and gender minorities. We have confidence in inspiring these 
-    populations towards cybersecurity's mission and in-demand skills.
-    
 - active: false
   level: 6
   name: Dice for Hire
