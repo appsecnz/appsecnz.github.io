@@ -426,7 +426,7 @@
   block: 9
   track: 0
   info: true
-  title: Afternoon Tea Break
+  title: Break for Afternoon Tea - Coffee/Tea/Juice Provided
 
 - plenary: false
   selected: true
@@ -946,7 +946,7 @@
   day: 1
   block: 8
   track: 0
-  title: Afternoon Tea Break
+  title: Break for Afternoon Tea - Coffee/Tea/Juice Provided
   name: LEGO<sup>&reg;</sup> Build Ends
 
 - plenary: false
