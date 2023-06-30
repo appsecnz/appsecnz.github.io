@@ -13,7 +13,7 @@
 #   - These render with a different background colour
 #   - Currently ignored, unless 'plenary' is also set to true 
 # block: Block number of the speaker's time slot - First block of the day is Block 0
-# track: Track number (0 - Track One; 1 - Track Two; etc.)
+# track: Track number (0 - Track One; 1 - Track Two)
 #   - Demo/Breakout ("Track 3") info goes in breakouts.yml
 # name: Speaker's name
 # title: Full title of talk
@@ -57,15 +57,16 @@
   day: 0
   block: 3
   info: false
-  title: 'Conference Keynote - OWASP: Tracing the Journey of Web Application Security from Past to Future'
+  title: 'Conference Keynote - <a href="speakers.html#keynote" target="_blank">OWASP: Tracing the Journey of Web Application Security from Past to Future</a>'
   name: Vandana Verma Singh
   org: Chair, OWASP Global Board of Directors
   
 - plenary: false
   selected: true
   confirmed: true
+  remote: true
   day: 0
-  block: 4
+  block: 5
   track: 0
   title: Fantastic Cloud Security Mistakes and How to Find Them
   name: Sarah Young
@@ -158,7 +159,7 @@
   selected: true
   confirmed: true
   day: 0
-  block: 5
+  block: 4
   track: 0
   title: OWASP Top 10 Overview
   name: Kirk Jackson
@@ -1054,4 +1055,4 @@
   day: 1
   block: 11
   track: 0
-  name: Post-Conference Gathering - Location TBC
+  name: 'Post-Conference Gathering - <a href="https://alehouse.co.nz/" target="_blank">Galbraith&#39;s Alehouse</a> (Self-hosted)'

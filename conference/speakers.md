@@ -19,6 +19,8 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ### OWASP: Tracing the Journey of Web Application Security from Past to Future
 
+<div id="keynote" />
+
 *Vandana Verma Sehgal - Chair, OWASP Global Board of Directors*   
 Thursday, 10:05   
 
