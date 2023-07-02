@@ -71,9 +71,10 @@
   day: 0
   block: 9
 
-- active: false
+- active: true
   day: 0
   block: 10  
+  name: Aotearoa Technology Union (ATU)
     
 - active: false
   day: 0
