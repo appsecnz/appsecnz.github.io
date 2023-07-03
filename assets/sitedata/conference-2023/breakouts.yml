@@ -74,6 +74,7 @@
 - active: true
   day: 0
   block: 10  
+  title: ATU Information Session
   name: Daniel Zollinger
   org: Aotearoa Technology Union (ATU)
     
@@ -134,6 +135,16 @@
   title: Level Up Your Threat Modelling Programme with IriusRisk
   name: John DiLeo
   org: IriusRisk
+  description: |-
+    Join us as we guide you through an interactive demonstration of IriusRisk, the world's leading threat modelling
+    platform. We'll showcase the key features that allow you to effortlessly automate your Threat Modeling procedures, 
+    guaranteeing secure software development from the very beginning.
+    </p>
+    <p>
+    Additionally, we'll provide insights into the long-term cost savings and return on investment you can achieve 
+    by leveraging IriusRisk.
+  bio: |-
+     
 
 - active: false
   day: 1
