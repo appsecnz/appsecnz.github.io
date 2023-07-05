@@ -956,6 +956,7 @@
   day: 1
   block: 9
   track: 0
+  remote: true
   title: 'The "A" in AppSec Stands for "Agile"'
   name: Fadzayi (Fadz) Chiwandire
   org: CyberCX
