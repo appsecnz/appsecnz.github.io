@@ -52,6 +52,11 @@
   track: 0
   info: false
   title: Opening Session - Welcome to OWASP New Zealand Day 2023!
+  slides: /assets/presentations/conference-2023/DiLeo-Thursday_Opening_Session.pdf
+  format: PDF
+  size: 4.5 MB
+  video: https://youtu.be/Q8i2QhDsw80
+  length: '41:26'
 
 - plenary: true
   day: 0
@@ -60,6 +65,8 @@
   title: 'Conference Keynote - <a href="speakers.html#keynote" target="_blank">OWASP: Tracing the Journey of Web Application Security from Past to Future</a>'
   name: Vandana Verma Sehgal
   org: Chair, OWASP Global Board of Directors
+  video: https://youtu.be/R0Bd-0E8BKY
+  length: '45:51'
   
 - plenary: false
   selected: true
@@ -68,6 +75,11 @@
   day: 0
   block: 5
   track: 0
+  slides: /assets/presentations/conference-2023/Young-Fantastic_Cloud_Security_Mistakes.pdf
+  format: PDF
+  size: 4.2 MB
+  video: https://youtu.be/BQSCN0Lces4
+  length: '28:12'
   title: Fantastic Cloud Security Mistakes and How to Find Them
   name: Sarah Young
   org: Microsoft
@@ -81,7 +93,7 @@
     prevent them from happening in your environment.
     </p>
     <p>
-    Talk breakdown is as follows: 
+    The talk's breakdown is as follows: 
     <ul>
     <li>Today's threat landscape</li>
     <li>Perception vs. reality</li>
@@ -110,6 +122,8 @@
   block: 4
   track: 1
   remote: false
+  video: https://youtu.be/WXFjtSL0QFI
+  length: '27:31'
   title: How to Have Visibility and Security <em>of</em> Your CI/CD Ecosystem
   name: Pramod Rana
   org: Netskope
@@ -161,6 +175,9 @@
   day: 0
   block: 4
   track: 0
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: OWASP Top 10 Overview
   name: Kirk Jackson
   org: Lightspeed / OWASP NZ
@@ -183,6 +200,9 @@
   day: 0
   block: 5
   track: 1
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: 'MPT: Pentest in Action'
   name: Jyoti Raval
   org: Harness
@@ -263,6 +283,9 @@
   day: 0
   block: 7
   track: 0
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: Securing REST API Endpoints (or, How to avoid another Optus)
   name: James Cooper
   anchor: cooper-securing-api-endpoints
@@ -343,6 +366,9 @@
   day: 0
   block: 8
   track: 0
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: What Happens When a Meteor Takes Out My Data Centre?
   name: Peter Jakowetz
   org: PrivSec Consulting
@@ -435,6 +461,9 @@
   day: 1
   block: 2
   track: 1
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: 'Privacy by Design: A standard approach in software development?'
   name: Chris Esther
   org: Konpura
@@ -459,6 +488,9 @@
   day: 0
   block: 10
   track: 1
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: What Could Possibly Go Wrong in a Kubernetes Cluster?
   name: William Koh
   org: WithSecure
@@ -635,6 +667,9 @@
   day: 0
   block: 10
   track: 0
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: 'Managing Bug Bounty Programs: A learning journey'
   name: Cat Salanguit
   org: Lightspeed
@@ -668,6 +703,9 @@
   day: 1
   block: 3
   track: 0
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: From DevOps to DevSecOps
   name: Karan Sharma
   org: Wise Fox Security
@@ -708,6 +746,9 @@
   day: 1
   block: 3
   track: 1
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: The Many Sins of Web3
   name: Stephen Morgan
   anchor: morgan-sins-of-web3
@@ -760,6 +801,9 @@
   day: 1
   block: 4
   track: 1
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: 'FOSSology: OSS for Open-Source License Compliance'
   name: Gaurav Mishra
   name2: Shaheem Azmal M MD
@@ -846,6 +890,9 @@
   day: 1
   block: 6
   track: 1
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: Understanding and Securing Cloud Resources using a Layered Approach
   name: Ruskin Dantra
   name2: Ratan Kumar
@@ -874,6 +921,9 @@
   day: 1
   block: 7
   track: 0
+  slides: /assets/presentations/conference-2023/.pdf
+  format: PDF
+  size:  MB
   title: Thoughts on Threat Modelling
   name: John DiLeo
   org: IriusRisk / OWASP NZ
