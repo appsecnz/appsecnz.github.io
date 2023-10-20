@@ -101,7 +101,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Rate**|$12,800|$8,000|$6,000|$3,800|$2,500|$5,500|
 |**Exhibition Space Fee**|**Incl.**|**Incl.**|$500|$350|$350|$350|
 |**Exhibition Spaces**| 1 | 3 | 8 | 4<sup>&dagger;</sup> | 4<sup>&dagger;</sup> | 1<sup>&dagger;</sup> |
-|**LEGO Build Upgrade**|$8,000|$3,500|$2,000|N/A|N/A| -- |
+|**LEGO Build Upgrade** (see notes)|$8,000|$3,500|$2,000|N/A|N/A| -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (2)**|**Yes (1)**|No|No|No|
 |**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|No|**Yes**|
@@ -112,7 +112,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Pre-Conference Reception Tickets**|**12**|**8**|**6**|**4**|**2**|**4**|
 |**Exhibitor Passes** (see notes)|**10**|**6**|**4**|**2**|**2**|**2**|
 |**Free Conference Passes** (see notes)|**25**|**15**|**10**|**5**|**5**|**5**|
-|**Training Credits** (see notes)|**18**|**12**|**8**|**4**|**2**|No|
+|**Training Credits** (see notes)|**16**|**12**|**8**|**4**|**2**|No|
 |**Logo on Delegate Badges**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Logo on Conference T-Shirts**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Logo on Room Signs**|**Yes**|**Yes**|**Yes**|No|No|No|
@@ -126,12 +126,12 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, with space provided as part of each sponsorship package. Some sponsors, however, didn't wish to make use of the space provided. For this year's conference, we've made the exhibition space an optional add-on for some sponsorship levels, so those sponsors can decide whether to have a booth.
 
-|        |Platinum    |Gold    |Silver<br />Bronze<br />LEGO Build |
-|-------::----------:|:------:|:--------:|
-|**Booth Size**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|
-|**Seating**|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|
-|**Plug Boards**|1|1|1|
-|**Rate**|$550|$450|$300|
+|        |Diamond    |Platinum    |Gold    |Silver<br />Bronze<br />LEGO Build |
+|-------::----------:|:----------:|:------:|:--------:|
+|**Booth Size**|**30m<sup>2</sup>**|**20m<sup>2</sup>**|**9m<sup>2</sup>**|**6m<sup>2</sup>**|
+|**Seating**|4 tables<br />8 chairs|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|
+|**Plug Boards**|2|1|1|1|
+|**Rate**|Incl.|Incl.|$500|$350|
 
 The diagram below depicts the planned arrangement of exhibition spaces in the WG Building Atrium.
 
@@ -141,9 +141,9 @@ Unless otherwise requested, each exhibition space will be provided power strips 
 
 **Optional Video Displays:** 
 
-**55" Flat-Panel Displays:** The venue's A/V support team can provide 55" HDMI-compatible displays on fixed stands, for use in sponsor exhibition spaces. The cost is $500 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup. The Diamond sponsor's exhibition space can accommodate up to three (3) displays, Platinum Sponsor spaces can accommodate up to two (2) displays, and Gold/Silver/Bronze Sponsor spaces can accommodate one (1).
+**55" Flat-Panel Displays:** The venue's A/V support team can provide 55" HDMI-compatible displays on fixed stands, for use in sponsor exhibition spaces. The cost is $550 each, which includes use of the display during the main conference (Friday and Saturday), delivery/pick-up, and on-site setup. The Diamond sponsor's exhibition space can accommodate up to three (3) displays, Platinum Sponsor spaces can accommodate up to two (2) displays, and Gold/Silver/Bronze Sponsor spaces can accommodate one (1).
 
-**Video Wall:** There is a permanently installed video wall, located above one end of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one sponsor to reserve the video wall and display recorded content throughout the main conference (Thursday and Friday). The cost for this option is $600.
+**Video Wall:** There is a permanently installed video wall, located above one end of the Sponsor Exhibition Area. The option is available (on a first-in, first-served basis) for one sponsor to reserve the video wall and display recorded content throughout the main conference (Thursday and Friday). The cost for this option is $650.
 
 ### Notes
 
@@ -164,9 +164,15 @@ Each sponsorship package includes a number of free conference passes (see table 
 
 **Exhibitor Passes:**
 
-Each sponsor requesting an exhibition space ("booth"), including all **Diamond** and **Platinum** sponsors, will receive passes for team members who attend the conference to staff their booth. Each Exhibitor Pass includes free registration for the conference, a conference t-shirt, and lunch vouchers for Thursday and Friday.
+Each sponsor requesting an exhibition space ("booth"), including all **Diamond** and **Platinum** sponsors, will receive a number of passes (see table above) for team members who attend the conference to staff their booth. Each Exhibitor Pass includes free registration for the conference, a conference t-shirt, and lunch vouchers for Thursday and Friday.
 
-To claim these free registrations, sponsors must provide the names, email addresses, and t-shirt sizes of those to whom they should be issued, to the conference's Sponsor Liaison. Please plan to provide delegate information on or before Thursday, 8 June. Sponsor delegates whose information is provided after 8 June cannot be guaranteed a t-shirt.
+Sponsors will be provided a set of single-use Access Codes, each of which will provide access to 'purchase' one (1) "VIP Sponsor" conference registration, at no charge.
+
+**LEGO Build Upgrade:**
+
+If a sponsor wishes to participate as a Diamond, Platinum, or Gold Sponsor, and *also* sponsor the LEGO Build, the listed "LEGO Build Upgrade" fee will be charged, in addition to the base $5,500 LEGO Build Sponsorship fee.
+
+The majority of benefits received will be those listed for the Premier Sponsorship tier. In addition, the sponsor may place up to two (2) company banners in the LEGO Build Area in the Delegate Lounge, will be recognised as both a Premier Sponsor and the LEGO Build Sponsor, and will be featured in the LEGO Build video as described for the LEGO Build Sponsorship.
 
 **Sponsor Logos:**
 
@@ -187,13 +193,13 @@ To claim these free registrations, sponsors must provide the names, email addres
     auditoriums, as well as a "mini-track" in the Demo/Breakout Room. 
       - Diamond Sponsors may display one banner to the side of
     each room's stage (two main tracks, plus Demo/Breakout 'track')
-      - Platinum Sponsors may display one banner to the side of the stage in the two main track auditoriums 
+      - Platinum Sponsors may display one banner to the side of the stage in each of the two main track auditoriums 
       - Gold Sponsors may display a banner to the
     side of the stage in one auditorium. Gold Sponsors may express an
     auditorium preference, but final locations are at the discretion of
     the conference team.
       - Any sponsor may display a banner to the side of the main presentation area
-      in the Demo/Breakout Room, while presenting.
+      in the Demo/Breakout Room, *while presenting*.
 
 **Company Spotlight**   
 
@@ -205,18 +211,5 @@ To claim these free registrations, sponsors must provide the names, email addres
   - In addition, up to nine (9) other sponsors' logos are displayed in the
     "Conference Sponsors" section of the footer - also selected on a weighted-random
     basis. 
-
-**Promotional Items:**
-
-  - Printed materials are limited in dimensions to A4 size - either a
-    single sheet, printed on one or both sides; or an A4 booklet
-  - Small imprinted items are also acceptable - pens, stress balls, USB
-    keys, fidget spinners, etc.
-  - Design of printed materials and imprinted items are subject to
-    approval by AppSec New Zealand Conference Committee
-  - **RECRUITMENT:** In addition to the promotional item allowances
-    included in Premium Sponsorship Packages, any sponsor may provide
-    one A5-size card with information on *actual current* vacancies for
-    which candidates are actively being sought
 
 **All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.**
