@@ -19,10 +19,6 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## Auckland University of Technology (AUT) City Campus
 
-## [Conference Registration](https://events.humanitix.com/owaspnz2023) is now open! Book your tickets now!
-
-## [Pre-Conference Training Registration](https://events.humanitix.com/owaspnz2023-training) is now open! Training registration will close on Friday, 23rd June.
-
 -----
 
 We are proud to present the 13th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, July 6th and 7th, 2023. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
@@ -129,7 +125,7 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 **LEGO Build -** In a corner of the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a number of LEGO sets throughout the event. The conference A/V team will create a stop-motion video of the builds during the conference, and we'll view the finished video during the Closing Session on Friday.
 
-As an added bonus, a few lucky conference delegates will go home with LEGO sets, as prizes in our Door Prize Draw at the Closing Session of the conference. All sets *completed* during the conference will be included in the top prize, while each incomplete/unopened set will be drawn as a separate, 'lesser' prize.
+As an added bonus, some lucky conference delegate(s) will go home with LEGO sets, as prizes in our Door Prize Draw at the Closing Session of the conference. All sets *completed* during the conference will be included in the top prize, while each incomplete/unopened set will be drawn as a separate, 'lesser' prize.
 
 To be eligible to win LEGO sets, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desks (on Level 3 and in the Sponsor Exhibition area).
 
@@ -139,10 +135,10 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 
 * **Main Conference Dates:** 6-7 July 2023
 * **Pre-Conference Training Dates:** 4-5 July 2023
-* **Training Registration Closes:** 23 June 2023
+* **Training Registration Closed:** 23 June 2023
 * **Last Day to Pre-Order Lunches:** 23 June 2023
-* **"Early Bird" Conference Registration Ends:** 18 June 2023 - From 19 June, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
-* **Last Day for T-Shirt Purchases:** 8 June 2023 - Orders go to the printer the next morning!
+* **"Early Bird" Conference Registration Ended:** 18 June 2023 - From 19 June, there was an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
+* **Last Day for T-Shirt Purchases:** 8 June 2023 - Orders went to the printer the next morning!
 
 * **Conference and Training Registration Opened:** 3 April 2023
 * **Call for Presentations(CFP) Closed:** 28 April 2023
@@ -181,7 +177,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 
 The conference planning team are still finalising the lunch menu - that information will be added here, when available.
 
-Lunch pre-orders **close** on Friday, 23rd June.
+Lunch pre-orders **closed** on Friday, 23rd June.
 
 ## Accommodations
 
