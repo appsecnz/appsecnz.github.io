@@ -1,25 +1,9 @@
-- type: notice
-  start: 2023-04-03 00:00:00+1200
-  end: 2023-04-09 23:59:59+1200
-  text: "<h3>Conference registration is now open. Visit our <a href='https://events.humanitix.com/owaspnz2023/' target='registration'>Main Conference Registration Site</a> to book your tickets.</h3>"
 - type: alert
   text: |-
     <h3 align="center">
-      The OWASP New Zealand Day conference is happening! Join us Tuesday-Friday, 4-7 July 2023. 
+      Save the Date! The 2024 OWASP New Zealand Day conference will take place Tuesday-Friday, 3-6 September 2024. 
       <br />
-      Conference registration is open - Visit our <a href='https://events.humanitix.com/owaspnz2023/' target='registration'>Main Conference Registration Site</a> to book your tickets.
+      Pre-Conference Training: Tuesday &amp; Wednesday; Main Conference: Thursday &amp; Friday
     </h3> 
-  start: 2023-04-10 00:00:00+1200
-  end: 2022-07-06 23:59:59+1200
-- type: alert
-  start: 2022-04-11 00:00:00+1300
-  end: 2022-05-15 23:59:59+1200
-  text: "<h3>Our two-day &quot;Mobile Security Testing Guide Hands-On&quot; class is now <em>in person</em>. Visit our <a href='https://events.humanitix.com/owaspnz2022-training/' target='training-reg'>Training Registration Site</a> to secure your spot.</h3>"
-- type: alert
-  start: 2022-06-26 22:00:00+1200
-  end: 2022-07-08 16:59:59+1200
-  text: |-
-    <h3 align="center">
-    Be sure to review our updated <a href='https://appsec.org.nz/conference/covid-policy.html'>COVID Protection Policy</a>, before attending the conference in person.
-    <br />If you're unwilling or unable to comply with this policy, please DO NOT attend the event in person - Please enjoy our live-stream broadcast, instead.
-    </h3>
+  start: 2023-10-01 00:00:00+1200
+  end: 2024-09-06 23:59:59+1200

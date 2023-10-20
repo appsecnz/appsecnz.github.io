@@ -5,57 +5,71 @@
 			"url": "/"
 		},
 		{
-			"title": "OWASP NZ Day 2023",
+			"title": "2024 OWASP NZ Day",
 			"url": "/conference",
 			"items": [
-			{
-				"title": "Conference Home Page",
-				"url": "/conference"
-			},
-			{
-				"title": "Conference Schedule",
-				"url": "/conference/schedule.html"
-			},
-			{
-				"title": "Speakers and Abstracts",
-				"url": "/conference/speakers.html"
-			},
-			{
-				"title": "Demos/Breakouts",
-				"url": "/conference/breakouts.html"
-			},
-			{
-				"title": "Pre-Conference Training",
-				"url": "/conference/training.html"
-			},
-			{
-				"title": "About Our Sponsors",
-				"url": "/conference/sponsors.html"
-			},
-			{
-				"title": "Call for Sponsors",
-				"url": "/conference/sponsorship.html"
-			},
-			{
-				"title": "Diversity Fund",
-				"url": "/conference/diversity_fund.html"
-			},
-			{
-				"title": "Code of Conduct",
-				"url": "/conference/conduct.html"
-			},
-			{
-				"title": "Volunteers",
-				"url": "/conference/volunteers.html"
-			},
-			{
-				"title": "International Attendees",
-				"url": "/conference/international.html"
-			},
-			{
-				"title": "Food and Drink",
-				"url": "/conference/lunch.html"
-			}
+				{
+					"title": "Conference Home Page",
+					"url": "/conference"
+				},
+				{
+					"title": "Call for Sponsors",
+					"url": "/conference/sponsorship.html"
+				}
+			]
+		},
+		{
+			"title": "OWASP NZ Day 2023",
+			"url": "/conference-2023",
+			"items": [
+				{
+					"title": "Conference Home Page",
+					"url": "/conference-2023"
+				},
+				{
+					"title": "Conference Schedule",
+					"url": "/conference-2023/schedule.html"
+				},
+				{
+					"title": "Speakers and Abstracts",
+					"url": "/conference-2023/speakers.html"
+				},
+				{
+					"title": "Demos/Breakouts",
+					"url": "/conference-2023/breakouts.html"
+				},
+				{
+					"title": "Pre-Conference Training",
+					"url": "/conference-2023/training.html"
+				},
+				{
+					"title": "About Our Sponsors",
+					"url": "/conference-2023/sponsors.html"
+				},
+				{
+					"title": "Call for Sponsors",
+					"url": "/conference-2023/sponsorship.html"
+				},
+				{
+					"title": "Diversity Fund",
+					"url": "/conference-2023/diversity_fund.html"
+				},
+				{
+					"title": "Code of Conduct",
+					"url": "/conference-2023/conduct.html"
+				},
+				{
+					"title": "Volunteers",
+					"url": "/conference-2023/volunteers.html"
+				},
+				{
+					"title": "International Attendees",
+					"url": "/conference-2023/international.html"
+				},
+				{
+					"title": "Food and Drink",
+					"url": "/conference-2023/lunch.html"
+				}
 			]
 		},
 		{

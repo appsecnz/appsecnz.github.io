@@ -1,40 +1,40 @@
 ---
-title: Call for Sponsors - OWASP NZ Day 2024
-tags: owaspnz24
+title: Call for Sponsors - OWASP NZ Day 2023
+tags: owaspnz23
 
 layout: conference/full-width
-dataDir: conference-2024
-sponsorsEventName: OWASP New Zealand Day 2024
+dataDir: conference-2023
+sponsorsEventName: OWASP New Zealand Day 2023
 ---
 
-[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Call for Sponsors
 
-## 2024 OWASP New Zealand Day
+## 2023 OWASP New Zealand Day
 
-The 2024 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 6-7 July 2024. This event 
+The 2023 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 6-7 July 2023. This event 
 is unique among New Zealand security conferences, in that it's entirely dedicated to application security. AppSec New Zealand Incorporated is, once again, managing the logistics and finances for the event. This year, we have been able to secure a licensing arrangement with the OWASP Foundation, allowing us to return to the event's traditional "OWASP New Zealand Day" branding.
 
-Due to scheduling conflicts at the University of Auckland, we have been unable to secure our usual venue in recent years. For 2022 - 2024, 
-our event is hosted at the Auckland University of Technology's city campus, in the Sir Paul Reeves (WG) Building. The shift to our alternative venue has both increased our costs and reduced the event's capacity (assuming from 1,000 to 650.
+Due to scheduling conflicts at the University of Auckland, we have been unable to secure our usual venue. In 2022 and 2023, 
+we'll be hosted at the Auckland University of Technology's city campus, in the Sir Paul Reeves (WG) Building. The shift to our alternative venue has both increased our costs and reduced the event's capacity (assuming COVID Alert Level 1) from 1,000 to 750.
 
-We strive to keep the costs for delegates low, and provide financial support for students, unwaged, and members of under-represented groups. Thanks to the continuing generosity of our Premier Sponsors, we have been able to consistently deliver an  instructive, high-quality event for the New Zealand community. AppSec New Zealand is strictly not for profit and is a registered New Zealand charity (Charity Number CC59162). Sponsorship funds are used to make the OWASP New Zealand Day conference a compelling and valuable experience for all participants.
+We strive to keep the costs for delegates low, and provide financial support for students, unwaged, and members of under-represented groups. Thanks to the continuing generosity of our Premier Sponsors, we have been able to consistently deliver an  instructive, high-quality event for the New Zealand community. AppSec New Zealand is strictly not for profit and is a registered New Zealand charity (Charity Number CC59162). Sponsorship funds are used to make the OWAS New Zealand Day conference a compelling and valuable experience for all delegates.
 
 Sponsorship funds collected are used for things such as:
 
-* **Venue -** Room use, on-site management, and audio/visual equipment hire and service fees
+* **Venue -** Room use and on-site management fees
 * **Delegate Badges -** We feel that getting to know people within the New Zealand community is important, and name tags make that possible
 * **Promotion -** We would like to reach a wider audience, by utilising paid advertising and online promotion for the event
-* **Printed Materials -** Printed materials will include conference programs, badge lanyards, volunteer and delegate t-shirts, and information and room signage
-* **Recognition Items -** We love our sponsors, speakers, and trainers, and wish to show them our appreciation with small gifts
+* **Printed Materials -** Printed materials will include conference programs, badge lanyards, delegate tote bags, volunteer and delegate t-shirts, and information and room signage
+* **Recognition Items -** We love our speakers and trainers, and wish to show them our appreciation with small gifts
 * **Catering -** To promote a collegial environment for networking among application security professionals, we're scheduling daily tea breaks and providing coffee/tea service each morning
 * **Live Streaming -** Throughout both days of the main conference, we'll be live-streaming all presentations and sessions. Live-stream registration fees only partially offset the costs for on-site audio/visual and live-stream services
 * **Administration -** While we do our best to keep day-to-day administrative and operating costs low, we do need to cover ongoing expenses such as insurance, accounting services, and storage fees
 
-Due to continuing increases in service fees and catering charges, the overall budget for this year's conference is approximately 10% larger than for last year's event. As in recent years, the rates for our Premier Sponsorship packages have been increased slightly to help defray these increased costs.
+Due to increased service fees and catering charges, the overall budget for this year's conference is approximately 15% larger than for last year's event. The rates for our Premier Sponsorship packages have been increased slightly to help defray these increased costs.
 
 ## Facts
 
@@ -69,19 +69,14 @@ To express interest in supporting the conference as a sponsor, please
 
 ## Premium Sponsorship Packages
 
-### Highlights of Changes for 2024
+### Highlights of Changes for 2023
 
-For 2024, we've made only slight adjustments to our Premier Sponsorship packages:
-
-* In 2022, and even more so in 2023, sponsors were generally not interested in providing give-away items ("SWAG") to be included in the cloth tote bags we distributed to conference attendees. In addition, many attendees were reluctant to keep the bags we provided. For these reasons, we will no longer distribute "SWAG Bags" to conference attendees.
-* We've added up-front pricing for sponsors who wish to combine a 'regular' sponsorship package with the LEGO Build Sponsorship. The LEGO Build Sponsorship is still available as a stand-alone sponsorship package, with benefits similar to those at the Silver Sponsor level. However, if you would like to sponsor the LEGO Build *and* have the benefits associated with higher-tier packages (Diamond, Platinum, or Gold), you can pay the **LEGO Build Add-On Fee** (see table below) for both.
-
-Some key elements we added in 2023 will continue in 2024:
+This year, we've made a few slight adjustments to our Premier Sponsorship packages:
 
 * Each Premier Sponsor package includes a number of free conference passes and conference t-shirts ($45 value per person)
 * Each Sponsor Exhibition space ("booth") includes a number of Exhibitor Passes, which include tickets for lunch each day ($95 value per person).
 
-### LEGO Build and Video Sponsorship
+### LEGO Build and Video Sponsorship (SOLD)
 
 In addition to the tiered sponsorship packages detailed below, we're continuing this exciting *a la carte* opportunity: A LEGO Build Sponsorship! Beginning with the 2022 conference, we've added a Delegate Lounge, adjacent to the Sponsor Exhibition Area. In the Delegate Lounge, conference participants will be able to take part in group builds of several LEGO sets throughout the conference. 
 
@@ -89,38 +84,39 @@ The conference A/V team will capture time-sequenced photos of the build area, an
 
 In addition, all LEGO sets will be awarded to conference delegates during the prize giving at our closing session. The LEGO Build sponsor will be invited to the stage to draw the names of all LEGO prize winners. All LEGO sets *completed* during the conference will be included as part of the top LEGO prize; each incomplete/unopened set will be awarded as a separate prize.
 
-The fee for this one-of-a-kind *a la carte* sponsorship is **$5,500**, to cover the costs of purchasing the LEGO sets and producing the video. Other associated sponsor benefits are similar to those of a **Silver** sponsorship.
+The fee for this one-of-a-kind *a la carte* sponsorship is **$5,000**, to cover the costs of purchasing the LEGO sets and producing the video. Other associated sponsor benefits are similar to those of a **Silver** sponsorship.
 
 ### Premier Sponsor Fees and Benefits
 
 All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 {: style="font-weight: bold; font-size: small;" }
 
-|        |Diamond     |Platinum    |Gold    |Silver    |Bronze    |LEGO Build |
-|-------:|:----------:|:----------:|:------:|:--------:|:--------:|:---------:|
-|**Rate**|$12,800|$8,000|$6,000|$3,800|$2,500|$5,500|
-|**Exhibition Space Fee**|**Incl.**|**Incl.**|$500|$350|$350|$350|
-|**Exhibition Spaces**| 1 | 3 | 8 | 4<sup>&dagger;</sup> | 4<sup>&dagger;</sup> | 1<sup>&dagger;</sup> |
-|**LEGO Build Upgrade**|$8,000|$3,500|$2,000|N/A|N/A| -- |
-|**Banner in Conference Lobby** (see notes)|**Yes**|**Yes**|No|No|No|No|
-|**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (2)**|**Yes (1)**|No|No|No|
+|        |Platinum    |Gold    |Silver    |Bronze    |LEGO Build |
+|-------:|:----------:|:------:|:--------:|:--------:|:---------:|
+|**Rate**|$7,250|$5,350|$3,750|$2,350|$5,000<br />**(SOLD)**|
+|**Exhibition Space Fee**|$550|$450|$300|$250|$300|
+|**Exhibition Spaces**| 4<br />**(1 LEFT)** | 8<br />**(2 LEFT)** | 4<sup>&dagger;</sup> | 4<sup>&dagger;</sup> | -- |
+|**Banner in Conference Lobby** (see notes)|**Yes**|No|No|No|No|
+|**Banner at Side of Stage** (see notes)|**Yes (2)**|**Yes (1)**|No|No|No|
 |**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|No|**Yes**|
-|**Banner in Delegate Lounge** (see notes)|No|No|No|No|No|**Yes (2)**|
-|**Priority Demo Room Access**|**Yes**|**Yes**|**Yes**|No|No|No|
-|**Company Description on Conference Web Page**|**400 words**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
-|**Company *Spotlight* Description on Web Page** (see notes)|**100 words**|**100 words**|**100 words**|**100 words**|No|**100 words**|
-|**Pre-Conference Reception Tickets**|**12**|**8**|**6**|**4**|**2**|**4**|
-|**Exhibitor Passes** (see notes)|**10**|**6**|**4**|**2**|**2**|**2**|
-|**Free Conference Passes** (see notes)|**25**|**15**|**10**|**5**|**5**|**5**|
-|**Training Credits** (see notes)|**18**|**12**|**8**|**4**|**2**|No|
-|**Logo on Delegate Badges**|**Yes**|**Yes**|**Yes**|No|No|No|
-|**Logo on Conference T-Shirts**|**Yes**|**Yes**|**Yes**|No|No|No|
-|**Logo on Room Signs**|**Yes**|**Yes**|**Yes**|No|No|No|
-|**Logo on Conference Website**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
-|**Pre-Conference Publicity**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
-|**Recognition during Sessions**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
+|**Banner in Delegate Lounge** (see notes)|No|No|No|No|**Yes (2)**|
+|**Priority Demo Room Access**|**Yes**|**Yes**|No|No|No|
+|**Company Description on Conference Web Page**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
+|**Company *Spotlight* Description on Web Page** (see notes)|**100 words**|**100 words**|**100 words**|No|**100 words**|
+|**Pre-Conference Reception Tickets**|**8**|**6**|**4**|**2**|**4**|
+|**Exhibitor Passes** (see notes)|**6**|**4**|**2**|**2**|**2**|
+|**Free Conference Passes** (see notes)|**15**|**10**|**5**|**5**|**5**|
+|**Training Credits** (see notes)|**12**|**8**|**4**|**2**|No|
+|**Logo on Delegate Badges**|**Yes**|**Yes**|No|No|No|
+|**Logo on Conference T-Shirts**|**Yes**|**Yes**|No|No|No|
+|**Logo on Room Signs**|**Yes**|**Yes**|No|No|No|
+|**Logo on Conference Tote Bags**|**Yes**|**Yes**|**Yes**|No|**Yes**|
+|**Logo on Conference Website**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
+|**Pre-Conference Publicity**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
+|**Recognition during Sessions**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
+|**Promotional Items** (see notes)|**Yes<br />(up to 3)**|**Yes<br />(up to 2)**|**Yes (1)**|**Yes (1)**|**Yes (1)**|
 
-<sup>&dagger;</sup> A *total* of four (4) exhibition spaces are available for Silver, Bronze, and (non-upgraded) LEGO Build sponsors.
+<sup>&dagger;</sup> A *total* of four (4) exhibition spaces are available for Silver and Bronze sponsors.
 
 ## Exhibition Space
 
