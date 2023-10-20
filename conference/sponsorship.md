@@ -15,7 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2024
 
 ## 2024 OWASP New Zealand Day
 
-The 2024 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 6-7 July 2024. This event 
+The 2024 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 5-6 September 2024. This event 
 is unique among New Zealand security conferences, in that it's entirely dedicated to application security. AppSec New Zealand Incorporated is, once again, managing the logistics and finances for the event. This year, we have been able to secure a licensing arrangement with the OWASP Foundation, allowing us to return to the event's traditional "OWASP New Zealand Day" branding.
 
 Due to scheduling conflicts at the University of Auckland, we have been unable to secure our usual venue in recent years. For 2022 - 2024, 
