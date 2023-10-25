@@ -65,7 +65,7 @@ The conference is organised and conducted by AppSec New Zealand, a all-volunteer
 ## How to Become a Sponsor
 
 To express interest in supporting the conference as a sponsor, please
-[contact us by email](mailto:john.dileo@appsec.org.nz).
+[contact us by email](mailto:sponsors@appsec.org.nz).
 
 ## Premium Sponsorship Packages
 
@@ -80,6 +80,17 @@ Some key elements we added in 2023 will continue in 2024:
 
 * Each Premier Sponsor package includes a number of free conference passes and conference t-shirts ($45 value per person)
 * Each Sponsor Exhibition space ("booth") includes a number of Exhibitor Passes, which include tickets for lunch each day ($95 value per person).
+
+### Booking Your Sponsorship
+
+The conference planning team are conscious of many organisations' need for advance planning information. For this reason, we're making this Call for Sponsors available almost a full year before the conference. 
+
+To ensure your place as a Premier Sponsor, you'll want to [get in touch with us](mailto:sponsors@appsec.org.nz) and complete your Sponsorship Agreement as soon as possible.
+
+For Sponsorship Agreements completed *prior to* 1st April 2024, invoices will be issued in April. For Agreements completed *from* 1st April, invoices will be issued upon completing the Agreement. Our payment terms are normally 30 days, but we can accommodate other payment terms by negotiation. 
+
+A sponsor's payment must be *received* before the event begins (i.e., on or before 2nd September) to participate in the event, so invoices issued from 5th August will have shorter payment deadlines.
+
 
 ### LEGO Build and Video Sponsorship
 
