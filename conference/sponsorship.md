@@ -115,7 +115,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**LEGO Build Upgrade** (see notes)|$8,000|$3,500|$2,000|N/A|N/A| -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (2)**|**Yes (1)**|No|No|No|
-|**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|No|**Yes**|
+|**Banner at Pre-Conference Reception** (see notes)|**Yes**|**Yes**|**Yes**|**Yes**|No|**Yes**|
 |**Banner in Delegate Lounge** (see notes)|No|No|No|No|No|**Yes (2)**|
 |**Priority Demo Room Access**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Company Description on Conference Web Page**|**400 words**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
