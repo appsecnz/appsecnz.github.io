@@ -16,7 +16,7 @@ sponsorsEventName: OWASP New Zealand Day 2024
 ## 2024 OWASP New Zealand Day
 
 The 2024 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 5-6 September 2024. This event 
-is unique among New Zealand security conferences, in that it's entirely dedicated to application security. AppSec New Zealand Incorporated is, once again, managing the logistics and finances for the event. From 2022, we have been able to secure a licensing arrangement with the OWASP Foundation, allowing us to return to the event's traditional "OWASP New Zealand Day" branding.
+is unique among New Zealand security conferences, in that it's entirely dedicated to application security. AppSec New Zealand Incorporated is, once again, managing the logistics and finances for the event. This year, we have been able to secure a licensing arrangement with the OWASP Foundation, allowing us to return to the event's traditional "OWASP New Zealand Day" branding.
 
 Due to scheduling conflicts at the University of Auckland, we have been unable to secure our usual venue in recent years. For 2022 - 2024, 
 our event is hosted at the Auckland University of Technology's city campus, in the Sir Paul Reeves (WG) Building. The shift to our alternative venue has both increased our costs and reduced the event's capacity (assuming from 1,000 to 650.
@@ -91,6 +91,9 @@ For Sponsorship Agreements completed *prior to* 1st April 2024, invoices will be
 
 A sponsor's payment must be *received* before the event begins (i.e., on or before 2nd September) to participate in the event, so invoices issued from 5th August will have shorter payment deadlines.
 
+### Discount for OWASP Corporate Members
+
+Conference sponsors who are verified as current Corporate Members of OWASP will receive a 10% discount on sponsorship fees. If you qualify for this discount, let us know and we'll confirm your membership status with the OWASP Foundation staff and apply the discount to your fees.
 
 ### LEGO Build and Video Sponsorship
 
@@ -101,6 +104,14 @@ The conference A/V team will capture time-sequenced photos of the build area, an
 In addition, all LEGO sets will be awarded to conference delegates during the prize giving at our closing session. The LEGO Build sponsor will be invited to the stage to draw the names of all LEGO prize winners. All LEGO sets *completed* during the conference will be included as part of the top LEGO prize; each incomplete/unopened set will be awarded as a separate prize.
 
 The fee for this one-of-a-kind *a la carte* sponsorship is **$5,500**, to cover the costs of purchasing the LEGO sets and producing the video. Other associated sponsor benefits are similar to those of a **Silver** sponsorship.
+
+### *&Agrave; La Carte* Sponsorships
+
+If you're interested in an *&agrave; la carte* sponsorship opportunity - such as sponsoring our coffee kiosk, one or more tea breaks, or a day's lunch service - please reach out to the team. Such sponsorships can be arranged either in combination with a Premier Sponsor package, or on their own. Sponsorship fees will be determined, based on the cost of the sponsored activities and the level of support offered. 
+
+As an example, fully supporting our coffee kiosk for one day of the Main Conference would cost NZ $2,500.
+
+When combined with a Premier Sponsor package, you will receive a 5% discount on the *combined* fees. The OWASP Corporate Member discount does not apply to *&agrave; la carte* sponsorships (but *does* apply to the Premier Sponsor portion of a combined sponsorship). For example, a **Platinum Sponsor** package, when combined with a one-day **Coffee Kiosk** sponsorship, would be NZ $9,975, or NZ $9,215 for an OWASP Corporate Member.
 
 ### Premier Sponsor Fees and Benefits
 
