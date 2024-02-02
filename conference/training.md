@@ -1,19 +1,19 @@
 ---
 title: Pre-Conference Training
-description: Pre-Conference Training, 4-5 July - 2023 OWASP NZ Day
+description: Pre-Conference Training, 3-4 September - 2024 OWASP NZ Day
 
 layout: conference/full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2023
+dataDir: conference-2024
+sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
-[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
-# Pre-Conference Training - 4-5 July
+# Pre-Conference Training - 3-4 September
 
-## OWASP New Zealand Day 2023
+## OWASP New Zealand Day 2024
 
 ### Registration Fees 
 
@@ -52,28 +52,21 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ## Classes on Offer
 
-Pre-Conference Training registration will **CLOSE** on Friday, 23 June. From 24 June, no refunds or changes will be permitted, but attendee substitutions will be accepted.
+Our [Call for Training (CFT)](https://papercall.io/owaspnz2024-training) is currently open, and will close on 15th April. Training details will be posted on or before 30th April, and training registration opens on 1st May.
 
-#### Two-day, in-person (classroom) training - Tuesday and Wednesday, 4-5 July:
+Pre-Conference Training registration will **CLOSE** on Friday, 23rd August. From 24th August, no refunds or changes will be permitted, but attendee substitutions will be accepted.
 
-* *[Hacking Android, iOS, and IoT Applications by Example](training-hacking_mobile_apps.md)*, Abhishek J.M. (7A Security)
-* *[Hacking Modern Web Apps: Master the Future of Attack Vectors](training-hacking_web_apps.md)*, Ashwin Shenoi (7A Security)
-* *[Cloud Security Masterclass: Defender's Guide to Securing AWS and Azure Infrastructure](training-cloud_security.md)*, Abhinav Singh
+#### Two-day, in-person (classroom) training - Tuesday and Wednesday, 3-4 September:
 
-#### One-day, in-person (classroom) training - Tuesday, 4 July:
+* TBC
 
-* *[Hacking Android and IoT Applications by Example](training-hacking_android_apps.md)*, Abhishek J.M. (7A Security)
-* *[Secure Your SDLC using OWASP SAMM - ASAP!](training-owasp_samm.md)*, Raafey Khan (CyberCX)
+#### One-day, in-person (classroom) training - Tuesday, 3 September:
 
-#### One-day, in-person (classroom) training - Wednesday, 5 July:
+* TBC
 
-* *[Hacking iOS and IoT Applications by Example](training-hacking_ios_apps.md)*, Abhishek J.M. (7A Security)
-* *[Can you find the threat? A Threat Modelling CTF](training-find_the_threat.md)*, Wade Winright (Aiven)
-* *[Overcome the Overwhelm: Boost Resilience, Reduce Stress, and Supercharge Your Productivity](training-overcome_the_overwhelm.md)*, Lauren Parsons
+#### One-day, in-person (classroom) training - Wednesday, 4 September:
 
-#### Half-day, in-person (classroom) training - Wednesday morning, 5 July:
-
-* *[Application Security 'Refresher' Training](training-appsec_refresher.md)*, John DiLeo (OWASP New Zealand)
+* TBC
 
 **NOTES:** 
 
@@ -85,5 +78,5 @@ Spaces will fill up fast, so get in quickly!
 
 Check-in desk will be located in the Level 3 lobby (WG 306), and will open at 8:00 a.m. each day
 
-Morning and afternoon tea breaks will be provided. Lunch is available for pre-purchase (through 23 June), or you're free to see to your own lunch.
+Morning and afternoon tea breaks will be provided. Lunch is available for pre-purchase (through 23rd August), or you're free to see to your own lunch.
 
