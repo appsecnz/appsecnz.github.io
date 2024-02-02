@@ -8,7 +8,7 @@ sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
 
-[![Web Banner](/assets/images/2024_Banner_Graphic.jpeg)](/conference/){: style="width: 100%;" }   
+[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/){: style="width: 100%;" }   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
