@@ -13,8 +13,28 @@
 					"url": "/conference"
 				},
 				{
+					"title": "Pre-Conference Training",
+					"url": "/conference/training.html"
+				},
+				{
 					"title": "Call for Sponsors",
 					"url": "/conference/sponsorship.html"
+				},
+				{
+					"title": "Diversity Fund",
+					"url": "/conference/diversity_fund.html"
+				},
+				{
+					"title": "Code of Conduct",
+					"url": "/conference/conduct.html"
+				},
+				{
+					"title": "Volunteers",
+					"url": "/conference/volunteers.html"
+				},
+				{
+					"title": "International Attendees",
+					"url": "/conference/international.html"
 				}
 			]
 		},
