@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-tags: owaspnz23
+tags: owaspnz24
 
 layout: conference/full-width
 dataDir: conference-2024
