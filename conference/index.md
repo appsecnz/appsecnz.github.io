@@ -2,7 +2,7 @@
 title: Conference
 description: OWASP New Zealand Day 2024
 tags: owaspnz24
-currency: nzd
+currency: NZD
 region: Oceania
 country: New Zealand
 
@@ -65,9 +65,11 @@ Early registration (on or before 18 June):
 
 ## Training
 
+### Our [Call for Training](https://papercall.io/owaspnz2024-training) is now open, and will close on 15th April. If you're interested in presenting training, please submit your proposal(s) now.
+
 In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (3-4 September 2024), at the same venue.
 
-Training Registration will open on 1 May 2024. Information on the classes offered will be placed on our **Pre-Conference Training** page, when available.
+Training Registration will open on 1 May 2024. Information on the classes offered will be placed on our **[Pre-Conference Training](training.md)** page, when available.
 
 ### Training Registration Fees 
 
@@ -123,7 +125,8 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Conference Registration Opens:** 1 April 2024
 * **Call for Presentations(CFP) Closes:** 30 June 2024
 * **Call for Training (CFT) Closes:** 15 April 2024
-* **CFP and CFT Open:** 22 January 2024
+* **[Call for Training](https://papercall.io/owaspnz2024-training) (CFT) Opened:** 22 January 2024
+* **[Call for Presentations](https://papercall.io/owaspnz2024) (CFP) Opened:** 22 January 2024
 
 ## Conference Venue
 
@@ -144,7 +147,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 **Sponsor Demos:** Level 4   
 **Room:** Case Room WG404
 
-**Delegate Lounge:** Level 2
+**Delegate Lounge:** Level 2   
 **Room:** WA224A
 
 **Sponsor Exhibition Area:** Level 2 Atrium and Forum (WG200/201)
