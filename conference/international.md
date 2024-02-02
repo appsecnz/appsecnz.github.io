@@ -1,20 +1,20 @@
 ---
 title: International Participants
-tags: owaspnz23
+tags: owaspnz24
 
 layout: conference/full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2023
+dataDir: conference-2024
+sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
 
-[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Attending the Conference from Outside New Zealand
 
-## OWASP New Zealand Day 2023
+## OWASP New Zealand Day 2024
 
 **Please be aware of the current visa / travel authorisation requirements below.**
 
@@ -34,6 +34,6 @@ Here are the requirements, as we (the conference committee) understand them - th
 
 If you're unsure what travel documentation you need, we highly recommend you [contact Immigration New Zealand](https://www.immigration.govt.nz/contact) early.
 
-**IMPORTANT NOTE:** The conference team **will not** provide Invitation Letters to individuals *attending* the conference. Selected/invited speakers and trainers will be provided Invitation Letters, if needed.
+**IMPORTANT NOTE:** The conference team **will not** provide Invitation Letters to individuals *attending* the conference. Selected/invited speakers and trainers will be provided Invitation Letters, upon request.
 
 
