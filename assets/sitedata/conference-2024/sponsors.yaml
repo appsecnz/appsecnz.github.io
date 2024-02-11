@@ -5,6 +5,39 @@
 # image: relative URL to the logo image
 # url: url of the company website
 # description: description of the company
+- active: true
+  level: 1
+  name: Bastion Security Group
+  anchor: bastion
+  image: /assets/images/2024-sponsors/Logo-Bastion_Security_Group.png
+  url: https://bastionsecurity.co.nz/
+  spotlight: |-
+    Bastion Security Group is a leading cybersecurity consultancy in New Zealand, formed by the strategic amalgamation of 
+    Quantum Security, ZX Security, Helix Security, and Cassini, creating a powerhouse with comprehensive expertise in cybersecurity 
+    services. This union has positioned Bastion as a leading player in the New Zealand market, serving around 200 enterprise and 
+    government customers with a team of over 130 professionals. The company offers a wide range of cybersecurity consulting services, 
+    designed to address the most 
+    pressing cybersecurity challenges, enhancing organizations' defences against evolving cyber threats.
+  description: |-
+    Bastion Security Group is a leading cybersecurity consultancy in New Zealand, formed by the strategic amalgamation of 
+    Quantum Security, ZX Security, Helix Security, and Cassini, creating a powerhouse with comprehensive expertise in cybersecurity 
+    services. This union has positioned Bastion as a leading player in the New Zealand market, serving around 200 enterprise and 
+    government customers with a team of over 130 professionals. The company offers a wide range of cybersecurity consulting services, 
+    including penetration testing, governance, risk and compliance consulting, digital forensics and incident response (DFIR), design, 
+    build and architecture, cyber threat intelligence, cloud security, and training. These services are designed to address the most 
+    pressing cybersecurity challenges, enhancing organizations' defences against evolving cyber threats.
+    </p>
+    <p>
+    As a sponsor of the OWASP Day in Auckland, Bastion Security Group demonstrates its commitment to promoting cybersecurity awareness 
+    and education within the community. The company's active engagement in such events reflects its dedication to fostering a safer 
+    digital environment in New Zealand and beyond.
+    </p>
+    <p>
+    By leveraging the expertise and capabilities of its combined entities, Bastion Security Group is well-equipped to address 
+    complex cybersecurity challenges, offering clients cutting-edge solutions tailored to their specific needs. The company's focus on 
+    innovation, client outcomes, and the expansion of its service portfolio signifies its ambition to lead in the cybersecurity consulting 
+    space, making it a valuable partner for organizations looking to enhance their cybersecurity posture​.
+    
 - active: false
   level: LEGO Build Sponsor
   name: IriusRisk
