@@ -1,10 +1,10 @@
 ---
 title: About Our Sponsors
-description: Sponsors - OWASP New Zealand Day 2023
+description: Sponsors - OWASP New Zealand Day 2024
 
 layout: conference/sponsors-full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2023
+dataDir: conference-2024
+sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
 [![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
@@ -13,7 +13,7 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 # About Our Sponsors
 
-## OWASP New Zealand Day 2023
+## OWASP New Zealand Day 2024
 
 We're grateful to all of our sponsors, without whom the OWASP New Zealand Day conference would not be possible.
 When you see them at the conference, please be sure to thank them for their support.
