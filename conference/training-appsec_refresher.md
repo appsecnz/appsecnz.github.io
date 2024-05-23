@@ -1,13 +1,13 @@
 ---
 title: Classroom Training - AppSec 'Refresher'
-description: Pre-Conference Training Class, 6 July - OWASP New Zealand Day 2022 
+description: Pre-Conference Training Class, 4 September - OWASP New Zealand Day 2024 
 
 layout: conference/full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2022
+dataDir: conference-2024
+sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
-[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/)   
 [Back to Pre-Conference Training Page](training.md)
 {: style="text-align: right; font-size: small;" }   
 [Back to Conference Home Page](index.md)
@@ -15,11 +15,11 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 # AppSec 'Refresher' Training
 
-## Half-Day Interactive (Classroom) Training - OWASP New Zealand Day 2023
+## Half-Day Interactive (Classroom) Training - OWASP New Zealand Day 2024
 
 ## Course Details 
 
-**Dates:** Wednesday, 5 July 2023
+**Dates:** Wednesday, 4 September 2024
 
 **Time:** 8:45 a.m. to 12:30 p.m. (NZST)
 
@@ -27,9 +27,9 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 **Course Fee:** NZ $250.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2023-training](https://events.humanitix.com/owaspnz2023-training){: target="training-reg" }
+**Registration Site:** [https://events.humanitix.com/owaspnz2024-training](https://events.humanitix.com/owaspnz2024-training){: target="training-reg" }
 
-**Maximum Enrolment:** 60 attendees
+**Maximum Enrolment:** 36 attendees
 
 ## Course Description
 
@@ -45,11 +45,12 @@ The topics we'll cover during this half-day session include:
 
 ## Your Instructor
 
-<img src="/assets/images/2023/Photo-John_DiLeo.jpg" alt="Photo of John DiLeo" style="float: left; width: 125px; margin-right: 15px;" />
+<img src="/assets/images/2024/Photo-John_DiLeo.jpg" alt="Photo of John DiLeo" style="float: left; width: 125px; margin-right: 15px;" />
 
-**Dr. John DiLeo** is the Auckland-area leader of the OWASP New Zealand Chapter. John currently works as IriusRisk's Solution Architect for the Asia/Pacific Region. Until recently,
-John managed the Application Security Services team at Datacom.  
+**Dr. John DiLeo** is Leader of the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at 
+[Gallagher Security](https://gallagher.com). In a recent role, John managed the Application Security Services team at Datacom, 
+providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs.  
  
-Before turning to full-time roles in application security, John was active as a Java enterprise architect and Web application developer. In earlier lives, John has been a full-time professor, and had specialized in developing discrete-event simulations of large distributed systems, in a variety of languages.  
+Before turning to full-time roles in application security, John was active as a Java enterprise architect and Web application developer. In earlier lives, John has been a full-time professor and had specialized in developing discrete-event simulations of large distributed systems.  
 
-John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, leads the OWASP State of AppSec Survey Project, and is a member of the OWASP Education and Training Committee and Application Security Curriculum Project. Twitter: [@gr4ybeard](https://www.twitter.com/gr4ybeard)
+John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, leads the OWASP State of AppSec Survey and SAMMwise Projects, and is a member of the OWASP Education and Training Committee. Twitter: [@gr4ybeard](https://www.twitter.com/gr4ybeard)

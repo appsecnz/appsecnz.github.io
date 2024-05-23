@@ -45,28 +45,31 @@ Each day, regardless of format, classes will follow this schedule (all times are
 * 8:00 a.m.  - Check-in desk opens; online class sessions started for support
 * 8:45 a.m.  - Class sessions start
 * 10:15 a.m. - Morning Tea
-* 12:30 p.m. - Lunch Break (on your own); Morning half-day classes end
+* 12:30 p.m. - Lunch Break (pre-order or on your own); Morning half-day classes end
 * 1:45 p.m.  - Class sessions resume; Afternoon half-day classes begin
 * 3:15 p.m.  - Afternoon Tea
 * 5:30 p.m.  - Classes end
 
 ## Classes on Offer
 
-Our [Call for Training (CFT)](https://papercall.io/owaspnz2024-training) is currently open, and will close on 15th April. Training details will be posted on or before 30th April, and training registration opens on 1st May.
-
 Pre-Conference Training registration will **CLOSE** on Friday, 23rd August. From 24th August, no refunds or changes will be permitted, but attendee substitutions will be accepted.
 
 #### Two-day, in-person (classroom) training - Tuesday and Wednesday, 3-4 September:
 
-* TBC
-
-#### One-day, in-person (classroom) training - Tuesday, 3 September:
-
-* TBC
+* *[Introduction to Android Application Penetration Testing](training-android_app_pen_testing.md)*, Gavin Neale and Shofe Miraz (CyberCX)
+* *[Polyglot Security Code Review](training-security_code_review.md)*, Louis Nyffenegger (PentesterLab)
 
 #### One-day, in-person (classroom) training - Wednesday, 4 September:
 
-* TBC
+* *[Active Directory Security](training-active_directory_security.md)*, Claudio Contin and Eito Tamura (Tier Zero Security)
+
+#### Half-day, in-person (classroom) training - Wednesday morning, 4 September:
+
+* *[Application Security 'Refresher' Training](training-appsec_refresher.md)*, John DiLeo (OWASP New Zealand)
+
+#### Half-day, in-person (classroom) training - Wednesday afternoon, 4 September:
+
+* *[Kubernetes Security Capture the Flag](training-kubernetes_ctf.md)*, Rob Kenefeck and Mario Weigel (Control-Plane.io)
 
 **NOTES:** 
 
