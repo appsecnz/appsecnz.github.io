@@ -58,24 +58,22 @@ Throughout the conference, an exhibition area will be open in the main atrium. R
 
 ## Registration Fees
  
-Early registration (on or before 18 June):   
+Early registration (on or before 15 August):   
 * $30, standard registration
 * **FREE**, for students and unwaged attendees
 * From 16 August, a late registration surcharge applies to all registrations ($20 Regular, $15 Student/Unwaged)   
 
 ## Training
 
-### Our [Call for Training](https://papercall.io/owaspnz2024-training) is now open, and will close on 15th April. If you're interested in presenting training, please submit your proposal(s) now.
+In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (3-4 September), at the same venue.
 
-In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (3-4 September 2024), at the same venue.
-
-Training Registration will open on 1 May 2024. Information on the classes offered will be placed on our **[Pre-Conference Training](training.md)** page, when available.
+Training Registration opened on 22 May. Information on the classes offered can be found on our **[Pre-Conference Training](training.md)** page.
 
 ### Training Registration Fees 
 
-* Half-day class: $225 per person (online); $250 per person (face-to-face)
-* One-day class: $450 per person (online); $500 per person (face-to-face)
-* Two-day class: $900 per person (online); $1,000 per person (face-to-face)
+* Half-day class: $250 per person (face-to-face)
+* One-day class: $500 per person (face-to-face)
+* Two-day class: $1,000 per person (face-to-face); $900 per person (online)
 
 Group registration discounts (single purchase):   
 * 6-10 attendees: 10% off
@@ -120,12 +118,12 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Last Day to Pre-Order Lunches:** 23 August 2024
 * **"Early Bird" Conference Registration Ends:** 15 August 2024 - From 16 August, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 6 August 2024 - Orders go to the printer the next morning!
-
-* **Training Registration Opens:** 1 May 2024
-* **Conference Registration Opens:** 1 April 2024
 * **Call for Presentations(CFP) Closes:** 30 June 2024
-* **Call for Training (CFT) Closes:** 15 April 2024
-* **[Call for Training](https://papercall.io/owaspnz2024-training) (CFT) Opened:** 22 January 2024
+
+* **Training Registration Opened:** 22 May 2024
+* **Conference Registration Opened:** 10 April 2024
+* **Call for Training (CFT) Closed:** 15 April 2024
+* **Call for Training (CFT) Opened:** 22 January 2024
 * **[Call for Presentations](https://papercall.io/owaspnz2024) (CFP) Opened:** 22 January 2024
 
 ## Conference Venue
@@ -156,7 +154,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 
 ### Lunch Service
 
-In 2023, we introduced the option to *pre-order* lunch service at the venue. For $30.00 (plus GST) per person, you can pre-order lunch each day. To take advantage of this option, add a lunch ticket to your order, for each day you'd like to purchase lunch, when registering for the conference and/or training class.   
+In 2023, we introduced the option to *pre-order* lunch service at the venue. For $30.00 (plus GST) per person, you can pre-order lunch each day. To take advantage of this option, add a lunch ticket to your order for each day you'd like to purchase lunch, when registering for the conference and/or training class.   
 
 The conference planning team are still finalising the lunch menu - that information will be added here, when available.
 
