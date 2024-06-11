@@ -218,7 +218,7 @@
     <p>
     Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank" onclick="handleOutboundLinkClicks(event);">www.cybercx.co.nz</a>.
 
-- active: false
+- active: true
   level: 3
   name: Datacom
   anchor: datacom
@@ -431,15 +431,28 @@
     The solutions and advice we provide aren't pulled from a template somewhere; we work with each of our clients to make sure 
     our advice is hitting the mark for you, and leaving your business more secure than when we met.
 
-- active: false
+- active: true
   level: 5
-  name: 2degrees
-  anchor: 2degrees
-  image: /assets/images/2024-sponsors/Logo-2degrees.png
-  url: https://2degrees.nz/
+  name: PentesterLab
+  anchor: pentester_lab
+  image: /assets/images/2024-sponsors/Logo-PentesterLab.png
+  url: https://www.pentesterlab.com/
   description: |-
-    In 2022 New Zealand's leading challenger telecommunications companies – 2degrees and Vocus – came together under the 
-    2degrees brand to form New Zealand's third largest, full-service telecommunications provider. 2degrees offers 
-    broadband and mobile services covering 98.5% of places Kiwis live and work, a nationwide fibre network and modern 
-    technology platforms, as well as energy services – all supported by an award-winning customer care team and a 
-    network of 58 retail stores. It operates the 2degrees, Slingshot and Orcon brands.
+    We make learning Web Hacking easier! We have been teaching web security for years and put together well thought-out 
+    exercises to get you from zero to hero. Our exercises cover everything from really basic bugs to advanced vulnerabilities.
+
+- active: true
+  level: 5
+  name: 84 Recruitment
+  anchor: 84_4ecruitment
+  image: /assets/images/2024-sponsors/Logo-84_Recruitment.jpg
+  url: https://www.84recruitment.co.nz/
+  description: |-
+    Setting ourselves apart in a fast-paced recruitment industry, we prioritise pursuing top candidates, earning trust through 
+    delivering tangible solutions for even the most demanding companies. Located in Auckland's renowned B:Hive Building, we embrace 
+    a dynamic team, placing exceptional individuals in public and private sectors across New Zealand and beyond.
+
+    We're proud to support some of the market-leading organisations as an exclusive cybersecurity talent partner. Our early cyber 
+    careers initiative is designed to close the gap in the skills shortage within the ever-growing cybersecurity landscape by 
+    creating internship opportunities for upcoming talent to transition into the workforce.
+

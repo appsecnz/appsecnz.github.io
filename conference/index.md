@@ -116,7 +116,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Pre-Conference Training Dates:** 3-4 September 2024
 * **Training Registration Closes:** 23 August 2024
 * **Last Day to Pre-Order Lunches:** 23 August 2024
-* **"Early Bird" Conference Registration Ends:** 15 August 2024 - From 16 August, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
+* **"Early Bird" Conference Registration Ends:** 15 August 2024<br />From 16 August, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 6 August 2024 - Orders go to the printer the next morning!
 * **Call for Presentations(CFP) Closes:** 30 June 2024
 
