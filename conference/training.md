@@ -17,9 +17,10 @@ sponsorsEventName: OWASP New Zealand Day 2024
 
 ### Registration Fees 
 
-* Half-day class: $250 per person (classroon) / $225 per person (online)   
-* One-day class: $500 per person (classroom) / $450 per person (online)   
-* Two-day class: $1,000 per person (classroom) / $900 per person (online)   
+* Half-day in-person class: $250 per person      
+* One-day in-person class: $500 per person       
+* Two-day in-person class: $1,000 per person   
+* Two-day online class: $900 per person   
 
 ### Team Discounts
 
@@ -58,6 +59,10 @@ Pre-Conference Training registration will **CLOSE** on Friday, 23rd August. From
 
 * *[Introduction to Android Application Penetration Testing](training-android_app_pen_testing.md)*, Gavin Neale and Shofe Miraz (CyberCX)
 * *[Polyglot Security Code Review](training-security_code_review.md)*, Louis Nyffenegger (PentesterLab)
+
+#### Two-day, online training - Tuesday and Wednesday, 3-4 September:
+
+* *[AI SecureOps: GenAI and LLM Security for Enterprises](training-ai_secure_ops.md)*, Abhinav Singh   
 
 #### One-day, in-person (classroom) training - Wednesday, 4 September:
 

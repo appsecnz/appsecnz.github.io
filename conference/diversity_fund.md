@@ -26,11 +26,11 @@ If funds are available, support *may* be extended to a limited number of applica
 
 A limited number of fee waivers is available for each Pre-Conference Training class. On the application, you can indicate if you'd like to be considered for a training fee waiver, and provide your class preferences. If selected to receive a fee waiver for classroom training, your award may include accommodation for the training day(s), as well.
 
-Our funds are limited, and we’ll be reviewing applications every week, starting in mid-May. Submit your application soon, so we can approve them promptly, and you’ll be in several review cycles!
+Our funds are limited, and we'll be reviewing applications every week, starting in late June. Submit your application soon, so we can approve them promptly, and you’ll be in several review cycles!
 
 ### Process for Applying for Diversity Fund Support
 
-* Fill out our **Application Form** (Google Form), on or after 1st April. 
+* Fill out our **[Application Form](https://forms.gle/LC1YL7rRsLzDtJB17)** (Google Form), on or after 14th June. 
 * We will review and approve applications approximately every fortnight. 
 * We will contact all applicants and let them know the results of the review.
 * Successful applicants are responsible for booking their own travel and accommodations.

@@ -437,6 +437,9 @@
   anchor: pentester_lab
   image: /assets/images/2024-sponsors/Logo-PentesterLab.png
   url: https://www.pentesterlab.com/
+  spotlight: |-
+    We make learning Web Hacking easier! We have been teaching web security for years and put together well thought-out 
+    exercises to get you from zero to hero. Our exercises cover everything from really basic bugs to advanced vulnerabilities.
   description: |-
     We make learning Web Hacking easier! We have been teaching web security for years and put together well thought-out 
     exercises to get you from zero to hero. Our exercises cover everything from really basic bugs to advanced vulnerabilities.
@@ -447,6 +450,14 @@
   anchor: 84_4ecruitment
   image: /assets/images/2024-sponsors/Logo-84_Recruitment.jpg
   url: https://www.84recruitment.co.nz/
+  spotlight: |-
+    Setting ourselves apart in a fast-paced recruitment industry, we prioritise pursuing top candidates, earning trust through 
+    delivering tangible solutions for even the most demanding companies. Located in Auckland's renowned B:Hive Building, we embrace 
+    a dynamic team, placing exceptional individuals in public and private sectors across New Zealand and beyond.
+
+    We're proud to support some of the market-leading organisations as an exclusive cybersecurity talent partner. Our early cyber 
+    careers initiative is designed to close the gap in the skills shortage within the ever-growing cybersecurity landscape by 
+    creating internship opportunities for upcoming talent to transition into the workforce.
   description: |-
     Setting ourselves apart in a fast-paced recruitment industry, we prioritise pursuing top candidates, earning trust through 
     delivering tangible solutions for even the most demanding companies. Located in Auckland's renowned B:Hive Building, we embrace 
@@ -455,4 +466,3 @@
     We're proud to support some of the market-leading organisations as an exclusive cybersecurity talent partner. Our early cyber 
     careers initiative is designed to close the gap in the skills shortage within the ever-growing cybersecurity landscape by 
     creating internship opportunities for upcoming talent to transition into the workforce.
-
