@@ -128,7 +128,7 @@ By the end of this training, you will be able to:
 * Monitoring trustworthiness and safety of enterprise LLM applications   
 * Implementing NIST AI Risk management framework(RMF) for security monitoring   
 
-## Your Instructors
+## Your Instructor
 
 **Abhinav Singh**  is an esteemed cybersecurity leader and researcher with more than a decade of experience across technology leaders, financial institutions, and as an independent trainer and consultant. Author of "Metasploit Penetration Testing Cookbook" and "Instant Wireshark Starter," his contributions span patents, open-source tools, and numerous publications. 
 
