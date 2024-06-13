@@ -119,7 +119,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **"Early Bird" Conference Registration Ends:** 15 August 2024<br />From 16 August, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 6 August 2024 - Orders go to the printer the next morning!
 * **Call for Presentations(CFP) Closes:** 30 June 2024
-
+* **Diversity Fund Applications Opened:** 14 June 2024
 * **Training Registration Opened:** 22 May 2024
 * **Conference Registration Opened:** 10 April 2024
 * **Call for Training (CFT) Closed:** 15 April 2024
