@@ -68,84 +68,74 @@ Attendees will also get to enjoy one-year access to PentesterLab PRO to keep lea
 - Why get Into Security Code Review?   
 - Previous Language Knowledge   
 - Manual Review versus Automatic Tools   
-- Improvement, Weakness and Vulnerability   
+- Improvement, Weakness, and Vulnerability   
 - Train Your Code Review Muscles   
 - The Right Incentive   
-- Assumptions
 
-2. Methodologies   
-- Taking Notes   
-- On the Code Version   
-- Using Diagrams   
-- Code Review Methodologies   
-- Picking a Methodology   
-- Tools   
-- Running Test Snippets in a REPL   
-- Using Docker   
-- How to Practice Your Code Review Skills   
-- Case Study
+2. Reading Code
+- Methodology   
+- What to Look for   
+- Non-Obvious Patterns   
 
-3. Architecture of Web Applications   
+3. Keeping Notes   
+- What to Write   
+- How to Keep Notes   
+
+4. Architecture of Web Applications   
 - Routing   
 - MVC   
 - User-Controlled Inputs   
-- Case Studies
 
-4. Data   
-- Data types and web applications   
+5. Data   
+- Data Types and Web Applications   
 - Type Comparison   
+- Injections   
 - Serialisation and Deserialisation   
 - String Interpolation   
 - XML Entities Attacks   
 - Assumptions and Data   
-- Filtering   
-- Time-Of-Check Time-Of-Use (TOCTOU)   
-- How Data is Accessed   
-- Case Studies
+- How Data Is Accessed   
 
-5. Injections   
-- SQL injections   
-- NoSQL Injections   
-- LDAP Injections   
-- Code Injections   
-- Command Injections   
-- Directory traversal   
-- File Inclusion Vulnerability   
-- XSS   
-- Case Studies
+6. Patterns   
+- Bad Default   
+- Filtering   
+- Time-of-Check Time-of-Use (TOCTOU)   
+- Common Patterns   
 
 #### Day Two
 
-6. Authentication   
-- Registration, Login and Passwords   
-- Password Storage   
-- Password Recovery   
-- Session Management   
-- Case Studies
+7. Gotchas   
+- Golang   
+- Java   
+- Ruby   
+- Python   
+- Others   
 
-7. Authorization   
-- Strong vs. Knowledge-Based Access Control   
-- What You See Is Not What You Can Get   
-- What You See Is Not What You Can Do   
-- Mass-Assignment   
-- Shared Logic between applications   
-- Cross-Origin Resource Sharing (CORS)   
-- Cross-Site Request Forgery (CSRF)   
-- Case Studies
+8. CVE Analysis   
+- Methodology
+- Example: An Interesting CVE
 
-8. Authenticity   
-- Common usages   
-- Common Misconceptions Around Authenticity   
-- A first look at authenticity verification   
-- Parsing information   
-- Signing Oracle   
-- Security Assertion Markup Language (SAML)   
-- Case Studies
+9. Tools   
+- Text Editor   
+- Docker   
+- Git   
+- SemGrep   
+- Debugger   
 
-9. Conclusion   
-- Wrapping it up   
-- Creating habits   
-- Last advice
+10. Deep Dive      
+- Authentication (Registration, Password Storage, Login, Password Reset)   
+- Authenticity      
+
+11. Strategies   
+- Code Review Methodologies      
+- Picking a Methodology   
+
+12. Remediation
+
+13. Conclusion   
+- Wrapping It Up   
+- Creating Habits   
+- Last Advice
 
 ## Your Instructor
 
