@@ -19,6 +19,8 @@ sponsorsEventName: OWASP New Zealand Day 2024
 
 ## Auckland University of Technology (AUT) City Campus
 
+### Registration is now open for both the [Main Conference](https://events.humanitix.com/owaspnz2024) and [Pre-Conference Training](https://events.humanitix.com/owaspnz2024-training). Get your tickets now!
+
 -----
 
 We are proud to present the 14th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, September 5th and 6th, 2024. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
@@ -102,7 +104,7 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 **LEGO Build -** In a corner of the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a number of LEGO sets throughout the event. The conference A/V team will create a stop-motion video of the builds during the conference, and we'll view the finished video during the Closing Session on Friday.
 
-As an added bonus, some lucky conference delegate(s) will go home with LEGO sets, as prizes in our Door Prize Draw at the Closing Session of the conference. All sets *completed* during the conference will be included in the top prize, while each incomplete/unopened set will be drawn as a separate, 'lesser' prize.
+As an added bonus, some lucky conference delegate(s) will go home with LEGO sets, as prizes in our Door Prize Draw at the Closing Session of the conference. All unique sets *completed* during the conference will be included in the top prize, while each duplicate/incomplete/unopened set will be drawn as a separate, 'lesser' prize.
 
 To be eligible to win LEGO sets, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desks (on Level 3 and in the Sponsor Exhibition area).
 
@@ -118,13 +120,13 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Last Day to Pre-Order Lunches:** 23 August 2024
 * **"Early Bird" Conference Registration Ends:** 15 August 2024<br />From 16 August, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 6 August 2024 - Orders go to the printer the next morning!
-* **Call for Presentations(CFP) Closes:** 30 June 2024
-* **Diversity Fund Applications Opened:** 14 June 2024
-* **Training Registration Opened:** 22 May 2024
-* **Conference Registration Opened:** 10 April 2024
+* **Call for Presentations(CFP) Closed:** 30 June 2024
+* **[Diversity Fund](diversity_fund.md) Applications Opened:** 14 June 2024
+* **[Training Registration](https://events.humanitix.com/owaspnz2024-training) Opened:** 22 May 2024
+* **[Conference Registration](https://events.humanitix.com/owaspnz2024) Opened:** 10 April 2024
 * **Call for Training (CFT) Closed:** 15 April 2024
 * **Call for Training (CFT) Opened:** 22 January 2024
-* **[Call for Presentations](https://papercall.io/owaspnz2024) (CFP) Opened:** 22 January 2024
+* **Call for Presentations (CFP) Opened:** 22 January 2024
 
 ## Conference Venue
 
