@@ -25,8 +25,8 @@ including Java, Ruby, Golang, Python, and PHP.
 
 #### Target Audience
 
-* Offensive security professionals wanting to lean more in the Active Directory realm   
-* System administrators or blue team specialists wanting to understand the practicality of common Active Directory misconfigurations
+* Penetration Testers, Code Reviewers, and Application Security Engineers   
+* Senior Developers with an understanding of common security vulnerabilities   
 
 ## Course Details 
 
@@ -44,7 +44,7 @@ including Java, Ruby, Golang, Python, and PHP.
 
 ## Prerequisites - What Students Should Bring
 
-* A laptop with Internet access 
+* A laptop with Internet access and Docker installed
 
 ## What Students Will Receive
 
