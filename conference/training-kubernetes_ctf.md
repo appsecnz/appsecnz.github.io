@@ -69,4 +69,7 @@ semi-manual ways. Rob has since come to appreciate all it can do and also what i
 
 Rob has taught DevOps courses and Kubernetes courses while also helping large enterprises setup internally managed Kubernetes platforms with a product based mindset.
 
-**Mario Weigel** - Bio coming soon
+**Mario Weigel** is a Cloud Native Engineer with a diverse career spanning several roles in IT, including 
+Software Testing, Systems Administration, and Security. His experience working with containers and Kubernetes 
+across a range of organizations, from small startups to large financial institutions, has given him unique 
+insights into the challenges involved in deploying and securing these technologies. Additionally, he runs the Auckland Kubernetes Meetup, a platform where the community collaborates to share knowledge, best practices, and experiences with cloud-native technologies.
