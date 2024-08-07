@@ -53,7 +53,7 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ## Classes on Offer
 
-Pre-Conference Training registration will **CLOSE** on Friday, 23rd August. From 24th August, no refunds or changes will be permitted, but attendee substitutions will be accepted.
+Pre-Conference Training registration will **CLOSE** on Friday, 23rd August. From 24th August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
 
 #### Two-day, in-person (classroom) training - Tuesday and Wednesday, 3-4 September:
 

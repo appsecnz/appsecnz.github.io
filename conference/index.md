@@ -119,7 +119,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Training Registration Closes:** 23 August 2024
 * **Last Day to Pre-Order Lunches:** 23 August 2024
 * **"Early Bird" Conference Registration Ends:** 15 August 2024<br />From 16 August, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
-* **Last Day for T-Shirt Purchases:** 6 August 2024 - Orders go to the printer the next morning!
+* **Last Day for T-Shirt Purchases:** 12 August 2024 - Orders go to the printer the next morning!
 * **Call for Presentations(CFP) Closed:** 30 June 2024
 * **[Diversity Fund](diversity_fund.md) Applications Opened:** 14 June 2024
 * **[Training Registration](https://events.humanitix.com/owaspnz2024-training) Opened:** 22 May 2024
