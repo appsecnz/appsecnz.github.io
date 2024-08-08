@@ -702,19 +702,24 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 4
   track: 0
-  title:
-  name:
-  org:
-  anchor:
+  title: How to run a Pentesting Engagement
+  name: Matt Tompkins
+  org: SafeAdvisory
+  anchor: tompkins-how
   abstract: |-
-
+    You are in a Dev team and recently assigned to run a pentesting engagement ... what next?
   description: |-
-
+    You are in a Dev team and recently assigned to run a pentesting engagement ... what next?
+    </p><p>
+    What even is pentesting (penetration testing)? In this presentation I will introduce 
+    pentesting, discuss how it relates to PCI DSS, debate whether pentesting is a good idea, 
+    describe how to run a pentesting engagement and manage findings, and share some of the 
+    hidden synergies to get more value out of the engagement.
   bio: |-
 
 - plenary: false
