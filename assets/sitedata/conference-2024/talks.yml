@@ -230,20 +230,32 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 7
   track: 0
-  title:
-  name:
-  org:
-  anchor:
+  title: Security is an API: Evolving to a decentralised security culture
+  name: Tony Fendall
+  org: Amazon Web Services
+  anchor: fendall-security
   abstract: |-
-
+    This talk will feature the OWASP Top 10 for APIs, OWASP Security Culture, and share Amazon's own learnings 
+    from moving to a decentralised security culture that allows security to remain our top priority while 
+    allowing our product teams to move fast.
   description: |-
-
+    APIs are the essential component of modern security. They are both a fundamental building block, the 
+    increasing focus of attackers, and a mental model for transforming the way you approach security. 
+    Traditionally, technologist use APIs for machine to machine communication, but APIs can also be used 
+    to define structured interfaces for human to human interactions. Redefine your security strategy as 
+    an API interface to reduce friction, improve transparency and inspect decision making at scale. 
+    This session will briefly describe what APIs are and how to work with them securely, and will then 
+    show you how to transform your organisation’s security strategy by using APIs as mechanisms to trust but verify technology teams as they move fast and stay secure.
   bio: |-
+    Tony Fendall (Principal Solutions Architect, AWS) works with New Zealand Businesses of all sizes to promote 
+    security culture.  Tony is passionate about helping New Zealand businesses export technology and skills to 
+    the world, which requires both a robust cloud security posture, and a security culture that allows product 
+    teams to move fast while staying secure.
 
 - plenary: false
   selected: true
