@@ -242,15 +242,28 @@
   day: 0
   block: 7
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Helping Elderly Activists Improve Their Security
+  name: Kris Hardy
+  org: Plexure
+  anchor: hardy-helping
   abstract: |-
-
+    Many infosec problems that are solved for the enterprise are unsolved for individuals and at-risk groups due to cost, 
+    needed infrastructure, or high risk. Based on my volunteer work with activists, the elderly, etc, 
+    I will present lessons learned and a risk framework for working with these groups.
   description: |-
-
+    For many of us in the infosec industry, we are focused on the security of our employers, our customers, 
+    and our fellow co-workers. However, many problems that are solved for the enterprise are unattainable for
+    individuals and at-risk groups due to cost, needed infrastructure or personnel, or increased risk posed to the 
+    individual. In my volunteer work with peace activists, the elderly, and families with vulnerable youth, 
+    I've seen both successful and failed approaches to helping them improve their security. I will talk about 
+    some lessons learned, and present the risk framework I've developed for thinking through security improvements 
+    with these groups, and in turn, provide some insight on how we can improve security collaboration within our 
+    enterprises.
   bio: |-
+    I'm a US Air Force veteran, US Air Force Academy Graduate, and have a strange career path: Programmer, biochemist, 
+    propellant/nerve agent/coatings chemist, embedded/sw/security engineer. I've taught IT and infosec courses for 
+    Central New Mexico Community College. I've started companies in my past, but no real wins yet. 
+    I was the organizer of DC505 and ABQpy, and am a member of Veterans For Peace.
 
 - plenary: false
   selected: true
@@ -370,11 +383,16 @@
     Standard (PCI DSS). But what does that actually mean, and what do you have to do? 
     This talk will run through the requirements of the PCI standard from a developer perspective.
   description: |-
-    Do you take credit card payments? This might be via your call centre, website, payment terminals or mobile app. If you store, process or transmit cardholder data, you have a requirement to meet the Payment Card Industry Data Security Standard (PCI DSS). 
+    Do you take credit card payments? This might be via your call centre, website, payment terminals or mobile app. 
+    If you store, process or transmit cardholder data, you have a requirement to meet the Payment Card Industry 
+    Data Security Standard (PCI DSS). 
     </p><p>
-    The standard is comprehensive, and lays down the minimum security controls that must be in place. Even if you are redirecting to a 3rd party payment provider, such as WindCave, you still have responsibilities in regards to the security of credit card data. 
+    The standard is comprehensive, and lays down the minimum security controls that must be in place. Even if 
+    you are redirecting to a 3rd party payment provider, such as WindCave, you still have responsibilities in 
+    regards to the security of credit card data. 
     </p><p>
-    While there are a lot of considerations when meeting the standard, there are regular requirements that you must consider, including the completion of regular penetration tests. 
+    While there are a lot of considerations when meeting the standard, there are regular requirements that 
+    you must consider, including the completion of regular penetration tests. 
     </p><p>
     This talk discusses the following:
     <ul>
@@ -390,6 +408,9 @@
     <li> How do you benefit by meeting the standard</li>
     </ul>
   bio: |-
+    Peter runs a security consultancy in Wellington, NZ providing GRC and Penetration testing services.   
+    When not providing assurance to organisations throughout the country, he can often be found hanging out with 
+    his kid, going for walks with his dog Tui, or procrastinating over the 100 unfinished projects in his garage. 
 
 - plenary: false
   selected: true
