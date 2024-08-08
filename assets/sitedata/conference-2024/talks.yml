@@ -9,9 +9,9 @@
 #   - To work correctly, there should be only one entry in the time block, and it must be placed in Track '0'
 #   - For content, use 'title,' 'name,' and 'org' properties - Content of 'title' (currently) renders
 #     on first line, in Bold; 'name' and 'org' display on second line in Italics (with '-' as separator, if both provided)
-# info: true, if the entry is 'informational' in nature (e.g., tea break, lunch) 
+# info: true, if the entry is 'informational' in nature (e.g., tea break, lunch)
 #   - These render with a different background colour
-#   - Currently ignored, unless 'plenary' is also set to true 
+#   - Currently ignored, unless 'plenary' is also set to true
 # block: Block number of the speaker's time slot - First block of the day is Block 0
 # track: Track number (0 - Track One; 1 - Track Two)
 #   - Demo/Breakout ("Track 3") info goes in breakouts.yml
@@ -28,9 +28,9 @@
 # size: File size of slide deck
 # abstract: short description of the talk
 # description: full-length description of the talk
-# bio: brief biography provided by the speaker 
+# bio: brief biography provided by the speaker
 # twitter: speaker's Twitter handle (without the '@')
-# NOTE: For multiple speakers, use 'name2'/'org2'/'bio2'/'twitter2'/'linkedin2' first, then 'name3'/'org3'/etc. 
+# NOTE: For multiple speakers, use 'name2'/'org2'/'bio2'/'twitter2'/'linkedin2' first, then 'name3'/'org3'/etc.
 #   - Automation currently supports up to 3 speakers per talk
 - plenary: true
   day: 0
@@ -52,7 +52,7 @@
   track: 0
   info: false
   title: Opening Session - Welcome to OWASP New Zealand Day 2024!
-  
+
 - plenary: true
   day: 0
   block: 6
@@ -102,7 +102,7 @@
   track: 0
   info: false
   title: Welcome to OWASP New Zealand Day 2024 - Day 2
-  
+
 - plenary: true
   info: true
   day: 1
@@ -133,8 +133,6 @@
   track: 0
   name: Post-Conference Gathering
 
-
-
 - plenary: true
   selected: true
   confirmed: false
@@ -142,16 +140,15 @@
   day: 0
   block: 3
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -160,14 +157,14 @@
   day: 0
   block: 4
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
 
 - plenary: false
@@ -177,14 +174,14 @@
   day: 0
   block: 4
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
 
 - plenary: false
@@ -194,16 +191,15 @@
   day: 0
   block: 5
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -212,16 +208,15 @@
   day: 0
   block: 5
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -230,16 +225,15 @@
   day: 0
   block: 7
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -248,16 +242,15 @@
   day: 0
   block: 7
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -266,16 +259,15 @@
   day: 0
   block: 8
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -284,16 +276,15 @@
   day: 0
   block: 8
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -302,16 +293,15 @@
   day: 0
   block: 10
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -320,16 +310,15 @@
   day: 0
   block: 10
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -338,16 +327,15 @@
   day: 0
   block: 11
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -356,16 +344,15 @@
   day: 0
   block: 11
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
 
 - plenary: false
   selected: true
@@ -374,17 +361,35 @@
   day: 1
   block: 2
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title: Keeping the Bank Happy: PCI DSS v4
+  name: Peter Jakowetz
+  org: PrivSec Consulting
+  anchor: jakowetz-keeping
   abstract: |-
-    
+    Anyone who stores, process or transmits credit card data must meet the Payment Card Industry Data Security
+    Standard (PCI DSS). But what does that actually mean, and what do you have to do? 
+    This talk will run through the requirements of the PCI standard from a developer perspective.
   description: |-
-    
+    Do you take credit card payments? This might be via your call centre, website, payment terminals or mobile app. If you store, process or transmit cardholder data, you have a requirement to meet the Payment Card Industry Data Security Standard (PCI DSS). 
+    </p><p>
+    The standard is comprehensive, and lays down the minimum security controls that must be in place. Even if you are redirecting to a 3rd party payment provider, such as WindCave, you still have responsibilities in regards to the security of credit card data. 
+    </p><p>
+    While there are a lot of considerations when meeting the standard, there are regular requirements that you must consider, including the completion of regular penetration tests. 
+    </p><p>
+    This talk discusses the following:
+    <ul>
+    <li> Summary of what’s in the PCI-DSS</li>
+    <li> Summary of why it’s important, and that it is really just a minimum standard for good practice</li>
+    <li> How it compares to other standards</li>
+    <li> What's new in v4 of the standard</li>
+    <li> What the different acronyms mean (SAQ, AOC, ROC etc)</li>
+    <li> What are the key things for developers to consider</li>
+    <li> What testing can developers do to make this work for them</li>
+    <li> What can be automated by developers to make this work for them</li>
+    <li> What you have to do on a regular basis</li>
+    <li> How do you benefit by meeting the standard</li>
+    </ul>
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -393,17 +398,15 @@
   day: 1
   block: 2
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -412,17 +415,15 @@
   day: 1
   block: 3
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -431,17 +432,15 @@
   day: 1
   block: 3
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -450,17 +449,15 @@
   day: 1
   block: 4
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -469,17 +466,15 @@
   day: 1
   block: 4
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -488,17 +483,15 @@
   day: 1
   block: 6
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -507,17 +500,15 @@
   day: 1
   block: 6
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -526,17 +517,33 @@
   day: 1
   block: 7
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title: "Harnessing Generative AI: Security strategies for next-gen applications"
+  name: Ratan Kumar
+  org: Amazon Web Services
+  anchor: kumar-harnessing
   abstract: |-
-    
+    Generative AI has captured the imagination of every enterprise. In this session, we'll discuss the strategies 
+    for scoping the security risks for different Gen AI workloads and the approach for establishing an 
+    enterprise-ready Generative AI platform to consistently mitigate those risks.
   description: |-
-    
+    Generative AI, fuelled by large language models and transformer neural networks, is transforming industries 
+    worldwide, enhancing customer experiences, and unlocking unprecedented productivity and creativity. 
+    The integration of Generative AI into core business practices necessitates even greater focus on security 
+    to ensure it is employed responsibly and effectively. In this presentation, we’ll discuss the rapidly evolving 
+    landscape of Generative AI and the associated security and privacy implications. We will discuss the strategy to 
+    classify Generative AI use-cases and scope the risks for different types of workloads. 
+    We’ll share practical insights and best practices for addressing the risks and how you can establish an 
+    enterprise ready Generative AI platform to safely transition from prototyping to production. 
+    You’ll leave the session with the knowledge and strategies needed to accelerate your generative 
+    AI journey in a safe and responsible way.
   bio: |-
-
-
+    As a technology leader and an experienced architect with software engineering background, 
+    Ratan Kumar has a track record of working with some of the largest New Zealand enterprises 
+    to steer their digital transformation. 
+    Currently serving as a Principal Solutions Architect at Amazon Web Services (AWS), 
+    Ratan is an active thought leader in the tech sphere. He engages with the broader technical community 
+    by sharing best practices and insightful design principles through various channels, including the AWS blog, 
+      industry conferences, and engaging live sessions on Twitch.
 
 - plenary: false
   selected: true
@@ -545,17 +552,15 @@
   day: 1
   block: 7
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
-
-
 
 - plenary: false
   selected: true
@@ -564,14 +569,14 @@
   day: 1
   block: 9
   track: 0
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
+
   description: |-
-    
+
   bio: |-
 
 - plenary: false
@@ -581,13 +586,12 @@
   day: 1
   block: 9
   track: 1
-  title: 
-  name: 
-  org: 
-  anchor: 
+  title:
+  name:
+  org:
+  anchor:
   abstract: |-
-    
-  description: |-
-    
-  bio: |-
 
+  description: |-
+
+  bio: |-
