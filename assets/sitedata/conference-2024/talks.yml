@@ -474,20 +474,35 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 2
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Make Your CI More Secure and Less Spicy with SLSA
+  name: James Cooper
+  org: 2degrees
+  anchor: cooper-make
   abstract: |-
-
+    A whirlwind tour of the current state of SLSA, and how you can (try to) apply it and related tools and systems
+    to your own continuous integration setup, to achieve verifiably secured build processes that you and 
+    your users can depend on.
   description: |-
-
+    Supply-chain Levels for Software Artifacts (SLSA—pronounced "salsa") is a new-ish and rising framework 
+    from the Open Source Security Foundation around software supply-chain security, intended to guide anyone 
+    who produces software artifacts intended for consumption by others.  With a strong focus on automated build 
+    systems, SLSA both aims to assist those producers to ensure that their products are guarded against the 
+    possibility of security issues from breaches in the software supply-chain (or becoming the breach), and to 
+    enable consumers of those products to verify the producers' security claims.  This talk aims to introduce 
+    experienced software developers to the overarching ideas of SLSA, and demonstrate how they can incorporate 
+    some of its guidance into their own CI systems to achieve greater security.
   bio: |-
+    James holds a PhD in Computer Science and currently works at 2degrees as an Application Developer.
+    Besides the many non-security facets of software development, he also has a keen interest in application 
+    security (and cyber security more generally), which he demonstrates by being overly active in the 
+    InfosecNZ Discord, occasionally giving security talks, collaborating with the security team at work, 
+    and not shutting up about AppSec around his colleagues.  He read the SLSA website in its entirety in 
+    his own time just because he was so interested (and boring).
 
 - plenary: false
   selected: true
