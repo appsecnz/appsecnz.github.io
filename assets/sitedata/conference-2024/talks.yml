@@ -379,20 +379,53 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 11
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Strategies for Identifying and Mitigating Bot Threats
+  name: David MacDonald
+  org: Amazon Web Services
+  anchor: macdonald-strategies
   abstract: |-
-
+    Bots, both good and bad, crawling your platform are common when delivering a web presence. 
+    Bad bots crawling your application consume valuable resources, impact user experience and 
+    exploit processes intended for humans. In this talk I walk you through strategies for managing 
+    bots both good and bad.
   description: |-
-
+    Bots, or scripts that crawl your website are an everyday occurrence for anyone operating a web 
+    application on the Internet. ‘Good bots’ such as Googlebot are such because they help attract 
+    customers to your website through SEO while being respectful in how they crawl your website. 
+    Poorly behaved ‘bad’ bots on the other hand can impact the experience of your legitimate users 
+    through overloading your website or driving increased infrastructure costs for your business. 
+    Malicious bots take this further by exploiting processes intended for humans including snapping up 
+    limited concert tickets, and taking over user accounts via leaked credentials.
+    </p><p>
+    In this talk I walk you through strategies for managing bot traffic, both good, bad, and malicious. 
+    Through starting simple I will walk you through the basics of identifying and mitigating easily 
+    identifiable bot traffic using straight forward traffic signatures. I then dive deeper on 
+    sophisticated bot identification mechanisms including how client-side Javascript code, and 
+    Machine Learning can be used to detect sophisticated distributed bot nets potentially running 
+    across 10s of thousands of hosts. 
+    </p><p>
+    Managing bots is a constant battle between the sophistication of your  mitigations and the effort 
+    an adversary puts into circumventing these mitigations; all while ensuring your legitimate 
+    customers aren’t adversely impacted. This is especially true when your web presence has a 
+    material financial reward for an adversary through exploiting fraudulent logins using stolen 
+    credentials, generating fake registrations for sign-up bonuses, or purchasing all the tickets 
+    to your favourite concert. I introduce techniques for adjusting your user experience to mitigate 
+    the risk of negatively impacting legitimate customers while minimising fraudulent transactions 
+    from sophisticated bots.
+    </p><p>
+    You will walk away from this talk with an understanding of how to implement effective bot control 
+    mechanisms that let good bots through while controlling the impact of bad and malicious bots 
+    without negatively impacting your legitimate users.
   bio: |-
+    David MacDonald is a Solutions Architect at Amazon Web Services and spends plenty of time 
+    helping customers across Australia and New Zealand to effectively manage DDoS attacks and 
+    bot traffic on their platforms. He also works closely with New Zealand startups to help scale their 
+    platforms globally.
 
 - plenary: false
   selected: true
