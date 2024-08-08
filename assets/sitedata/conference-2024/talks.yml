@@ -509,20 +509,45 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 4
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Jailbreaking and Securing LLM Apps: Lessons from an online wargame experiment
+  name: Pedram Hayati
+  org: SecDim
+  anchor: hayati-lessons
   abstract: |-
-
+    This presentation captures findings from a AI wargame designed to evaluate the resilience of LLMs 
+    against prompt injection attacks. The experiment involved an Attack & Defence wargame where 
+    participants were tasked with securing their apps while attacking other LLM apps.
   description: |-
-
+    LLMs currently struggle to consistently adhere to instructions in the presence of prompt injections. 
+    This poses a significant challenge to their utilisation in various applications. To assess the 
+    efficacy of defensive measures for AI applications against prompt injections, we conducted a novel online experiment..
+    </p><p>
+    We created an online wargame where participants were tasked with safeguarding their AI applications 
+    from revealing their secret phrases while simultaneously attempting to compromise other players' apps 
+    to extract theirs. In the event of a successful exfiltration of a secret phrase, the compromised app 
+    was removed from the game. The player then had an opportunity to enhance the security of their AI 
+    app and rejoin the competition.
+    </p><p>
+    Our experiment revealed that every app was exploited, indicating how the defensive strategies employed 
+    to protect the apps exhibited vulnerabilities. This supports our hypothesis that constructing a secure 
+    LLM app remains an ongoing challenge, partly due to a limited understanding of the underlying prompt 
+    injection mechanism.
+    </p><p>
+    This presentation presents the outcomes of our online attack and defence wargame and highlights the 
+    inherent challenges associated with securing LLM based apps.
   bio: |-
+    Dr. Pedram Hayati is the Founder and CEO of SecDim, where he focuses on redefining developer engagement 
+    in security through developer-oriented wargames. As a security researcher proficient in OffSec and AppSec, 
+    he has reported thousands of vulnerabilities to Fortune 500 companies, published over 25 zero-days, 
+    and has led a global penetration testing team. Pedram lectures at the University of New South Wales, 
+    Australian Defence Force Academy. He is the founder of SecTalks.org, the largest non-profit security 
+    community in Australia. He has presented at top security conferences and hosted AppSec wargames at 
+    DEF CON, BlackHat, HITB and FirstCon.
 
 - plenary: false
   selected: true
