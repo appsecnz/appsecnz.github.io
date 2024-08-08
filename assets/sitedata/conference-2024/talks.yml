@@ -526,6 +526,7 @@
   name: David Robinson 
   name2: Jacob Hawthorne
   org:
+  org2: Bastion Security Group
   anchor: robinson-mfa
   abstract: |-
     MFA, you should be using it, but not all MFA is created equal. Having tested many systems over the 
@@ -629,6 +630,8 @@
     @ DefCon, BSidesCBR, CHCon, Unrestcon and at numerous local meetups; along with running 
     training at Kiwicon, Syscan, CrikeyCon, CHCon and TuskCon. He also has a keen interest in 
     aerospace, lock-picking and all things wireless.
+  bio2: |-
+
 
 - plenary: false
   selected: true
@@ -777,20 +780,47 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: faltruese
   remote: false
   day: 1
   block: 7
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Find It, Fix It: The most common authentication flaws
+  name: Sandro Affentranger
+  org: Oneconsult AG
+  anchor: affentranger-find
   abstract: |-
-
+    Developers, are you ready to improve the security of your applications? Join us to uncover 
+    the most common authentication flaws found in penetration tests and learn how to find and 
+    fix them yourself. Empower yourself with the skills to make your applications and your 
+    users' accounts more secure.
   description: |-
-
+    Are you a developer eager to improve the security of your application and protect your users' 
+    accounts as best as you can? Join us for an educational talk focusing on authentication - a 
+    crucial component of every application.
+    </p><p>
+    In our penetration tests, we frequently come across the same authentication flows. These 
+    include non-existent or insufficient brute-force protection, user account enumeration, 
+    insecure password change and recovery mechanisms, and weaknesses in two-factor 
+    authentication and password management.
+    </p><p>
+    We’ll dive deep into each of these flaws and refer to the OWASP Application Security 
+    Verification Standard for essential security controls that should be implemented by 
+    every application. You'll learn simple, tool-free methods (where possible) as well 
+    as a bit more advanced techniques using Burp as a proxy to intercept, manipulate, 
+    and automate requests to identify these vulnerabilities.
+    </p><p>
+    To help you fix these weaknesses, we'll turn to the OWASP Cheat Sheet Series, providing 
+    you with practical, actionable solutions. You'll learn how to properly remedy these security 
+    risks without introducing new vulnerabilities.
+    </p><p>
+    This talk will empower you to find and fix the most common authentication flaws yourself, 
+    equipping you with the knowledge and skills to make your applications more secure.
   bio: |-
+    Sandro Affentranger has been a penetration tester at Oneconsult for seven years, during which 
+    time he has tested a wide variety of applications using both blackbox and whitebox methodologies. 
+    With a deep interest in authentication, particularly passwords, Sandro is constantly cracking and 
+    analysing passwords to gain a better understanding of how people choose their passwords.
 
 - plenary: false
   selected: true
