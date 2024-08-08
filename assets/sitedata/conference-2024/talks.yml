@@ -517,20 +517,117 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 3
   track: 0
-  title:
-  name:
+  title: MFA: Stories that make you go 'Huh?' 
+  name: David Robinson 
   org:
   anchor:
   abstract: |-
-
+    MFA, you should be using it, but not all MFA is created equal. Having tested many systems over the 
+    years we have seen some "interesting" implementations with weird behaviour which allows for bypassing 
+    MFA. Knowing these gotchas will help you find these issues and avoid the same mistakes.
   description: |-
-
+    Outline:
+    </p><p>
+    This talk will provide background on what MFA is and why we should be using it. MFA often has pitfalls 
+    in its implementation, allowing attackers to bypass it. We will present a range of bypass techniques 
+    that we have seen through our testing over the years & how to identify them. In addition, we suggest 
+    how these issues could have been avoided. This discussion will also help the hunters with new ideas of 
+    what they can be looking for when reviewing MFA implementations or trying to bypass MFA on a red team. 
+    We finish with what you should be doing to avoid these MFA implementation issues.
+    </p><p>
+    <ul>
+    <li>What is MFA?</li>
+      <ul>
+      <li>Different implementations</li>
+      <li>What are the different factors of MFA?</li>
+      </ul>
+    <li>Why use MFA?
+      <ul>
+      <li>Password stuffing</li>
+      <li>Poor passwords</li>
+      <li>Phishing </li>
+      </ul></li>
+    <li>MFA Implementations issues
+      <ul>
+      <li>Issues with types of MFA
+        <ul>
+          <li>Dumb things, web cams, photos</li>
+          <li>Lock screens with SMS</li>
+          <li>Having to remove MFA to add a different type of MFA
+            <ul>
+            <li>Only allow one token, no backup</li>
+            </ul></li>
+          <li>Push notifications flooding
+            <ul>
+            <li>Fix adding a number but still phishable</li>
+            <li>Apple attack many pushes then a caller id phone call</li>
+            </ul></li>
+          <li>Phishable MFA
+            <ul>
+            <li>Evil Nginx Phishing </li>
+            </ul></li>
+          <li>Seeds in email accounts
+            <ul>
+            <li>During an internal test, a management network had MFA, 
+            but all seeds were in one person's email and we popped that</li>
+            </ul></li>
+          <li>Forgetting about the break glass process</li> 
+          <li>Charging extra for MFA/SSO</li>
+        </ul>
+      <li>Issues with Web Application
+        <ul>
+        <li>Using a onetime password multiple times</li>
+        <li>Direct Browse to MFA setup</li>
+        <li>Direct Browse to seed values.</li>
+        <li>Azure/Cloud Bypasses Conditional Access Guest Wi-Fi</li>
+        <li>Conditional default allow all, when not an explicit policy/User agent bypass</li>
+        <li>Azure PIM bypasses</li>
+        <li>Azure CLI, AAD Powershell and Graph API bypasses</li>
+        <li>Trusted device bypasses/Abusing domain join flow</li>
+        <li>Password reset – only requires one method</li>
+        </ul></li>
+    <li>So what to do?
+      <ul>
+      <li>Non phishable methods. 
+        <ul>
+        <li>Use WebAuthN, FIDO2</li>
+        </ul></li>
+      <li>Always use MFA
+        <ul>
+        <li>It isonly going to be prompted for every 30 or 90 days or impossible travel</li>
+        <li>Turning it on isn’t really an issue for users</li>
+        </ul></li>
+      <li>Single Sign-on, OAUTH, libraries like B2C, Cognito let someone else handle the problem 
+        <ul>
+        <li>Make it a config problem</li>
+        <li>Don’t have to make code changes when detect an issue</li>
+        <li>The vendor is understanding all the patterns and keeping up with the new standards and methods</li>
+        </ul>
+      <li>Passwordless, what it is and something to keep an eye on</li>
+      </ul></li>
+    </ul>
+    </p><p>
+    Takeaways:
+    </p><p>
+    <ul>
+    <li>Useful MFA bypass techniques to use on web app pentests and red teams.
+    <li>Common MFA implementation issues, what you should be looking for and how to avoid them.
+    <li>How to best integrate MFA into your solutions
+    </ul>
   bio: |-
+    Dave/Karit in his time working in various parts of the IT industry has developed a skillset
+    that encompasses various disciplines in the information security domain. Dave currently 
+    works as a Penetration Tester in Wellington and runs Kākācon.
+    </p><p>
+    Dave has presented at a range of conferences such as DefCon, Kiwicon, Aerospace Village 
+    @ DefCon, BSidesCBR, CHCon, Unrestcon and at numerous local meetups; along with running 
+    training at Kiwicon, Syscan, CrikeyCon, CHCon and TuskCon. He also has a keen interest in 
+    aerospace, lock-picking and all things wireless.
 
 - plenary: false
   selected: true
