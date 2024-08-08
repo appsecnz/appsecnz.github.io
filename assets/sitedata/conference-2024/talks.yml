@@ -272,15 +272,32 @@
   day: 0
   block: 8
   track: 0
-  title:
-  name:
-  org:
-  anchor:
+  title: Dynamic Defense: Crafting threat models with real-world Intelligence
+  name: Kade Morton
+  org: Arachne Digital
+  anchor: morton-crafting
   abstract: |-
-
+    See how real-world threat intelligence can be used to build dynamic, accurate threat models. Learn how 
+    leveraging current data can enhance your security posture by anticipating and mitigating emerging threats, 
+    ensuring robust and resilient software development.
   description: |-
-
+    Discover how real-world threat intelligence can revolutionise your approach to threat modelling in software 
+    development. In this session, Kade Morton, cofounder of Arachne Digital, 
+    will guide you through the intelligence lifecycle—collection, processing, analysis, dissemination,
+    and feedback—demonstrating how each stage can be harnessed to create dynamic, accurate threat models.
+    </p><p>
+    Attendees will be taken through:
+    <ul>
+      <li>The critical stages of the intelligence lifecycle and how it applies to their application.</li>
+      <li>How to gather, process, and analyse threat intelligence to identify relevant threat actor tactics, techniques, and procedures (TTPs).</li>
+      <li>Effective strategies for sharing insights with development teams and creating actionable security requirements.</li>
+      <li>How to incorporate feedback loops and incident data to refine and enhance your threat models.</li>
+    </ul>
+    </p><p>
+    Don't miss this opportunity to enhance your security posture with cutting-edge insights and practical strategies!
   bio: |-
+    Kade is one of the cofounders of the cyber threat intelligence firm Arachne Digital 
+    https://arachne.digital/. Kade has a passion for open-source software and public domain advocacy.
 
 - plenary: false
   selected: true
