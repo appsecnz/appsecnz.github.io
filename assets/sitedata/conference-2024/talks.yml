@@ -624,12 +624,85 @@
   day: 1
   block: 9
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Hack the Sky: Exploring satellite vulnerabilities and cyber threats
+  name: Shahmeer Amir
+  org: Younite
+  anchor: amir-hack
   abstract: |-
-
+    In an age where satellites orbiting Earth play an indispensable role in our daily lives, 
+    they have become prime targets for cyber threats. This presentation, titled "Hack the Sky," 
+    delves into the captivating and concerning world of satellite hacking,
   description: |-
-
+    In an era of ever-increasing technological connectivity, where our lives are intertwined 
+    with satellites for communication, navigation, weather forecasting, and more, it's essential
+    to understand the vulnerabilities and cyber threats that lurk in the skies.
+    </p><p>
+    This presentation delves deep into the world of satellite technology, revealing the astonishing 
+    vulnerabilities that exist within these critical components of our modern infrastructure. 
+    While satellites have undoubtedly revolutionized our way of life, they have also become 
+    prime targets for hackers, cybercriminals, and state-sponsored actors seeking to exploit 
+    their weaknesses.
+    </p><p>
+    Key Highlights:
+    </p><p>
+    Satellite Ecosystem: Explore the multifaceted satellite ecosystem, encompassing 
+    communication satellites, weather satellites, navigation systems, and more. 
+    Understand their vital role in modern society.
+    </p><p>
+    Vulnerabilities Unveiled: Peer into the vulnerabilities that make satellites 
+    susceptible to cyber threats. Discover the potential points of entry that attackers exploit.
+    </p><p>
+    Real-World Threats: Delve into real-world examples of cyber threats against satellites, 
+    including GPS spoofing, data interception, and even the potential for physical collisions 
+    in space.
+    </p><p>
+    State Actors and Hacktivists: Uncover the motivations and methods employed by both 
+    nation-states and hacktivist groups as they target satellites for espionage, disruption, 
+    or political statements.
+    </p><p>
+    Impact on Society: Grasp the profound consequences of a successful satellite cyberattack, 
+    from compromised communications and navigation systems to potential impacts on national security.
+    </p><p>
+    Securing the Final Frontier: Gain insights into the strategies and technologies deployed 
+    to safeguard satellite systems, including encryption, secure communication protocols, and 
+    threat detection mechanisms.
+    </p><p>
+    Ethical Considerations: Engage in discussions about the ethical dilemmas surrounding 
+    satellite hacking, such as the blurred line between cyber warfare and cyber espionage.
+    </p><p>
+    Who Should Attend:
+    <ul>
+    <li>Ethical Hackers</li>
+    <li>Cybersecurity Professionals</li>
+    <li>Satellite Engineers</li>
+    <li>Space Enthusiasts</li>
+    <li>Government and Military Personnel</li>
+    <li>Tech Enthusiasts</li>
+    </ul>
   bio: |-
+    Shahmeer Amir is a world-renowned Ethical Hacker and the 3rd most accomplished bug hunter 
+    who has helped over 400 Fortune companies, including Facebook, Microsoft, Yahoo, and Twitter, 
+    resolve critical security issues in their systems. He has founded multiple entrepreneurial 
+    ventures in the field of Cyber Security, and currently leads three startups in four countries.
+    </p><p>
+    As the CEO of Younite, Shahmeer's premier company is working on next-generation audio-video 
+    communication technologies. He is also the CEO of Veiliux, Asia's first mainstream Cyber 
+    Security startup present in the Asia Pacific, UAE, and the UK. Authiun, another startup, 
+    is a complete passwordless authentication solution for the 21st century.
+    </p><p>
+    Shahmeer is the Cyber Security Advisor to the Ministry of Finance Government of Pakistan, 
+    involved in multiple projects regarding Deep Sea Tracking, Digital Transformation of 
+    Legislation, and Digitization of Pakistani Cultural Content. He is also a member of Forbes 
+    Technology Council.
+    </p><p>
+    As an Engineer and a Cyber Security professional with relevant certifications from renowned 
+    organizations like EC-Council, Mile2, SANS, etc., Shahmeer is currently looking at the 
+    Blockchain technology for his doctorate. He has authored three books, including Bug 
+    Bounty Hunting Essentials, and a dozen research papers.
+    </p><p>
+    Shahmeer is a highly sought-after keynote speaker on Cyber Security, Blockchain, and 
+    other technologies, having been invited to over 80 conferences globally. including Blackhat, 
+    GiSec, FIC, AEC Alberta, Hackfest and many more. He has also been accepted at multiple 
+    prestigious academic institutions in their entrepreneurship programs, including Stanford. 
+    As a CTO of companies, Shahmeer has learned to code in 25 languages and read code in 35, 
+    making him an expert in multiple technologies.
