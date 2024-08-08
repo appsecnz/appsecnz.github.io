@@ -70,6 +70,25 @@
     Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
     security risk. At scale.
 
+- active: true
+  level: 2
+  name: 2degrees
+  anchor: 2degrees
+  image: /assets/images/2023-sponsors/Logo-2_Degrees.png
+  url: https://2degrees.nz/
+  spotlight: |-
+    In 2022 New Zealand's leading challenger telecommunications companies – 2degrees and Vocus – came together under the 
+    2degrees brand to form New Zealand's third largest, full-service telecommunications provider. 2degrees offers 
+    broadband and mobile services covering 98.5% of places Kiwis live and work, a nationwide fibre network and modern 
+    technology platforms, as well as energy services – all supported by an award-winning customer care team and a 
+    network of 58 retail stores. It operates the 2degrees, Slingshot, and Orcon brands.
+  description: |-
+    In 2022 New Zealand's leading challenger telecommunications companies – 2degrees and Vocus – came together under the 
+    2degrees brand to form New Zealand's third largest, full-service telecommunications provider. 2degrees offers 
+    broadband and mobile services covering 98.5% of places Kiwis live and work, a nationwide fibre network and modern 
+    technology platforms, as well as energy services – all supported by an award-winning customer care team and a 
+    network of 58 retail stores. It operates the 2degrees, Slingshot, and Orcon brands.
+
 - active: false
   level: 2
   name: DEFEND
@@ -447,7 +466,7 @@
 - active: true
   level: 5
   name: 84 Recruitment
-  anchor: 84_4ecruitment
+  anchor: 84_recruitment
   image: /assets/images/2024-sponsors/Logo-84_Recruitment.jpg
   url: https://www.84recruitment.co.nz/
   spotlight: |-
@@ -466,3 +485,35 @@
     We're proud to support some of the market-leading organisations as an exclusive cybersecurity talent partner. Our early cyber 
     careers initiative is designed to close the gap in the skills shortage within the ever-growing cybersecurity landscape by 
     creating internship opportunities for upcoming talent to transition into the workforce.
+
+- active: true
+  level: 5
+  name: Veracode
+  anchor: veracode
+  image: /assets/images/2024-sponsors/Logo-Veracode.jpg
+  url: https://www.veracode.com/
+  spotlight: |-
+    In 2006, Chris Wysopal and Christien Rioux set out to invent a way 
+    to prevent malicious actors from exploiting vulnerabilities, co-founding Veracode,
+    where Wysopal is still CTO to this day.
+    </p>
+    <p>
+    The endeavour turned out to be much bigger than we initially thought. What started as a code 
+    scanning tool has evolved into an intelligent software security platform that prevents, detects, 
+    and responds to vulnerabilities and manages risk and compliance for thousands of leading 
+    organizations around the world.
+  description: |-
+    In 1998, a hacker group called L0pht testified before (US) Congress to expose the lack of 
+    software and network security, a whole new world out there open for abuse.
+    </p>
+    <p>
+    Two members, Chris Wysopal (Weld Pond) and Christien Rioux (DilDog), set out to invent a way 
+    to prevent malicious actors from exploiting vulnerabilities, by co-founding Veracode in 2006,
+    where Wysopal is still CTO to this day.
+    </p>
+    <p>
+    The endeavour turned out to be much bigger than we initially thought. What started as a code 
+    scanning tool has evolved into an intelligent software security platform that prevents, detects, 
+    and responds to vulnerabilities and manages risk and compliance for thousands of leading 
+    organizations around the world.
+    
