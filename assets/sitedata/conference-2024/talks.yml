@@ -356,20 +356,35 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 10
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Security in the Serverless Environment
+  name: Mahesh Pandit
+  org: Deloitte New Zealand
+  anchor: pandit-security
   abstract: |-
-
+    The dynamic nature of serverless environment poses security challenges as the traditional 
+    security is still based on the static environments.  In this presentation, we will discuss 
+    the challenges and solutions to manage security in the serverless environment.
   description: |-
-
+    The serverless environment abstracts the underlying infrastructure, enabling developers to 
+    build and run applications without worrying about server provisioning, scaling, or maintenance. 
+    The application development involves event-driven architecture, where functions are triggered 
+    by specific events and the resources are scaled on demand. Overall, the environment offers a 
+    flexible, agile and cost-effective approach to deploying and running applications, allowing 
+    organisations to focus on application development and innovation. The dynamic nature of 
+    serverless environment poses security challenges as the traditional security is still based 
+    on the static environments.  In this presentation, we will discuss the challenges and 
+    solutions to manage security in the serverless environment.
   bio: |-
+    Mahesh works in Deloitte NZ cyber practice and holds interests in ‘Secure by Design’, 
+    cloud/digital transformation and Zero Trust. A keen learner and practitioner, he strongly 
+    believes technology, people and processes work together to achieve a greater security 
+    outcome.  When he is not working, you will find him running on Wellington trails/roads and 
+    on the cricket field coaching or umpiring. 
 
 - plenary: false
   selected: true
