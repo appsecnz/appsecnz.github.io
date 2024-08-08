@@ -400,20 +400,43 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 11
   track: 0
-  title:
-  name:
-  org:
-  anchor:
+  title: Painless Agile Security
+  name: Julian Simpson
+  org: SafeAdvisory Limited
+  anchor: simpson-painless
   abstract: |-
-
+    Why is Agile so notoriously hard for security practitioners?  How do you stop the feature juggernaut from 
+    rolling over security in the name of story points?  This talk goes into some of the history of Agile, 
+    how things go wrong in the modern Agile environment, and what you can do about it.
   description: |-
-
+    Agile changed the world of software.  You may not feel like things changed for the better if you're in security.
+    </p><p>
+    This talk offers some ideas as to how it went wrong, and what you can do from the coalface of security to 
+    attempt to fix that.  We'll talk about:
+    <ul>
+      <li>eXtreme Programming vs Scrum vs SAFE vs DevOps, and how we've always had gaps in delivering secure 
+      software to end users</li>
+      <li>How we  find ourselves building features without security (or privacy, or operational reliability)</li>
+      <li>How Agile methodologies are done rights</li>
+      <li>What techniques can help sneak in security when nobody is looking</li>
+    </ul>
+    </p><p>
+    The talk will be sprinkled with anecdotes from the presenter's 20 years of experience in Agile and less 
+    agile software projects.
   bio: |-
+    20 years ago, Julian Simpson was working ast a Build and Release manager, getting software over the last 
+    mile into production. Now that nobody so much as blinks while deploying several times a day, 
+    Julian is all about securing that software and the tools we use to spin it.
+    </p><p>
+    Accordingly, Julian is a security consultant for Safe Advisory, specialising in DevSecOps and cloud security. 
+    Previously Julian has been (in no particular order) a Systems Administrator, DevOps Consultant, Jack of 
+    All Trades at startups, in New Zealand, UK, USA and Sweden. Julian lives in the Hawke's Bay and likes 
+    getting out on 2 wheels at the weekend.
 
 - plenary: false
   selected: true
