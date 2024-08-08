@@ -139,3 +139,462 @@
   block: 11
   track: 0
   name: Post-Conference Gathering
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 3
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 4
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 4
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 5
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 5
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 7
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 7
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 8
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 8
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 10
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 10
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 11
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 11
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 2
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 2
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 3
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 3
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 4
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 4
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 6
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 6
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 7
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 7
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 9
+  track: 0
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 9
+  track: 1
+  title: 
+  name: 
+  org: 
+  anchor: 
+  abstract: |-
+    
+  description: |-
+    
+  bio: |-
+
