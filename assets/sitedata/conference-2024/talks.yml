@@ -203,20 +203,30 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 5
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: The Windows Data Protection API
+  name: Claudio Contin
+  org: Tier Zero Security
+  anchor: contin-windows
   abstract: |-
-
+    Curious on what the Windows built-in Data Protection API (DPAPI) is? 
+    Want to understand how it can be abused from an offensive perspective?
+    This talk will explain how the DPAPI works under the hood, various abuse 
+    scenarios, and what to consider when developing Windows applications that use the DPAPI
   description: |-
-
+    Come and learn how developer can use the Windows Data Protection API (DPAPI) to 
+    encrypt secrets, and how applications, including browsers, use this API. You will 
+    gain a basic understand on how the DPAPI works under the hood in Windows systems, 
+    and how it is often abused from an offensive perspective.
   bio: |-
+    Claudio works as a Principal Consultant and co-founder at Tier Zero Security in Wellington, 
+    New Zealand. Before working in security, he spent several years developing complex web 
+    applications. He has spoken at few conferences, including OWASP, Bsides San Francisco, 
+    Kiwicon, DefCon and Black Hat.
 
 - plenary: false
   selected: true
