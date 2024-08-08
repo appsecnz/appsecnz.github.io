@@ -1,0 +1,141 @@
+# Definitions for this file - The design of the HTML-generation implementation is intended
+#   to support any number of days, time blocks, and technical tracks.
+# The current assumption is that there is one additional 'track,' supporting events and
+#   presentations that don't fit into the standard track-based format.
+# selected: true, if the Programme Committee has accepted the talk; false, if not
+# confirmed: true, if the speaker has confirmed their participation; false, if not
+# day: 0 - First day of conference; 1 - Second day of conference; etc.
+# plenary: true, if the entry's content should span all track columns in the schedule grid.
+#   - To work correctly, there should be only one entry in the time block, and it must be placed in Track '0'
+#   - For content, use 'title,' 'name,' and 'org' properties - Content of 'title' (currently) renders
+#     on first line, in Bold; 'name' and 'org' display on second line in Italics (with '-' as separator, if both provided)
+# info: true, if the entry is 'informational' in nature (e.g., tea break, lunch) 
+#   - These render with a different background colour
+#   - Currently ignored, unless 'plenary' is also set to true 
+# block: Block number of the speaker's time slot - First block of the day is Block 0
+# track: Track number (0 - Track One; 1 - Track Two)
+#   - Demo/Breakout ("Track 3") info goes in breakouts.yml
+# name: Speaker's name
+# title: Full title of talk
+# anchor: Whitespace-free ID/tag value for the talk
+#   - Ignored, if 'plenary' is true
+# org: Speaker's organisation
+# remote: true, if speaker is presenting remotely; false, if not
+# video: URL of video, once uploaded to YouTube
+# length: Runtime of YouTube video
+# slides: full path to presentation slide deck, if in local assets; full URL, if not
+# format: File format for slide deck
+# size: File size of slide deck
+# abstract: short description of the talk
+# description: full-length description of the talk
+# bio: brief biography provided by the speaker 
+# twitter: speaker's Twitter handle (without the '@')
+# NOTE: For multiple speakers, use 'name2'/'org2'/'bio2'/'twitter2'/'linkedin2' first, then 'name3'/'org3'/etc. 
+#   - Automation currently supports up to 3 speakers per talk
+- plenary: true
+  day: 0
+  block: 0
+  track: 0
+  info: true
+  title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
+
+- plenary: true
+  day: 0
+  block: 1
+  track: 0
+  info: true
+  title: Delegate Lounge Opens - LEGO<sup>&reg;</sup> Build Begins
+
+- plenary: true
+  day: 0
+  block: 2
+  track: 0
+  info: false
+  title: Opening Session - Welcome to OWASP New Zealand Day 2024!
+  
+
+- plenary: true
+  day: 0
+  block: 3
+  info: false
+
+
+- plenary: true
+  day: 0
+  block: 6
+  track: 0
+  info: true
+  title: Break for Lunch
+
+- plenary: true
+  day: 0
+  block: 9
+  track: 0
+  info: true
+  title: Break for Afternoon Tea
+
+- plenary: true
+  day: 0
+  block: 12
+  track: 0
+  info: false
+  title: Wrap-Up - Day 1
+
+- plenary: true
+  day: 0
+  block: 13
+  track: 0
+  info: true
+  title: Delegate Lounge Closes
+
+- plenary: true
+  day: 0
+  block: 14
+  track: 0
+  info: true
+  name: Evening Activities - On Your Own
+
+- plenary: true
+  day: 1
+  block: 0
+  track: 0
+  info: true
+  title: Registration Opens - Level 3 Foyer, Sir Paul Reeves Building (WG)
+  name: Delegate Lounge Opens
+
+- plenary: true
+  day: 1
+  block: 1
+  track: 0
+  info: false
+  title: Welcome to OWASP New Zealand Day 2024 - Day 2
+  
+- plenary: true
+  info: true
+  day: 1
+  block: 5
+  track: 0
+  title: Break for Lunch
+
+- plenary: true
+  info: true
+  day: 1
+  block: 8
+  track: 0
+  title: Break for Afternoon Tea
+  name: LEGO<sup>&reg;</sup> Build Ends
+
+- plenary: true
+  info: false
+  day: 1
+  block: 10
+  track: 0
+  title: Conference Closing Session
+  name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
+
+- plenary: true
+  info: true
+  day: 1
+  block: 11
+  track: 0
+  name: Post-Conference Gathering
