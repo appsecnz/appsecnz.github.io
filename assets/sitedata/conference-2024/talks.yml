@@ -311,20 +311,31 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 8
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: SSRF and You
+  name: Jim Rush
+  org: PrivSec Consulting
+  anchor: rush-ssrf
   abstract: |-
-
+    Computers like to request things from each other all the time. What happens if you convince a 
+    computer to make a request on your behalf? Enter SSRF (Server Side Request Forgery), a versatile 
+    vulnerability with a range of delightful outcomes.
   description: |-
-
+    SSRF (Server Side Request Forgery) is a way of coercing a server into making a request on behalf 
+    of a user. Sounds like it could be intended functionality, right? Quite often this can be leveraged 
+    into something much much worse, including using this bug class to pivot further into cloud environments, 
+    access internal resources and configuration files, to name a few. This talk is a deep dive into SSRF
+    as a bug and some of the more unexpected and lesser known outcomes from exploiting this vulnerability.
   bio: |-
+   Jim is a former software developer who has somehow ended up hacking things for a living. While breaking 
+   things is infinitely more fun than building things, the building is important. While cybersecurity 
+   commonly can feel diametrically opposed to sofware development, I'm here to show you that pragmatic 
+   security consultants exist who prioritise colloboration over confrontation and still leave room for 
+   the good hacks. 
 
 - plenary: false
   selected: true
