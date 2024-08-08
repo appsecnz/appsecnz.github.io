@@ -15,26 +15,26 @@
     plenary: true
   - block: 2
     start: '09:15'
-    end: '10:05'
+    end: '10:00'
     plenary: true
   - block: 3
-    start: '10:05'
-    end: '10:50'
+    start: '10:00'
+    end: '10:45'
     plenary: true
   - block: 4
-    start: '10:55'
-    end: '11:25'
+    start: '10:50'
+    end: '11:40'
     plenary: false
   - block: 5
-    start: '11:30'
-    end: '12:00'
+    start: '11:45'
+    end: '12:15'
     plenary: false
   - block: 6
-    start: '12:00'
-    end: '13:30'
+    start: '12:15'
+    end: '13:50'
     plenary: true
   - block: 7
-    start: '13:30'
+    start: '13:50'
     end: '14:20'
     plenary: false
   - block: 8
