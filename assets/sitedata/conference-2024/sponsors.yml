@@ -71,7 +71,7 @@
     security risk. At scale.
 
 - active: true
-  level: 2
+  level: 3
   name: 2degrees
   anchor: 2degrees
   image: /assets/images/2023-sponsors/Logo-2_Degrees.png
