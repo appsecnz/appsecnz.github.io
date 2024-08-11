@@ -174,14 +174,25 @@
   day: 0
   block: 4
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Secure Your APIs the AWS Well-Architected Way
+  name: Jhalak Modi 
+  org: Amazon Web Services
+  anchor: modi-secure
   abstract: |-
-
+    Technologists now live in an API-first world. From Open Banking to social media, interactions between and across services 
+    are facilitated by API. This session will describe how to use the AWS Well-Architected Framework to solve several 
+    challenges outlined in the OWASP API Security top 10, using AWS.
   description: |-
-
+    Technologists now live in an API-first world. From Open Banking to social media, interactions between and across 
+    services are facilitated by API. Simultaneously, regulated customers must demonstrate compliance with various 
+    programs. How can customers move fast AND stay secure? This session will describe how to use the Well-Architected 
+    Framework to solve several challenges outlined in the OWASP API Security top 10, using AWS. Explore how to equip 
+    security, architect, and engineering teams with the AWS Well-Architected methodology, and apply relevant AWS 
+    services to strengthen API security posture.
+    </p><p>
+    Get ready for a journey packed with practical tips, best practices, and a dash of humor to keep things light. 
+    Whether you're a seasoned developer, security enthusiast, or just API-curious, this session promises to make 
+    API security both entertaining and enlightening!
   bio: |-
 
 - plenary: false
