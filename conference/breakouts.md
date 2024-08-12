@@ -1,20 +1,20 @@
 ---
 title: Demos/Breakouts
 description: Information about Sponsor Demos and Break-Out Sessions
-tags: owaspnz23
+tags: owaspnz24
 
 layout: conference/breakouts-full-width
-dataDir: conference-2023
-sponsorsEventName: OWASP New Zealand Day 2023
+dataDir: conference-2024
+sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
-[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Demos and Break-Out Sessions
 
-## OWASP New Zealand Day 2023
+## OWASP New Zealand Day 2024
 
 ### Case Room, WG404
 
