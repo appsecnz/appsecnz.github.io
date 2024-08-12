@@ -713,20 +713,33 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 3
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: API Security: Securing GraphQL without going around in circles
+  name: Kirk Jackson
+  org: Lightspeed
+  anchor: jackson-securing
   abstract: |-
-
+    GraphQL is gaining traction as a way to expose your API's with a consistent interface. It has some 
+    unique challenges, and we will explore how to secure our API's during this presentation.
   description: |-
-
+    GraphQL is gaining traction as a way to expose your API's with a consistent interface. By acting as
+    a common layer in front of your internal API's and microservices, GraphQL proxies and transforms
+    your API traffic and provides a rich query syntax allowing a great developer experience.
+    </p><p>
+    However, all good things come at a cost, and simplicity on the front-end hides complexity beneath.
+    In this talk we will explore the challenges of securing a GraphQL API, and share some strategies for
+    making your API's more secure. 
   bio: |-
+     Kirk Jackson works at Lightspeed, and has previously helped lead the OWASP Wellington meetup and 
+     the annual OWASP NZ Day in Auckland.
+    </p><p>
+    Kirk worked as a web developer before switching to the defence team - setting up Xero's security 
+    practice, working as a pen tester, a web security researcher at RedShield and in defence roles 
+    at several companies. Mastodon: @kirk@pageofwords.com
 
 - plenary: false
   selected: true
