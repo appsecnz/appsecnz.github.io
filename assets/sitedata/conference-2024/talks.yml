@@ -197,20 +197,37 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 5
   track: 0
-  title:
-  name:
-  org:
-  anchor:
+  title: OWASP Top 10 Introduction
+  name: Austin Chamberlain
+  org: Defence Science and Technology, NZDF
+  anchor: chamberlain-owasp
   abstract: |-
-
+    The OWASP Top 10 is a standard awareness document for developers and web application security. 
+    It represents a broad consensus about the most critical security risks to web applications.
   description: |-
-
+    Austin will give an overview of the OWASP Top 10, including what the Top 10 represents, how 
+    it is chosen, and how it is managed. The talk will include a quick technical summary of each 
+    of the Top 10, how the vulnerabilities are introduced into systems, how they can be detected, 
+    and how they can be prevented. This is an introductory talk and will cover ground that experienced 
+    practitioners will know already, but people new to the industry will hopefully find this valuable.
   bio: |-
+    Austin Chamberlain is a scientist with Defence Science and Technology, part of the New Zealand 
+    Defence Force. 
+    </p><p>
+    Austin started his career as a system administrator working predominantly on web-facing systems. 
+    This provided a fast understanding of information security and he focused increasingly on 
+    information and cyber security, making the jump to a cyber role in due course. He served part 
+    time in the British Army reserve, initially as a logistics officer, and later transferring to a 
+    cyber operations role. In his civilian career he has predominantly worked in the academic sector.
+    </p><p>
+    This combination of academia, technical and military cyber experience provided a strong 
+    foundation for a military cyber research role, and he now works on studying and integrating 
+    next generation and generation-beyond-next cyber capabilities into the NZDF.
 
 - plenary: false
   selected: true
