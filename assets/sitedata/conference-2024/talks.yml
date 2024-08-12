@@ -811,19 +811,31 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 6
   track: 1
-  title:
-  name:
-  org:
-  anchor:
+  title: Securely Sending Email in 2024
+  name: Richard Gray
+  org: SMX
+  anchor: gray-securely
   abstract: |-
-
+    Some 50 years after the first email message was sent, email continues to be an important channel 
+    for organisations to reach their users. In this talk SMX will present best practices for sending 
+    and securing email, to ensure optimal delivery rates while protecting your users, your brand, 
+    and your reputation. This will focus on use of email authentication mechanisms including DMARC, 
+    DKIM, and SPF, and how best to configure them.
   description: |-
-
+    The talk will describe the basic mechanisms by which email messages are delivered over the internet, 
+    including Mail Transfer Agents (MTAs) and the SMTP protocol. We will discuss the security 
+    limitations of early email, and how it has evolved and extended over time to address these 
+    limitations. We will discuss the DMARC, DKIM, and SPF protocols, the benefits and limitations 
+    of each, how they interact, how to configure them, and some of the challenges you may face. 
+    Based on our experiences hosting and securing email for a variety of New Zealand organisations, 
+    we will present examples of email abuse that could have been prevented with effective 
+    authentication in place. Finally, we will present a view of the NZ email security landscape 
+    based on recent data.
   bio: |-
 
 - plenary: false
