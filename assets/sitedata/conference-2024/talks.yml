@@ -264,7 +264,7 @@
   block: 7
   track: 0
   title: Security is an API: Evolving to a decentralised security culture
-  name: Roger Wang
+  name: Tony Fendall
   org: Amazon Web Services
   anchor: fendall-security
   abstract: |-
@@ -280,7 +280,10 @@
     This session will briefly describe what APIs are and how to work with them securely, and will then 
     show you how to transform your organisation’s security strategy by using APIs as mechanisms to trust but verify technology teams as they move fast and stay secure.
   bio: |-
-
+    Tony Fendall (Principal Solutions Architect, AWS) works with New Zealand Businesses of all sizes to promote 
+    security culture.  Tony is passionate about helping New Zealand businesses export technology and skills to 
+    the world, which requires both a robust cloud security posture, and a security culture that allows product 
+    teams to move fast while staying secure.
 
 - plenary: false
   selected: true
@@ -929,20 +932,39 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 9
   track: 0
-  title: To be confirmed
-  name:
-  org:
-  anchor:
+  title: Championing Security: The not-so-secret diary of building Visa's Security Champion program
+  name: Anastasia Hotchin
+  org: Visa Inc
+  name2: Joe Cairns
+  org2: Visa Inc
+  anchor: hotchin-championing
   abstract: |-
-
+    Join Visa on the journey of 'Championing Security'. It's a path where security is not graded, 
+    it's either pass or fail, and pass is our only option. Experience the bumps, breakthroughs, 
+    and the joy of shaping our security culture. It's a tale of real people, real change, and lessons learned.
   description: |-
-
+    Join us as we unfold the exciting journey of Visa's 'Security Champions Program'. We won't just 
+    talk about the destination, but we'll walk you through the entire journey - the initial challenges, 
+    the sweat and time invested, the missteps, the lessons, and the thrilling triumphs that helped 
+    shape our security culture.
+    </p><p>
+    We'll take you on a trip down memory lane, where it all began, and show you how we transformed initial 
+    trials into stepping stones towards our ultimate goal. Learn about rallying the team, securing 
+    leadership buy-in, and the transformation of our champions who became the change they sought.
+    </p><p>
+    This talk is for everyone - the security team, enthusiasts, developers pushing for better practices, 
+    or leaders in risk, compliance, security, or software. So, come join us and leave feeling inspired, 
+    equipped with knowledge, and ready to spark change in your own organization. Let's champion security 
+    together!
   bio: |-
+    Former full-stack developer, now navigating the thrilling seas of application security. I'm an 
+    introverted extrovert, powered by coffee, cheese and a passion for cybersecurity. Approach with 
+    a friendly 'hello' and leave with a lesson in secure coding.
 
 - plenary: false
   selected: true
