@@ -13,6 +13,14 @@
 					"url": "/conference"
 				},
 				{
+					"title": "Conference Schedule",
+					"url": "/conference/schedule.html"
+				},
+				{
+					"title": "Speakers and Abstracts",
+					"url": "/conference/speakers.html"
+				},
+				{
 					"title": "Pre-Conference Training",
 					"url": "/conference/training.html"
 				},
