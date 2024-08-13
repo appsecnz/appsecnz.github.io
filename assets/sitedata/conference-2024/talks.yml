@@ -264,7 +264,7 @@
   block: 7
   track: 0
   title: Security is an API: Evolving to a decentralised security culture
-  name: Tony Fendall
+  name: Roger Wang
   org: Amazon Web Services
   anchor: fendall-security
   abstract: |-
@@ -280,10 +280,7 @@
     This session will briefly describe what APIs are and how to work with them securely, and will then 
     show you how to transform your organisation’s security strategy by using APIs as mechanisms to trust but verify technology teams as they move fast and stay secure.
   bio: |-
-    Tony Fendall (Principal Solutions Architect, AWS) works with New Zealand Businesses of all sizes to promote 
-    security culture.  Tony is passionate about helping New Zealand businesses export technology and skills to 
-    the world, which requires both a robust cloud security posture, and a security culture that allows product 
-    teams to move fast while staying secure.
+
 
 - plenary: false
   selected: true
