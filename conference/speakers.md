@@ -17,7 +17,14 @@ sponsorsEventName: OWASP New Zealand Day 2024
 
 ## Conference Keynote
 
-Details TBC
+<div id="keynote" />
+
+*Andrew van der Stock - Executive Director, OWASP Foundation*   
+Thursday, 10:00   
+
+#### Speaker Biography
+
+**Andrew van der Stock** is the Executive Director at the OWASP Foundation.
 
 <hr />
 
