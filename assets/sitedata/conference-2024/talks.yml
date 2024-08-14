@@ -421,20 +421,60 @@
 
 - plenary: false
   selected: true
-  confirmed: false
-  remote: false
+  confirmed: true
+  remote: true
   day: 0
   block: 10
   track: 0
-  title: To be confirmed
-  name:
-  org:
-  anchor:
+  title: "Doing More with Less: DevSecOps on a limited budget"
+  name: Pramod Rana
+  org: Netskope
+  anchor: rana-more-with-less
   abstract: |-
-
+    Cost is often the most powerful driving factor for everything we do in DevSecOps. Yet, we mostly focus on the classic 
+    People/Process/Technology trilogy. I will provide practical techniques - automation, self-service services, contextual analysis - 
+    of cost optimization to security leadership which they can adopt.
   description: |-
-
+    In today's time everyone will agree and we have enough data to prove that: Business demands software fast and frequent and secure; 
+    Technologies are growing at unprecedented rate; Organizations are operationally complex; Security is tough; the Information security 
+    skill gap is real; and Security budget is limited.
+    </p>
+    <p>
+    There's lots of great content covering the importance of the well-discussed trilogy - People, Process, and Technology. 
+    In this talk, I am going to do a deep dive into the cost aspect of a DevSecOps program and how we can optimize the limited resources 
+    to secure software faster and align with modern SDLC. The content of this talk will provide the guidelines with case-studies to 
+    application security leaders to devise and adapt a DevSecOps program aligning to their organization business needs. This talk will provide 
+    real-world examples and techniques - like automation, self-service security services, contextual analysis and open source solutions usage 
+    from great inventory of OWASP - of cost optimization to security leadership which they can adopt in their DevSecOps program.
+    </p>
+    <p>
+    <strong>Topic Outline</strong>
+    <ul>
+      <li>Challenges - First, I will describe the challenges of making and keeping a software secure in the modern software development lifecycle.</li>
+      <li>Methodology - DevSecOps is the only way to ship softwares quickly while staying secure and compliant. I will present approaches, learnings 
+      and experiences of real-world DevSecOps programs I have been part of.</li>
+      <li>Cost Analysis - In this section, I will do a deep dive into the cost of each activity mentioned in the above section providing the OpEx 
+      and CapEx analysis from both tools and people perspective.</li>
+      <li>Role of Metrics - I will have a separate section for the role of metrics in a successful and scalable DevSecOps program and how they 
+      help to sell the program to leadership.</li>
+      <li>Optimization Tips & Techniques - Last, I will share tips and techniques - technical, non-technical and cultural - to optimize the resources 
+      and reduce the cost to achieve more with less. I will present a case-study of cost-optimization using automation, self-service security services, 
+      removal of false-positives with contextual analysis and open source solutions utilization.
   bio: |-
+    **Pramod Rana** Pramod Rana is the author of multiple open-source projects:
+    </p>
+    <ol>
+      <li>Omniscient - LetsMapYourNetwork: a graph-based asset management framework</li>
+      <li>CICDGuard - Orchestrating visibility and security of CICD ecosystem</li>
+      <li>vPrioritizer - Art of Risk Prioritization: a risk prioritization framework</li>
+    </ol>
+    <p>
+    He has previously presented at BlackHat, Defcon, nullcon, OWASPGlobalAppSec, HackMiami, HackInParis, and Insomnihack
+    Pramod is also Leader of the OWASP Pune Chapter.
+    </p>
+    <p>
+    He leads the Application Security team at Netskope, with primary focus on integrating security controls in the development 
+    process and providing security-testing-as-a-service to engineering teams.
 
 - plenary: false
   selected: true
