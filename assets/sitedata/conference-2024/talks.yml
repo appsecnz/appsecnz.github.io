@@ -140,15 +140,12 @@
   day: 0
   block: 3
   track: 0
-  title: To be confirmed
-  name:
-  org:
-  anchor:
-  abstract: |-
-
-  description: |-
-
-  bio: |-
+  title: 'Conference Keynote - <a href="speakers.html#keynote" target="_blank">Andrew van der Stock</a>'
+  name: Andrew van der Stock
+  org: Executive Director, OWASP Foundation
+  abstract:
+  description:
+  bio:
 
 - plenary: false
   selected: true
@@ -965,6 +962,10 @@
     Former full-stack developer, now navigating the thrilling seas of application security. I'm an 
     introverted extrovert, powered by coffee, cheese and a passion for cybersecurity. Approach with 
     a friendly 'hello' and leave with a lesson in secure coding.
+  bio: |-
+    A security aficionado with 15+ years of DBA experience and a newfound passion for cyber security, 
+    honed over the last two years. With a curious mind that delves into every corner of the digital 
+    world, equally as comfortable cracking codes as cracking jokes.
 
 - plenary: false
   selected: true
