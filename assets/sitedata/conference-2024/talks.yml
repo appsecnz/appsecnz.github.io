@@ -154,15 +154,16 @@
   day: 0
   block: 4
   track: 0
-  title: To be confirmed
-  name:
-  org:
-  anchor:
+  title: Leveraging OWASP Projects and Tools to Transform Your SDLC
+  name: John DiLeo
+  org: Gallagher Security and OWASP NZ
+  anchor: dileo-projects
   abstract: |-
 
   description: |-
 
   bio: |-
+        
 
 - plenary: false
   selected: true
@@ -715,7 +716,7 @@
   day: 1
   block: 3
   track: 1
-  title: API Security: Securing GraphQL without going around in circles
+  title: "API Security: Securing GraphQL without going around in circles"
   name: Kirk Jackson
   org: Lightspeed
   anchor: jackson-securing
@@ -767,7 +768,7 @@
   day: 1
   block: 4
   track: 1
-  title: Jailbreaking and Securing LLM Apps: Lessons from an online wargame experiment
+  title: "Jailbreaking and Securing LLM Apps: Lessons from an online wargame experiment"
   name: Pedram Hayati
   org: SecDim
   anchor: hayati-lessons
@@ -847,6 +848,11 @@
     authentication in place. Finally, we will present a view of the NZ email security landscape 
     based on recent data.
   bio: |-
+    Richard Gray is an experienced engineer with an extensive background in operating and securing internet infrastructure and applications. 
+    With an early career focus on web application environments, Richard has spent the last 9 years at SMX Limited, building and hosting 
+    secure email solutions. Most recently Richard has taken on the role of Security Operations Manager, responsible for overseeing the 
+    SMX Email Security Operations Centre. Richard enjoys using data analysis and code to solve problems and deliver innovative 
+    security solutions for SMX customers.
 
 - plenary: false
   selected: true
@@ -885,12 +891,12 @@
 
 - plenary: false
   selected: true
-  confirmed: faltruese
+  confirmed: true
   remote: false
   day: 1
   block: 7
   track: 1
-  title: Find It, Fix It: The most common authentication flaws
+  title: 'Find It, Fix It: The most common authentication flaws'
   name: Sandro Affentranger
   org: Oneconsult AG
   anchor: affentranger-find
@@ -934,7 +940,7 @@
   day: 1
   block: 9
   track: 0
-  title: Championing Security: The not-so-secret diary of building Visa's Security Champion program
+  title: "Championing Security: The not-so-secret diary of building Visa's Security Champion program"
   name: Anastasia Hotchin
   org: Visa Inc
   name2: Joe Cairns
@@ -974,7 +980,7 @@
   day: 1
   block: 9
   track: 1
-  title: Hack the Sky: Exploring satellite vulnerabilities and cyber threats
+  title: "Hack the Sky: Exploring satellite vulnerabilities and cyber threats"
   name: Shahmeer Amir
   org: Younite
   anchor: amir-hack
