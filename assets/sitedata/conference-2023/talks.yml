@@ -122,7 +122,7 @@
   block: 4
   track: 1
   remote: false
-  video: https://youtu.be/WXFjtSL0QFI
+  video: https://youtu.be/kA7l752O0rM
   length: '27:31'
   title: How to Have Visibility and Security <em>of</em> Your CI/CD Ecosystem
   name: Pramod Rana
@@ -175,9 +175,11 @@
   day: 0
   block: 4
   track: 0
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Jackson-Introduction_to_the_OWASP_Top_Ten.pdf
   format: PDF
-  size:  MB
+  size: 1.1 MB
+  video: https://youtu.be/I-GUrwyaaVA
+  length: '26:34'
   title: OWASP Top 10 Overview
   name: Kirk Jackson
   org: Lightspeed / OWASP NZ
@@ -200,9 +202,6 @@
   day: 0
   block: 5
   track: 1
-  slides: /assets/presentations/conference-2023/.pdf
-  format: PDF
-  size:  MB
   title: 'MPT: Pentest in Action'
   name: Jyoti Raval
   org: Harness
@@ -283,9 +282,11 @@
   day: 0
   block: 7
   track: 0
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Cooper-Securing_REST_API_Endpoints.pdf
   format: PDF
-  size:  MB
+  size: 681 KB
+  video: https://youtu.be/cj_QdUmnWYE
+  length: '47:47'
   title: Securing REST API Endpoints (or, How to avoid another Optus)
   name: James Cooper
   anchor: cooper-securing-api-endpoints
@@ -326,6 +327,8 @@
   day: 0
   block: 7
   track: 1
+  video: https://youtu.be/b1_yYJSMbSU
+  length: '50:15'
   title: 'The Automation Threat Landscape: The evolution of BOTs and fraud'
   name: Guy Brown
   org: Fastly
@@ -366,9 +369,11 @@
   day: 0
   block: 8
   track: 0
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Jakowetz-What_Happens_When_a_Meteor.pdf
   format: PDF
-  size:  MB
+  size:  490 KB
+  video: https://youtu.be/IKpWvQ7crKw
+  length: '26:28'
   title: What Happens When a Meteor Takes Out My Data Centre?
   name: Peter Jakowetz
   org: PrivSec Consulting
@@ -404,6 +409,11 @@
   day: 0
   block: 8
   track: 1
+  slides: /assets/presentations/conference-2023/Miraz-Breaking_Mobile_App_Defenses.pdf
+  format: PDF
+  size:  2.6MB
+  video: https://youtu.be/MC7BlrFEfCs
+  length: '25:12'
   title: Breaking Mobile App Defenses with Frida and Reverse Engineering
   name: Shofe Miraz
   org: CyberCX
@@ -461,9 +471,11 @@
   day: 1
   block: 2
   track: 1
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Esther-Privacy_by_Design.pdf
   format: PDF
-  size:  MB
+  size: 9.6 MB
+  video: https://youtu.be/BHMOETX8Kng
+  length: '32:04'	
   title: 'Privacy by Design: A standard approach in software development?'
   name: Chris Esther
   org: Konpura
@@ -488,9 +500,11 @@
   day: 0
   block: 10
   track: 1
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Koh-What_Could_Possibly_Go_Wrong.pdf
   format: PDF
-  size:  MB
+  size: 1.9 MB
+  video: https://youtu.be/w2eBw6_oczY
+  length: '31:44'
   title: What Could Possibly Go Wrong in a Kubernetes Cluster?
   name: William Koh
   org: WithSecure
@@ -529,6 +543,11 @@
   day: 0
   block: 11
   track: 0
+  slides: /assets/presentations/conference-2023/Alcock-Waiter_Theres_a_CVE_in_My_SOUP.pdf
+  format: PDF
+  size: 4.3 MB
+  video: https://youtu.be/DP2IBWabDk0
+  length: '30:31'
   title: "Waiter, There's a CVE in My SOUP"
   name: Kevin Alcock
   org: Seequent
@@ -561,6 +580,8 @@
   day: 0
   block: 11
   track: 1
+  video: https://youtu.be/Y36mYXN7dvk
+  length: '29:20'
   title: Bypassing Anti-Virus using BadUSB
   name: Cristian Cornea 
   remote: true
@@ -629,6 +650,8 @@
   day: 1
   block: 2
   track: 0
+  video: https://youtu.be/_Hxps11MDIg
+  length: '27:41'
   title: 'The Enigmatic Eight: A cryptic tale of influential women in cyber security'
   name: Toni James
   org: Salesforce
@@ -667,9 +690,9 @@
   day: 0
   block: 10
   track: 0
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Salanguit-Managing_Bug_Bounty_Programs.pdf
   format: PDF
-  size:  MB
+  size: 13.6 MB
   title: 'Managing Bug Bounty Programs: A learning journey'
   name: Cat Salanguit
   org: Lightspeed
@@ -703,9 +726,9 @@
   day: 1
   block: 3
   track: 0
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Sharma-From_DevOps_to_DevSecOps.pdf
   format: PDF
-  size:  MB
+  size: 10.8 MB
   title: From DevOps to DevSecOps
   name: Karan Sharma
   org: Wise Fox Security
@@ -746,9 +769,11 @@
   day: 1
   block: 3
   track: 1
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Morgan-The_Many_Sins_of_Web3.pdf
   format: PDF
-  size:  MB
+  size: 6.0 MB
+  video: https://youtu.be/o9x7TiiccG4
+  length: '48:36'
   title: The Many Sins of Web3
   name: Stephen Morgan
   anchor: morgan-sins-of-web3
@@ -775,6 +800,8 @@
   day: 1
   block: 4
   track: 0
+  video: https://youtu.be/IT9u-Tg9E84
+  length: '25:23'
   title: Leverage OWASP Projects and Tools to Secure Your SDLC
   name: Raafey Khan
   org: CyberCX
@@ -801,9 +828,11 @@
   day: 1
   block: 4
   track: 1
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Mishra_Azmal-FOSSology.pdf
   format: PDF
-  size:  MB
+  size: 1.7 MB
+  video: https://youtu.be/jyGvBqXLJTw
+  length: '26:29'
   title: 'FOSSology: OSS for Open-Source License Compliance'
   name: Gaurav Mishra
   name2: Shaheem Azmal M MD
@@ -890,9 +919,11 @@
   day: 1
   block: 6
   track: 1
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/Dantra_Kumar-Understanding_and_Securing_Cloud_Rsources.pdf
   format: PDF
-  size:  MB
+  size: 1.6 MB
+  video: https://youtu.be/BB0Ru4NtMag
+  length: '51:46'
   title: Understanding and Securing Cloud Resources using a Layered Approach
   name: Ruskin Dantra
   name2: Ratan Kumar
@@ -921,9 +952,11 @@
   day: 1
   block: 7
   track: 0
-  slides: /assets/presentations/conference-2023/.pdf
+  slides: /assets/presentations/conference-2023/DiLeo-Thoughts_on_Threat_Modelling.pdf
   format: PDF
-  size:  MB
+  size: 1.3 MB
+  video: https://youtu.be/XMov_oc_IDE
+  length: '31:28'
   title: Thoughts on Threat Modelling
   name: John DiLeo
   org: IriusRisk / OWASP NZ
