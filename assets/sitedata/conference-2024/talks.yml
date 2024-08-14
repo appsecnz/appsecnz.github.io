@@ -159,11 +159,58 @@
   org: Gallagher Security and OWASP NZ
   anchor: dileo-projects
   abstract: |-
-
+    The Open Web Application Security Project (OWASP) boasts over 200 Projects, whose volunteers have developed tools and 
+    resources covering nearly every aspect of application security and software assurance. The challenge lies in knowing 
+    what they are, where to find them, and how they can help.
+    </p>
+    <p>
+    In this talk, we'll present brief glimpses of more than 30 interesting and useful OWASP Projects - including the current 
+    Flagship and Production Projects. We'll provide insights into how each can be used to build and improve your AppSec 
+    program, in every phase of the development lifecycle.
   description: |-
-
+    This presentation expands on information found in the "Application Security Wayfinder," developed by the 
+    [OWASP Integration Standards Project](https://owasp.org/www-project-integration-standards/). 
+    The presentation is organized to follow the cycle of stages in the Wayfinder, touching on the current OWASP projects 
+    and tools available to support each stage.
+    </p>
+    <p>
+    Topic outline:
+    <ul>
+      <li>Introduction</li>
+        <ul>
+          <li>What you should (and should not) expect from this talk</li>
+          <li>Why you should love OWASP Projects and Tools</li>
+          <li>What is software assurance?</li>
+          <li>How does OWASP SAMM fit into this</li>
+        </ul>
+      <li>Core AppSec Program Elements (from the Integration Standards Project)</li>
+      <li>OWASP Projects and Tools supporting each Program Element</li>
+         <ul>
+           <li>Training and Education</li>
+           <li>Culture Building and Process Maturing</li>
+           <li>Operation</li>
+           <li>Requirements</li>
+           <li>Design</li>
+           <li>Implementation</li>
+           <li>Verification</li>
+           <li>Metrics</li>
+           <li>Policy Gap Evaluation</li>
+         </ul>
+      <li>Closing Thoughts</li>
+      <li>Additional Resources</li>
   bio: |-
-        
+    Dr. John DiLeo leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher 
+    Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom NZ, providing 
+    support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs.
+    </p>
+    <p>
+    Before turning to full-time roles in security, John was active as a Java enterprise architect and Web application developer. 
+    In earlier lives, John has been a full-time professor and had specialized in developing discrete-event simulations of large 
+    distributed systems.
+    </p>
+    <p>
+    John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, leads the OWASP State of AppSec 
+    Survey and SAMMwise Projects, and is a member of the OWASP Education and Training Committee.
 
 - plenary: false
   selected: true
@@ -261,7 +308,7 @@
   day: 0
   block: 7
   track: 0
-  title: Security is an API: Evolving to a decentralised security culture
+  title: "Security is an API: Evolving to a decentralised security culture"
   name: Roger Wang
   org: Amazon Web Services
   anchor: wang-security
@@ -317,7 +364,7 @@
   day: 0
   block: 8
   track: 0
-  title: Dynamic Defense: Crafting threat models with real-world Intelligence
+  title: "Dynamic Defense: Crafting threat models with real-world Intelligence"
   name: Kade Morton
   org: Arachne Digital
   anchor: morton-crafting
@@ -518,7 +565,7 @@
   day: 1
   block: 2
   track: 0
-  title: Keeping the Bank Happy: PCI DSS v4
+  title: "Keeping the Bank Happy: PCI DSS v4"
   name: Peter Jakowetz
   org: PrivSec Consulting
   anchor: jakowetz-keeping
@@ -595,7 +642,7 @@
   day: 1
   block: 3
   track: 0
-  title: MFA: Stories that make you go 'Huh?' 
+  title: "MFA: Stories that make you go 'Huh?'" 
   name: David Robinson 
   name2: Jacob Hawthorne
   org:
