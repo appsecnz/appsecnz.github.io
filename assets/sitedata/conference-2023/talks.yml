@@ -202,6 +202,9 @@
   day: 0
   block: 5
   track: 1
+  slides: /assets/presentations/conference-2023/Raval-MPT_Pentest_in_Action.pdf
+  format: PDF
+  size: 478 KB
   title: 'MPT: Pentest in Action'
   name: Jyoti Raval
   org: Harness
@@ -613,6 +616,9 @@
   block: 12
   track: 0
   info: false
+  slides: /assets/presentations/conference-2023/DiLeo-Thursday_Closing.pdf
+  format: PDF
+  size: 4.0 MB
   title: Wrap-Up - Day 1
 
 - plenary: true
@@ -992,6 +998,9 @@
   day: 1
   block: 7
   track: 1
+  slides: /assets/presentations/conference-2023/Simpson-Protecting_Pipelines.pdf
+  format: PDF
+  size: 6.0 MB
   title: 'Protecting Pipelines: Secure software delivery using the OWASP CI/CD Top Ten'
   name: Julian Simpson
   org: SafeAdvisory
