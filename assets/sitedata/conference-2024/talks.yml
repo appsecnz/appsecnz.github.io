@@ -889,20 +889,34 @@
 
 - plenary: false
   selected: true
-  confirmed: false
-  remote: false
+  confirmed: true
+  remote: true
   day: 1
   block: 6
   track: 0
-  title: To be confirmed
-  name:
-  org:
-  anchor:
+  title: "Threat Modelling: Star Wars Edition"
+  name: Audrey Long
+  org: Microsoft
+  anchor: long-threat-modelling
   abstract: |-
-
+    This talk walks through threat modelling fundamentals with a Star Wars twist! Creating threat models is like getting 
+    the blueprint to the Death Star. They allow you to plan for potential scenarios. Understanding the possible risks 
+    ensures your entire team will make it back to the Millennium Falcon.
   description: |-
-
+    This talk will walk through threat modeling fundamentals with a fun Star Wars twist! Even what may seem the most 
+    impenetrable, will always have a secret way in that can be exploited. Be it an error in code, an unaccounted-for 
+    perspective, or a convenient airshaft leading to the center of a giant, black, round space craft, a developer must be aware 
+    of potential weaknesses. Using threat models is like getting the blueprint to the Death Star. They allow you to plan for 
+    potential scenarios or ambush attacks from storm troopers with impossibly bad aim. Understanding the possible risks ensures 
+    your entire team will make it back to the Millennium Falcon. 
+    In this talk, Audrey will walk you through understanding threats in a cloud system and how to protect yourself from the dark side.
   bio: |-
+    <strong>Audrey Long</strong> is a Senior Security Software Engineer at Microsoft in the Commercial Software Engineering (CSE) team, 
+    which is a global engineering organization that works directly with the largest companies and not-for-profits in the world to 
+    tackle their most significant technical challenges. To Audrey, security is like solving a puzzle, but with real life impact - and 
+    she loves to break these puzzles. Because security is such a focal point for many customers, but there are so few people, and 
+    especially women in the space, Audrey is passionate about making security accessible both to software engineers and as a career 
+    for girls in STEM. She holds DoD secret clearance and a Master of Science degree in Cyber Security at The Johns Hopkins University.
 
 - plenary: false
   selected: true
