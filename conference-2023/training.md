@@ -4,6 +4,7 @@ description: Pre-Conference Training, 4-5 July - 2023 OWASP NZ Day
 
 layout: conference/full-width
 dataDir: conference-2023
+pathSuffix: -2023
 sponsorsEventName: OWASP New Zealand Day 2023
 ---
 
