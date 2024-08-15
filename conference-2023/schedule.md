@@ -4,6 +4,7 @@ description: Conference Schedule - 6-7 July
 
 layout: conference/schedule-full-width
 dataDir: conference-2023
+pathSuffix: -2023
 sponsorsEventName: OWASP New Zealand Day 2023
 ---
 
