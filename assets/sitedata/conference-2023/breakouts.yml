@@ -44,6 +44,7 @@
   nostream: true
   day: 0
   block: 7
+  anchor: defend-demo
   title: 'Want to shift your career to the next gear? Shift left with DEFEND'
   name: DEFEND
   description: |-
@@ -55,6 +56,7 @@
 - active: true
   day: 0
   block: 8
+  anchor: fastly-demo
   title: 'Hand Coding Security at the Edge: How to reduce your WAF bills'
   name: Stephen (Max) Gillies
   org: Fastly
@@ -73,7 +75,8 @@
 
 - active: true
   day: 0
-  block: 10  
+  block: 10 
+  anchor: atu-info-session 
   title: ATU Information Session
   name: Daniel Zollinger
   org: Aotearoa Technology Union (ATU)
@@ -108,6 +111,7 @@
 - active: true
   day: 1
   block: 2
+  anchor: fastly-demo2
   title: 'Hand Coding Security at the Edge: How to reduce your WAF bills'
   name: Stephen (Max) Gillies
   org: Fastly
@@ -135,6 +139,7 @@
 - active: true
   day: 1
   block: 6
+  anchor: iriusrisk-demo
   title: Level Up Your Threat Modelling Programme with IriusRisk
   name: John DiLeo
   org: IriusRisk

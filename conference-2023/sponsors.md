@@ -4,6 +4,7 @@ description: Sponsors - OWASP New Zealand Day 2023
 
 layout: conference/sponsors-full-width
 dataDir: conference-2023
+pathSuffix: -2023
 sponsorsEventName: OWASP New Zealand Day 2023
 ---
 

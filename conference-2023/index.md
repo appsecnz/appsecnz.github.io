@@ -8,6 +8,7 @@ country: New Zealand
 
 layout: conference/tabbed-full-width
 dataDir: conference-2023
+pathSuffix: -2023
 sponsorsEventName: OWASP New Zealand Day 2023
 ---
 
