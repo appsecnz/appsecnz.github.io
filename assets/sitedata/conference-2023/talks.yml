@@ -648,6 +648,8 @@
   block: 1
   track: 0
   info: false
+  video: https://youtu.be/Ob7SwSWgEFo
+  length: '10:14'
   title: Welcome to OWASP New Zealand Day 2023 - Day 2
   
 - plenary: false
@@ -1152,6 +1154,8 @@
   day: 1
   block: 10
   track: 0
+  video: https://youtu.be/do9fWEv1lKA
+  length: '25:32'
   title: Conference Closing Session
   name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
 
