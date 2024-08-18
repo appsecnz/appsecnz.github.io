@@ -19,7 +19,8 @@ sponsorsEventName: OWASP New Zealand Day 2024
 
 <div id="keynote" />
 
-**OWASP: The Next 25 Years"
+### OWASP: The Next 25 Years
+
 *Andrew van der Stock - Executive Director, OWASP Foundation*   
 Thursday, 10:00   
 
