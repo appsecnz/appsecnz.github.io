@@ -140,12 +140,10 @@
   day: 0
   block: 3
   track: 0
-  title: 'Conference Keynote - <a href="speakers.html#keynote" target="_blank">Andrew van der Stock</a>'
+  anchor: keynote
+  title: 'Conference Keynote - OWASP: The Next 25 Years'
   name: Andrew van der Stock
   org: Executive Director, OWASP Foundation
-  abstract:
-  description:
-  bio:
 
 - plenary: false
   selected: true
