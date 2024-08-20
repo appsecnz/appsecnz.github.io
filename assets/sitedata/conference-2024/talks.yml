@@ -830,7 +830,6 @@
   track: 0
   title: How to run a Pentesting Engagement
   name: Matt Tompkins
-  org: SafeAdvisory
   anchor: tompkins-how
   abstract: |-
     You are in a Dev team and recently assigned to run a pentesting engagement ... what next?
@@ -842,7 +841,9 @@
     describe how to run a pentesting engagement and manage findings, and share some of the 
     hidden synergies to get more value out of the engagement.
   bio: |-
-
+    Matt has been a trusted advisor in organisations ranging from small to medium sized 
+    start-ups through to large, regulated financial institutions (2011-present). Before 
+    working in information security, Matt was a full stack Java developer.
 - plenary: false
   selected: true
   confirmed: true
