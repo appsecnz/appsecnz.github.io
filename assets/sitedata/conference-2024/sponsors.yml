@@ -38,38 +38,6 @@
     innovation, client outcomes, and the expansion of its service portfolio signifies its ambition to lead in the cybersecurity consulting 
     space, making it a valuable partner for organizations looking to enhance their cybersecurity posture​.
     
-- active: false
-  level: LEGO Build Sponsor
-  name: IriusRisk
-  anchor: irius_risk-1
-  image: /assets/images/2024-sponsors/Logo-IriusRisk.png
-  url: https://iriusrisk.com/
-  spotlight: |-
-    <strong>Secure Software By Design. Automated.</strong>
-    </p>
-    <p>
-    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
-    </p>
-    <p>
-    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
-    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
-    security risk. At scale.
-  description: |-
-    We are IriusRisk, the industry leader in automated threat modeling and secure software design, working 
-    with clients that include several of the top 10 Globally Systemically Important Banks (G-SIBs). Our platform 
-    automates the threat modeling process, enabling developers to design and build secure software. At scale.
-    </p>
-    <p>
-    <strong>Secure Software By Design. Automated.</strong>
-    </p>
-    <p>
-    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
-    </p>
-    <p>
-    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
-    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
-    security risk. At scale.
-
 - active: true
   level: 3
   name: 2degrees
@@ -88,106 +56,6 @@
     broadband and mobile services covering 98.5% of places Kiwis live and work, a nationwide fibre network and modern 
     technology platforms, as well as energy services – all supported by an award-winning customer care team and a 
     network of 58 retail stores. It operates the 2degrees, Slingshot, and Orcon brands.
-
-- active: false
-  level: 2
-  name: DEFEND
-  anchor: defend
-  image: /assets/images/2024-sponsors/Logo-DEFEND_with_TM.png
-  url: https://www.defend.co.nz/
-  spotlight: |-
-    DEFEND is a proven and award winning cybersecurity company providing outcome-oriented services and leading 
-    capability practices for our customers.
-    </p>
-    <p>
-    Our Secure Development Practice specialises in the delivery of a holistic suite of cybersecurity services to 
-    customers, ranging across assessment, application design, secure code, build, test and proactively secure & manage.
-    </p>
-    <p>
-    DEFEND are based in Auckland, Wellington, Christchurch and the Midland Regions supporting New Zealand, as well as 
-    International organisations.
-  description: |-
-    DEFEND is a proven and award winning cybersecurity company providing outcome-oriented services and leading
-    capability practices for our customers, including both New Zealand and Global Organisations of National Significance.
-    </p>
-    <p>
-    We focus on a number of verticals that includes Government, Enterprise, Commercial, Health, Utilities, Manufacturing, 
-    Service Providers along with a deep dive into IT/OT convergence to protect critical infrastructure and services that 
-    keep our country and customers operating.
-    </p>
-    <p>
-    DEFEND provides a full range of cybersecurity services with our cybersecurity consultancy, architecture, engineering, 
-    secure development and penetration testing services, delivered through our Practices and Cybersecurity Transformation 
-    Service. We offer Managed Security Services including Incident Management, Handling and Response, Threat Management, 
-    Vulnerability Management, Security Capability Management, Secure Connectivity and Secure Cloud managed services.
-    </p>
-    <p>
-    Our Secure Development Practice specialises in the delivery of a holistic suite of cybersecurity services to customers, 
-    ranging across assessment, application design, secure code, build, test and proactively secure & manage.
-    </p>
-    <p>
-    Through our FiRe product, DEFEND delivers external, independent technical risk assurance and provides a full range of 
-    specialised security testing to New Zealand companies and organisations with a global reach. FiRe is dedicated to 
-    providing meaningful remediation advice with the focus on implementing mitigations and improving processes with our 
-    customers to enable faster business growth and speed to market.
-    </p>
-    <p>
-    DEFEND are based in Auckland, Wellington, Christchurch and the Midland Regions supporting New Zealand, as well as 
-    International organisations.
-
-- active: false
-  level: 2
-  name: Fastly
-  anchor: fastly
-  image: /assets/images/2024-sponsors/Logo-Fastly.svg
-  url: https://www.fastly.com/
-  description: |-
-    Developers change the way the world experiences the web: they drive the next groundbreaking innovation, power the 
-    companies that connect us, and create experiences that can transform our lives. And we built Fastly to make sure they always 
-    have what they need to make it happen.
-    </p>
-    <p>
-    Our powerful edge cloud network empowers developers to run, secure, and deliver websites and applications — as close to the 
-    users as possible, to create unforgettable experiences at global scale.
-  spotlight: |-
-    Developers change the way the world experiences the web: they drive the next groundbreaking innovation, power the 
-    companies that connect us, and create experiences that can transform our lives. And we built Fastly to make sure they always 
-    have what they need to make it happen.
-    </p>
-    <p>
-    Our powerful edge cloud network empowers developers to run, secure, and deliver websites and applications — as close to the 
-    users as possible, to create unforgettable experiences at global scale.
-  
-- active: false
-  level: 2
-  name: Quantum Security
-  anchor: quantum
-  image: /assets/images/2024-sponsors/Logo-Quantum_Security-125.png
-  url: https://www.quantumsecurity.co.nz/
-  spotlight: |-
-    Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
-    process. We utilise only the best personnel available in the market to ensure our clients 
-    receive the best. We engage our clients throughout and provide comprehensive and readable reports.
-    </p>
-    <p>
-    Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, 
-    experienced account managers, and a dedicated management team with a passion for information security.
-    </p>
-    <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
-    and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
-    all round the world.
-  description: |- 
-    Founded in 2014, Quantum Security Services aims to provide excellence throughout our engagement 
-    process. We utilise only the best personnel available in the market to ensure our clients 
-    receive the best. We engage our clients throughout and provide comprehensive and readable reports.
-    </p>
-    <p>
-    Quantum’s professional staff include OSCP, SABSA, CISA, CISSP and PCI-QSA certified consultants, 
-    experienced account managers, and a dedicated management team with a passion for information security.
-    </p>
-    <p>At Quantum we offer a wide array of services, from technical penetration testing to governance risk 
-    and compliance assessments. We are a technical team of passionate InfoSec consultants, gathered from 
-    all round the world.
 
 - active: false
   level: 3
@@ -282,173 +150,20 @@
     <strong>There isn't a safer pair of hands to secure the future of your business.
     </strong>
 
-- active: false
+- active: true
   level: 3
-  name: IriusRisk
-  anchor: irius_risk-1
-  image: /assets/images/2024-sponsors/Logo-IriusRisk.png
-  url: https://iriusrisk.com/
+  name: Amazon Web Services (AWS)
+  anchor: aws
+  image: /assets/images/2024-sponsors/Logo-AWS.png
+  url: https://aws.com/
   spotlight: |-
-    <strong>Secure Software By Design. Automated.</strong>
-    </p>
-    <p>
-    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
-    </p>
-    <p>
-    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
-    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
-    security risk. At scale.
+    Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud, offering over 200 fully featured 
+    services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, 
+    and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
   description: |-
-    We are IriusRisk, the industry leader in automated threat modeling and secure software design, working 
-    with clients that include several of the top 10 Globally Systemically Important Banks (G-SIBs). Our platform 
-    automates the threat modeling process, enabling developers to design and build secure software. At scale.
-    </p>
-    <p>
-    <strong>Secure Software By Design. Automated.</strong>
-    </p>
-    <p>
-    Automate Threat Modeling to fit your existing SDLC. Secure design right from the start.
-    </p>
-    <p>
-    IriusRisk is the only automated Threat Modeling Solution for Security Champions and Developers. It enables 
-    Dev teams to design secure software before they write a line of code, and enables CISOs to manage software 
-    security risk. At scale.
-
-- active: false
-  level: 3
-  name: Snyk
-  anchor: snyk
-  image: /assets/images/2024-sponsors/Logo-Snyk-225.png
-  url: https://snyk.io
-  spotlight: |-
-    <strong>Snyk empowers software-driven businesses to develop fast and stay secure</strong>
-    </p>
-    <p>
-    Snyk’s unique combination of developer-first tooling and best in class security depth 
-    enables businesses to easily build security into their continuous development process.
-  description: |-
-    <strong>Snyk empowers software-driven businesses to develop fast and stay secure</strong>
-    </p>
-    <p>
-    Snyk’s unique combination of developer-first tooling and best in class security depth 
-    enables businesses to easily build security into their continuous development process.
-
-- active: false
-  level: 3
-  name: Planit
-  anchor: planit
-  image: /assets/images/2024-sponsors/Logo-Planit-CMYK.jpg
-  url: https://www.planittesting.com/
-  spotlight: |-
-    Planit empowers businesses with vision, precision, and independence to enhance their software quality, 
-    delivery processes, and security posture. Our dedicated security specialists provide organisations with 
-    the expertise and tools to mitigate security risks, protect data, resolve vulnerabilities, and safeguard 
-    their reputation.
-    </p>
-    <p>
-    For over two decades, leading companies worldwide have relied on Planit to optimise their applications, 
-    ensuring a seamless, speedy, and exceptional user experience. Moreover, we assist organisations in 
-    transforming their delivery by adopting modern tools and practices that enhance efficiency, enable resilience, 
-    ensure security, and drive continuous quality.
-  description: |-
-    Planit empowers businesses with vision, precision, and independence to enhance their software quality, 
-    delivery processes, and security posture. Our dedicated security specialists provide organisations with 
-    the expertise and tools to mitigate security risks, protect data, resolve vulnerabilities, and safeguard 
-    their reputation.
-    </p>
-    <p>
-    For over two decades, leading companies worldwide have relied on Planit to optimise their applications, 
-    ensuring a seamless, speedy, and exceptional user experience. Moreover, we assist organisations in 
-    transforming their delivery by adopting modern tools and practices that enhance efficiency, enable resilience, 
-    ensure security, and drive continuous quality.
-    </p>
-    <p>
-    Our innovative security solution, Planit Strike, offers continuous application protection tailored to the 
-    specific needs of organisations. It can be seamlessly integrated into their CI/CD pipeline or used on-demand. 
-    With Planit Strike, organisations can shift left, increasing velocity upstream while maintaining the highest 
-    level of security.
-    </p>
-    <p> 
-    Recognised in Gartner's Magic Quadrant for Application Testing Services, Worldwide, our 2,000+ specialist 
-    consultants are industry leaders in quality assurance and engineering. They come backed by a hub of shared 
-    knowledge, test assets, accelerators, and our guarantee of testing efficiencies.
-    </p>
-    <p>
-    Being ISO 27001 Certified, businesses can be confident that they are securely engaging the right people with 
-    the right skills to achieve the right outcomes, whether delivering locally or remotely.
-
-- active: false
-  level: 3
-  name: Tesserent 
-  image: /assets/images/2024-sponsors/Logo-Tesserent-RGB.png
-  url: https://tesserent.com/
-  spotlight: |-
-    With offices across Australia and New Zealand, Tesserent partners with clients to provide Managed Security Services, as well as a full 
-    suite of cybersecurity services. 
-    We value quality over quantity, and this is reflected in every process within the business which is designed to provide business 
-    level actionable outcomes for our clients.
-    </p>
-    <p>
-    Tesserent delivers comprehensive, tailored 
-    solutions to prevent, detect, and mitigate potential cyber-attacks. We have deep expertise in security advisory (GRC) and consulting, 
-    technical assurance and testing, cloud services, 24x7 managed services and monitoring, incident response and forensics and 
-    converged/physical security.
-  description: |-
-    Tesserent is an extraordinary cybersecurity success story. Founded in Melbourne, originally focusing on Managed Security Services 
-    and funded almost entirely by local investors, we’ve since grown to become Australia’s #1 ASX-listed cybersecurity provider. Now 
-    with offices across Australia and New Zealand, we partner with clients to provide not just Managed Security Services, but a full 
-    suite of cybersecurity services. In 2021, Tesserent purchased New Zealand-based Lateral Security, an independent ICT security 
-    services company that uses a highly specialised team of management (advisory) and technical (testing) security consultants. 
-    We value quality over quantity, and this is reflected in every process within the business which is designed to provide business 
-    level actionable outcomes for our clients.
-    </p>
-    <p>
-    Tesserent has 500 staff across Australasia with its New Zealand offices located in Wellington, Auckland, and Christchurch. Partnering
-    with over 1,200 mid-sized to enterprise, government, and critical infrastructure clients, Tesserent delivers comprehensive, tailored 
-    solutions to prevent, detect, and mitigate potential cyber-attacks. We have deep expertise in security advisory (GRC) and consulting, 
-    technical assurance and testing, cloud services, 24x7 managed services and monitoring, incident response and forensics and 
-    converged/physical security.
-    
-- active: false
-  level: 3
-  name: Defence Technology Agency
-  anchor: dta
-  image: /assets/images/2024-sponsors/Logo-Defence_Technology_Agency.svg
-  url: https://www.dta.mil.nz/
-  spotlight: |-
-    The Defence Technology Agency | Pokap&umacr; Hangarau o Te Ope K&amacr;tua supports the New Zealand Defence Force (NZDF) 
-    by providing technical and scientific advice based on good scientific practice, is independent, unbiased, transparent and 
-    timely. The technical solutions we develop are used across the spectrum of defence operations.
-    </p>
-    <p>
-    We are a business unit of the NZDF, with our main facility located at the Devonport Naval Base in Auckland and staff 
-    based at HQNZDF, Wellington.
-  description: |-
-    The Defence Technology Agency | Pokap&umacr; Hangarau o Te Ope K&amacr;tua supports the New Zealand Defence Force (NZDF) 
-    by providing technical and scientific advice based on good scientific practice, is independent, unbiased, transparent and 
-    timely. The technical solutions we develop are used across the spectrum of defence operations.
-    </p>
-    <p>
-    We are a business unit of the NZDF, with our main facility located at the Devonport Naval Base in Auckland and staff 
-    based at HQNZDF, Wellington.
-
-- active: false
-  level: 5
-  name: SafeAdvisory
-  anchor: safe_advisory
-  image: /assets/images/2024-sponsors/Logo-SafeAdvisory.png
-  url: https://www.safeadvisory.co.nz/
-  description: |-
-    SafeAdvisory is a boutique cyber security consultancy, founded and based in Aotearoa New Zealand. 
-    We provide bespoke security advice and resources with a local focus.
-    </p>
-    <p>
-    At SafeAdvisory, we know that security is for everyone, and we deliver fit for purpose security consulting to businesses of 
-    all shapes and sizes.
-    </p>
-    <p>
-    The solutions and advice we provide aren't pulled from a template somewhere; we work with each of our clients to make sure 
-    our advice is hitting the mark for you, and leaving your business more secure than when we met.
+    Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud, offering over 200 fully featured 
+    services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, 
+    and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
 
 - active: true
   level: 5
@@ -517,3 +232,12 @@
     and responds to vulnerabilities and manages risk and compliance for thousands of leading 
     organizations around the world.
     
+- active: true
+  level: 5
+  name: Plexure
+  anchor: plexure
+  image: /assets/images/2024-sponsors/Logo-Plexure.jpg
+  url: https://www.plexure.com/
+  spotlight: '&nbsp;'
+  description: '&nbsp;'
+
