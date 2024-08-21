@@ -44,17 +44,26 @@
   day: 0
   block: 7
   
-- active: false
+- active: true
   day: 0
   block: 8
+  name: Datacom
+  title: 'Breach and Attack Simulation (BAS): Automating the validation of WAF controls'
+  description: |-
+     What is BAS and how does it align to AppSec? Recently stood up a new web application behind a WAF and want to 
+     validate that rules are working? Datacom's demo of BAS and automating the validation of WAF controls in partnership 
+     with AttackIQ can help with these scenarios and more!
   
 - active: false
   day: 0
   block: 9
 
-- active: false
+- active: true
   day: 0
   block: 10  
+  name: Veracode
+  title: Longbow ASPM plus
+  description: Demonstration of Longbow and how it is helping organisations to cope with the rapid rise in alerts from code to cloud monitoring solutions.  
   
 - active: false
   day: 0
@@ -84,9 +93,15 @@
   day: 1
   block: 2
   
-- active: false
+- active: true
   day: 1
   block: 3
+  name: Datacom
+  title: 'Breach and Attack Simulation (BAS): Automating the validation of WAF controls'
+  description: |-
+     What is BAS and how does it align to AppSec? Recently stood up a new web application behind a WAF and want to 
+     validate that rules are working? Datacom's demo of BAS and automating the validation of WAF controls in partnership 
+     with AttackIQ can help with these scenarios and more!
     
 - active: false
   day: 1
@@ -96,9 +111,13 @@
   day: 1
   block: 5
 
-- active: false
+- active: true
   day: 1
   block: 6
+  name: Veracode
+  title: Veracode FIX - AI assisted remediation of code vulnerabilities
+  description:  AI in DevOps - Friend or Foe? Join us for a discussion on AI pair programming and how to safely harness the increase in code these tools can generate.  
+  
 - active: false
   day: 1
   block: 7
