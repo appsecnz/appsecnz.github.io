@@ -47,6 +47,7 @@
 - active: true
   day: 0
   block: 8
+  anchor: datacom-bas-1
   name: Datacom
   title: 'Breach and Attack Simulation (BAS): Automating the validation of WAF controls'
   description: |-
@@ -61,6 +62,7 @@
 - active: true
   day: 0
   block: 10  
+  anchor: veracode-longbow
   name: Veracode
   title: Longbow ASPM plus
   description: Demonstration of Longbow and how it is helping organisations to cope with the rapid rise in alerts from code to cloud monitoring solutions.  
@@ -97,6 +99,7 @@
   day: 1
   block: 3
   name: Datacom
+  anchor: datacom-bas-2
   title: 'Breach and Attack Simulation (BAS): Automating the validation of WAF controls'
   description: |-
      What is BAS and how does it align to AppSec? Recently stood up a new web application behind a WAF and want to 
@@ -114,6 +117,7 @@
 - active: true
   day: 1
   block: 6
+  anchor: veracode-fix
   name: Veracode
   title: Veracode FIX - AI assisted remediation of code vulnerabilities
   description:  AI in DevOps - Friend or Foe? Join us for a discussion on AI pair programming and how to safely harness the increase in code these tools can generate.  
