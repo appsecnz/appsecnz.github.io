@@ -44,6 +44,8 @@
   nostream: true
   day: 0
   block: 7
+  video: https://youtu.be/Za5tk_3t_Zg
+  length: '47:04'
   anchor: defend-demo
   title: 'Want to shift your career to the next gear? Shift left with DEFEND'
   name: DEFEND
@@ -76,6 +78,8 @@
 - active: true
   day: 0
   block: 10 
+  video: https://youtu.be/Gi2XgdDP3Os
+  length: '31:09'
   anchor: atu-info-session 
   title: ATU Information Session
   name: Daniel Zollinger
@@ -111,6 +115,8 @@
 - active: true
   day: 1
   block: 2
+  video: https://youtu.be/oplTSVTV4wM
+  length: '27:56'
   anchor: fastly-demo2
   title: 'Hand Coding Security at the Edge: How to reduce your WAF bills'
   name: Stephen (Max) Gillies

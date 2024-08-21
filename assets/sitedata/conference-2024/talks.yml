@@ -140,12 +140,10 @@
   day: 0
   block: 3
   track: 0
-  title: 'Conference Keynote - <a href="speakers.html#keynote" target="_blank">Andrew van der Stock</a>'
+  anchor: keynote
+  title: 'Conference Keynote - OWASP: The Next 25 Years'
   name: Andrew van der Stock
   org: Executive Director, OWASP Foundation
-  abstract:
-  description:
-  bio:
 
 - plenary: false
   selected: true
@@ -683,7 +681,7 @@
   block: 3
   track: 0
   title: "MFA: Stories that make you go 'Huh?'" 
-  name: David Robinson 
+  name: David (Karit) Robinson 
   name2: Jacob Hawthorne
   org:
   org2: Bastion Security Group
@@ -832,7 +830,6 @@
   track: 0
   title: How to run a Pentesting Engagement
   name: Matt Tompkins
-  org: SafeAdvisory
   anchor: tompkins-how
   abstract: |-
     You are in a Dev team and recently assigned to run a pentesting engagement ... what next?
@@ -844,7 +841,9 @@
     describe how to run a pentesting engagement and manage findings, and share some of the 
     hidden synergies to get more value out of the engagement.
   bio: |-
-
+    Matt has been a trusted advisor in organisations ranging from small to medium sized 
+    start-ups through to large, regulated financial institutions (2011-present). Before 
+    working in information security, Matt was a full stack Java developer.
 - plenary: false
   selected: true
   confirmed: true
