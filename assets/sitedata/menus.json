@@ -21,12 +21,12 @@
 					"url": "/conference/speakers.html"
 				},
 				{
-					"title": "Pre-Conference Training",
-					"url": "/conference/training.html"
+					"title": "Demos/Breakouts",
+					"url": "/conference/breakouts.html"
 				},
 				{
-					"title": "Call for Sponsors",
-					"url": "/conference/sponsorship.html"
+					"title": "Pre-Conference Training",
+					"url": "/conference/training.html"
 				},
 				{
 					"title": "About Our Sponsors",
@@ -47,6 +47,10 @@
 				{
 					"title": "International Attendees",
 					"url": "/conference/international.html"
+				},
+				{
+					"title": "Call for Sponsors",
+					"url": "/conference/sponsorship.html"
 				}
 			]
 		},
