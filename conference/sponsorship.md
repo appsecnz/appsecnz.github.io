@@ -130,7 +130,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Banner in Delegate Lounge** (see notes)|No|No|No|No|No|**Yes (2)**|
 |**Priority Demo Room Access**|**Yes**|**Yes**|**Yes**|No|No|No|
 |**Company Description on Conference Web Page**|**400 words**|**300 words**|**200 words**|**150 words**|**100 words**|**150 words**|
-|**Company *Spotlight* Description on Web Page** (see notes)|**100 words**|**100 words**|**100 words**|**100 words**|No|**100 words**|
+|**Company *Spotlight* Description on Web Page** (see notes)|**100 words**|**100 words**|**100 words**|**100 words**|**100 words**|**100 words**|
 |**Pre-Conference Reception Tickets**|**12**|**8**|**6**|**4**|**2**|**4**|
 |**Exhibitor Passes** (see notes)|**10**|**6**|**4**|**2**|**2**|**2**|
 |**Free Conference Passes** (see notes)|**25**|**15**|**10**|**5**|**5**|**5**|
