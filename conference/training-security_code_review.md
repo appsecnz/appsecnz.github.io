@@ -139,7 +139,7 @@ Attendees will also get to enjoy one-year access to PentesterLab PRO to keep lea
 
 ## Your Instructor
 
-**Louis Nyffenegger**  is a seasoned security engineer and the founder of PentesterLab, a platform dedicated to teaching Web 
+**Louis Nyffenegger** is a seasoned security engineer and the founder of PentesterLab, a platform dedicated to teaching Web 
 penetration testing. With over a decade of experience in cybersecurity, Louis has focused on penetration testing, architecture 
 analysis, and code reviews. He also launched a YouTube channel, AppSecSchool, further extending his passion for education in 
 application security.

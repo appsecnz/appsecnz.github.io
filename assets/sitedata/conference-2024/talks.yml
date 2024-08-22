@@ -459,7 +459,7 @@
       and reduce the cost to achieve more with less. I will present a case-study of cost-optimization using automation, self-service security services, 
       removal of false-positives with contextual analysis and open source solutions utilization.
   bio: |-
-    **Pramod Rana** Pramod Rana is the author of multiple open-source projects:
+    **Pramod Rana** is the author of multiple open-source projects:
     </p>
     <ol>
       <li>Omniscient - LetsMapYourNetwork: a graph-based asset management framework</li>
@@ -844,6 +844,7 @@
     Matt has been a trusted advisor in organisations ranging from small to medium sized 
     start-ups through to large, regulated financial institutions (2011-present). Before 
     working in information security, Matt was a full stack Java developer.
+
 - plenary: false
   selected: true
   confirmed: true
@@ -915,7 +916,7 @@
     tackle their most significant technical challenges. To Audrey, security is like solving a puzzle, but with real life impact - and 
     she loves to break these puzzles. Because security is such a focal point for many customers, but there are so few people, and 
     especially women in the space, Audrey is passionate about making security accessible both to software engineers and as a career 
-    for girls in STEM. She holds DoD secret clearance and a Master of Science degree in Cyber Security at The Johns Hopkins University.
+    for girls in STEM. She holds a Master of Science degree in Cyber Security from The Johns Hopkins University.
 
 - plenary: false
   selected: true
