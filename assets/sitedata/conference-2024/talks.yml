@@ -196,6 +196,7 @@
          </ul>
       <li>Closing Thoughts</li>
       <li>Additional Resources</li>
+    </ul>
   bio: |-
     Dr. John DiLeo leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher 
     Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom NZ, providing 
@@ -457,7 +458,8 @@
       help to sell the program to leadership.</li>
       <li>Optimization Tips & Techniques - Last, I will share tips and techniques - technical, non-technical and cultural - to optimize the resources 
       and reduce the cost to achieve more with less. I will present a case-study of cost-optimization using automation, self-service security services, 
-      removal of false-positives with contextual analysis and open source solutions utilization.
+      removal of false-positives with contextual analysis and open source solutions utilization.</li>
+    </ul>
   bio: |-
     **Pramod Rana** is the author of multiple open-source projects:
     </p>
@@ -1039,7 +1041,7 @@
   block: 9
   track: 0
   title: "Championing Security: The not-so-secret diary of building Visa's Security Champion program"
-  name: Anastasia Hotchin
+  name: Anastasia (Ana) Hotchin
   org: Visa Inc
   name2: Joe Cairns
   org2: Visa Inc
