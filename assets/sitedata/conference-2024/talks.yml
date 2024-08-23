@@ -127,11 +127,12 @@
   name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
 
 - plenary: true
-  info: true
+  info: false
   day: 1
   block: 11
   track: 0
-  name: Post-Conference Gathering - Location TBC
+  name: Post-Conference Gathering
+  org: The Corner Store (25 Mount Eden Road)
 
 - plenary: true
   selected: true
