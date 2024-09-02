@@ -966,6 +966,8 @@
   title: "Harnessing Generative AI: Security strategies for next-gen applications"
   name: Ratan Kumar
   org: Amazon Web Services
+  name2: Ryan Tan
+  org2: Amazon Web Services
   anchor: kumar-harnessing
   abstract: |-
     Generative AI has captured the imagination of every enterprise. In this session, we'll discuss the strategies 
