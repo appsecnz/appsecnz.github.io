@@ -676,6 +676,9 @@
     InfosecNZ Discord, occasionally giving security talks, collaborating with the security team at work, 
     and not shutting up about AppSec around his colleagues.  He read the SLSA website in its entirety in 
     his own time just because he was so interested (and boring).
+  slides: /assets/presentations/conference-2024/cooper-Make_Your_CI_More_Secure.pdf
+  format: PDF
+  size: 670kb
 
 - plenary: false
   selected: true
