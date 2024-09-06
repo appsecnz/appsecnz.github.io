@@ -180,15 +180,15 @@ Our Pre-Conference Training is planned to include a mix of half-day, one-day, an
   
 **Free Conference Passes:**
 
-For 2022, we have introduced a $30 per person registration fee for most delegates, while keeping the event FREE for students and unwaged delegates. For registered delegates, conference t-shirts will again be an optional purchase, at $15 each ($12 for students/unwaged). 
+From 2022, we introduced a $30 per person registration fee for most delegates, while keeping the event FREE for students and unwaged delegates. For registered delegates, conference t-shirts will again be an optional purchase, at $15 each ($12 for students/unwaged). 
 
-Each sponsorship package includes a number of free conference passes (see table above). Each sponsor-supported delegate will also receive free conference t-shirt. Sponsors will be provided a set of single-use Discount Codes, which you are free to use or distribute as you wish, provided they **are not resold**.
+Each sponsorship package includes a number of free conference passes (see table above). Each sponsor-supported delegate will also receive free conference t-shirt. Sponsors will be provided a set of single-use Access Codes for one (1) **Sponsor Delegate Pass** ticket at no charge. You are free to use or distribute these Access Codes as you wish, provided they **are not resold**.
 
 **Exhibitor Passes:**
 
 Each sponsor requesting an exhibition space ("booth"), including all **Diamond** and **Platinum** sponsors, will receive a number of passes (see table above) for team members who attend the conference to staff their booth. Each Exhibitor Pass includes free registration for the conference, a conference t-shirt, and lunch vouchers for Thursday and Friday.
 
-Sponsors will be provided a set of single-use Access Codes, each of which will provide access to 'purchase' one (1) "VIP Sponsor" conference registration, at no charge.
+Sponsors will be provided a set of single-use Access Codes, each of which will provide access to 'purchase' one (1) **Conference VIP Pass** conference registration, at no charge.
 
 **LEGO Build Upgrade:**
 
