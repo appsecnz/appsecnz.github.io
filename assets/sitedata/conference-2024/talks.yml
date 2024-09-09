@@ -52,6 +52,9 @@
   track: 0
   info: false
   title: Opening Session - Welcome to OWASP New Zealand Day 2024!
+  slides: /assets/presentations/conference-2024/Conference_General_Session--Thursday_Opening.pdf
+  format: PDF
+  size: 884kb
 
 - plenary: true
   day: 0
@@ -73,6 +76,9 @@
   track: 0
   info: false
   title: Wrap-Up - Day 1
+  slides: /assets/presentations/conference-2024/Conference_General_Session--Thursday_Closing.pdf
+  format: PDF
+  size: 656kb
 
 - plenary: true
   day: 0
@@ -102,6 +108,9 @@
   track: 0
   info: false
   title: Welcome to OWASP New Zealand Day 2024 - Day 2
+  slides: /assets/presentations/conference-2024/Conference_General_Session--Friday_Opening.pdf
+  format: PDF
+  size: 765kb
 
 - plenary: true
   info: true
@@ -125,6 +134,9 @@
   track: 0
   title: Conference Closing Session
   name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
+  slides: /assets/presentations/conference-2024/Conference_General_Session--Friday_Closing.pdf
+  format: PDF
+  size: 2.9mb
 
 - plenary: true
   info: false
@@ -146,6 +158,9 @@
   title: 'Conference Keynote - OWASP: The Next 25 Years'
   name: Andrew van der Stock
   org: Executive Director, OWASP Foundation
+  slides: /assets/presentations/conference-2024/van_der_Stock--OWASP_-_The_next_25_years.pdf
+  format: PDF
+  size: 4.8mb
 
 - plenary: false
   selected: true
@@ -212,6 +227,9 @@
     <p>
     John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, leads the OWASP State of AppSec 
     Survey and SAMMwise Projects, and is a member of the OWASP Education and Training Committee.
+  slides: /assets/presentations/conference-2024/DiLeo--Leveraging_OWASP_Projects_and_Tools.pdf
+  format: PDF
+  size: 1.9mb
 
 - plenary: false
   selected: true
@@ -301,6 +319,9 @@
     New Zealand. Before working in security, he spent several years developing complex web 
     applications. He has spoken at few conferences, including OWASP, Bsides San Francisco, 
     Kiwicon, DefCon and Black Hat.
+  slides: /assets/presentations/conference-2024/Contin--Windows_Data_Protection_API.pdf
+  format: PDF
+  size: 8.3mb
 
 - plenary: false
   selected: true
@@ -391,6 +412,9 @@
   bio: |-
     Kade is one of the cofounders of the cyber threat intelligence firm Arachne Digital 
     https://arachne.digital/. Kade has a passion for open-source software and public domain advocacy.
+  slides: /assets/presentations/conference-2024/morton--Threat_Informed_Defense.pdf
+  format: PDF
+  size: 4.5mb
 
 - plenary: false
   selected: true
@@ -549,6 +573,9 @@
     Previously Julian has been (in no particular order) a Systems Administrator, DevOps Consultant, Jack of 
     All Trades at startups, in New Zealand, UK, USA and Sweden. Julian lives in the Hawke's Bay and likes 
     getting out on 2 wheels at the weekend.
+  slides: /assets/presentations/conference-2024/Simpson--Painless_Agile_Security.pdf
+  format: PDF
+  size: 866kb
 
 - plenary: false
   selected: true
@@ -644,6 +671,9 @@
     Peter runs a security consultancy in Wellington, NZ providing GRC and Penetration testing services.   
     When not providing assurance to organisations throughout the country, he can often be found hanging out with 
     his kid, going for walks with his dog Tui, or procrastinating over the 100 unfinished projects in his garage. 
+  slides: /assets/presentations/conference-2024/Jakowetz--Keeping_the_Bank_Happy.pdf
+  format: PDF
+  size: 11.5mb
 
 - plenary: false
   selected: true
@@ -827,7 +857,11 @@
     Kirk worked as a web developer before switching to the defence team - setting up Xero's security 
     practice, working as a pen tester, a web security researcher at RedShield and in defence roles 
     at several companies. Mastodon: @kirk@pageofwords.com
+  slides: /assets/presentations/conference-2024/Jackson-api-security-graphql.pdf
+  format: PDF
+  size: 3mb
 
+  
 - plenary: false
   selected: true
   confirmed: true
@@ -893,6 +927,9 @@
     Australian Defence Force Academy. He is the founder of SecTalks.org, the largest non-profit security 
     community in Australia. He has presented at top security conferences and hosted AppSec wargames at 
     DEF CON, BlackHat, HITB and FirstCon.
+  slides: /assets/presentations/conference-2024/Hayati--Jailbreaking_and_Securing_LLM_Apps.pdf
+  format: PDF
+  size: 1.6mb
 
 - plenary: false
   selected: true
@@ -924,6 +961,9 @@
     she loves to break these puzzles. Because security is such a focal point for many customers, but there are so few people, and 
     especially women in the space, Audrey is passionate about making security accessible both to software engineers and as a career 
     for girls in STEM. She holds a Master of Science degree in Cyber Security from The Johns Hopkins University.
+  slides: /assets/presentations/conference-2024/Long--Threat_Modelling-Star_Wars_Edition.pdf
+  format: PDF
+  size: 3.4mb
 
 - plenary: false
   selected: true
@@ -1039,6 +1079,10 @@
     time he has tested a wide variety of applications using both blackbox and whitebox methodologies. 
     With a deep interest in authentication, particularly passwords, Sandro is constantly cracking and 
     analysing passwords to gain a better understanding of how people choose their passwords.
+  slides: /assets/presentations/conference-2024/Affentranger--Find_It_Fix_It.pdf
+  format: PDF
+  size: 2.1mb
+  
 
 - plenary: false
   selected: true
