@@ -54,7 +54,7 @@
   title: Opening Session - Welcome to OWASP New Zealand Day 2024!
   slides: /assets/presentations/conference-2024/Conference_General_Session--Thursday_Opening.pdf
   format: PDF
-  size: 884kb
+  size: 884 kB
 
 - plenary: true
   day: 0
@@ -78,7 +78,7 @@
   title: Wrap-Up - Day 1
   slides: /assets/presentations/conference-2024/Conference_General_Session--Thursday_Closing.pdf
   format: PDF
-  size: 656kb
+  size: 656 kB
 
 - plenary: true
   day: 0
@@ -110,7 +110,7 @@
   title: Welcome to OWASP New Zealand Day 2024 - Day 2
   slides: /assets/presentations/conference-2024/Conference_General_Session--Friday_Opening.pdf
   format: PDF
-  size: 765kb
+  size: 765 kB
 
 - plenary: true
   info: true
@@ -136,7 +136,7 @@
   name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
   slides: /assets/presentations/conference-2024/Conference_General_Session--Friday_Closing.pdf
   format: PDF
-  size: 2.9mb
+  size:  2.9 MB
 
 - plenary: true
   info: false
@@ -154,13 +154,13 @@
   day: 0
   block: 3
   track: 0
+  slides: /assets/presentations/conference-2024/van_der_Stock--OWASP_-_The_next_25_years.pdf
+  format: PDF
+  size: 4.8 MB
   anchor: keynote
   title: 'Conference Keynote - OWASP: The Next 25 Years'
   name: Andrew van der Stock
   org: Executive Director, OWASP Foundation
-  slides: /assets/presentations/conference-2024/van_der_Stock--OWASP_-_The_next_25_years.pdf
-  format: PDF
-  size: 4.8mb
 
 - plenary: false
   selected: true
@@ -169,6 +169,9 @@
   day: 0
   block: 4
   track: 0
+  slides: /assets/presentations/conference-2024/DiLeo--Leveraging_OWASP_Projects_and_Tools.pdf
+  format: PDF
+  size: 1.9 MB
   title: Leveraging OWASP Projects and Tools to Transform Your SDLC
   name: John DiLeo
   org: OWASP NZ / Gallagher Security
@@ -227,9 +230,6 @@
     <p>
     John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, leads the OWASP State of AppSec 
     Survey and SAMMwise Projects, and is a member of the OWASP Education and Training Committee.
-  slides: /assets/presentations/conference-2024/DiLeo--Leveraging_OWASP_Projects_and_Tools.pdf
-  format: PDF
-  size: 1.9mb
 
 - plenary: false
   selected: true
@@ -321,7 +321,7 @@
     Kiwicon, DefCon and Black Hat.
   slides: /assets/presentations/conference-2024/Contin--Windows_Data_Protection_API.pdf
   format: PDF
-  size: 8.3mb
+  size: 8.3 MB
 
 - plenary: false
   selected: true
@@ -414,7 +414,7 @@
     https://arachne.digital/. Kade has a passion for open-source software and public domain advocacy.
   slides: /assets/presentations/conference-2024/morton--Threat_Informed_Defense.pdf
   format: PDF
-  size: 4.5mb
+  size: 4.5 MB
 
 - plenary: false
   selected: true
@@ -445,7 +445,7 @@
    the good hacks.
   slides: /assets/presentations/conference-2024/Rush--SSRF_and_You.pdf
   format: PDF
-  size: 15.6mb
+  size: 15.6 MB
 
 - plenary: false
   selected: true
@@ -634,7 +634,7 @@
     platforms globally.
   slides: /assets/presentations/conference-2024/MacDonald--Bots.pdf
   format: PDF
-  size: 2.3mb
+  size: 2.3 MB
 
 - plenary: false
   selected: true
@@ -682,7 +682,7 @@
     his kid, going for walks with his dog Tui, or procrastinating over the 100 unfinished projects in his garage. 
   slides: /assets/presentations/conference-2024/Jakowetz--Keeping_the_Bank_Happy.pdf
   format: PDF
-  size: 11.5mb
+  size: 11.5 MB
 
 - plenary: false
   selected: true
@@ -691,6 +691,9 @@
   day: 1
   block: 2
   track: 1
+  slides: /assets/presentations/conference-2024/Cooper--Make_Your_CI_More_Secure
+  format: PDF
+  size: 655 kB
   title: Make Your CI More Secure and Less Spicy with SLSA
   name: James Cooper
   org: 2degrees
@@ -715,9 +718,6 @@
     InfosecNZ Discord, occasionally giving security talks, collaborating with the security team at work, 
     and not shutting up about AppSec around his colleagues.  He read the SLSA website in its entirety in 
     his own time just because he was so interested (and boring).
-  slides: /assets/presentations/conference-2024/cooper-Make_Your_CI_More_Secure.pdf
-  format: PDF
-  size: 670kb
 
 - plenary: false
   selected: true
@@ -837,7 +837,7 @@
   bio2: |-
   slides: /assets/presentations/conference-2024/Karit-Jacob--MFA_Stories.pdf
   format: PDF
-  size: 3.3mb
+  size: 3.3 MB
 
 - plenary: false
   selected: true
@@ -870,7 +870,7 @@
     at several companies. Mastodon: @kirk@pageofwords.com
   slides: /assets/presentations/conference-2024/Jackson-api-security-graphql.pdf
   format: PDF
-  size: 3mb
+  size: 3.0 MB
 
   
 - plenary: false
@@ -940,7 +940,7 @@
     DEF CON, BlackHat, HITB and FirstCon.
   slides: /assets/presentations/conference-2024/Hayati--Jailbreaking_and_Securing_LLM_Apps.pdf
   format: PDF
-  size: 1.6mb
+  size: 1.6 MB
 
 - plenary: false
   selected: true
@@ -974,7 +974,7 @@
     for girls in STEM. She holds a Master of Science degree in Cyber Security from The Johns Hopkins University.
   slides: /assets/presentations/conference-2024/Long--Threat_Modelling-Star_Wars_Edition.pdf
   format: PDF
-  size: 3.4mb
+  size: 3.4 MB
 
 - plenary: false
   selected: true
@@ -1054,6 +1054,9 @@
   day: 1
   block: 7
   track: 1
+  slides: /assets/presentations/conference-2024/Affentranger--Find_It_Fix_It
+  format: PDF
+  size: 2.1 MB
   title: 'Find It, Fix It: The most common authentication flaws'
   name: Sandro Affentranger
   org: Oneconsult AG
@@ -1090,9 +1093,6 @@
     time he has tested a wide variety of applications using both blackbox and whitebox methodologies. 
     With a deep interest in authentication, particularly passwords, Sandro is constantly cracking and 
     analysing passwords to gain a better understanding of how people choose their passwords.
-  slides: /assets/presentations/conference-2024/Affentranger--Find_It_Fix_It.pdf
-  format: PDF
-  size: 2.1mb
   
 
 - plenary: false
