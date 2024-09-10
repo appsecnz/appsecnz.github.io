@@ -442,7 +442,10 @@
    things is infinitely more fun than building things, the building is important. While cybersecurity 
    commonly can feel diametrically opposed to sofware development, I'm here to show you that pragmatic 
    security consultants exist who prioritise colloboration over confrontation and still leave room for 
-   the good hacks. 
+   the good hacks.
+  slides: /assets/presentations/conference-2024/Rush--SSRF_and_You.pdf
+  format: PDF
+  size: 15.6mb
 
 - plenary: false
   selected: true
@@ -501,6 +504,9 @@
     <p>
     He leads the Application Security team at Netskope, with primary focus on integrating security controls in the development 
     process and providing security-testing-as-a-service to engineering teams.
+  slides: /assets/presentations/conference-2024/Rana--Doing_More_with_Less.pdf
+  format: PDF
+  size: 891kb
 
 - plenary: false
   selected: true
@@ -626,6 +632,9 @@
     helping customers across Australia and New Zealand to effectively manage DDoS attacks and 
     bot traffic on their platforms. He also works closely with New Zealand startups to help scale their 
     platforms globally.
+  slides: /assets/presentations/conference-2024/MacDonald--Bots.pdf
+  format: PDF
+  size: 2.3mb
 
 - plenary: false
   selected: true
@@ -826,7 +835,9 @@
     training at Kiwicon, Syscan, CrikeyCon, CHCon and TuskCon. He also has a keen interest in 
     aerospace, lock-picking and all things wireless.
   bio2: |-
-
+  slides: /assets/presentations/conference-2024/Karit-Jacob--MFA_Stories.pdf
+  format: PDF
+  size: 3.3mb
 
 - plenary: false
   selected: true
