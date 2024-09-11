@@ -292,6 +292,9 @@
     This combination of academia, technical and military cyber experience provided a strong 
     foundation for a military cyber research role, and he now works on studying and integrating 
     next generation and generation-beyond-next cyber capabilities into the NZDF.
+  slides: /assets/presentations/conference-2024/Chamberlain--OWASP_Top_10.pdf
+  format: PDF
+  size: 1.8 MB
 
 - plenary: false
   selected: true
@@ -506,7 +509,7 @@
     process and providing security-testing-as-a-service to engineering teams.
   slides: /assets/presentations/conference-2024/Rana--Doing_More_with_Less.pdf
   format: PDF
-  size: 891kb
+  size: 891 kB
 
 - plenary: false
   selected: true
@@ -581,7 +584,7 @@
     getting out on 2 wheels at the weekend.
   slides: /assets/presentations/conference-2024/Simpson--Painless_Agile_Security.pdf
   format: PDF
-  size: 866kb
+  size: 866 kB
 
 - plenary: false
   selected: true
