@@ -16,8 +16,6 @@ sponsorsEventName: OWASP New Zealand Day 2022
 
 ## OWASP New Zealand Day 2022
 
-**Applications for support through our Diversity and Financial Fund are now open, and will be accepted on a continuing basis, until 15 June (or sooner, if funds are exhausted).**
-
 Through the generous support of our lovely sponsors, we will have some funding available to help people from around New Zealand attend the OWASP New Zealand Day conference, who would otherwise find it hard to attend. In particular, we welcome applications from women, people of colour, LGBTQ2IA, Pacific Island indigenous peoples, and all others. You all deserve to be able to learn more about security, and we’ll do our best to help make that happen!
 
 For participants from within New Zealand, support provided by the fund can include return airfare to Auckland, an allowance for accommodations in Auckland, and an allowance for taxi/Uber fares to/from the airports.

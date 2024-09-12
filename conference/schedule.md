@@ -15,7 +15,5 @@ sponsorsEventName: OWASP New Zealand Day 2024
 
 ## AppSec New Zealand Day 2024
 
-### [Conference Registration](https://events.humanitix.com/owaspnz2024){: target="registration" } is now open! Don't miss out - get your tickets now!
-
 **Presentation abstracts and speaker biographies can be found on [this page](speakers.md){:target="speakers"}.
 

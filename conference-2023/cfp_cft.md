@@ -18,8 +18,6 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ### Call for Training
 
-The official Call for Training (CFT) **is now open**, and will close on 28 February. Proposals are invited for half-day, one-day, and two-day classes, in both face-to-face (classroom) and live online formats. 
-
 The conference committee plans to notify training providers of their selection by 7 March, and publish the Pre-Conference Training schedule by 14 March.
 
 ### Registration Fees 

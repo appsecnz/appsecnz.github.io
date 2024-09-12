@@ -19,8 +19,6 @@ sponsorsEventName: OWASP New Zealand Day 2024
 
 ## Auckland University of Technology (AUT) City Campus
 
-### Registration is now open for both the [Main Conference](https://events.humanitix.com/owaspnz2024) and [Pre-Conference Training](https://events.humanitix.com/owaspnz2024-training). Get your tickets now!
-
 -----
 
 We are proud to present the 14th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, September 5th and 6th, 2024. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).

@@ -17,8 +17,6 @@ sponsorsEventName: OWASP New Zealand Day 2023
 
 ## OWASP New Zealand Day 2023
 
-**Applications for support through our Diversity and Financial Fund are now open and will be accepted on a continuing basis, until 23 June (or sooner, if funds are exhausted).**
-
 Each year, we have some funding available to help people from around New Zealand attend the OWASP New Zealand Day conference, who would otherwise find it hard to attend. In particular, we welcome applications from women, people of colour, LGBTQ2IA, Pacific Island indigenous peoples, and all others. You all deserve to be able to learn more about security, and we’ll do our best to help make that happen!
 
 For participants from within New Zealand, support provided by the fund can include waiver of the conference registration fee, waiver of Pre-Conference Training registration fees, return airfare to Auckland, an allowance for accommodations in Auckland, an allowance for taxi/Uber/bus fares to/from the airports, and lunches at the conference venue. Other meals and incidentals (including conference t-shirts) are at your own expense.
