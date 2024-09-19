@@ -350,7 +350,10 @@
     This session will briefly describe what APIs are and how to work with them securely, and will then 
     show you how to transform your organisation’s security strategy by using APIs as mechanisms to trust but verify technology teams as they move fast and stay secure.
   bio: |-
-    
+  slides: /assets/presentations/conference-2024/Wang--Security_is_an_API.pdf
+  format: PDF
+  size: 4.5 MB
+  
 
 - plenary: false
   selected: true
