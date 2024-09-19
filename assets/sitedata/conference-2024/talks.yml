@@ -381,6 +381,9 @@
     propellant/nerve agent/coatings chemist, embedded/sw/security engineer. I've taught IT and infosec courses for 
     Central New Mexico Community College. I've started companies in my past, but no real wins yet. 
     I was the organizer of DC505 and ABQpy, and am a member of Veterans For Peace.
+  slides: /assets/presentations/conference-2024/Hardy--Helping_Elderly_Activists_Improve_Their_Security.pdf
+  format: PDF
+  size: 1 MB
 
 - plenary: false
   selected: true
@@ -899,6 +902,9 @@
     Matt has been a trusted advisor in organisations ranging from small to medium sized 
     start-ups through to large, regulated financial institutions (2011-present). Before 
     working in information security, Matt was a full stack Java developer.
+  slides: /assets/presentations/conference-2024/Tompkins--How to run a pentesting engagement.pdf
+  format: PDF
+  size: 3.0 MB
 
 - plenary: false
   selected: true
@@ -1012,6 +1018,9 @@
     secure email solutions. Most recently Richard has taken on the role of Security Operations Manager, responsible for overseeing the 
     SMX Email Security Operations Centre. Richard enjoys using data analysis and code to solve problems and deliver innovative 
     security solutions for SMX customers.
+  slides: /assets/presentations/conference-2024/Gray--Securely_Sending_Email_in_2024.pdf
+  format: PDF
+  size: 73.5 MB
 
 - plenary: false
   selected: true
