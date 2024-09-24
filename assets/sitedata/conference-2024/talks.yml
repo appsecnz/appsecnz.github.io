@@ -258,6 +258,10 @@
     Whether you're a seasoned developer, security enthusiast, or just API-curious, this session promises to make 
     API security both entertaining and enlightening!
   bio: |-
+  slides: /assets/presentations/conference-2024/Modi--Secure_your_API.pdf
+  format: PDF
+  size: 6.5 MB
+
 
 - plenary: false
   selected: true
