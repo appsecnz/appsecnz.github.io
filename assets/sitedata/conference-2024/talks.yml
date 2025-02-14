@@ -410,6 +410,8 @@
   slides: /assets/presentations/conference-2024/Hardy--Helping_Elderly_Activists_Improve_Their_Security.pdf
   format: PDF
   size: 1 MB
+  video: https://youtu.be/-XuZ8U7h7B0
+  length: '26:02'
 
 - plenary: false
   selected: true
@@ -447,6 +449,8 @@
   slides: /assets/presentations/conference-2024/morton--Threat_Informed_Defense.pdf
   format: PDF
   size: 4.5 MB
+  video: https://youtu.be/825V3OorsQU
+  length: '19:58'
 
 - plenary: false
   selected: true
