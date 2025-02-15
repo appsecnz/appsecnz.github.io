@@ -54,6 +54,8 @@
      What is BAS and how does it align to AppSec? Recently stood up a new web application behind a WAF and want to 
      validate that rules are working? Datacom's demo of BAS and automating the validation of WAF controls in partnership 
      with AttackIQ can help with these scenarios and more!
+  video: https://youtu.be/QX97xVh_TA4
+  length: '26:02'
   
 - active: false
   day: 0
