@@ -11,7 +11,7 @@ dataDir: conference-2025
 sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
-![Web Banner](/assets/images/2024_Banner_Graphic.jpg)   
+![Web Banner](/assets/images/2025_Banner_Graphic.jpg)   
 
 # {{ page.description }}
 
