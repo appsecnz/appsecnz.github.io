@@ -1,19 +1,19 @@
 ---
 title: Conference Schedule
-description: Conference Schedule - 4-5 September
+description: Conference Schedule - 5-6 September
 
 layout: conference/schedule-full-width
-dataDir: conference-2025
-sponsorsEventName: OWASP New Zealand Day 2025
+dataDir: conference-2024
+sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
-[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
-# Conference Schedule - 4-5 September
+# Conference Schedule - 5-6 September
 
-## AppSec New Zealand Day 2025
+## AppSec New Zealand Day 2024
 
 **Presentation abstracts and speaker biographies can be found on [this page](speakers.md){:target="speakers"}.
 

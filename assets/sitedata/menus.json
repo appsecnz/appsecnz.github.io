@@ -5,7 +5,7 @@
 			"url": "/"
 		},
 		{
-			"title": "2024 OWASP NZ Day",
+			"title": "2025 OWASP NZ Day",
 			"url": "/conference",
 			"items": [
 				{
@@ -13,24 +13,12 @@
 					"url": "/conference"
 				},
 				{
-					"title": "Conference Schedule",
-					"url": "/conference/schedule.html"
-				},
-				{
-					"title": "Speakers and Abstracts",
-					"url": "/conference/speakers.html"
-				},
-				{
-					"title": "Demos/Breakouts",
-					"url": "/conference/breakouts.html"
+					"title": "Call for Sponsors",
+					"url": "/conference/sponsorship.html"
 				},
 				{
 					"title": "Pre-Conference Training",
 					"url": "/conference/training.html"
-				},
-				{
-					"title": "About Our Sponsors",
-					"url": "/conference/sponsors.html"
 				},
 				{
 					"title": "Diversity Fund",
@@ -47,10 +35,56 @@
 				{
 					"title": "International Attendees",
 					"url": "/conference/international.html"
+				}
+			]
+		},
+		{
+			"title": "2024 OWASP NZ Day",
+			"url": "/conference-2024",
+			"items": [
+				{
+					"title": "Conference Home Page",
+					"url": "/conference-2024"
+				},
+				{
+					"title": "Conference Schedule",
+					"url": "/conference-2024/schedule.html"
+				},
+				{
+					"title": "Speakers and Abstracts",
+					"url": "/conference-2024/speakers.html"
+				},
+				{
+					"title": "Demos/Breakouts",
+					"url": "/conference-2024/breakouts.html"
+				},
+				{
+					"title": "Pre-Conference Training",
+					"url": "/conference-2024/training.html"
+				},
+				{
+					"title": "About Our Sponsors",
+					"url": "/conference-2024/sponsors.html"
+				},
+				{
+					"title": "Diversity Fund",
+					"url": "/conference-2024/diversity_fund.html"
+				},
+				{
+					"title": "Code of Conduct",
+					"url": "/conference-2024/conduct.html"
+				},
+				{
+					"title": "Volunteers",
+					"url": "/conference-2024/volunteers.html"
+				},
+				{
+					"title": "International Attendees",
+					"url": "/conference-2024/international.html"
 				},
 				{
 					"title": "Call for Sponsors",
-					"url": "/conference/sponsorship.html"
+					"url": "/conference-2024/sponsorship.html"
 				}
 			]
 		},

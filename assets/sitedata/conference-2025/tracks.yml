@@ -1,0 +1,12 @@
+- id: 0
+  name: Track One
+  location: F&PAA (Room 115)
+  width: 32
+- id: 1
+  name: Track Two
+  location: Lecture Theatre (Room 098)
+  width: 32
+- id: 2
+  name: Demos/Breakouts
+  location: Case Room 4 (Room 009)
+  width: 20

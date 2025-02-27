@@ -1,27 +1,27 @@
 ---
 title: Conference
-description: OWASP New Zealand Day 2024
-tags: owaspnz24
+description: OWASP New Zealand Day 2025
+tags: owaspnz25
 currency: NZD
 region: Oceania
 country: New Zealand
 
 layout: conference/tabbed-full-width
-dataDir: conference-2024
-sponsorsEventName: OWASP New Zealand Day 2024
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
 ![Web Banner](/assets/images/2024_Banner_Graphic.jpg)   
 
 # {{ page.description }}
 
-## 3 - 6 September 2024
+## 2 - 5 September 2025
 
-## Auckland University of Technology (AUT) City Campus
+## Sir Owen G. Glenn Building (OGGB), University of Auckland
 
 -----
 
-We are proud to present the 14th OWASP New Zealand Day conference, to be held at the Auckland University of Technology (AUT) City Campus on Thursday and Friday, September 5th and 6th, 2024. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
+We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 4th and 5th, 2025. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
@@ -36,13 +36,9 @@ Who is the Conference for?
 * Requirements Analysts
 * Software Testers
 
-## Conference Live Stream
-
-All three streams of the conference (Track 1, Track 2, and the Sponsor Demos) will be live streamed on the day. Access information for the conference live-stream will be provided to registered delegates, as details are finalised.
-
 ## Conference Structure
 
-**Date:** Thursday and Friday, 5-6 September 2024   
+**Date:** Thursday and Friday, 4-5 September 2025   
 **Time:** 9:15 a.m. - 5:00 p.m., Thursday; 10:00 a.m. - 5:00 p.m., Friday   
 
 The main conference on Thursday and Friday will have two streams throughout both days:
@@ -58,21 +54,21 @@ Throughout the conference, an exhibition area will be open in the main atrium. R
 
 ## Registration Fees
  
-Early registration (on or before 15 August):   
-* $30, standard registration
+Early registration (on or before 14 August):   
+* $25, standard registration
 * **FREE**, for students and unwaged attendees
-* From 16 August, a late registration surcharge applies to all registrations ($20 Regular, $15 Student/Unwaged)   
+* From 15 August, a late registration surcharge applies to all registrations ($25 Regular, $20 Student/Unwaged)   
 
 ## Training
 
-In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (3-4 September), at the same venue.
+In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (2-3 September), at the same venue.
 
-Training Registration opened on 22 May. Information on the classes offered can be found on our **[Pre-Conference Training](training.md)** page.
+Training Registration will open approximately 12 May. 
 
 ### Training Registration Fees 
 
-* Half-day class: $250 per person (face-to-face)
-* One-day class: $500 per person (face-to-face)
+* Half-day class: $250 per person (face-to-face); $225 per person (online)
+* One-day class: $500 per person (face-to-face); $450 per person (online)
 * Two-day class: $1,000 per person (face-to-face); $900 per person (online)
 
 Group registration discounts (single purchase):   
@@ -83,7 +79,7 @@ Group registration discounts (single purchase):
 
 ## General
 
-The OWASP New Zealand Day conference will be happening thanks to the support provided by the Auckland University of Technology (AUT), who have kindly agreed to partner with us as the event's Hosting Sponsor. We are able to keep the costs of attendance low - and offer free registration and travel support to students and unwaged attendees - thanks to the generous support of our sponsors.
+The OWASP New Zealand Day conference will be happening thanks to the support provided by the University of Auckland Business School, who have kindly agreed to partner with us as the event's Hosting Sponsor. We are able to keep the costs of attendance low - and offer free registration and travel support to students and unwaged attendees - thanks to the generous support of our sponsors.
 
 For any comments, feedback or observations, please don't hesitate to [contact us](mailto:conference@appsec.org.nz).
 
@@ -91,20 +87,18 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 ### Conference Special Features
 
-**Lunch Service -** This year, we will again be working with the catering team at AUT, to provide an on-site option for lunch each day, at an additional cost. Lunch will be $30 per person (plus GST and booking fees) and pre-purchase will be required (as part of your conference and/or training registration). Complimentary lunch will be provided to speakers, trainers, and sponsor exhibitors. We are offering this service as a convenience - you are, as always, welcome to explore the area and find lunch on your own.
-
-**Delegate Lounge -** Throughout the main conference on Thursday and Friday, we'll have a Delegate Lounge available in Room WA224A. The entrance to the Delegate Lounge is from the Sponsor Exhibition Area. The Delegate Lounge is a great place to catch up with colleagues or add a few pieces to one of the ongoing **LEGO Build** projects.   
+**Delegate Lounge -** Throughout the main conference on Thursday and Friday, we'll have a Delegate Lounge available (Location TBC). The Delegate Lounge is a great place to catch up with colleagues, or add a few pieces to one of the ongoing **LEGO Build** projects.   
 
 **Delegate Lounge Hours:**   
 
-   * Thursday (5 September): 10:15 a.m. - 6:00 p.m.
-   * Friday (6 September): 8:00 a.m. - 5:00 p.m.
+   * Thursday (4 September): 10:15 a.m. - 6:00 p.m.
+   * Friday (5 September): 8:00 a.m. - 5:00 p.m.
 
-**LEGO Build -** In a corner of the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a number of LEGO sets throughout the event. The conference A/V team will create a stop-motion video of the builds during the conference, and we'll view the finished video during the Closing Session on Friday.
+**LEGO Build -** In the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a number of LEGO sets throughout the event. The conference A/V team will create a stop-motion video of the builds during the conference, and we'll view the finished video during the Closing Session on Friday.
 
-As an added bonus, some lucky conference delegate(s) will go home with LEGO sets, as prizes in our Door Prize Draw at the Closing Session of the conference. All unique sets *completed* during the conference will be included in the top prize, while each duplicate/incomplete/unopened set will be drawn as a separate, 'lesser' prize.
+As an added bonus, some lucky conference delegate(s) will go home with LEGO sets, as prizes in our Door Prize Draw at the Closing Session of the conference. Most of the unique sets *completed* during the conference will be included in the top prize, while certain sets will be set aside as separate prizes, along with each duplicate/incomplete/unopened set.
 
-To be eligible to win LEGO sets, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desks (on Level 3 and in the Sponsor Exhibition area).
+To be eligible to win LEGO sets, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desks (in the Level 1 atrium and in the Sponsor Exhibition area).
 
 <!--
 The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](https://iriusrisk.com)**.
@@ -112,53 +106,44 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 
 ## Important Dates
 
-* **Main Conference Dates:** 5-6 September 2024
-* **Pre-Conference Training Dates:** 3-4 September 2024
-* **Training Registration Closes:** 23 August 2024
-* **Last Day to Pre-Order Lunches:** 23 August 2024
-* **"Early Bird" Conference Registration Ends:** 15 August 2024<br />From 16 August, there's an additional "Procrastinator Fee" ($20 Regular, $15 Student/Unwaged)
-* **Last Day for T-Shirt Purchases:** 12 August 2024 - Orders go to the printer the next morning!
-* **Call for Presentations(CFP) Closed:** 30 June 2024
-* **[Diversity Fund](diversity_fund.md) Applications Opened:** 14 June 2024
-* **[Training Registration](https://events.humanitix.com/owaspnz2024-training) Opened:** 22 May 2024
-* **[Conference Registration](https://events.humanitix.com/owaspnz2024) Opened:** 10 April 2024
-* **Call for Training (CFT) Closed:** 15 April 2024
-* **Call for Training (CFT) Opened:** 22 January 2024
-* **Call for Presentations (CFP) Opened:** 22 January 2024
+* **Main Conference Dates:** 4-5 September 2025
+* **Pre-Conference Training Dates:** 2-3 September 2025
+* **Training Registration Closes:** 22 August 2025
+* **Last Day to Pre-Order Lunches:** 22 August 2025
+* **"Early Bird" Conference Registration Ends:** 15 August 2025<br />From 16 August, there's an additional "Procrastinator Fee" ($25 Regular, $20 Student/Unwaged)
+* **Last Day for T-Shirt Purchases:** 11 August 2025 - Orders go to the printer the next morning!
+* **Call for Presentations(CFP) Closes:** 30 June 2025
+* **[Diversity Fund](diversity_fund.md) Applications Open:** 1 May 2025
+* **Training Registration Opens:** 12 May 2025
+* **Call for Training (CFT) Closes:** 15 April 2025
+* **Conference Registration Opens:** 1 April 2025
+* **Call for Training (CFT) Opens:** 1 March 2025
+* **Call for Presentations (CFP) Opens:** 1 March 2025
 
 ## Conference Venue
 
-![Sir Paul Reeves Building, Auckland University of Technology](/assets/images/WG_External_Plaza_View.jpg)
+![Sir Owen G. Glenn Building (OGGB), University of Auckland](/assets/images/Photos-OGGB_Exterior_Interior.png)
 
 **Location:**  
-    Auckland University of Technology (AUT) City Campus   
-    Buildings WG (Sir Paul Reeves Building) and WA   
-    2 Governor Fitzroy Place, Auckland  
-    **Map:** [Google Maps](https://goo.gl/maps/tJVwWVyC16hLnpNf9)   
+    University of Auckland       
+    Sir Owen G. Glenn Building (OGGB)   
+    16 Grafton Road, Auckland  
+    **Map:** [Google Maps](https://maps.app.goo.gl/EEy51eCvYYZRwXma7)   
     
-**Stream One:** Level 4   
-**Room:** Lecture Theatre WG403   
+**Stream One:** Level 1   
+**Room:** Fisher and Paikel Appliances Auditorium (F&amp;PAA, Room 115)   
 
-**Stream Two:** Level 2   
-**Room:** Lecture Theatre WA220   
+**Stream Two:** Level 0   
+**Room:** Lecture Theatre (Room 098)   
 
-**Sponsor Demos:** Level 4   
-**Room:** Case Room WG404
+**Sponsor Demos:** Level 0   
+**Room:** Case Room 4 (Room 009)
 
-**Delegate Lounge:** Level 2   
-**Room:** WA224A
+**Delegate Lounge:** TBC   
 
-**Sponsor Exhibition Area:** Level 2 Atrium and Forum (WG200/201)
+**Sponsor Exhibition Areas:** Level 1 Atrium (Room 101) and Level 0 (071/088)
 
-**Registration and Information Desks:** Level 3 Foyer (WG306)
-
-### Lunch Service
-
-In 2023, we introduced the option to *pre-order* lunch service at the venue. For $30.00 (plus GST) per person, you can pre-order lunch each day. To take advantage of this option, add a lunch ticket to your order for each day you'd like to purchase lunch, when registering for the conference and/or training class.   
-
-The conference planning team are still finalising the lunch menu - that information will be added here, when available.
-
-Lunch pre-orders **close** on Friday, 23rd August.
+**Registration and Information Desks:** Level 1 Atrium (Room 101)
 
 ## Accommodations
 

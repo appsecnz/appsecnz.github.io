@@ -1,21 +1,21 @@
 ---
 title: Pre-Conference Training
-description: Pre-Conference Training, 2-3 September - 2025 OWASP NZ Day
+description: Pre-Conference Training, 3-4 September - 2024 OWASP NZ Day
 
 layout: conference/full-width
-dataDir: conference-2025
-sponsorsEventName: OWASP New Zealand Day 2025
+dataDir: conference-2024
+sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
-[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
-# Pre-Conference Training - 2-3 September
+# Pre-Conference Training - 3-4 September
 
-## OWASP New Zealand Day 2025
+## OWASP New Zealand Day 2024
 
-### Registration Fees
+### Registration Fees 
 
 * Half-day in-person class: $250 per person      
 * One-day in-person class: $500 per person       
@@ -53,9 +53,28 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ## Classes on Offer
 
-The Call for Training (CFT) closes on 15th April. Training classes will be selected shortly thereafter, and training registration will open on Monday, 12th May.
+Pre-Conference Training registration will **CLOSE** on Friday, 23rd August. From 24th August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
 
-Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From 24th August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
+#### Two-day, in-person (classroom) training - Tuesday and Wednesday, 3-4 September:
+
+* *[Introduction to Android Application Penetration Testing](training-android_app_pen_testing.md)*, Gavin Neale and Shofe Miraz (CyberCX)
+* *[Polyglot Security Code Review](training-security_code_review.md)*, Louis Nyffenegger (PentesterLab)
+
+#### Two-day, online training - Tuesday and Wednesday, 3-4 September:
+
+* *[AI SecureOps: GenAI and LLM Security for Enterprises](training-ai_secure_ops.md)*, Abhinav Singh   
+
+#### One-day, in-person (classroom) training - Wednesday, 4 September:
+
+* *[Active Directory Security](training-active_directory_security.md)*, Claudio Contin and Eito Tamura (Tier Zero Security)
+
+#### Half-day, in-person (classroom) training - Wednesday morning, 4 September:
+
+* *[Application Security 'Refresher' Training](training-appsec_refresher.md)*, John DiLeo (OWASP New Zealand)
+
+#### Half-day, in-person (classroom) training - Wednesday afternoon, 4 September:
+
+* *[Kubernetes Security Capture the Flag](training-kubernetes_ctf.md)*, Rob Kenefeck and Mario Weigel (Control-Plane.io)
 
 **NOTES:** 
 

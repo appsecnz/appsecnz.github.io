@@ -1,18 +1,36 @@
 ---
 title: Restaurants and Cafes
-tags: owaspnz25
+tags: owaspnz23
 
 layout: conference/full-width
-dataDir: conference-2025
-sponsorsEventName: OWASP New Zealand Day 2025
+dataDir: conference-2023
+sponsorsEventName: OWASP New Zealand Day 2023
 ---
 
 
-[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/){: style="width: 100%;" }   
+[![Web Banner](/assets/images/2023_Banner_Graphic.jpg)](/conference/){: style="width: 100%;" }   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Options for Lunch
+
+**NEW for 2023:** The conference organising committee is working with the university's catering staff, to make lunch available at the conference venue on all four days of the event. Details are currently TBC, but pre-purchase will be required (as part of your conference and/or training registration).
+
+### If you prefer to find lunch on your own, AUT has many food outlets within a short walking distance.
+
+## On Campus
+
+#### Refuel
+
+Level 2, WG Building
+
+#### #Newsfeed
+
+Level 3 WG Building
+
+#### Mojo AUT
+
+Level 2, WZ Building
 
 ## Towards Queen Street
 

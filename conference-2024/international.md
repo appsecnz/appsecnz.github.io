@@ -1,30 +1,30 @@
 ---
 title: International Participants
-tags: owaspnz25
+tags: owaspnz24
 
 layout: conference/full-width
-dataDir: conference-2025
-sponsorsEventName: OWASP New Zealand Day 2025
+dataDir: conference-2024
+sponsorsEventName: OWASP New Zealand Day 2024
 ---
 
 
-[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2024_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Attending the Conference from Outside New Zealand
 
-## OWASP New Zealand Day 2025
+## OWASP New Zealand Day 2024
 
 **Please be aware of the current visa / travel authorisation requirements below.**
 
-From 1 October 2019, new travel requirements took effect for visitors to New Zealand from Visa Waiver countries.
+Effective on 1 October 2019, new travel requirements took effect for visitors to New Zealand from Visa Waiver countries.
 
 Here are the requirements, as we (the conference committee) understand them - the usual "does not constitute legal advice" disclaimers apply:
 
 1. If you are in one of the groups listed on Immigration New Zealand's [Travelers who do not need an NZeTA](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta#https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/your-journey-to-new-zealand/before-you-travel-to-new-zealand/travellers-who-do-not-need-nzeta/slider) page: no worries, you can just turn up;
 
-2. If you are traveling on a passport meeting the conditions listed on the New Zealand [Visa Waiver Countries](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/general-information/visa-waiver-countries) page: You will need to obtain a **[New Zealand Electronic Travel Authority (NZeTA)](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta)**;
+2. If you are travelling on a passport meeting the conditions listed on the New Zealand [Visa Waiver Countries](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/general-information/visa-waiver-countries) page: You will need to obtain a **[New Zealand Electronic Travel Authority (NZeTA)](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta)**;
 
 3. If you are travelling on any other passport, you will need to apply for a visa to visit New Zealand:
 

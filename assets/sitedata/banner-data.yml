@@ -1,9 +1,9 @@
 - type: alert
   text: |-
     <h3 align="center">
-      Register Now! The 2024 OWASP New Zealand Day conference will take place Tuesday-Friday, 3-6 September 2024. 
+      The 2025 OWASP New Zealand Day conference will take place Tuesday-Friday, 2-5 September 2025. 
       <br />
       Pre-Conference Training: Tuesday &amp; Wednesday; Main Conference: Thursday &amp; Friday
     </h3> 
-  start: 2023-10-01 00:00:00+1200
-  end: 2024-09-06 23:59:59+1200
+  start: 2025-01-01 00:00:00+1200
+  end: 2025-09-05 23:59:59+1200
