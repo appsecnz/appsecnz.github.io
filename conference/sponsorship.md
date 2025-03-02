@@ -120,7 +120,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |-------:|:----------:|:----------:|:------:|:--------:|:--------:|:---------:|
 |**Rate**|$12,800|$8,000|$6,000|$3,800|$2,500|$5,500|
 |**Exhibition Space Fee**|**Incl.**|**Incl.**|$500|$350|$350|$350|
-|**Exhibition Spaces**| 1 | 3 | 8 | 4<sup>&dagger;</sup> | 4<sup>&dagger;</sup> | 1<sup>&dagger;</sup> |
+|**Exhibition Spaces**| 1 | 3 | 8 | 6<sup>&dagger;</sup> | 6<sup>&dagger;</sup> | 1<sup>&dagger;</sup> |
 |**LEGO Build Upgrade** (see notes)|$8,000|$3,500|$2,000|N/A|N/A| -- |
 |**Banner in Conference Lobby** (see notes)|**Yes**|**Yes**|No|No|No|No|
 |**Banner at Side of Stage** (see notes)|**Yes (3)**|**Yes (2)**|**Yes (1)**|No|No|No|
@@ -140,7 +140,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 |**Pre-Conference Publicity**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
 |**Recognition during Sessions**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|**Yes**|
 
-<sup>&dagger;</sup> A *total* of four (4) exhibition spaces are available for Silver, Bronze, and (non-upgraded) LEGO Build sponsors.
+<sup>&dagger;</sup> A *total* of six (6) exhibition spaces are available for Silver, Bronze, and (non-upgraded) LEGO Build sponsors.
 
 ## Exhibition Space
 
@@ -148,7 +148,7 @@ In 2020, the OWASP New Zealand Day team introduced the Sponsor Exhibition Area, 
 
 |        |Diamond    |Platinum    |Gold    |Silver<br />Bronze<br />LEGO Build |
 |-------::----------:|:----------:|:------:|:--------:|
-|**Booth Size**|**28m<sup>2</sup>**|**18sup>2</sup>**|**9<sup>2</sup>**|**6<sup>2</sup>**|
+|**Booth Size**|**25m<sup>2</sup>**|**18m<sup>2</sup>**|**9m<sup>2</sup>**|**4.5m<sup>2</sup>**|
 |**Seating**|4 tables<br />8 chairs|3 tables<br />6 chairs|2 tables<br />4 chairs|1 table<br />2 chairs|
 |**Plug Boards**|2|1|1|1|
 |**Rate**|Incl.|Incl.|$500|$350|
