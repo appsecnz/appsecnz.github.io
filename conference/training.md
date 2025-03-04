@@ -15,6 +15,8 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## OWASP New Zealand Day 2025
 
+### This year's [Call for Training (CFT)](https://www.papercall.io/owaspnz25-training) is now open! Submissions close 15th April. 
+
 ### Registration Fees
 
 * Half-day in-person class: $250 per person      
