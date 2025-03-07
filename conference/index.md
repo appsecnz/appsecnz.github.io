@@ -118,7 +118,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Call for Training (CFT) Closes:** 15 April 2025
 * **Conference Registration Opens:** 1 April 2025
 * **[Call for Training (CFT)](https://www.papercall.io/owaspnz25-training) Opened:** 4 March 2025
-* **[Call for Presentations (CFP)](https://www.papercall.io/owaspnz25) Opened:** 4 March 2025
+* **[Call for Presentations (CFP)](https://www.papercall.io/owaspnz2025) Opened:** 4 March 2025
 
 ## Conference Venue
 
