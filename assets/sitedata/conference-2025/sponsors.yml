@@ -5,11 +5,11 @@
 # image: relative URL to the logo image
 # url: url of the company website
 # description: description of the company
-- active: false
-  level: 1
+- active: true
+  level: 2
   name: Bastion Security Group
   anchor: bastion
-  image: /assets/images/2024-sponsors/Logo-Bastion_Security_Group.png
+  image: /assets/images/2025-sponsors/Logo-Bastion_Security_Group.png
   url: https://bastionsecurity.co.nz/
   spotlight: |-
     Bastion Security Group is a leading cybersecurity consultancy in New Zealand, formed by the strategic amalgamation of 
