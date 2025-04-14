@@ -5,6 +5,6 @@
 * [Austin Chamberlain](mailto:austin.chamberlain@appsec.org.nz) - Secretary/Treasurer
 
 * [Lech Janczewski](mailto:lech.janczewski@appsec.org.nz)
-* [Pete Teale]
+* Pete Teale
 
 
