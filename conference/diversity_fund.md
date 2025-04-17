@@ -20,9 +20,9 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 Each year, we have some funding available to help people from around New Zealand attend the OWASP New Zealand Day conference, who would otherwise find it hard to attend. In particular, we welcome applications from women, people of colour, LGBTQ2IA, Pacific Island indigenous peoples, and all others. You all deserve to be able to learn more about security, and we’ll do our best to help make that happen!
 
-For participants from within New Zealand, support provided by the fund can include waiver of the conference registration fee, waiver of Pre-Conference Training registration fees, return airfare to Auckland, an allowance for accommodations in Auckland, an allowance for taxi/Uber/bus fares to/from the airports, and lunches at the conference venue. Other meals and incidentals (including conference t-shirts) are at your own expense.
+For participants from within New Zealand, support provided by the fund can include waiver of the conference registration fee, waiver of Pre-Conference Training registration fees, return airfare to Auckland, an allowance for accommodations in Auckland, and an allowance for taxi/Uber/bus fares to/from the airports. Meals and incidentals (including conference t-shirts) are at your own expense.
 
-If funds are available, support *may* be extended to a limited number of applicants from outside New Zealand. For such applicants, support provided by the Diversity Fund would be limited to fee waiver(s), an allowance for accommodations and taxi/Uber/bus fares *in Auckland* (i.e., **no** assistance will be offered for travel from outside New Zealand).
+If funds are available, support *may* be extended to a limited number of applicants from outside New Zealand. For such applicants, support provided by the Diversity Fund would be limited to fee waiver(s), and allowances for accommodations and taxi/Uber/bus fares *in Auckland* (i.e., **no** assistance will be offered for travel from outside New Zealand).
 
 A limited number of fee waivers is available for each Pre-Conference Training class. On the application, you can indicate if you'd like to be considered for a training fee waiver, and provide your class preferences. If selected to receive a fee waiver for classroom training, your award may include accommodation for the training day(s), as well.
 
