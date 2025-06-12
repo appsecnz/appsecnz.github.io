@@ -23,7 +23,7 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 -----
 
-We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 4th and 5th, 2025. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
+We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 4th and 5th, 2025. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/){: target="_blank" } and organised by [AppSec New Zealand Incorporated](../index.md){: target="_blank" }.
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
@@ -130,7 +130,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
     University of Auckland       
     Sir Owen G. Glenn Building (OGGB)   
     16 Grafton Road, Auckland  
-    **Map:** [Google Maps](https://maps.app.goo.gl/EEy51eCvYYZRwXma7)   
+    **Map:** [Google Maps](https://maps.app.goo.gl/EEy51eCvYYZRwXma7){: target="_blank" }   
     
 **Stream One:** Level 1   
 **Room:** Fisher and Paikel Appliances Auditorium (F&amp;PAA, Room 115)   
@@ -151,14 +151,14 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 
 There are several hotels and backpacker accommodations near the conference venue. The following information is provided for your convenience, and is based on a Google Maps search for properties near the conference venue. No endorsement or recommendation is implied by a property's inclusion in this list; likewise, a property's omission should not be taken amiss.
 
-* [Princeton Apartments](http://www.princeton.net.nz/) - 30 Symonds Street, +64&nbsp;9&nbsp;950&nbsp;8300
-* [Cordis, Auckland](https://www.cordishotels.com/en/auckland) - 83 Symonds Street, +64&nbsp;9&nbsp;379&nbsp;5132
-* [Crown on Cintra Lane](http://www.crownoncintra.co.nz/) - 3 Whitaker Place, +64&nbsp;9&nbsp;379&nbsp;6288
-* [Columbia Apartments](http://www.columbia.net.nz/location.html) - 15 Whitaker Place, +64&nbsp;9&nbsp;973&nbsp;8600
-* [Tetra Serviced Apartments by Nesuto](https://www.nesuto.com/tetra) - 85 Wakefield Street, +64&nbsp;9&nbsp;336&nbsp;9000
+* [Princeton Apartments](http://www.princeton.net.nz/){: target="_blank" } - 30 Symonds Street, +64&nbsp;9&nbsp;950&nbsp;8300
+* [Cordis, Auckland](https://www.cordishotels.com/en/auckland){: target="_blank" } - 83 Symonds Street, +64&nbsp;9&nbsp;379&nbsp;5132
+* [Crown on Cintra Lane](http://www.crownoncintra.co.nz/){: target="_blank" } - 3 Whitaker Place, +64&nbsp;9&nbsp;379&nbsp;6288
+* [Columbia Apartments](http://www.columbia.net.nz/location.html){: target="_blank" } - 15 Whitaker Place, +64&nbsp;9&nbsp;973&nbsp;8600
+* [Tetra Serviced Apartments by Nesuto](https://www.nesuto.com/tetra){: target="_blank" } - 85 Wakefield Street, +64&nbsp;9&nbsp;336&nbsp;9000
  
 Follow us on Twitter:   
-* [@owaspnz](https://www.twitter.com/owaspnz)   
-* [@AppSecNZ](https://www.twitter.com/AppSecNZ)   
+* [@owaspnz](https://www.twitter.com/owaspnz){: target="_blank" }   
+* [@AppSecNZ](https://www.twitter.com/AppSecNZ){: target="_blank" }   
 
 
