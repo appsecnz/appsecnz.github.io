@@ -19,7 +19,7 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## Sir Owen G. Glenn Building (OGGB), University of Auckland
 
-### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2025) to secure your tickets now!
+### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2025){: target="_blank" } to secure your tickets now!
 
 -----
 
@@ -118,9 +118,9 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **[Diversity Fund](diversity_fund.md) Applications Opened:** 1 May 2025
 * **Training Registration Opens:** 20 June 2025
 * **Call for Training (CFT) Closed:** 15 April 2025
-* **[Conference Registration[(https://events.humanitix.com/owaspnz2025) Opened:** 1 May 2025
+* **[Conference Registration[(https://events.humanitix.com/owaspnz2025){: target="_blank" } Opened:** 1 May 2025
 * **Call for Training (CFT) Opened:** 4 March 2025
-* **[Call for Presentations (CFP)](https://www.papercall.io/owaspnz2025) Opened:** 4 March 2025
+* **[Call for Presentations (CFP)](https://www.papercall.io/owaspnz2025){: target="_blank" } Opened:** 4 March 2025
 
 ## Conference Venue
 
