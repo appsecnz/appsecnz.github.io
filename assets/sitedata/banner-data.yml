@@ -18,14 +18,14 @@
 - type: alert
   text: |-
     <h3 align="center">
-      The <a href="https://events.humanitix.com/owaspnz2025" target="_blank">Conference Registration</a> is open! Get your tickets now!
-    </h3> 
-  start: 2025-05-01 00:00:00+1200
-  end: 2025-09-03 23:59:59+1200
-- type: alert
-  text: |-
-    <h3 align="center">
-      The <a href="https://www.papercall.io/owaspnz2025" target="_blank">Call for Presentations (CFP)</a> is now open!
+      The OWASP NZ Day 2025 <a href="https://www.papercall.io/owaspnz2025" target="_blank">Call for Presentations (CFP)</a> is now open!
     </h3> 
   start: 2025-04-16 00:00:00+1200
   end: 2025-06-30 23:59:59+1200
+- type: alert
+  text: |-
+    <h3 align="center">
+      <a href="https://events.humanitix.com/owaspnz2025" target="_blank">Registration for OWASP NZ Day 2025</a> is open! Get your tickets now!
+    </h3> 
+  start: 2025-05-01 00:00:00+1200
+  end: 2025-09-03 23:59:59+1200
