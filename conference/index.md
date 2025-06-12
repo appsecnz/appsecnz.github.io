@@ -19,6 +19,8 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## Sir Owen G. Glenn Building (OGGB), University of Auckland
 
+### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2025) to secure your tickets now!
+
 -----
 
 We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 4th and 5th, 2025. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/) and organised by [AppSec New Zealand Incorporated](../index.md).
@@ -113,11 +115,11 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **"Early Bird" Conference Registration Ends:** 15 August 2025<br />From 16 August, there's an additional "Procrastinator Fee" ($25 Regular, $20 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 11 August 2025 - Orders go to the printer the next morning!
 * **Call for Presentations(CFP) Closes:** 30 June 2025
-* **[Diversity Fund](diversity_fund.md) Applications Open:** 1 May 2025
-* **Training Registration Opens:** 12 May 2025
-* **Call for Training (CFT) Closes:** 15 April 2025
-* **Conference Registration Opens:** 1 April 2025
-* **[Call for Training (CFT)](https://www.papercall.io/owaspnz25-training) Opened:** 4 March 2025
+* **[Diversity Fund](diversity_fund.md) Applications Opened:** 1 May 2025
+* **Training Registration Opens:** 20 June 2025
+* **Call for Training (CFT) Closed:** 15 April 2025
+* **[Conference Registration[(https://events.humanitix.com/owaspnz2025) Opened:** 1 May 2025
+* **Call for Training (CFT) Opened:** 4 March 2025
 * **[Call for Presentations (CFP)](https://www.papercall.io/owaspnz2025) Opened:** 4 March 2025
 
 ## Conference Venue
