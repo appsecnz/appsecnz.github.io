@@ -39,10 +39,60 @@
     space, making it a valuable partner for organizations looking to enhance their cybersecurity posture​.
     
 - active: false
-  level: 3
+  level: 2
+  name: Secure Code Warrior
+  image: /assets/images/2025-sponsors/Logo-Secure_Code_Warrior.png
+  url: https://securecodewarrior.com/
+  spotlight: |-
+    Secure Code Warrior was co-founded by Pieter Danhieux and Matias Madou Ph.D., two globally recognised security experts. Through 
+    their combined security experience as developers, researchers, trainers and consultants, Pieter and Matias had experienced the 
+    negative impact of insecure code and were frustrated by the industry's focus on simply finding vulnerabilities, rather than fixing 
+    or preventing them in the first place.  
+  description: |-
+    Secure Code Warrior was co-founded by Pieter Danhieux and Matias Madou Ph.D., two globally recognised security experts. Through 
+    their combined security experience as developers, researchers, trainers and consultants, Pieter and Matias had experienced the 
+    negative impact of insecure code and were frustrated by the industry's focus on simply finding vulnerabilities, rather than fixing 
+    or preventing them in the first place.
+    </p>
+    <p>
+    Both recognised that improving secure coding skills and outcomes would add a powerful 
+    layer of cyber protection for companies and would help them make better code, faster. Developers didn’t need to become security 
+    experts <em>per se</em>, but they could be empowered positively to be the first line of defence for their organisation.
+    </p>
+    <p>
+    The team pioneered an innovative approach to improving secure coding skills and outcomes that is simple, scalable and positive; 
+    and works for both Development and Application or Information Security groups. The team is driven by the knowledge that measurable 
+    improvements in security compliance, consistency and predictability will be matched by a better quality and speed of code writing. 
+    And that creates an environment in which everyone can enjoy spending more time building, and less time fixing!
+
+- active: true
+  level: 4
+  name: Exabeam
+  anchor: exabeam
+  image: /assets/images/2025-sponsors/Logo-Exabeam.png
+  url: https://www.exabeam.com/
+  spotlight: |-
+    Exabeam is a leader in intelligence and automation that powers security operations for the world's smartest companies. 
+    As a global cybersecurity innovator, Exabeam provides industry-proven, security-focused, and flexible solutions for faster, 
+    more accurate threat detection, investigation, and response (TDIR). Cutting-edge technology enhances security operations 
+    center performance, optimizing workflows and accelerating time to resolution. With consistent leadership in AI innovation 
+    and a proven track record in security information and event management (SIEM) and user behavior analytics, Exabeam empowers 
+    global security teams to combat cyberthreats, mitigate risk, and streamline operations. Learn more at 
+    [www.exabeam.com](https://www.exabeam.com/){: target="_blank" }.
+  description: |-
+    Exabeam is a leader in intelligence and automation that powers security operations for the world's smartest companies. 
+    As a global cybersecurity innovator, Exabeam provides industry-proven, security-focused, and flexible solutions for faster, 
+    more accurate threat detection, investigation, and response (TDIR). Cutting-edge technology enhances security operations 
+    center performance, optimizing workflows and accelerating time to resolution. With consistent leadership in AI innovation 
+    and a proven track record in security information and event management (SIEM) and user behavior analytics, Exabeam empowers 
+    global security teams to combat cyberthreats, mitigate risk, and streamline operations. Learn more at 
+    [www.exabeam.com](https://www.exabeam.com/){: target="_blank" }.
+    
+- active: true
+  level: 4
   name: 2degrees
   anchor: 2degrees
-  image: /assets/images/2024-sponsors/Logo-2_Degrees.png
+  image: /assets/images/2025-sponsors/Logo-2_Degrees.png
   url: https://2degrees.nz/
   spotlight: |-
     In 2022 New Zealand's leading challenger telecommunications companies – 2degrees and Vocus – came together under the 
@@ -56,6 +106,33 @@
     broadband and mobile services covering 98.5% of places Kiwis live and work, a nationwide fibre network and modern 
     technology platforms, as well as energy services – all supported by an award-winning customer care team and a 
     network of 58 retail stores. It operates the 2degrees, Slingshot, and Orcon brands.
+
+- active: true
+  level: 5
+  name: Plexure
+  anchor: plexure
+  image: /assets/images/2025-sponsors/Logo-Plexure.png
+  url: https://www.plexure.com/
+  spotlight: |-
+    Plexure was founded in 2010 and has grown to over 120 million active users in 65 countries and 40 languages.
+    </p>
+    <p>
+    As a key strategic technology partner of McDonald's, Plexure's platform is providing the identity, engagement, 
+    and loyalty capabilities that power the likes of MyMacca's rewards through the mobile app.
+    </p>
+    <p>
+    Plexure is an Auckland-based company boasting a 60+ strong engineering group in Auckland, with additional remote 
+    staff in NZ, Japan, Poland and the UK.
+  description: |-
+    Plexure was founded in 2010 and has grown to over 120 million active users in 65 countries and 40 languages.
+    </p>
+    <p>
+    As a key strategic technology partner of McDonald's, Plexure's platform is providing the identity, engagement, 
+    and loyalty capabilities that power the likes of MyMacca's rewards through the mobile app.
+    </p>
+    <p>
+    Plexure is an Auckland-based company boasting a 60+ strong engineering group in Auckland, with additional remote 
+    staff in NZ, Japan, Poland and the UK.
 
 - active: false
   level: 3
@@ -232,30 +309,3 @@
     and responds to vulnerabilities and manages risk and compliance for thousands of leading 
     organizations around the world.
     
-- active: false
-  level: 5
-  name: Plexure
-  anchor: plexure
-  image: /assets/images/2024-sponsors/Logo-Plexure.png
-  url: https://www.plexure.com/
-  spotlight: |-
-    Plexure was founded in 2010 and has grown to over 120 million active users in 65 countries and 40 languages.
-    </p>
-    <p>
-    As a key strategic technology partner of McDonald's, Plexure's platform is providing the identity, engagement, 
-    and loyalty capabilities that power the likes of MyMacca's rewards through the mobile app.
-    </p>
-    <p>
-    Plexure is an Auckland-based company boasting a 60+ strong engineering group in Auckland, with additional remote 
-    staff in NZ, Japan, Poland and the UK.
-  description: |-
-    Plexure was founded in 2010 and has grown to over 120 million active users in 65 countries and 40 languages.
-    </p>
-    <p>
-    As a key strategic technology partner of McDonald's, Plexure's platform is providing the identity, engagement, 
-    and loyalty capabilities that power the likes of MyMacca's rewards through the mobile app.
-    </p>
-    <p>
-    Plexure is an Auckland-based company boasting a 60+ strong engineering group in Auckland, with additional remote 
-    staff in NZ, Japan, Poland and the UK.
-
