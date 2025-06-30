@@ -88,7 +88,7 @@
     global security teams to combat cyberthreats, mitigate risk, and streamline operations. Learn more at 
     <a href="https://www.exabeam.com" target="_blank">www.exabeam.com</a>.
     
-- active: false
+- active: true
   level: 4
   name: 2degrees
   anchor: 2degrees
