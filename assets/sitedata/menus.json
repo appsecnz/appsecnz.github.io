@@ -13,16 +13,12 @@
 					"url": "/conference"
 				},
 				{
-					"title": "About Our Sponsors",
-					"url": "/conference/sponsors.html"
-				},
-				{
 					"title": "Pre-Conference Training",
 					"url": "/conference/training.html"
 				},
 				{
-					"title": "Call for Sponsors",
-					"url": "/conference/sponsorship.html"
+					"title": "About Our Sponsors",
+					"url": "/conference/sponsors.html"
 				},
 				{
 					"title": "Diversity Fund",
@@ -39,6 +35,10 @@
 				{
 					"title": "International Attendees",
 					"url": "/conference/international.html"
+				},
+				{
+					"title": "Call for Sponsors",
+					"url": "/conference/sponsorship.html"
 				}
 			]
 		},
