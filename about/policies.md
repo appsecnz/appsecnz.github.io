@@ -2,6 +2,8 @@
 layout: full-width
 title: Policies
 description: AppSec New Zealand Policies
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
 ![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)

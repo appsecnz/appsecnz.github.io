@@ -2,6 +2,8 @@
 layout: full-width
 title: Contact Us
 description: Information on contacting AppSec New Zealand's leaders
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
 ![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)
@@ -39,7 +41,7 @@ You can reach our President, John DiLeo, by phone on his mobile (+64 21 516 392)
 
 <pre>
     AppSec New Zealand Incorporated
-    Unit 210, 26 Remuera Road
-    Newmarket, Auckland 1050
+    Flat 19, 102 Grantham Street
+    Hamilton Central, Hamilton 3204
     New Zealand
 </pre>

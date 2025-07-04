@@ -2,6 +2,8 @@
 layout: full-width
 title: About Us
 description: Information about AppSec New Zealand Incorporated
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
 ![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)
@@ -18,18 +20,21 @@ AppSec New Zealand Incorporated (AppSec NZ) was formed as a non-profit Incorpora
 
 ## Our Purpose
 
-We're organised as an all-volunteer, non-profit society. Our primary purposes are to:
+We're organised as an all-volunteer, non-profit society. Our primary purpose is to benefit the community by:
 
-* organise and conduct application security conferences, training, and other educational events; and
-* provide financial and other support for educational activities which advance awareness of, understanding of, and opportunities in application security.
+* organising and conducting application security conferences, training, and other educational events; and   
+* providing financial and other support for educational activities which advance awareness of, understanding of, and opportunities in application security.
 
 ## Our Activities
 
 ### Upcoming Events
 
-* [OWASP New Zealand Day 2022](/conference)
+* [OWASP New Zealand Day 2025](/conference)
 
 ### Past Events
 
+* [OWASP New Zealand Day 2024](/conference-2024)
+* [OWASP New Zealand Day 2023](/conference-2023)
+* [OWASP New Zealand Day 2022](/conference-2022)
 * [2021 AppSec New Zealand Conference](/conference-2021)
 
