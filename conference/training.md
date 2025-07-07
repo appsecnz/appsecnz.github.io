@@ -55,9 +55,19 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ## Classes on Offer
 
+{% comment %} // Commented out since the CFT is now closed.
 The Call for Training (CFT) closes on 15th April. Training classes will be selected shortly thereafter, and training registration will open on Monday, 12th May.
+{% endcomment %}
 
 Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From 24th August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
+
+#### Two-day, online training - Tuesday and Wednesday, 2-3 September:
+
+* *[AI SecureOps: Attacking &amp; Defending GenAI Applications and Services](training-ai_secureops.md)*, Abhinav Singh
+
+#### Half-day, in-person (classroom) training - Wednesday morning, 3 September:
+
+* *[Application Security 'Refresher' Training](training-appsec_refresher.md)*, John DiLeo (OWASP New Zealand)
 
 **NOTES:** 
 
