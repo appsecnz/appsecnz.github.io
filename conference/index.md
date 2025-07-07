@@ -55,7 +55,7 @@ The main conference on Thursday and Friday will have two streams throughout both
 Throughout the conference, an exhibition area will be open in the main atrium. Representatives from many of our Premier Sponsors will be on hand throughout the event, to answer your questions about their products and services, or to discuss employment opportunities they may have available. There will be door prize drawings at the Closing Session on Friday. To qualify for the drawings, you will need to visit with each exhibiting sponsor during the conference, and have them stamp your entry card.
 
 ## Registration Fees
- 
+
 Early registration (on or before 14 August):   
 * $25, standard registration
 * **FREE**, for students and unwaged attendees
@@ -65,9 +65,9 @@ Early registration (on or before 14 August):
 
 In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (2-3 September), at the same venue.
 
-Training Registration will open approximately 12 May. 
+Training Registration will open approximately 12 May. Information on the classes offered can be found on our **[Pre-Conference Training](training.md)** page.
 
-### Training Registration Fees 
+### Training Registration Fees
 
 * Half-day class: $250 per person (face-to-face); $225 per person (online)
 * One-day class: $500 per person (face-to-face); $450 per person (online)
