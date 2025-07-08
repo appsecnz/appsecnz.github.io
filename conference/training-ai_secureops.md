@@ -95,6 +95,6 @@ By the end of this training, you will be able to:
 
 The CTF labs utilizes GenAI in various ways and attendees will get a feel of how to build their own test cases, automations and LLM validators. For example, the CTFs utilize auto evaluation, where the results of jailbreaks and prompt injections are automatically evaluated using a judge LLM. The CTF uses slack to respond to an LLM that controls the workload on the CTF platform.
 
-## Your Instructors
+## Your Instructor
 
 **Abhinav Singh** is an esteemed cybersecurity leader &amp; researcher with over a decade of experience across technology leaders, financial institutions, and as an independent trainer and consultant. Author of “Metasploit Penetration Testing Cookbook” and “Instant Wireshark Starter,” his contributions span patents, open-source tools, and numerous publications. Recognized in security portals and digital platforms, Abhinav is a sought-after speaker &amp; trainer at international conferences like Black Hat, RSA, DEFCON, BruCon and many more, where he shares his deep industry insights and innovative approaches in cybersecurity. He also leads multiple AI security groups at CSA, responsible for coming up with cutting-edge whitepapers and industry reports around safety and security of AI.
