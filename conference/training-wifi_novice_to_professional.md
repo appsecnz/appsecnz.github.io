@@ -35,19 +35,13 @@ This live hands-on training equips you with the knowledge and expertise to perfo
 
 **Maximum Enrolment:** 36 attendees
 
-{% comment %}
 ## Prerequisites
 
-Not provided
-{% endcomment %}
+* Basic familiarity with the Linux command line is recommended but not required.
 
-{% comment %}
 ## What Students Should Bring and Do Before Class
 
-TODO: Confirm with Toby
-
-* A laptop capable of running a virtual machine.
-{% endcomment %}
+* A Windows or MacOS laptop capable of running a VMware virtual machine with 4GB of memory. (A VMware installer will be provided with the course materials if needed.)
 
 ## What the Students Will Be Provided With
 
@@ -80,5 +74,7 @@ The course will cover the following topics:
 * And a module in wireless pivots and industry techniques for breaking into enterprise networks.
 
 ## Your Instructor
+
+<img src="/assets/images/2025/Photo-Toby_Reynolds.jpg" alt="Photo of Toby Reynolds" style="float: left; width: 125px; margin-right: 15px;" />
 
 **Toby “TheXero” Reynolds** is a dynamic security professional, with over a decade of experience, His career spans a diverse clientele in both commercial and non-commercial sectors. With a keen focus on enhancing cybersecurity, his expertise lies in vulnerability research, exploit development, and blackbox Penetration Testing. As a thought leader in the field, Toby not only identifies and addresses security gaps but also takes the lead as the primary trainer in courses that delve into the intricacies of attacker tools and methodologies. By combining practical experience with a passion for education, he empowers others to navigate the ever-evolving landscape of cybersecurity with confidence.

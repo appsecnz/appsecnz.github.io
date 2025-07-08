@@ -45,7 +45,7 @@ The topics we'll cover during this half-day session include:
 
 ## Your Instructor
 
-<img src="/assets/images/2025/Photo-John_DiLeo.jpg" alt="Photo of John DiLeo" style="float: left; width: 125px; margin-right: 15px;" />
+<img src="/assets/images/2025/Photo-John_DiLeo.png" alt="Photo of John DiLeo" style="float: left; width: 125px; margin-right: 15px;" />
 
 **Dr. John DiLeo** is Leader of the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at 
 [Gallagher Security](https://gallagher.com). In a recent role, John managed the Application Security Services team at Datacom, 
