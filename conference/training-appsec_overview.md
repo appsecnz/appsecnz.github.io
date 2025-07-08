@@ -1,5 +1,5 @@
 ---
-title: Classroom Training - AppSec 'Refresher'
+title: Classroom Training - AppSec Overview/Refresher Training
 description: Pre-Conference Training Class, 3 September - OWASP New Zealand Day 2025
 
 layout: conference/full-width
@@ -13,13 +13,13 @@ sponsorsEventName: OWASP New Zealand Day 2025
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }   
 
-# AppSec 'Refresher' Training
+# AppSec Overview/Refresher Training
 
 ## Half-Day Interactive (Classroom) Training - OWASP New Zealand Day 2025
 
 ## Course Details 
 
-**Dates:** Wednesday, 3 September 2024
+**Dates:** Wednesday, 3 September 2025
 
 **Time:** 8:45 a.m. to 12:30 p.m. (NZST)
 
@@ -29,18 +29,19 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 **Registration Site:** [https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
 
-**Maximum Enrolment:** 36 attendees
+**Maximum Enrolment:** 50 attendees
 
 ## Course Description
 
-This class is designed to help developers stay current on the application security (AppSec) knowledge and skills they need to continue delivering secure code. 
+This class is designed to help developers new to application security (AppSec) get up to speed quickly on, or those familiar with the concepts to
+update and refresh, the knowledge and skills they need to continue delivering secure code. 
 
 The topics we'll cover during this half-day session include: 
 
-* AppSec's role in managing risk;
-* The OWASP Top Ten: 2021 - The most prevalent Web application vulnerabilities, and how to prevent them;
-* Review of secure design and coding practices;
-* Privacy considerations for secure development; and 
+* AppSec's role in managing risk;   
+* The OWASP Top Ten: 2021 - The most prevalent Web application vulnerabilities, and how to prevent them;   
+* Review of secure design and coding practices;   
+* Privacy considerations for secure development; and    
 * Maintaining assurance throughout the software development life cycle (SDLC).
 
 ## Your Instructor

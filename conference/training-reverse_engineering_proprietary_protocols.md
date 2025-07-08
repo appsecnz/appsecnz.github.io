@@ -13,7 +13,7 @@ sponsorsEventName: OWASP New Zealand Day 2025
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }   
 
-# Attacking Proprietary Game Protocol
+# Reverse Engineering Proprietary Protocols
 
 ## Two-Day Interactive (Classroom) Training - OWASP New Zealand Day 2025
 
@@ -39,7 +39,7 @@ Protocol Reverse Engineering (PRE) recovers specifications of undocumented proto
 
 **Dates:** Tuesday and Wednesday, 2-3 September 2025
 
-**Time:** 8:45 a.m. to 5:30 p.m. (NZST)
+**Time:** 8:45 a.m. to 5:30 p.m. (NZST) each day
 
 **Instructor:** Munawwar Hussain Shelia (Vulnerability Researcher, Qualcomm)
 
@@ -47,7 +47,7 @@ Protocol Reverse Engineering (PRE) recovers specifications of undocumented proto
 
 **Registration Site:** [https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
 
-**Maximum Enrolment:** 36 attendees
+**Maximum Enrolment:** 50 attendees
 
 ## Prerequisites
 

@@ -69,15 +69,17 @@ Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From
 
 * *[AI SecureOps: Attacking &amp; Defending GenAI Applications and Services](training-ai_secureops.md)*, Abhinav Singh
 
-* *[Attacking Proprietary Game Protocol](training-attacking_proprietary_game_protocol.md)*, Munawwar Hussain Shelia
+* *[Reverse Engineering Proprietary Protocols](training-reverse_engineering_proprietary_protocols.md)*, Munawwar Hussain Shelia
 
-* *[Full-Stack Pentesting Laboratory: 100% Hands-On + Lifetime LAB Access](training-full_stack_pentesting_laboratory.md)*, Dawid Czagan
+* *[Full-Stack Application Penetration Testing](training-full_stack_app_pentesting.md)*, Dawid Czagan
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 3 September:
 
-* *[Application Security 'Refresher' Training](training-appsec_refresher.md)*, John DiLeo (OWASP New Zealand)
+* *[Application Security Overview/Refresher Training](training-appsec_overview.md)*, John DiLeo (OWASP New Zealand)
 
-* *[Wifi - Novice to Professional](training-wifi_novice_to_professional.md)*, 
+#### Half-day, in-person (classroom) training - Wednesday afternoon, 3 September:
+
+* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)*, 
 Toby Reynolds
 
 **NOTES:**

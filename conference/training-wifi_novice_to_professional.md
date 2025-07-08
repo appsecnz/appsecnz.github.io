@@ -23,9 +23,9 @@ This live hands-on training equips you with the knowledge and expertise to perfo
 
 ## Course Details
 
-**Dates:** Wednesday, 3 September 2024
+**Dates:** Wednesday, 3 September 2025
 
-**Time:** 8:45 a.m. to 12:30 p.m. (NZST)
+**Time:** 1:45 to 5:30 p.m. (NZST)
 
 **Instructor:** Toby Reynolds
 
@@ -33,7 +33,7 @@ This live hands-on training equips you with the knowledge and expertise to perfo
 
 **Registration Site:** [https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
 
-**Maximum Enrolment:** 36 attendees
+**Maximum Enrolment:** 50 attendees
 
 ## Prerequisites
 

@@ -33,18 +33,13 @@ Master GenAI security in this immersive CTF-styled workshop. Learn to attack and
 
 **Dates:** Tuesday and Wednesday, 2-3 September 2025
 
-**Time:** 8:45 a.m. to 5:30 p.m. (NZST)
+**Time:** 8:45 a.m. to 5:30 p.m. (NZST) each day
 
 **Instructor:** Abhinav Singh
 
 **Course Fee:** NZ $900.00 (plus GST and ticketing fees)
 
 **Registration Site:** [https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
-
-{% comment %}
-TODO: Confirm w/ Abhinav
-**Maximum Enrolment:** 36 attendees
-{% endcomment %}
 
 ## Prerequisites - What Students Should Bring and Do Before Class
 
