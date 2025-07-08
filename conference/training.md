@@ -15,7 +15,11 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## OWASP New Zealand Day 2025
 
-### This year's [Call for Training (CFT)](https://www.papercall.io/owaspnz25-training) is now open! Submissions close 15th April. 
+{% comment %} // Closed now
+
+### This year's [Call for Training (CFT)](https://www.papercall.io/owaspnz25-training) is now open! Submissions close 15th April.
+
+{% endcomment %}
 
 ### Registration Fees
 
