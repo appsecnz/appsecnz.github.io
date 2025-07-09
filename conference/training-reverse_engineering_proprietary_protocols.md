@@ -45,7 +45,11 @@ Protocol Reverse Engineering (PRE) recovers specifications of undocumented proto
 
 **Course Fee:** NZ $1,000.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
+**Registration Site:** TO BE OPENED SOON.
+
+{% comment %}
+[https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
+{% endcomment %}
 
 **Maximum Enrolment:** 50 attendees
 
