@@ -39,7 +39,15 @@ Master GenAI security in this immersive CTF-styled workshop. Learn to attack and
 
 **Course Fee:** NZ $900.00 (plus GST and ticketing fees)
 
-**Registration Site:** [https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
+**Registration Site:** TO BE OPENED SOON.
+
+{% comment %}
+[https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
+{% endcomment %}
+
+{% comment %}
+**Maximum Enrolment:** Unlimited
+{% endcomment %}
 
 ## Prerequisites - What Students Should Bring and Do Before Class
 
