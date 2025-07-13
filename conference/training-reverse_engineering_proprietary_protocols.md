@@ -1,5 +1,5 @@
 ---
-title: "Classroom Training - Attacking Proprietary Game Protocol"
+title: "Classroom Training - Reverse Engineering Proprietary Protocols"
 description: Pre-Conference Training Class, 2-3 September - OWASP New Zealand Day 2024
 
 layout: conference/full-width
@@ -143,5 +143,7 @@ Below are some of the tools that you will learn in this training that will make 
 1. Boofuzz (Sulley) fuzzing framework
 
 ## Your Instructor
+
+<img src="/assets/images/2025/Photo-Munawwar_Hussain_Sheila.jpg" alt="Photo of Munawwar Hussain Shelia" style="float: left; width: 125px; margin-right: 15px;" />
 
 **Munawwar Hussain Shelia** is currently working as a Vulnerability Researcher at Qualcomm. His primary role involves hunting bug and squashing them before product hits the market. He also develops tools to automate the process of bug detection. With a background Reverse engineeering and software development, he possesses a unique perspective on product design which enabling him to eﬀectively identify vulnerabilities. In 2019, he conducted the “Practical IoT Hacking” Training at Nullcon and other conferences. Additionally, he also delivered a talk at the diﬀerent conferences. His areas of expertise include Reverse Engineering, Binary Analysis, Malware Analysis, and Software Exploitation, topics on which he frequently shares insights through his blog, https://taintedbits.com. He has conducted training for various governmental and private organizations worldwide. Notably, he has discovered and reported vulnerabilities in IoT devices and published a paper on Android Malware.
