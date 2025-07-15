@@ -59,7 +59,7 @@ Each day, regardless of format, classes will follow this schedule (all times are
 The Call for Training (CFT) closes on 15th April. Training classes will be selected shortly thereafter, and training registration will open on Monday, 12th May.
 {% endcomment %}
 
-Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From 24th August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
+Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From 23rd August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
 
 #### Two-day, online training - Tuesday and Wednesday, 2-3 September:
 
@@ -89,5 +89,5 @@ Spaces will fill up fast, so get in quickly!
 
 Check-in desk will be located in the Level 3 lobby (WG 306), and will open at 8:00 a.m. each day
 
-Morning and afternoon tea breaks will be provided. Lunch is available for pre-purchase (through 23rd August), or you're free to see to your own lunch.
+Morning and afternoon tea breaks will be provided.
 
