@@ -15,11 +15,7 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## OWASP New Zealand Day 2025
 
-{% comment %} // Closed now
-
-### This year's [Call for Training (CFT)](https://www.papercall.io/owaspnz25-training) is now open! Submissions close 15th April.
-
-{% endcomment %}
+### Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2025-training) to secure your seats now.
 
 ### Registration Fees
 
@@ -71,16 +67,17 @@ Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From
 
 * *[Reverse Engineering Proprietary Protocols](training-reverse_engineering_proprietary_protocols.md)*, Munawwar Hussain Shelia
 
+{% comment %} // Commented out, because trainer has not yet confirmed Training Agreement
 * *[Full-Stack Application Penetration Testing](training-full_stack_app_pentesting.md)*, Dawid Czagan
+{% endcomment %}
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 3 September:
 
-* *[Application Security Overview/Refresher Training](training-appsec_overview.md)*, John DiLeo (OWASP New Zealand)
+* *[Application Security Overview/Refresher Training](training-appsec_overview.md)*, John DiLeo   
 
 #### Half-day, in-person (classroom) training - Wednesday afternoon, 3 September:
 
-* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)*, 
-Toby Reynolds
+* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)*, Toby Reynolds
 
 **NOTES:**
 

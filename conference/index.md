@@ -19,6 +19,8 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## Sir Owen G. Glenn Building (OGGB), University of Auckland
 
+### Pre-Conference Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2025-training){: target="_blank" } to book your seats now!
+
 ### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2025){: target="_blank" } to secure your tickets now!
 
 -----
@@ -69,9 +71,9 @@ Training Registration will open approximately 12 May. Information on the classes
 
 ### Training Registration Fees
 
-* Half-day class: $250 per person (face-to-face); $225 per person (online)
-* One-day class: $500 per person (face-to-face); $450 per person (online)
-* Two-day class: $1,000 per person (face-to-face); $900 per person (online)
+* Half-day class: $250 per person (classroom); $225 per person (online)
+* One-day class: $500 per person (classroom); $450 per person (online)
+* Two-day class: $1,000 per person (classroom); $900 per person (online)
 
 Group registration discounts (single purchase):   
 * 6-10 attendees: 10% off
@@ -114,13 +116,13 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Last Day to Pre-Order Lunches:** 22 August 2025
 * **"Early Bird" Conference Registration Ends:** 15 August 2025<br />From 16 August, there's an additional "Procrastinator Fee" ($25 Regular, $20 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 11 August 2025 - Orders go to the printer the next morning!
-* **Call for Presentations(CFP) Closes:** 30 June 2025
+* **Call for Presentations(CFP) Closed:** 30 June 2025
 * **[Diversity Fund](diversity_fund.md) Applications Opened:** 1 May 2025
-* **Training Registration Opens:** 20 June 2025
+* **[Training Registration](https://events.humanitix.com/owaspnz2025-training){: target="_blank" } Opened:** 15 July 2025
 * **Call for Training (CFT) Closed:** 15 April 2025
 * **[Conference Registration[(https://events.humanitix.com/owaspnz2025){: target="_blank" } Opened:** 1 May 2025
 * **Call for Training (CFT) Opened:** 4 March 2025
-* **[Call for Presentations (CFP)](https://www.papercall.io/owaspnz2025){: target="_blank" } Opened:** 4 March 2025
+* **Call for Presentations (CFP) Opened:** 4 March 2025
 
 ## Conference Venue
 
