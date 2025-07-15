@@ -1,6 +1,6 @@
 ---
-title: "Online Training - AI SecureOps: Attacking & Defending GenAI Applications and Services"
-description: Pre-Conference Training Class, 2-3 September - OWASP New Zealand Day 2024
+title: "Online Training - AI SecureOps"
+description: Pre-Conference Training Class, 2-3 September - OWASP New Zealand Day 2025
 
 layout: conference/full-width
 dataDir: conference-2025
@@ -39,11 +39,7 @@ Master GenAI security in this immersive CTF-styled workshop. Learn to attack and
 
 **Course Fee:** NZ $900.00 (plus GST and ticketing fees)
 
-**Registration Site:** TO BE OPENED SOON.
-
-{% comment %}
-[https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
-{% endcomment %}
+**Registration Site:** [https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
 
 {% comment %}
 **Maximum Enrolment:** Unlimited

@@ -27,11 +27,7 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 **Course Fee:** NZ $250.00 (plus GST and ticketing fees)
 
-**Registration Site:** TO BE OPENED SOON.
-
-{% comment %}
-[https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
-{% endcomment %}
+**Registration Site:** [https://events.humanitix.com/owaspnz2025-training](https://events.humanitix.com/owaspnz2025-training){: target="training-reg" }
 
 **Maximum Enrolment:** 50 attendees
 
