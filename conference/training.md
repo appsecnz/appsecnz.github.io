@@ -67,9 +67,7 @@ Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From
 
 * *[Reverse Engineering Proprietary Protocols](training-reverse_engineering_proprietary_protocols.md)*, Munawwar Hussain Shelia
 
-{% comment %} // Commented out, because trainer has not yet confirmed Training Agreement
-* *[Full-Stack Application Penetration Testing](training-full_stack_app_pentesting.md)*, Dawid Czagan
-{% endcomment %}
+* *[Full-Stack Pentesting Laboratory: 100% Hands-On](training-full_stack_app_pentesting.md)*, Dawid Czagan
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 3 September:
 
