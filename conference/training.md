@@ -85,7 +85,7 @@ Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From
 
 Spaces will fill up fast, so get in quickly!
 
-Check-in desk will be located in the Level 3 lobby (WG 306), and will open at 8:00 a.m. each day
+Check-in desk will be located in the Level 0 lobby area ('Room' 071), and will open at 8:00 a.m. each day
 
 Morning and afternoon tea breaks will be provided.
 

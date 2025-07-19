@@ -120,7 +120,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **[Diversity Fund](diversity_fund.md) Applications Opened:** 1 May 2025
 * **[Training Registration](https://events.humanitix.com/owaspnz2025-training){: target="_blank" } Opened:** 15 July 2025
 * **Call for Training (CFT) Closed:** 15 April 2025
-* **[Conference Registration[(https://events.humanitix.com/owaspnz2025){: target="_blank" } Opened:** 1 May 2025
+* **[Conference Registration](https://events.humanitix.com/owaspnz2025){: target="_blank" } Opened:** 1 May 2025
 * **Call for Training (CFT) Opened:** 4 March 2025
 * **Call for Presentations (CFP) Opened:** 4 March 2025
 
