@@ -65,9 +65,11 @@ Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From
 
 * *[AI SecureOps: Attacking &amp; Defending GenAI Applications and Services](training-ai_secureops.md)*, Abhinav Singh
 
-* *[Reverse Engineering Proprietary Protocols](training-reverse_engineering_proprietary_protocols.md)*, Munawwar Hussain Shelia
+#### Two-day, classroom training - Tuesday and Wednesday, 2-3 September:
 
-* *[Full-Stack Pentesting Laboratory: 100% Hands-On](training-full_stack_app_pentesting.md)*, Dawid Czagan
+* *[Reverse Engineering Proprietary Protocols](training-reverse_engineering_proprietary_protocols.md)* (Face-to-Face), Munawwar Hussain Shelia
+
+* *[Full-Stack Pentesting Laboratory: 100% Hands-On](training-full_stack_app_pentesting.md)* (Instructor-Remote), Dawid Czagan
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 3 September:
 
