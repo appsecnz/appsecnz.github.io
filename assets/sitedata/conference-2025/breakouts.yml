@@ -84,7 +84,7 @@
   day: 1
   block: 2
   
-- active: true
+- active: false
   day: 1
   block: 3
   name: Datacom
@@ -105,7 +105,7 @@
   day: 1
   block: 5
 
-- active: true
+- active: false
   day: 1
   block: 6
   anchor: veracode-fix

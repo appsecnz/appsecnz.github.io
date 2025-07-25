@@ -44,7 +44,7 @@
   block: 1
   track: 0
   info: true
-  title: Delegate Lounge Opens - LEGO<sup>&reg;</sup> Build Begins
+  title: Delegate Lounge Opens
 
 - plenary: true
   day: 0
@@ -116,7 +116,6 @@
   block: 8
   track: 0
   title: Break for Afternoon Tea
-  name: LEGO<sup>&reg;</sup> Build Ends
 
 - plenary: true
   info: false
@@ -124,7 +123,7 @@
   block: 10
   track: 0
   title: Conference Closing Session
-  name: Recognition, LEGO<sup>&reg;</sup> Build Video, Prize Giving
+  name: Recognition, Prize Giving
 
 - plenary: true
   info: false
@@ -134,15 +133,21 @@
   title: Post-Conference Gathering
   name: Location TBC
 
-- plenary: true
+- plenary: false
   selected: true
-  confirmed: true
+  confirmed: false
   remote: false
   day: 0
   block: 3
   track: 0
-  anchor: keynote
-  title: 'Opening Keynote'
+
+- plenary: false
+  selected: true
+  confirmed: false
+  remote: false
+  day: 0
+  block: 3
+  track: 1
 
 - plenary: false
   selected: true

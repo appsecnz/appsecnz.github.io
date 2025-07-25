@@ -19,22 +19,22 @@
     plenary: true
   - block: 3
     start: '10:00'
-    end: '10:45'
+    end: '10:50'
     plenary: true
   - block: 4
-    start: '10:50'
-    end: '11:40'
+    start: '10:55'
+    end: '11:25'
     plenary: false
   - block: 5
-    start: '11:45'
-    end: '12:15'
+    start: '11:30'
+    end: '12:00'
     plenary: false
   - block: 6
-    start: '12:15'
-    end: '13:50'
+    start: '12:00'
+    end: '13:30'
     plenary: true
   - block: 7
-    start: '13:50'
+    start: '13:30'
     end: '14:20'
     plenary: false
   - block: 8
