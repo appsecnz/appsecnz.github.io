@@ -148,6 +148,15 @@
   day: 0
   block: 3
   track: 1
+  anchor: wilson-llm
+  title: The Machines Are Learning, But Are We? 
+  name: Stev Wilson
+  org: Exabeam
+  abstract: |-
+    As technology rapidly evolves, security teams struggle to keep up. Limited visibility 
+    and outdated defenses leave organizations vulnerable to attacks. This session explores 
+    why visibility remains a challenge, the limitations of automation in threat detection, 
+    and how AI can bridge the gap.
 
 - plenary: false
   selected: true

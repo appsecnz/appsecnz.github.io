@@ -80,10 +80,10 @@
     plenary: true
   - block: 2
     start: '10:00'
-    end: '10:30'
+    end: '10:50'
     plenary: false
   - block: 3
-    start: '10:35'
+    start: '10:55'
     end: '11:25'
     plenary: false
   - block: 4
