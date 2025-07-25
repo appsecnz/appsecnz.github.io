@@ -157,6 +157,19 @@
     and outdated defenses leave organizations vulnerable to attacks. This session explores 
     why visibility remains a challenge, the limitations of automation in threat detection, 
     and how AI can bridge the gap.
+  bio: |-
+    **Steve Wilson** is the Chief AI and Product Officer at Exabeam, a global cybersecurity innovator. He founded 
+    and co-chairs the OWASP Gen AI Security Project, the organization behind the industry-standard OWASP Top 10 for 
+    Large Language Model Security list.
+    </p>
+    <p>
+    His award-winning book, "The Developer’s Playbook for Large Language Model Security" (O'Reilly Media), was 
+    selected as the best Cutting Edge Cybersecurity Book by Cyber Defense Magazine.
+    </p>
+    <p>
+    Steve contributed to the development of Java at Sun Microsystems and held leadership positions at industry 
+    giants Citrix and Oracle. He holds 11 U.S. and international patents, and was named the Cybersecurity Innovation 
+    Leader by Enterprise Security Tech.
 
 - plenary: false
   selected: true
