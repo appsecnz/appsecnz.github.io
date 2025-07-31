@@ -98,13 +98,13 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
    * Thursday (4 September): 10:15 a.m. - 6:00 p.m.
    * Friday (5 September): 8:00 a.m. - 5:00 p.m.
 
+<!-- Commented out - No LEGO Build currently funded
 **LEGO Build -** In the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a number of LEGO sets throughout the event. The conference A/V team will create a stop-motion video of the builds during the conference, and we'll view the finished video during the Closing Session on Friday.
 
 As an added bonus, some lucky conference delegate(s) will go home with LEGO sets, as prizes in our Door Prize Draw at the Closing Session of the conference. Most of the unique sets *completed* during the conference will be included in the top prize, while certain sets will be set aside as separate prizes, along with each duplicate/incomplete/unopened set.
 
 To be eligible to win LEGO sets, or other door prizes, you'll need to visit with each of our sponsors and have them stamp your entry card. Drop boxes for completed entry cards will be available at the Conference Information Desks (in the Level 1 atrium and in the Sponsor Exhibition area).
 
-<!--
 The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](https://iriusrisk.com)**.
 -->
 
@@ -141,11 +141,11 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 **Room:** Lecture Theatre (Room 098)   
 
 **Sponsor Demos:** Level 0   
-**Room:** Case Room 4 (Room 009)
+**Room:** Case Room 3 (Room 055)
 
 **Delegate Lounge:** TBC   
 
-**Sponsor Exhibition Areas:** Level 1 Atrium (Room 101) and Level 0 (071/088)
+**Sponsor Exhibition Area:** Level 0 ('Room' 071)
 
 **Registration and Information Desks:** Level 1 Atrium (Room 101)
 

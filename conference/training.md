@@ -37,11 +37,11 @@ We're offering the following discount rates, which will be applied automatically
 
 ### Training Check-in
 
-The registration and information desk will open at 8:00 a.m. each day. Conference volunteers will be available at the information desk, throughout both days, to provide assistance as needed.
+The registration and information desk is located in the lower level (Level 0) foyer ('Room' 071) and will open at 8:00 a.m. each day. Conference volunteers will be available at the information desk, throughout both days, to provide assistance as needed.
 
 ## Training Schedule
 
-In addition the main conference on Thursday and Friday, we will be offering a selection of world-class training opportunities on Tuesday and Wednesday. We anticipate our training schedule will include a mix of class lengths (half-day, one-day, and two-day) and formats (face-to-face, instructor-remote, and live online).
+In addition the main conference on Thursday and Friday, we are offering a selection of world-class training opportunities on Tuesday and Wednesday. Our training schedule includes a mix of two-day and half-day classes, offered in different formats (face-to-face, instructor-remote, and live online), as listed for each class.
 
 Each day, regardless of format, classes will follow this schedule (all times are NZST):
 
@@ -61,7 +61,7 @@ The Call for Training (CFT) closes on 15th April. Training classes will be selec
 
 Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From 23rd August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
 
-#### Two-day, online training - Tuesday and Wednesday, 2-3 September:
+#### Two-day, live online training - Tuesday and Wednesday, 2-3 September:
 
 * *[AI SecureOps: Attacking &amp; Defending GenAI Applications and Services](training-ai_secureops.md)*, Abhinav Singh
 
@@ -73,11 +73,11 @@ Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 3 September:
 
-* *[Application Security Overview/Refresher Training](training-appsec_overview.md)*, John DiLeo   
+* *[Application Security Overview/Refresher Training](training-appsec_overview.md)* (Face-to-Face), John DiLeo   
 
 #### Half-day, in-person (classroom) training - Wednesday afternoon, 3 September:
 
-* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)*, Toby Reynolds
+* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)* (Face-to-Face), Toby Reynolds
 
 **NOTES:**
 
