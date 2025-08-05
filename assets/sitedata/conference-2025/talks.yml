@@ -587,11 +587,38 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 2
   track: 1
+  title: 'Same-Origin Policy: The core of web security'
+  name: Kirk Jackson
+  org: Lightspeed
+  anchor: jackson-origin
+  abstract: |-
+    The "same-origin policy"" is a loosely defined set of rules that has evolved over the years since Javascript 
+    was first introduced in 1995. In this talk, Kirk will explain how origins work in your web browser, and why 
+    they are the fundamental protection against attacks like cross-site request forgery.
+  description: |-
+    The "same-origin policy"" is a loosely defined set of rules that has evolved over the years since Javascript 
+    was first introduced in 1995. 
+    </p>
+    <p>
+    In this talk, Kirk will explain how origins work in your web browser, and why 
+    they are the fundamental protection against attacks like cross-site request forgery.
+    </p>
+    <p>
+    Along the way, we'll look at how you can leverage the same-origin policy to protect data on your site, and 
+    how you can bend it to your will to allow functionality to be hosted on multiple URLs – such as cross-origin 
+    resource sharing (CORS), PostMessage, and JSONP.
+  bio: |-
+    works at Lightspeed, and has previously been involved in helping organise the OWASP Wellington Meetup and the
+    annual OWASP New Zealand Day conference in Auckland.
+    </p>
+    <p>
+    Kirk worked as a web developer before switching to the defence team - setting up Xero's security practice, 
+    working as a pen tester, and in defence roles at several companies.
 
 - plenary: false
   selected: true
@@ -603,11 +630,42 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 3
   track: 1
+  title: 'Legacy to Legendary: Sustainable patterns and practices for app modernisation'
+  name: "Bernard O'Leary"
+  org: UbiQuity
+  anchor: oleary-legacy
+  abstract: |-
+    Lots of successful software runs at least partially on legacy code and/or architecture. Modernisation 
+    to keep abreast of emergent tech and vulnerabilities should be on-going, ideally. This talk explores tools, 
+    techniques, patterns and practices for secure, sustainable management of legacy.
+  description: |-
+    Large chunks of some of the world's most successful software products and services are running on what could 
+    be described as legacy codebases, platforms, and architectures. The irony is that this is often a hallmark of 
+    well-loved software. That is, when a product or service has been in production long enough to have quantifiable 
+    risks associated with legacy, that's usually indicative of a healthy level of adoption and utilisation.
+    </p>
+    <p>
+    For a product or solution of any significant magnitude, because of the ever-increasing pace of technology evolution, 
+    and associated vulnerability discovery/exploitation, application modernisation should be seen less as a one-off 
+    exercise, and more as an on-going process of transformation. Balancing this with feature development and growth 
+    initiatives is a key ingredient of the recipe for sustainable success.
+    </p>
+    <p>
+    In this talk, we'll look at a selection of tools, techniques and approaches that teams and businesses can adopt 
+    to modernise their legacy codebases and architectures in a secure and sustainable manner. We'll cover relevant 
+    architectures and design patterns, emergent generative AI tooling, the AI-enabled developer mindset, and practices 
+    and norms that lend themselves to legacy transformation.
+  bio: |-
+    takes care of the engineering capability for a Kiwi marketing automation product called 
+    <a href="https://www.ubiquity.co.nz" target="_blank">UbiQuity</a>. He's worked in tech for more than 20 years, 
+    starting in programming, and in more recent years, in architecture and leadership. He spends his weekends following 
+    his young-adult kids'' football commitments. It's ridiculous how much he's prepared to pay for a good craft beer.
+
   
 - plenary: false
   selected: true
