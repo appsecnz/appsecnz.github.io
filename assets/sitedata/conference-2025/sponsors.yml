@@ -131,31 +131,29 @@
     Plexure is an Auckland-based company boasting a 60+ strong engineering group in Auckland, with additional remote 
     staff in NZ, Japan, Poland and the UK.
 
-- active: false
-  level: 3
-  name: Aura Information Security 
-  image: /assets/images/2024-sponsors/Logo-Aura_Information_Security-125.jpg
-  url: https://www.aurainfosec.com/
+- active: true
+  level: 5
+  name: SafeAdvisory
+  anchor: safe_advisory
+  image: /assets/images/2025-sponsors/Logo-SafeAdvisory.png
+  url: https://www.safeadvisory.co.nz/
   description: |-
-    Aura Information Security is Kordia Group's independent provider of information security consulting services to 
-    corporates and governments in Australia and New Zealand.
+    SafeAdvisory is a boutique cyber security consultancy, founded and based in Aotearoa New Zealand. 
+    We provide bespoke security advice and resources with a local focus.
     </p>
     <p>
-    Aura's focus is to provide the very best independent security advice and support to businesses, so that 
-    their digital world is more secure, reliable, and resilient. Visit <a href="https://aurainfosec.com" target="_blank">aurainfosec.com</a> for more info.
-  spotlight: |-
-    Aura Information Security is Kordia Group's independent provider of information security consulting services to 
-    corporates and governments in Australia and New Zealand.
+    At SafeAdvisory, we know that security is for everyone, and we deliver fit for purpose security consulting to businesses of 
+    all shapes and sizes.
     </p>
     <p>
-    Aura's focus is to provide the very best independent security advice and support to businesses, so that 
-    their digital world is more secure, reliable, and resilient. Visit <a href="https://aurainfosec.com" rel="sponsored nopener noreferrer" target="_blank">aurainfosec.com</a> for more info.
+    The solutions and advice we provide aren't pulled from a template somewhere; we work with each of our clients to make sure 
+    our advice is hitting the mark for you, and leaving your business more secure than when we met.
 
-- active: false
-  level: 3
+- active: true
+  level: 5
   name: CyberCX
   anchor: cybercx
-  image: /assets/images/2024-sponsors/Logo-CyberCX.png
+  image: /assets/images/2025-sponsors/Logo-CyberCX.png
   url: https://cybercx.co.nz/
   spotlight: |-
     With a workforce of over 1,300 professionals, CyberCX is the leading provider of professional cyber 
@@ -177,132 +175,20 @@
     and vulnerabilities through comprehensive testing of applications and infrastructure.    
     </p>
     <p>
-    Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank" onclick="handleOutboundLinkClicks(event);">www.cybercx.co.nz</a>.
+    Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank">www.cybercx.co.nz</a>.
 
-- active: false
-  level: 3
-  name: Datacom
-  anchor: datacom
-  image: /assets/images/2024-sponsors/Datacom-Primary-Logo-RGB.svg
-  url: https://datacom.com/
-  spotlight: |-
-    Choose us.
-    </p>
-    <p>
-    Senior executives are having to deal with increasing complexity when it comes to decision 
-    making – their careful consideration process makes them risk averse.
-    </p>
-    <p>
-    <strong>They need assurances.</strong>
-    </p>
-    <p>
-    Datacom's legacy and brand reputation in NZ does just that. With decades of experience, we 
-    are not the new kid on the block – we are the mature and trusted partner with the highest 
-    industry certifications. And it's precisely that knowledge and expertise that make Datacom 
-    the perfect networks and security partner.
-    </p>
-    <p>
-    <strong>There isn't a safer pair of hands to secure the future of your business.
-    </strong>
-  description: |-
-    Choose us.
-    </p>
-    <p>
-    Senior executives are having to deal with increasing complexity when it comes to decision 
-    making – their careful consideration process makes them risk averse.
-    </p>
-    <p>
-    <strong>They need assurances.</strong>
-    </p>
-    <p>
-    Datacom's legacy and brand reputation in NZ does just that. With decades of experience, we 
-    are not the new kid on the block – we are the mature and trusted partner with the highest 
-    industry certifications. And it's precisely that knowledge and expertise that make Datacom 
-    the perfect networks and security partner.
-    </p>
-    <p>
-    <strong>There isn't a safer pair of hands to secure the future of your business.
-    </strong>
-
-- active: false
-  level: 3
-  name: Amazon Web Services (AWS)
-  anchor: aws
-  image: /assets/images/2024-sponsors/Logo-AWS.png
-  url: https://aws.com/
-  spotlight: |-
-    Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud, offering over 200 fully featured 
-    services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, 
-    and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
-  description: |-
-    Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud, offering over 200 fully featured 
-    services from data centers globally. Millions of customers—including the fastest-growing startups, largest enterprises, 
-    and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
-
-- active: false
+- active: true
   level: 5
-  name: PentesterLab
-  anchor: pentester_lab
-  image: /assets/images/2024-sponsors/Logo-PentesterLab.png
-  url: https://www.pentesterlab.com/
-  spotlight: |-
-    We make learning Web Hacking easier! We have been teaching web security for years and put together well thought-out 
-    exercises to get you from zero to hero. Our exercises cover everything from really basic bugs to advanced vulnerabilities.
+  name: SecDim
+  anchor: secdim
+  image: /assets/images/2025-sponsors/Logo-SecDim.png
+  url: https://secdim.com/
   description: |-
-    We make learning Web Hacking easier! We have been teaching web security for years and put together well thought-out 
-    exercises to get you from zero to hero. Our exercises cover everything from really basic bugs to advanced vulnerabilities.
-
-- active: false
-  level: 5
-  name: 84 Recruitment
-  anchor: 84_recruitment
-  image: /assets/images/2024-sponsors/Logo-84_Recruitment.jpg
-  url: https://www.84recruitment.co.nz/
-  spotlight: |-
-    Setting ourselves apart in a fast-paced recruitment industry, we prioritise pursuing top candidates, earning trust through 
-    delivering tangible solutions for even the most demanding companies. Located in Auckland's renowned B:Hive Building, we embrace 
-    a dynamic team, placing exceptional individuals in public and private sectors across New Zealand and beyond.
-
-    We're proud to support some of the market-leading organisations as an exclusive cybersecurity talent partner. Our early cyber 
-    careers initiative is designed to close the gap in the skills shortage within the ever-growing cybersecurity landscape by 
-    creating internship opportunities for upcoming talent to transition into the workforce.
-  description: |-
-    Setting ourselves apart in a fast-paced recruitment industry, we prioritise pursuing top candidates, earning trust through 
-    delivering tangible solutions for even the most demanding companies. Located in Auckland's renowned B:Hive Building, we embrace 
-    a dynamic team, placing exceptional individuals in public and private sectors across New Zealand and beyond.
-
-    We're proud to support some of the market-leading organisations as an exclusive cybersecurity talent partner. Our early cyber 
-    careers initiative is designed to close the gap in the skills shortage within the ever-growing cybersecurity landscape by 
-    creating internship opportunities for upcoming talent to transition into the workforce.
-
-- active: false
-  level: 5
-  name: Veracode
-  anchor: veracode
-  image: /assets/images/2024-sponsors/Logo-Veracode.jpg
-  url: https://www.veracode.com/
-  spotlight: |-
-    In 2006, Chris Wysopal and Christien Rioux set out to invent a way 
-    to prevent malicious actors from exploiting vulnerabilities, co-founding Veracode,
-    where Wysopal is still CTO to this day.
+    For many years, we did lots of penetration testing across medium-size startups to Fortune 500 enterprises. We realised 
+    often that our pentest reports do not solve these firms'' security problems. In fact their biggest security problem was 
+    not related to the design nor implementation of their programs. The root cause was something else.
     </p>
     <p>
-    The endeavour turned out to be much bigger than we initially thought. What started as a code 
-    scanning tool has evolved into an intelligent software security platform that prevents, detects, 
-    and responds to vulnerabilities and manages risk and compliance for thousands of leading 
-    organizations around the world.
-  description: |-
-    In 1998, a hacker group called L0pht testified before (US) Congress to expose the lack of 
-    software and network security, a whole new world out there open for abuse.
-    </p>
-    <p>
-    Two members, Chris Wysopal (Weld Pond) and Christien Rioux (DilDog), set out to invent a way 
-    to prevent malicious actors from exploiting vulnerabilities, by co-founding Veracode in 2006,
-    where Wysopal is still CTO to this day.
-    </p>
-    <p>
-    The endeavour turned out to be much bigger than we initially thought. What started as a code 
-    scanning tool has evolved into an intelligent software security platform that prevents, detects, 
-    and responds to vulnerabilities and manages risk and compliance for thousands of leading 
-    organizations around the world.
-    
+    A wrong culture and approach to security that did not encourage their engineering teams to actively look into eliminating 
+    security bugs. Instead they saw the security bug reports as an additional burden to deal with.
+
