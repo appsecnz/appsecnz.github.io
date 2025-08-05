@@ -191,4 +191,12 @@
     <p>
     A wrong culture and approach to security that did not encourage their engineering teams to actively look into eliminating 
     security bugs. Instead they saw the security bug reports as an additional burden to deal with.
+  spotlight: |-
+    For many years, we did lots of penetration testing across medium-size startups to Fortune 500 enterprises. We realised 
+    often that our pentest reports do not solve these firms'' security problems. In fact their biggest security problem was 
+    not related to the design nor implementation of their programs. The root cause was something else.
+    </p>
+    <p>
+    A wrong culture and approach to security that did not encourage their engineering teams to actively look into eliminating 
+    security bugs. Instead they saw the security bug reports as an additional burden to deal with.
 
