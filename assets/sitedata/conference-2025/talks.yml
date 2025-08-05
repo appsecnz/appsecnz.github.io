@@ -135,19 +135,11 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 3
   track: 0
-
-- plenary: false
-  selected: true
-  confirmed: false
-  remote: false
-  day: 0
-  block: 3
-  track: 1
   anchor: wilson-llm
   title: The Machines Are Learning, But Are We? 
   name: Stev Wilson
@@ -158,26 +150,95 @@
     why visibility remains a challenge, the limitations of automation in threat detection, 
     and how AI can bridge the gap.
   bio: |-
-    **Steve Wilson** is the Chief AI and Product Officer at Exabeam, a global cybersecurity innovator. He founded 
+    <strong>Steve Wilson</strong> is the Chief AI and Product Officer at Exabeam, a global cybersecurity innovator. He founded 
     and co-chairs the OWASP Gen AI Security Project, the organization behind the industry-standard OWASP Top 10 for 
     Large Language Model Security list.
     </p>
     <p>
-    His award-winning book, "The Developer’s Playbook for Large Language Model Security" (O'Reilly Media), was 
-    selected as the best Cutting Edge Cybersecurity Book by Cyber Defense Magazine.
+    His award-winning book, <em>The Developer's Playbook for Large Language Model Security</em> (O'Reilly Media), was 
+    selected as Best Cutting Edge Cybersecurity Book by <em>Cyber Defense Magazine</em>.
     </p>
     <p>
     Steve contributed to the development of Java at Sun Microsystems and held leadership positions at industry 
-    giants Citrix and Oracle. He holds 11 U.S. and international patents, and was named the Cybersecurity Innovation 
+    giants Citrix and Oracle. He holds 11 US and international patents, and was named the Cybersecurity Innovation 
     Leader by Enterprise Security Tech.
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
+  remote: false
+  day: 0
+  block: 3
+  track: 1
+  title: OWASP Top 10 Introduction
+  name: Austin Chamberlain
+  org: Defence Science and Technology, NZDF
+  anchor: chamberlain-owasp
+  abstract: |-
+    The OWASP Top 10 is a standard awareness document for developers and web application security. 
+    It represents a broad consensus about the most critical security risks to web applications.
+  description: |-
+    Austin will give an overview of the OWASP Top 10, including what the Top 10 represents, how 
+    it is chosen, and how it is managed. The talk will include a quick technical summary of each 
+    of the Top 10, how the vulnerabilities are introduced into systems, how they can be detected, 
+    and how they can be prevented. This is an introductory talk and will cover ground that experienced 
+    practitioners will know already, but people new to the industry will hopefully find this valuable.
+  bio: |-
+    <strong>Austin Chamberlain</strong> is a scientist with Defence Science and Technology, part of the New Zealand 
+    Defence Force. 
+    </p>
+    <p>
+    Austin started his career as a system administrator working predominantly on web-facing systems. 
+    This provided a fast understanding of information security and he focused increasingly on 
+    information and cyber security, making the jump to a cyber role in due course. He served part 
+    time in the British Army reserve, initially as a logistics officer, and later transferring to a 
+    cyber operations role. In his civilian career he has predominantly worked in the academic sector.
+    </p>
+    <p>
+    This combination of academic, technical, and military cyber experience provided a strong 
+    foundation for a military cyber research role, and he now works on studying and integrating 
+    next generation and generation-beyond-next cyber capabilities into the NZDF.
+
+- plenary: false
+  selected: true
+  confirmed: true
   remote: false
   day: 0
   block: 4
   track: 0
+  title: 'Security Champions: From paper to reality'
+  name: Anna Lezhikova
+  anchor: lezhikova-champions
+  abstract: |-
+    A no-BS guide to building a Security Champions programme that outlasts the hype. You'll be given the 
+    fishing rod — not just the fish — with battle-tested principles and real-world tactics that actually stick.
+  description: |-
+    Many organisations talk about Security Champions programmes, but turning theory into a sustainable, 
+    self-supporting initiative is harder than it looks. How do you get real buy-in? Where do you start? 
+    How do you keep it alive beyond the initial hype? And most importantly—what actually works in the real world?
+    </p>
+    <p>
+    In this talk, I'll cut through the fluff and share hard-won lessons. I will reveal how to win real buy-in 
+    from developers, managers, and execs (spoiler: "security is important" won’t cut it), where to start 
+    (and what pitfalls to avoid), and the real-world techniques that actually drove change—not just checkbox 
+    exercises. No theory, just tactics that worked (and a few that crashed and burned).
+    </p>
+    <p>
+    Key Takeaways: 
+    <ul>
+    <li>A blueprint for launching and scaling a Security Champions programme</li>
+    <li>How to align security goals with developer incentives (hint: it's not just about compliance)</li>
+    <li>Proven engagement strategies — keeping momentum when the novelty wears off</li>
+    <li>Metrics that matter — measuring success beyond "number of champions"</li>
+    <li>Lessons from the trenches — what NZ companies wish they knew before they started</li>
+    </ul>
+  bio: |-
+    <strong>Anna Lezhikova</strong> is a cyber security consultant based in Wellington, New Zealand. She combines her 
+    experience in sociology, business management, communications, and IT to help companies to run and 
+    grow their business securely in the digital age. Armed with a Master's degree in Sociology, an MBA, 
+    and a Diploma in Machine Learning and Artificial Intelligence, Anna's expertise is fortified by 
+    practical know-how as a full-stack and DevSecOps engineer. This unique blend equips her with the 
+    capability to see problems from different perspectives and come up with holistic solutions.
 
 - plenary: false
   selected: true
@@ -189,19 +250,74 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 5
   track: 0
+  title: 'Good Vibes Only: A security guide to AI programming'
+  name: Oliver Szimmetat
+  anchor: szimmetat-vibes
+  abstract: |-
+    AI programming boosts speed but creates security risks — SQL injections, weak auth, XSS vulnerabilities. 
+    Learn prompt engineering techniques to get secure AI code and safely integrate it into CI/CD pipelines 
+    without sacrificing development velocity.
+  description: |-
+    AI-assisted "vibe programming" accelerates development, but introduces critical security risks. 
+    AI models prioritize working code over secure code, often generating SQL injection vulnerabilities, 
+    weak authentication, and XSS attack vectors. This talk demonstrates real-world security failures in 
+    AI-generated code and teaches practical prompt engineering techniques to guide models toward secure 
+    patterns. Through live examples, we'll cover embedding security requirements in prompts, reviewing 
+    AI code for vulnerabilities, and safely integrating AI-generated code into CI/CD pipelines while 
+    maintaining development velocity.
+  bio: |-
+    <strong>Oliver Szimmetat</strong> is the Chief Privacy Office and Director of Security at TAXbit, where he manages 
+    all aspects of security and compliance, including Incident Management, Corporate Security, Cloud Security, 
+    Security Guidance, Product Security, Physical Security, and Compliance audits. Before joining TAXbit in 
+    2023, he was Head of Cloud Security at Uber Engineering in Seattle. There, he built a team working on 
+    secure-by-default architecture, best practices, engineering standards, automated compliance, monitoring tools, 
+    data security, and threat detection/response solutions for all of Uber’s cloud assets and engineering efforts.
+    </p>
+    <p>
+    Prior to that, Oliver spent more than 18 years at Microsoft, where he worked in various engineering and 
+    engineering management roles contributing to Windows client security (developing, testing, and releasing 
+    security updates), anti-piracy, cloud security standards, security testing, and continuous 
+    integration/delivery for all the company's commercial online services.
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 5
   track: 1
+  title: Credential Management API
+  name: Matt (TC) Cotterell
+  anchor: cotterell-api
+  abstract: |-
+    AI programming boosts speed but creates security risks — SQL injections, weak auth, XSS vulnerabilities. 
+    Learn prompt engineering techniques to get secure AI code and safely integrate it into CI/CD pipelines 
+    without sacrificing development velocity.
+  description: |-
+    AI-assisted "vibe programming" accelerates development, but introduces critical security risks. 
+    AI models prioritize working code over secure code, often generating SQL injection vulnerabilities, 
+    weak authentication, and XSS attack vectors. This talk demonstrates real-world security failures in 
+    AI-generated code and teaches practical prompt engineering techniques to guide models toward secure 
+    patterns. Through live examples, we'll cover embedding security requirements in prompts, reviewing 
+    AI code for vulnerabilities, and safely integrating AI-generated code into CI/CD pipelines while 
+    maintaining development velocity.
+  bio: |-
+    <strong>Matt Cotterell (TC)</strong> is a Security Consultant and ex-Software Developer with over 12 years' 
+    professional experience in software and security engineering many different organisations. Their 
+    focus these days is exploring various authentication patterns and practices, software frameworks and 
+    public cloud providers in order to craft beautiful, secure and maintainable solutions to challenging 
+    technical problems.
+    </p>
+    <p>
+    They are currently working for CyberCX as a Senior Security Consultant, testing web applications, 
+    APIs and cloud configurations for security vulnerabilities. They are also starting to host the 
+    <a href="https://www.meetup.com/owasp-wellington" target="_blank><strong>OWASP Wellington</strong> Meetups</a> 
+    on a more frequent basis.
 
 - plenary: false
   selected: true
