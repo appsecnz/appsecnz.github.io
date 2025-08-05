@@ -257,6 +257,7 @@
   track: 0
   title: 'Good Vibes Only: A security guide to AI programming'
   name: Oliver Szimmetat
+  org: TAXbit
   anchor: szimmetat-vibes
   abstract: |-
     AI programming boosts speed but creates security risks — SQL injections, weak auth, XSS vulnerabilities. 
@@ -293,6 +294,7 @@
   track: 1
   title: Credential Management API
   name: Matt (TC) Cotterell
+  org: CyberCX
   anchor: cotterell-api
   abstract: |-
     AI programming boosts speed but creates security risks — SQL injections, weak auth, XSS vulnerabilities. 
@@ -321,43 +323,172 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 7
   track: 0
+  title: "Baking Security In: An AppSec 'Critical Path' for developers"
+  name: John DiLeo
+  org: Gallagher Security / OWASP NZ
+  anchor: dileo-baking
+  description: |-
+    "We're Agile, so there's no time for that!"" -- This response, or something similar, is what I frequently 
+    hear after telling a development team they should include threat modelling, security testing, or other 
+    application security (AppSec) activities in their workflows. AppSec activities are frequently seen as 
+    heavyweight tasks that will interfere with delivery, instead of the quality and efficiency multipliers 
+    they can actually be.
+    </p>
+    <p>
+    In this talk, I'll present my thoughts on key Software Assurance activities teams can introduce into 
+    their day-to-day development practices - activities that align amazingly well with the recommended 
+    Security Practices in the 
+    <a href="https://owaspsamm.org" target="_blank">OWASP Software Assurance Maturity Model (SAMM)</a>. 
+    I'll also touch on how they can be incorporated into a team's existing development cadence with 
+    (relatively) little disruption.
+  bio: |-
+    leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher 
+    Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom, 
+    providing support and guidance to clients in launching, managing, and maturing their enterprise software 
+    assurance programs.
+    </p>
+    <p>
+    Before turning to full-time roles in security, John was active as a Java enterprise architect and Web 
+    application developer. In earlier lives, John has been a full-time professor and had specialized in 
+    developing discrete-event simulations of large distributed systems.
 
 - plenary: false
   selected: true
-  confirmed: false
-  remote: false
-  day: 0
-  block: 7
-  track: 1
-
-- plenary: false
-  selected: true
-  confirmed: false
-  remote: false
-  day: 0
-  block: 8
-  track: 0
-
-- plenary: false
-  selected: true
-  confirmed: false
-  remote: false
-  day: 0
-  block: 8
-  track: 1
-
-- plenary: false
-  selected: true
-  confirmed: false
+  confirmed: true
   remote: true
   day: 0
+  block: 7
+  track: 1
+  title: "Security and Accessibility Can Be Friends!"
+  name: Gian Wild
+  org: AccessibilityOz
+  anchor: wild-friends
+  abstract: |-
+    Many a security expert has been told that security may be compromised due to accessibility needs. 
+    Many an accessibility expert has been told accessibility must be reduced to allow for security. 
+    Gian Wild is here to tell you that they are wrong.
+  description: |-
+   Many a security expert has been told that security may be compromised due to accessibility needs. 
+   Many an accessibility expert has been told accessibility must be reduced to allow for security. 
+   Gian Wild is here to tell you that they are wrong. People often think these two very important 
+   disciplines are mutually-exclusive but this is only because they don’t understand both sets of requirements. 
+   From the not-so-humble CAPTCHA to the auto completion of forms, Gian talks about what the accessibility 
+   needs are and how security need never be compromised, and most importantly, how you can understand 
+   both sides of the divide.
+  bio: |-
+    works in the area of web accessibility: making sure websites and mobile apps can be used by people 
+    with disabilities. She spent six years contributing to the international set of web accessibility guidelines 
+    used around the world. Gian spends half the year in Australia and half the year in the United States. She 
+    speaks at conferences in Australia, the US, Canada, South America and Europe. In June 2015, Gian presented 
+    to the United Nations on the importance of web accessibility at the Conference of State Parties to the 
+    Convention on the Rights of Persons with Disabilities. She is the CEO and Founder of AccessibilityOz, 
+    with offices in Australia and the United States. In 2019, Gian won the inaugural Accessibility 
+    Person of the Year in Australia.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 8
+  track: 0
+  title: 'How to Secure a Cup of Black Gold (coffee, not oil)'
+  name: David (Moss) Jennings
+  org: Fluid Security
+  anchor: jennings-coffee
+  abstract: |-
+    Let me take you on a journey to explain, in simple terms, the concept of adding multiple security controls 
+    to secure a system with data residing on-prem or in the cloud, by using the analogy of a cup with coffee 
+    in it. After all, who doesn't want to protect their coffee?
+  description: |-
+    "You like coffee, right? Well, have you ever thought about how you would secure your cup of coffee against 
+    a would-be adversary?" This was the moment when the conversation I was having with a business person took a turn. 
+    Their initial expression of "who is this madman?"" soon changed - the more they role-played, the more they understood.
+    </p>
+    <p>
+    Incorporating a defence-in-depth strategy can be hard to understand for non-security folk. However, when you 
+    use analogies of everyday important things like coffee, it's amazing how quickly people can understand what 
+    adding multiple layers of security controls means and how they can apply it to suit their context to a 'tea.'
+    </p>
+    <p>
+    Optional: bring a cup of your own beverage to follow along.
+  bio: |-
+    remains optimistic that he can make organisations great again (read: more secure). However, he has seen his 
+    fair share of horror stories over his career. With risks being blindly accepted and added to ever expanding 
+    registers, it wasn’t long before he was in the ambulance at the bottom of the cliff. Let his dulcet tones 
+    soothe you as you come for a ride and learn how to be useful instead of just making nee-naw sounds when the 
+    worst occurs.
+
+- plenary: false
+  selected: true
+  confirmed: false
+  remote: false
+  day: 0
+  block: 8
+  track: 1
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
   block: 10
   track: 0
+  title: Supply Chain Vulnerabilities in the Supply Chain Vulnerability Ecosystem
+  name: Kris Hardy
+  org: VioletBeacon
+  anchor: hardy-ecosystem
+  abstract: |-
+    In March 2025, the Common Vulnerabilities and Exposures (CVE) project was nearly defunded by the US 
+    Government, causing panic in the security industry. We will discuss the CVE project, how it fits into 
+    the security ecosystem, and what is being done to build alternatives.
+  description: |-
+    In March 2025, the MITRE Corporation-managed Common Vulnerabilities and Exposures (CVE) project was nearly 
+    defunded by the US Government, causing widespread concern across the security industry. They were literally 
+    saved in the last hours by a short-term 11-month contract, and surprisingly, this was not the first time. 
+    However, with the US Government's current slash-and-burn approach to government programs, the survival of 
+    the CVE project is not guaranteed when their current funding runs out.
+    </p>
+    <p>
+    Why did this cause so much concern? When software is built, it nearly always includes a large number of 
+    third-party and open source components that provide some functionality so that the developers of the software 
+    can focus on the core problems that they need to solve. Unfortunately, these components may have vulnerabilities 
+    that make your software vulnerable to attack, have licenses which create legal risks for your organisation, rely 
+    on external services that are unexpected or undesired, or be of questionable provenance. To solve this, many 
+    organisations now use a Software Bill of Materials (SBOM) and Source Composition Analysis (SCA) (such as OWASP 
+    dependency-check) as part of their Cyber Supply Chain Risk Management (C-SCRM) process.
+    </p>
+    <p>
+    The CVE project provides one of the core datasets that is used to check for known vulnerabilities in the software 
+    BOM and is consumed by SCA systems. Even if it is not being used directly, it is used by downstream vendors such 
+    as the US National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) and commercial 
+    SCA systems. Because it is such a core technology, many fear that the software supply chain vulnerability ecosystem 
+    would collapse if the CVE project goes dark.
+    </p>
+    <p>
+    But the CVE project is not without its weaknesses and controversies, some of which are due to the design of the 
+    CVE project and others are due to questionable actions by some contributors. To explain the software supply chain 
+    ecosystem, the role of the CVE project, downstream consumers of the CVE dataset, and ultimately the potential impact 
+    on an organisation, this talk will take a real-world vulnerability and follow it through the vulnerability resolution 
+    process from start to finish in order to explain the full ecosystem and what would happen if one part of that 
+    ecosystem fails: from discovery and notifying the vendor, to getting it into the CVE catalog and consumed by downstream 
+    vendors, to its inclusion in OWASP projects such as Dependency-Track, to patching the vulnerability and tracking its mitigation.
+    </p>
+    <p>
+    Along the way, we'll talk about the efforts that are underway in the industry to improve the vulnerability catalogues or 
+    create alternatives to the MITRE CVE.
+  bio: |-
+    is a US Air Force veteran, US Air Force Academy Graduate, and has had a strange career path: Programmer, 
+    biochemist, propellant/nerve agent/coatings chemist, embedded/software/security engineer. He has taught IT and 
+    InfoSec courses for both universities and community groups, led the DC505 Defcon community group, and has started 
+    three companies in his past. He is also a member of Veterans For Peace. His previous roles in NZ are 
+    Security Architect for Plexure and Head of Security for Propellerhead. 
+    He is now the CEO and Principal Software Engineer of VioletBeacon.
 
 - plenary: false
   selected: true
@@ -369,19 +500,79 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 11
   track: 0
+  title: Securing Your Next Application through Security Architecture
+  name: Htaik Htaik Thone
+  org: Natixis Corporate &amp; Investment Banking
+  anchor: thone-architecture
+  abstract: |-
+    Secure architecture is the backbone. It's not just a feature, it's a philosophy. Build resilient apps 
+    intentionally, like skyscrapers against storms. Secure from inception, create unbreakable digital steel. 
+    Enforce architectural security: build resilient apps by design, delivering secure deployment.
+  description: |-
+    In today's fast-paced development landscape, bolting security on as an afterthought is a recipe for disaster. 
+    This session champions a proactive approach: Security by Design. Discover how integrating security architecture 
+    from the ground up saves time, reduces costs, and creates more maintainable applications.
+    </p>
+    <p>
+    We'll explore the core principles of Security by Design, moving beyond reactive vulnerability patching to build 
+    inherently secure systems. Learn how proactive threat modeling identifies risks early, allowing you to design 
+    robust defenses from the start. We'll delve into the power of least privilege access, defense in depth, 
+    secure defaults, and fail-safe design, illustrating how these principles translate into concrete architectural decisions.
+    </p>
+    <p>
+    This session emphasizes the Secure Development Lifecycle, demonstrating how security architecture becomes an integral 
+    part of every stage, from requirements analysis to continuous testing. We'll showcase universal secure architecture and 
+    design patterns and explore how concepts like microservices security and Zero Trust architecture enhance resilience. 
+    But, secure architecture is more than just a set of patterns; it's a strategic imperative. By intentionally designing 
+    security into the application from the outset, we create systems that are not only more secure but also more agile 
+    and adaptable to evolving threats.
+    </p>
+    <p>
+    Walk away with a renewed appreciation for the strategic importance of security architecture and actionable insights to 
+    build more secure, efficient, and maintainable applications. This is not just about compliance; it's about building a 
+    competitive advantage through robust, secure software. Embrace security architecture as the cornerstone of resilient 
+    application development. Doing so will not only mitigate risks but also drive innovation, build customer trust, 
+    and ensure long-term success in an increasingly complex cyber landscape.
+  bio: |-
+    is a security professional with experience architecting and implementing robust network and cybersecurity solutions, 
+    with a focus on Security by Design. As a network security expert, she designs and implements region-wide enterprise security 
+    solutions, integrating advanced technologies and embedding security by design into all projects, leading to reduction in 
+    security incidents and increased operational efficiency.
+    </p>
+    <p>
+    Throughout her career, Htaik has successfully led firewall migrations, designed secure architectures, and ensured 
+    compliance with key standards such as CIS, NIST, and ISO 27001. She has hands-on experience with various security technologies 
+    and leads teams to improve security infrastructure. Driven by a passion for knowledge sharing, she empowers developers to 
+    build secure applications by embracing Security by Design principles and fostering a collaborative, security-first culture. 
 
 - plenary: false
   selected: true
-  confirmed: false
-  remote: false
+  confirmed: true
+  remote: true
   day: 0
   block: 11
   track: 1
+  title: Security CI/CD Runners through eBPF
+  name: Mert Coskuner
+  anchor: coskuner-runners
+  abstract: |-
+    In this presentation, we will share some of our observation through showing different flavours of attack on 
+    possible development pipelines, and introduce a tool to detect them.
+  description: |-
+    CI/CD pipelines are complex environments. This complexity requires methodical comprehensive reviews to secure the 
+    entire stack. Often a company may lack the time, specialist security knowledge, and people needed to secure their 
+    CI/CD pipelines. Realising these facts, cyberattacks targeting CI/CD pipelines have been gaining momentum, and 
+    attackers increasingly understand that build pipelines are highly-privileged targets with a substantial attack 
+    surface. In this presentation, we will share some of our observation through showing different flavours of attack 
+    on possible development pipelines, and introduce a tool to detect them.
+  bio: |-
+    is an experienced security engineer who has worked for numerous well-known tech companies. He is a veteran pentester, 
+    red teamer, security researcher and malware &amp; cryptography nerd.
 
 - plenary: false
   selected: true
