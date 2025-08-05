@@ -665,7 +665,6 @@
     <a href="https://www.ubiquity.co.nz" target="_blank">UbiQuity</a>. He's worked in tech for more than 20 years, 
     starting in programming, and in more recent years, in architecture and leadership. He spends his weekends following 
     his young-adult kids'' football commitments. It's ridiculous how much he's prepared to pay for a good craft beer.
-
   
 - plenary: false
   selected: true
@@ -674,6 +673,34 @@
   day: 1
   block: 4
   track: 0
+  title: "Securing the Future of AI: Introducing the OWASP GenAI Security Project and the LLM Top 10"
+  name: Kento Stewart
+  org: Gallagher Security
+  anchor: stewart-genai
+  abstract: |-
+    Generative Artificial Intelligence (GenAI) seems to be absolutely everywhere, and with that comes a new set of risks. 
+    Enter the OWASP GenAI Security Project and the newly released OWASP Top 10 for LLM Applications, highlighting real-world 
+    threats, mitigations, and advice on how to build more secure AI systems.
+  description: |-
+    The rise of Generative Artificial Intelligence (GenAI), particularly large language models (LLMs), is changing how applications 
+    are built, deployed, and interacted with. But with this innovation comes risk. From prompt injection and data leakage to 
+    autonomous agent threats and exploit generation, LLMs introduce an entirely new attack surface.
+    </p>
+    <p>
+    This talk introduces the OWASP GenAI Security Project, recently promoted to Flagship status by the OWASP Foundation in 
+    March 2025. We'll cover the latest release of the OWASP Top 10 for LLM Applications 2025, walk through real-world 
+    vulnerabilities and their mitigations, and highlight other open-source resources developed by the GenAI Security Project 
+    to support security professionals in securing these systems.
+    </p>
+    <p>
+    Attendees will leave with an understanding of how OWASP is supporting and advocating for AI security; whether that's through 
+    building, auditing, testing or governing LLM-powered systems and how to contribute to this growing global initiative.
+  bio: |-
+    enjoys doing all sorts of cyber security stuff, but enjoys laughing at really bad memes even more.
+    </p>
+    <p>
+    <strong>"The inner machinations of my mind are an enigma"</strong> - <em>Patrick Star</em>
+  
 
 - plenary: false
   selected: true
