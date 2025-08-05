@@ -15,9 +15,6 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## OWASP New Zealand Day 2025
 
-## Conference Keynote
-Details TBC
-
 ## Accepted Talks
 
 Presentations are listed below, in alphabetical order by title.
