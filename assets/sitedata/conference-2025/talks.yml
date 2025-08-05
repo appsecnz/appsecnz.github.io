@@ -297,17 +297,20 @@
   org: CyberCX
   anchor: cotterell-api
   abstract: |-
-    AI programming boosts speed but creates security risks — SQL injections, weak auth, XSS vulnerabilities. 
-    Learn prompt engineering techniques to get secure AI code and safely integrate it into CI/CD pipelines 
-    without sacrificing development velocity.
+    This talk introduces the Credential Management API, a (largely Google-driven) new standard that 
+    allows the browser itself to prompt the user for login credentials, rather than having to code up 
+    a web UI to do so. This is still new and largely experimental, but it is interesting to explore!
   description: |-
-    AI-assisted "vibe programming" accelerates development, but introduces critical security risks. 
-    AI models prioritize working code over secure code, often generating SQL injection vulnerabilities, 
-    weak authentication, and XSS attack vectors. This talk demonstrates real-world security failures in 
-    AI-generated code and teaches practical prompt engineering techniques to guide models toward secure 
-    patterns. Through live examples, we'll cover embedding security requirements in prompts, reviewing 
-    AI code for vulnerabilities, and safely integrating AI-generated code into CI/CD pipelines while 
-    maintaining development velocity.
+    The <strong>Credential Management API</strong> is an up-and-coming new browser API, a tentative 
+    first step toward an interesting future where the browser handles logging in to a web application 
+    instead of the web page itself! No more having to write web UI for your login pages; using this standard, 
+    it could mean your browser would be able to handle it all for you! This even includes support for 
+    two-factor codes (via SMS), social/federated logins and hardware tokens!
+    </p>
+    <p>
+    We'll go through the four key areas supported by the Credential Management API (Passwords, OTP, Federated 
+    Logins, and Passkeys), as well as looking at some demos of the new functionality in action. We'll also 
+    explore some of the limitations of this new API at the moment.
   bio: |-
     is a Security Consultant and ex-Software Developer with over 12 years' 
     professional experience in software and security engineering many different organisations. Their 
@@ -333,7 +336,7 @@
   org: Gallagher Security / OWASP NZ
   anchor: dileo-baking
   description: |-
-    "We're Agile, so there's no time for that!"" -- This response, or something similar, is what I frequently 
+    "We're Agile, so there's no time for that!" -- This response, or something similar, is what I frequently 
     hear after telling a development team they should include threat modelling, security testing, or other 
     application security (AppSec) activities in their workflows. AppSec activities are frequently seen as 
     heavyweight tasks that will interfere with delivery, instead of the quality and efficiency multipliers 
