@@ -934,7 +934,7 @@
 - plenary: false
   selected: true
   confirmed: true
-  remote: true
+  remote: false
   day: 1
   block: 9
   track: 1
