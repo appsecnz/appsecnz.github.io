@@ -411,7 +411,7 @@
   description: |-
     "You like coffee, right? Well, have you ever thought about how you would secure your cup of coffee against 
     a would-be adversary?" This was the moment when the conversation I was having with a business person took a turn. 
-    Their initial expression of "who is this madman?"" soon changed - the more they role-played, the more they understood.
+    Their initial expression of "who is this madman?" soon changed - the more they role-played, the more they understood.
     </p>
     <p>
     Incorporating a defence-in-depth strategy can be hard to understand for non-security folk. However, when you 
@@ -584,6 +584,39 @@
   day: 1
   block: 2
   track: 0
+  title: "3 Security Hats: Different ways to look at application security"
+  name: Julian Simpson
+  name2: Dean Carter
+  name3: Bernie Garnell
+  org: SafeAdvisory
+  description: |-
+    How does a fresh graduate approach application security differently from a seasoned consultant or security architect? 
+    </p>
+    <p>
+    The SafeAdvisory team will discuss how the same security issues look different depending on the hat you wear: 
+    </p>
+    <ul>
+    <li>The grad's rules-based approach focused on standards and best practices;</li>
+    <li>The consultant's context-driven decisions balance risk and business constraints; and</li> 
+    <li>The security architect's systematic thinking that scales security across organisations.</li>
+    </ul>
+    <p>
+    Rather than competing viewpoints, this session will look at how diverse perspectives strengthen security outcomes. 
+    Dean, Bernie, and Julian will dissect several application security issues and apply three perspectives to each.
+    </p>
+    <p>
+    Get ready to put on your security hat! 
+    <br /><strong>Warning:</strong> Far too many hat jokes ahead!
+  bio: |-
+    is a Security Consultant at Safe Advisory, specialising in DevSecOps and cloud security. With more than 20 years in software 
+    development and deployment, he's previously been a systems administrator, DevOps consultant, and Swiss Army knife of 
+    startups in the UK, EU, and the USA. Now based in Hawke's Bay, he enjoys motorcycles and staying warm on the road.
+  bio2: |-
+    is a Principal Consultant and Managing Director at SafeAdvisory. Dean used to be a security "purist;" now he realises the world 
+    isn't binary. When he's not writing bios, he can be found playing his bass or drinking wine.
+  bio3: |-
+    is a Security Consultant at Safe Advisory. Having graduated from AUT in 2024, she has worn various hats: penetration testing, 
+    startups, and even selling kumara. However, she always returns to her core value of making security (and kumara) accessible to everyone.
 
 - plenary: false
   selected: true
@@ -597,7 +630,7 @@
   org: Lightspeed
   anchor: jackson-origin
   abstract: |-
-    The "same-origin policy"" is a loosely defined set of rules that has evolved over the years since Javascript 
+    The "same-origin policy" is a loosely defined set of rules that has evolved over the years since Javascript 
     was first introduced in 1995. In this talk, Kirk will explain how origins work in your web browser, and why 
     they are the fundamental protection against attacks like cross-site request forgery.
   description: |-
