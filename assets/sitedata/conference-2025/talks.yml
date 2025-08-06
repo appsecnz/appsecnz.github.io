@@ -735,7 +735,6 @@
     </p>
     <p>
     <strong>"The inner machinations of my mind are an enigma"</strong> - <em>Patrick Star</em>
-  
 
 - plenary: false
   selected: true
@@ -747,48 +746,214 @@
 
 - plenary: false
   selected: true
-  confirmed: false
-  remote: true
-  day: 1
-  block: 6
-  track: 0
-
-- plenary: false
-  selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 6
-  track: 1
+  track: 0
+  title: 'Epic Fails in AppSec: How not to set up an AppSec program'
+  name: Iqbal Singh
+  anchor: singh-fails
+  abstract: |-
+    In 2025, application security is more complex than ever, yet too many organizations find themselves stuck in endless 
+    CVE firefighting, tooling sprawl, alert fatigue, and massive JIRA backlogs. If you're ready to trade epic fails for 
+    measurable results, learn from real world missteps - join this session.
+  description: |-
+    Ever feel trapped in the CVE doom cycle, battling security gating nightmares and drowning in alert fatigue? Did that 
+    AppSec vendor promise a silver bullet for vulnerability management, only for it to fall short? Oh, wait, I need one 
+    last tool that is missing from my arsenal? Has your security team's 'OnlyScans' approach inadvertently created years 
+    of unnecessary work for your developers? Or has the promise of shift-left devolved into something closer to 'sh*t left' 
+    in your organization? Have you ever felt like DevSecOps is dead already? If any of this resonates, if you're 
+    wrestling with these very challenges, then come to my talk. 
+    </p>
+    <p>
+    Drawing on experience setting up AppSec programs at multiple organizations, we'll be dissecting these 'epic fails' in 
+    AppSec – the unrealistic expectations, the well-intentioned but flawed strategies – and, more importantly, exploring 
+    how to learn from them and build truly effective safeguards. Want to move beyond the buzzwords and the pain? Join me 
+    to discuss turning these setbacks into real security wins.
+  bio: |-
+    - From developer to AppSec guru, Iqbal has helped countless companies scale their security, he loves playing with 
+    modern security tooling. He has previously presented at OWASP AppSec Days-Singapore and DevSecOps Forums, and is 
+    a big fan of cricket and rugby.
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
+  remote: true
+  day: 1
+  block: 6
+  track: 1
+  title: 'From Reactive to Proactive: AI-powered threat modeling and code review in the SSDLC'
+  name: Sharon Ohayon Pshoul
+  org: Axonius / OWASP Isreal
+  anchor: singh-fails
+  abstract: |-
+    With a lean security team, maintaining full coverage is challenging. We started with AI-driven code reviews 
+    and expanded AI's role earlier in the SSDLC, using AI-powered threat modeling to identify risks before development 
+    begins — allowing us to scale security coverage without scaling the team.
+  description: |-
+    Even with an optimal AppSec-to-Developer ratio, traditional manual security reviews struggle to keep up with the 
+    speed and scale of modern software development. Our first major improvement came when we automated code reviews using 
+    generative AI, embedding security directly into the development pipeline. While this enhanced oversight and reduced 
+    manual effort, it was still a reactive approach, catching vulnerabilities only after the code was written. To truly 
+    transform security, we needed to push AI beyond just reviewing code and integrate it earlier in the development lifecycle.
+    </p>
+    <p>
+    By expanding AI's role to the design phase, we built a system where AI-powered threat modeling predicts security risks 
+    before development even begins. Instead of waiting for a pull request to identify security flaws, our AI-enhanced workflow 
+    assesses architectural decisions early, providing security insights at a stage where issues are easier and cheaper to fix. 
+    This proactive approach ensures that security considerations are part of the development process from the start rather than 
+    being applied as a last-minute checkpoint.
+    </p>
+    <p>
+    With this shift, security teams can focus their time and expertise where it matters most. Instead of being overwhelmed by 
+    an unmanageable volume of manual reviews, they can prioritize complex, high-impact risks while still ensuring that every 
+    feature undergoes a thorough security assessment. When AI detects an issue, it escalates it to human experts only when necessary, 
+    allowing security professionals to step in for the decisions that require judgment, experience, and deeper analysis. This approach 
+    has strengthened security oversight while improving collaboration between security and R&D, fostering a development culture where 
+    security is built in rather than bolted on.
+    </p>
+    <p>
+    By leveraging AI to bridge the gap between design and implementation, we have made security more scalable, efficient, and 
+    developer-friendly. In this session, we'll share how we successfully integrated AI-driven threat modeling and automated 
+    code reviews, the challenges we encountered, and the lessons we learned. Attendees will gain insights into practical AI 
+    applications in security and learn how to transition from reactive security reviews to a proactive approach that aligns 
+    security with modern development workflows.
+  bio: |-
+    is a security architect and team leader at Axonius, and a board member of the OWASP Israel chapter. She leads 
+    cross-functional security initiatives and support teams in building secure, scalable systems. Before stepping into 
+    architecture, Sharon spent seven years in hands-on penetration testing, which gave her a strong foundation in understanding 
+    how real-world threats work — and how to approach them effectively. She's passionate about bridging the gap between security 
+    and development, making security more approachable, and creating space for curiosity, collaboration, and continuous learning.
+
+- plenary: false
+  selected: true
+  confirmed: true
   remote: false
   day: 1
   block: 7
   track: 0
+  title: Be Less Primitive to Be More Secure
+  name: James Cooper
+  org: 2degrees
+  anchor: cooper-primitive
+  abstract: |-
+    Imploring people to avoid 'primitive obsession,' which should both help make their software better architected and much 
+    more resistant to injection attacks. Likely to be somewhat a talk version of "parse, don't validate."
+  description: |-
+    Injection attacks are number three on the 2021 OWASP Top Ten, and generally all have the same root cause: making insufficient 
+    distinction between a query and its parameters. Instead they are typically represented in a relatively primitive form 
+    (e.g., strings) with everything just shoved in together before being passed to a query interpreter. Representing different 
+    semantic concepts with merely the built-in types found in a language and its standard libraries, rather than using a language's 
+    facilities for creating your own custom types to distinguish conceptually different elements of the program, is referred to as 
+    "primitive obsession." It ignores the benefits that even unsophisticated type systems can provide, permits preventable bugs, 
+    and enables many injection attacks. This talk will discuss issues that can arise when semantically different parts of software 
+    are directly represented in the same way, and benefits that can arise from drawing distinctions between them instead — including 
+    dramatically reducing the risks of injection attacks. It is perhaps most relevant to working software developers, but should be 
+    of interest to just about everyone involved in software and its security (except maybe die-hard Clojurists).
+  bio: |-
+    holds a PhD in Computer Science and currently works at 2degrees as an Application Developer. Besides the many non-security 
+    facets of software development, he also has a keen interest in application security (and cyber security more generally), which 
+    he demonstrates by being overly active in the InfoSecNZ Discord, occasionally giving security talks, collaborating with the 
+    security team at work, and not shutting up about AppSec around his colleagues. He reads books on software development, 
+    application security, and related topics in his own time just because he is that interested (and boring).
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 7
   track: 1
+  title: 'Noisy Bots: Strategies for managing AI bots on the web'
+  name: David MacDonald
+  org: Amazon Web Services
+  anchor: macdonald-noisy
+  abstract: |-
+    The news is full of stories about bots driving high costs, poor performance, and copyright concerns when scraping data to 
+    train AI models. Recently, AI agents are now driving fraud and unwanted interactions in human-like way. In this talk I walk 
+    through strategies for managing AI bot threats.
+  description: |-
+    The first web crawler was created in 1993 to measure the size of web, and they have now evolved into modern bots powered 
+    by agentic AI. Today's Internet is increasingly populated and dominated by AI bots that interact with applications to support 
+    AI-related tasks. Bots are not a new threat on the web. However, the data requirements of Large Language Models (LLMs) and new 
+    interaction patterns enabled by AI agents has made bot behavior more problematic across many applications. Many website operators 
+    will have experienced this with high traffic volumes driving higher costs and poor performance.
+    </p>
+    <p>
+    AI bots can generally be classified into three types: AI scrapers, which systematically collect data from your application 
+    to train AI models, AI tools which surface data from your application in AI applications using Function calling, and AI agents 
+    which can autonomously navigate and interact dynamically with your application to perform complex tasks.
+    </p>
+    <p>
+    While some AI bots provide valuable services like automating tedious tasks, some malicious bots can cause significant challenges 
+    for web application owners and operators. Web applications may face the following threats caused by AI bots: Using proprietary 
+    data to train models, poor performance and high costs, and unwanted automated/agentic behavior (typically account fraud)
+    </p>
+    <p>
+    You will walk away from this talk with an understanding of how AI bots operate, and how you can implement effective controls to 
+    mitigate the threats they may cause.
+  bio: |-
+    is a Solutions Architect at Amazon Web Services and spends plenty of time helping customers across Australia and New Zealand 
+    to effectively manage DDoS attacks and bot traffic on their platforms. He also works closely with New Zealand startups to help 
+    scale their platforms globally.
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 9
   track: 0
+  title: "Being Technically Correct Isn't Always Helpful"
+  name: Dave (Karit) Robinson
+  anchor: robinson-correct
+  abstract: |-
+    Security is full of best practices and standards. Regurgitating them to devs, admins, etc., is not always helpful. 
+    The best security solution for the business is often not the correct security answer. All too often, advice isn't 
+    tailored to the audience and does not take into account their security needs.
+  description: |-
+    Security is full of best practices and standards. Regurgitating them to developers, system administrators, clients, 
+    friends, family, and so on is not always helpful. The best security solution for the business or the person is often 
+    not the "correct" security answer. All too often, advice isn't tailored to the audience and does not take into account 
+    their threats, risks, needs, or security maturity. We need to provide advice that is best for the business or the individual.
+    </p>
+    <p>
+    This talk will provide examples of poor advice and how the security industry can offer more effective guidance. If you are 
+    the recipient of bad advice, there are some suggestions on how you can better request scope or ask more effective questions 
+    during the engagement to help minimise unhelpful findings and advice.
+  bio: |-
+    has worked in various parts of the IT industry and has developed a skill set that encompasses multiple disciplines in the 
+    information security domain. Dave currently works on the blue team, keeping things secure in Wellington, and runs K&amacr;k&amacr;con.
+    </p>
+    <p>
+    Dave has presented at a range of conferences such as DefCon, Kiwicon, Aerospace Village &commat; DefCon, BSidesCBR, CHCon, 
+    Unrestcon and at numerous local Meetups, along with running training at Kiwicon, Syscan, CrikeyCon, CHCon and TuskCon. He also 
+    has a keen interest in aerospace, lock-picking, and all things wireless.
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: true
   day: 1
   block: 9
   track: 1
+  title: 'JWT WTF? A look into common JWT vulnearabilities'
+  name: Hotanya Ragtah
+  org: Bastion Security
+  anchor: ragtah-jwt
+  abstract: |-
+    JWTs are widely used for authentication, but small implementation flaws can lead to serious risks. This talk explores 
+    common JWT vulnerabilities, real-world attack scenarios, and practical tips developers can use to secure their applications.
+  description: |-
+    JSON Web Tokens (JWTs) are a common choice for handling authentication and authorisation in modern applications. But mistakes 
+    in how they're implemented can lead to big security issues.
+    </p>
+    <p>
+    In this session, we will be looking at common JWT vulnerabilities and how they can be exploited. From misconfigured algorithms 
+    to weak secrets, you'll see practical examples of what can go wrong, how these attacks work in the real world, and what 
+    developers can do to avoid them.
+  bio: |-
+    is a Lead Security Consultant at Bastion Security, with several years of experience as a penetration tester. He is also 
+    a co-organiser of the Hack The Box Auckland meetups where he helps share cyber security knowledge and upskill the next 
+    generation of cyber talent.
