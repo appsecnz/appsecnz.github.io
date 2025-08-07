@@ -662,6 +662,17 @@
   day: 1
   block: 3
   track: 0
+  title: 'Digital Sanctuary: Learning threat-informed defence from nature conservation'
+  name: Gregory Mason
+  org: Contact Energy
+  anchor: mason-sanctuary
+  description: |-
+    Aotearoa's unique native species are <em>taonga</em>, treasures, needing protection from the pests and predators that 
+    threaten them. Let's follow the story of Zealandia to explore the approaches taken in biosecurity, find lessons and 
+    parallels, and learn what Threat-Informed Defence looks like for a wildlife sanctuary.
+  bio: |-
+    is a Security Operations Engineer by day; nerd and nature advocate, also by day; they sleep at night. 
+    They specialise in teaching through story and drawing PowerPoint slides.
 
 - plenary: false
   selected: true
