@@ -247,6 +247,26 @@
   day: 0
   block: 4
   track: 1
+  title: Lessons from Real-World Campaigns against Web Apps
+  name: Kade Morton
+  org: Arachne Digital
+  anchor: morton-campaigns
+  description: |-
+    Web applications remain one of the most common, and most attractive, targets for attackers, from 
+    opportunistic script kiddies to advanced persistent threats (APTs). This talk examines real-world 
+    campaigns where adversaries exploited application flaws to gain access, escalate privileges, and 
+    exfiltrate data. By mapping these campaigns to the MITRE ATT&CK framework, we'll break down the 
+    tactics, techniques, and procedures (TTPs) used at every stage of the attack chain.
+    </p>
+    <p>
+    Attendees will see how these insights can inform a threat-informed defence strategy: prioritising 
+    mitigations that align to real adversary behaviours, improving threat models, and enabling proactive 
+    threat hunting. We'll explore case studies across different threat levels, from mass-exploitation of 
+    misconfigurations to targeted attacks, drawing lessons for secure development, incident response, and 
+    security architecture.
+  bio: |-
+    is CEO of Arachne Digital. He focuses on driving platform design and threat intelligence analysis, 
+    with a passion for open-source software and public domain advocacy.
 
 - plenary: false
   selected: true
@@ -436,10 +456,11 @@
   track: 1
   title: Making Security a Business Priority with Rapid Threat Modelling
   name: Michael Matthee
+  anchor: matthee-modelling
   org: Cyber CX
   linkedin: michaelhmatthee
   description: |-
-    Ten years ago, my threat modeling was...messy — fruitless exercises from the tech dungeon, jargon-filled 
+    Ten years ago, my threat modelling was...messy — fruitless exercises from the tech dungeon, jargon-filled 
     diagrams no one understood, and those dreaded 50-page risk reports doomed to collect dust (never again!). 
     Threat modelling doesn't have to be slow, painful, or disconnected from the business. This talk shows how 
     I ran rapid 30-minute sessions tied directly to business goals like revenue, strategy, and growth.
