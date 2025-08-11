@@ -429,11 +429,43 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 8
   track: 1
+  title: Making Security a Business Priority with Rapid Threat Modelling
+  name: Michael Matthee
+  org: Cyber CX
+  linkedin: michaelhmatthee
+  description: |-
+    Ten years ago, my threat modeling was...messy — fruitless exercises from the tech dungeon, jargon-filled 
+    diagrams no one understood, and those dreaded 50-page risk reports doomed to collect dust (never again!). 
+    Threat modelling doesn't have to be slow, painful, or disconnected from the business. This talk shows how 
+    I ran rapid 30-minute sessions tied directly to business goals like revenue, strategy, and growth.
+    </p>
+    <p>
+    This is a messy story of how I figured out how to:
+    <ul>
+    <li>Facilitate threat models to different audiences — business execs for strategy and engineers for tech — 
+    and get the tech to speak business;</li>
+    <li>Add structure and time-box threat modeling for maximum impact; and</li>
+    <li>Tier systems and prioritize what truly matters, fast.</li>
+    </ul>
+  bio: |-
+    - "Learn, grow, then apply to win" — This principle has guided my 18-year cybersecurity journey. I began in 
+    software engineering, designing enterprise systems for global organizations, but my true passion emerged when 
+    I started teaching cybersecurity — simplifying complex security concepts for engineers, executives, and 
+    future security leaders.
+    </p>
+    <p>
+    With hands-on experience securing financial systems, SaaS platforms, and critical infrastructure, I've built 
+    security-first cultures, transformed security postures, and automated security at scale.
+    </p>
+    <p>
+    From securing Canada's oldest bank to co-designing the security architecture for a $60M blockchain initiative, 
+    I focus on solutions that reduce risk while enabling business growth. I've led penetration testing for a 
+    $140M-funded startup, optimized WAF security to block 60% of attacks, and achieved 99% MFA adoption in one month.
 
 - plenary: false
   selected: true
