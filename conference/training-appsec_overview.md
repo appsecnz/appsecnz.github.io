@@ -48,10 +48,11 @@ The topics we'll cover during this half-day session include:
 
 <img src="/assets/images/2025/Photo-John_DiLeo.png" alt="Photo of John DiLeo" style="float: left; width: 125px; margin-right: 15px;" />
 
-**Dr. John DiLeo** is Leader of the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at 
-[Gallagher Security](https://gallagher.com). In a recent role, John managed the Application Security Services team at Datacom, 
-providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs.  
- 
-Before turning to full-time roles in application security, John was active as a Java enterprise architect and Web application developer. In earlier lives, John has been a full-time professor and had specialized in developing discrete-event simulations of large distributed systems.  
+**Dr. John DiLeo** leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher 
+Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom, 
+providing support and guidance to clients in launching, managing, and maturing their enterprise software 
+assurance programs.
 
-John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, leads the OWASP State of AppSec Survey and SAMMwise Projects, and is a member of the OWASP Education and Training Committee. Twitter: [@gr4ybeard](https://www.twitter.com/gr4ybeard)
+Before turning to full-time roles in security, John was active as a Java enterprise architect and Web 
+application developer. In earlier lives, John has been a full-time professor and had specialized in 
+developing discrete-event simulations of large distributed systems. Twitter: [@gr4ybeard](https://www.twitter.com/gr4ybeard)

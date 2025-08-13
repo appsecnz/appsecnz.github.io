@@ -351,10 +351,12 @@
   day: 0
   block: 7
   track: 0
-  title: "Baking Security In: An AppSec 'Critical Path' for developers"
+  title: "Baking Security In: An AppSec 'critical path' for developers"
   name: John DiLeo
   org: Gallagher Security / OWASP NZ
   anchor: dileo-baking
+  twitter: gr4ybeard
+  linkedin: john-dileo
   description: |-
     "We're Agile, so there's no time for that!" -- This response, or something similar, is what I frequently 
     hear after telling a development team they should include threat modelling, security testing, or other 
