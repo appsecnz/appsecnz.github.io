@@ -142,7 +142,7 @@
   track: 0
   anchor: wilson-llm
   title: The Machines Are Learning, But Are We? 
-  name: Stev Wilson
+  name: Steve Wilson
   org: Exabeam
   abstract: |-
     As technology rapidly evolves, security teams struggle to keep up. Limited visibility 
@@ -608,7 +608,7 @@
 
 - plenary: false
   selected: true
-  confirmed: true
+  confirmed: false
   remote: true
   day: 0
   block: 11
