@@ -40,21 +40,36 @@
   day: 0
   block: 6
 
-- active: false
+- active: true
   day: 0
   block: 7
+  name: Secure Code Warrior
+  anchor: scw-tournament-1
+  title: 'Battle the Balrog: An SCW tournament'
+  description: |-
+     Secure Code Warrior invites you to enhance your conference experience with an engaging, hands-on security tournament. 
+     This interactive event allows attendees to test their skills in identifying, locating, and fixing vulnerabilities in 
+     defensive real-world code challenges — all in various coding languages. Designed for all skill levels, the tournament 
+     offers an educational and competitive experience that highlights the importance of secure coding practices. Join for 
+     your chance to win a Lord Of The Rings LEGO set!
   
-- active: false
+- active: true
   day: 0
   block: 8
+  name: Secure Code Warrior
+  anchor: scw-tournament-2
+  title: "Secure Coding Tournament (con't)"
   
 - active: false
   day: 0
   block: 9
 
-- active: false
+- active: true
   day: 0
   block: 10  
+  name: Secure Code Warrior
+  anchor: scw-tournament-3
+  title: "Secure Coding Tournament (con't)"
   
 - active: false
   day: 0
