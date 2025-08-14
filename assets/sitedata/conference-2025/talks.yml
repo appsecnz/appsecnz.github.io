@@ -610,27 +610,30 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: true
   day: 0
   block: 11
   track: 1
-  title: Security CI/CD Runners through eBPF
-  name: Mert Coskuner
-  anchor: coskuner-runners
-  abstract: |-
-    In this presentation, we will share some of our observation through showing different flavours of attack on 
-    possible development pipelines, and introduce a tool to detect them.
+  title: Insights from a Year of Security Testing
+  name: Ian Peters
+  anchor: peters-insights
   description: |-
-    CI/CD pipelines are complex environments. This complexity requires methodical comprehensive reviews to secure the 
-    entire stack. Often a company may lack the time, specialist security knowledge, and people needed to secure their 
-    CI/CD pipelines. Realising these facts, cyberattacks targeting CI/CD pipelines have been gaining momentum, and 
-    attackers increasingly understand that build pipelines are highly-privileged targets with a substantial attack 
-    surface. In this presentation, we will share some of our observation through showing different flavours of attack 
-    on possible development pipelines, and introduce a tool to detect them.
+    CyberCX performed over 2,500 security testing and assurance engagements in 2024, in addition to a range of 
+    Application Security (AppSec) and Adversary Simulation engagements. In this talk, we will look at key trends 
+    which emerged from analysing the more than 26,000 findings identified, and considering these given the current 
+    threat landscape. For system owners, we will consider areas where penetration testing offers value, and where 
+    it falls short. For developers, we will identify some areas you can focus on for important wins while racing 
+    towards immovable deadlines. And we will discuss some of the insights we have gained on the maturing of 
+    AppSec in more regulated sectors.
   bio: |-
-    is an experienced security engineer who has worked for numerous well-known tech companies. He is a veteran pentester, 
-    red teamer, security researcher and malware &amp; cryptography nerd.
+    has been involved in Information Security his entire career, starting with the UK government in 2000. His experience 
+    has included security testing, code review, threat modelling, security certifications and compliance, exploit development, 
+    and a wide range of other activities. After an initial 10 years of security testing and other associated work, Ian managed 
+    non-NA government certifications for BlackBerry, before returning to the security testing world providing bespoke security 
+    consultancy services as he travelled around the world. Ian moved to New Zealand in 2018, and has provided oversight, testing 
+    of complex systems, and assistance to his team in that time, and is currently the Director of Security Testing &amp; 
+    Assurance at CyberCX NZ.
 
 - plenary: false
   selected: true
