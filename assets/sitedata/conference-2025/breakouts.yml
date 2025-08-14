@@ -37,7 +37,7 @@
   block: 5
   name: SecDim
   anchor: secdim-attack-defence
-  title: 'SecDim Attack &amp; Defence Challenge: A novel way to hyper-engage everyone in AppSec'
+  title: 'SecDim Attack &amp; Defence Challenge'
   description: |-
      A hands-on session, where teams go head-to-head in an AppSec wargame. You'll take on real-world vulnerabilities, 
      switch between attacker and defender roles, and learn from each other in real time. No fluff—just code, exploits, 
@@ -123,7 +123,7 @@
   block: 3
   name: SecDim
   anchor: secdim-ai-mentor
-  title: 'SecDim AI Mentor: A tailored secure code learning path for developers'
+  title: 'SecDim AI Mentor'
   description: |-
      See how SecDim's AI mentor (Dr.SecDim) supports developers as they write and fix vulnerable code. This 
      session demos live scenarios where the Dr.SecDim provides contextual, code-aware guidance and builds a 
