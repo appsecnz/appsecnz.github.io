@@ -32,9 +32,16 @@
   day: 0
   block: 4
 
-- active: false
+- active: true
   day: 0
   block: 5
+  name: SecDim
+  anchor: secdim-attack-defence
+  title: 'SecDim Attack &amp; Defence Challenge: A novel way to hyper-engage everyone in AppSec'
+  description: |-
+     A hands-on session, where teams go head-to-head in an AppSec wargame. You'll take on real-world vulnerabilities, 
+     switch between attacker and defender roles, and learn from each other in real time. No fluff—just code, exploits, 
+     and practical learning.
     
 - active: false
   day: 0
@@ -99,16 +106,16 @@
   day: 1
   block: 2
   
-- active: false
+- active: true
   day: 1
   block: 3
-  name: Datacom
-  anchor: datacom-bas-2
-  title: 'Breach and Attack Simulation (BAS): Automating the validation of WAF controls'
+  name: SecDim
+  anchor: secdim-ai-mentor
+  title: 'SecDim AI Mentor: A tailored secure code learning path for developers'
   description: |-
-     What is BAS and how does it align to AppSec? Recently stood up a new web application behind a WAF and want to 
-     validate that rules are working? Datacom's demo of BAS and automating the validation of WAF controls in partnership 
-     with AttackIQ can help with these scenarios and more!
+     See how SecDim's AI mentor (Dr.SecDim) supports developers as they write and fix vulnerable code. This 
+     session demos live scenarios where the Dr.SecDim provides contextual, code-aware guidance and builds a 
+     tailored learning path that adapts to each developer's strengths and gaps.
     
 - active: false
   day: 1

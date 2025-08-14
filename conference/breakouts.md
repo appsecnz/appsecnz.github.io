@@ -16,7 +16,7 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## OWASP New Zealand Day 2025
 
-### Room: Case Room 4
+### Room: Case Room 3
 
 In addition to our two main conference presentation tracks, some of our sponsors and affiliated organisations are hosting parallel sessions throughout Thursday and Friday.
 
