@@ -611,7 +611,7 @@
 - plenary: false
   selected: true
   confirmed: true
-  remote: true
+  remote: false
   day: 0
   block: 11
   track: 1
