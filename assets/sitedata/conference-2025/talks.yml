@@ -812,6 +812,23 @@
   day: 1
   block: 4
   track: 1
+  name: Peter Jakowetz
+  org: PrivSec Consulting
+  anchor: jakowetz-no
+  title: Computer Says No
+  description: |-
+    Have you ever been told that you can't do something because of "security reasons"? Building and shipping things 
+    doesn't have to be a constant trade-off between security and speed.
+    </p>
+    <p>
+    Security teams saying 'no' is the path of least resistance, but let's dig into how it's possible to build and 
+    ship software with security considerations baked in to every stage of the SDLC. We'll also cover off some common 
+    cases where the default answer is negative, and discuss technical solutions that allow for people to perform their 
+    jobs with a minimum of fuss AND stay secure.
+  bio: |-
+    is the Managing Director of PrivSec Consulting, a P&omacr;neke-based security consultancy who work with Government 
+    and Commercial organizations to provide high quality assurance and pen testing services to the NZ market. When he's 
+    not behind a computer, he's hanging out with his kid or attempting to tame the jungle that is his backyard.
 
 - plenary: false
   selected: true
