@@ -550,11 +550,36 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 0
   block: 10
   track: 1
+  title: Thoughts on Threat Modelling
+  name: John DiLeo
+  org: Gallagher Security / OWASP NZ
+  anchor: dileo-thoughts
+  abstract: |-
+    Working in various AppSec consulting roles, I've had numerous opportunities over the years, to present training and talks on threat modelling
+    - even spending a year where selling a commercial tool was my day job. 
+    Throughout all that, my thinking has evolved, and I've focused on using threat modeling as a source of "consequential" security 
+    requirements: security features our applications require <strong>as a consequence</strong> of including a functional capability specified 
+    by or on behalf of our users.
+    </p>
+    <p>
+    The approach I teach and facilitate is based on Adam Shostack's "Four Questions," but has been expanded and (I think) clarified. In this 
+    talk, I'll briefly touch on the "Five Ws" (Why, What, When, Where, and Who) of threat modelling, then present an overview of my 
+    "Seven Questions" approach to modelling.
+  bio: |-
+    leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher 
+    Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom, 
+    providing support and guidance to clients in launching, managing, and maturing their enterprise software 
+    assurance programs.
+    </p>
+    <p>
+    Before turning to full-time roles in security, John was active as a Java enterprise architect and Web 
+    application developer. In earlier lives, John has been a full-time professor and had specialized in 
+    developing discrete-event simulations of large distributed systems.
 
 - plenary: false
   selected: true
