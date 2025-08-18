@@ -1049,7 +1049,7 @@
   day: 1
   block: 9
   track: 1
-  title: 'JWT WTF? A look into common JWT vulnearabilities'
+  title: 'JWT WTF? A look into common JWT vulnerabilities'
   name: Hotanya Ragtah
   org: Bastion Security
   anchor: ragtah-jwt
