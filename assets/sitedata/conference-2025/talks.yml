@@ -766,7 +766,6 @@
   track: 1
   title: 'Legacy to Legendary: Sustainable patterns and practices for app modernisation'
   name: "Bernard O'Leary"
-  org: UbiQuity
   anchor: oleary-legacy
   abstract: |-
     Lots of successful software runs at least partially on legacy code and/or architecture. Modernisation 
@@ -790,8 +789,7 @@
     architectures and design patterns, emergent generative AI tooling, the AI-enabled developer mindset, and practices 
     and norms that lend themselves to legacy transformation.
   bio: |-
-    takes care of the engineering capability for a Kiwi marketing automation product called 
-    <a href="https://www.ubiquity.co.nz" target="_blank">UbiQuity</a>. He's worked in tech for more than 20 years, 
+    has worked in tech for more than 20 years, 
     starting in programming, and in more recent years, in architecture and leadership. He spends his weekends following 
     his young-adult kids'' football commitments. It's ridiculous how much he's prepared to pay for a good craft beer.
   
