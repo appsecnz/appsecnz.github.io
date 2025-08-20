@@ -24,13 +24,30 @@
   day: 0
   block: 2
 
-- active: false
+- active: true
   day: 0
   block: 3
+  name: CyberCX
+  title: Rapid Design Review - A Simulation
+  description: |-
+    Join us for a hands-on simulation where we apply threat modeling techniques to uncover high-priority threats 
+    in ACME organization (a simulated environment). Drawing insights from the CCX Hack Report and CCX Threat Report, 
+    we'll prioritize the weakest links and explore smart ways to invest ACME's security testing budget. Walk away 
+    with a practical approach to assess the strength of security defenses.
 
-- active: false
+- active: true
   day: 0
   block: 4
+  name: Exabeam
+  anchor: exabeam-secops
+  title: AI-Powered Security Operations
+  description: |-
+    <strong>AI-Powered Security Operations: A Tour of the Exabeam New-Scale Platform</strong><br />
+    This demo provides a comprehensive overview of the Exabeam New-Scale security operations platform, showcasing 
+    its capabilities for both security analysts and leadership. It highlights how the platform uses AI and automation 
+    to streamline threat detection, investigation, and response. The session walks through a practical use case, 
+    demonstrating how machine learning and the "Exabeam Nova" AI assistant work together to reduce alert noise, guide 
+    analysts through investigations, and provide strategic insights into an organization's security posture.
 
 - active: true
   day: 0
@@ -39,9 +56,10 @@
   anchor: secdim-attack-defence
   title: 'SecDim Attack &amp; Defence Challenge'
   description: |-
-     A hands-on session, where teams go head-to-head in an AppSec wargame. You'll take on real-world vulnerabilities, 
-     switch between attacker and defender roles, and learn from each other in real time. No fluff — just code, exploits, 
-     and practical learning.
+    <strong>SecDim Attack &amp; Defence Challenge: A novel way to hyper-engage everyone in AppSec</strong><br />
+    A hands-on session, where teams go head-to-head in an AppSec wargame. You'll take on real-world vulnerabilities, 
+    switch between attacker and defender roles, and learn from each other in real time. No fluff — just code, exploits, 
+    and practical learning.
     
 - active: false
   day: 0
@@ -125,13 +143,24 @@
   anchor: secdim-ai-mentor
   title: 'SecDim AI Mentor'
   description: |-
+    <strong>SecDim AI Mentor: A tailored secure code learning path for developers</strong><br />
      See how SecDim's AI mentor (Dr.SecDim) supports developers as they write and fix vulnerable code. This 
      session demos live scenarios where the Dr.SecDim provides contextual, code-aware guidance and builds a 
      tailored learning path that adapts to each developer's strengths and gaps.
     
-- active: false
+- active: true
   day: 1
   block: 4
+  name: Exabeam
+  anchor: exabeam-secops2
+  title: AI-Powered Security Operations
+  description: |-
+    <strong>AI-Powered Security Operations: A Tour of the Exabeam New-Scale Platform</strong><br />
+    This demo provides a comprehensive overview of the Exabeam New-Scale security operations platform, showcasing 
+    its capabilities for both security analysts and leadership. It highlights how the platform uses AI and automation 
+    to streamline threat detection, investigation, and response. The session walks through a practical use case, 
+    demonstrating how machine learning and the "Exabeam Nova" AI assistant work together to reduce alert noise, guide 
+    analysts through investigations, and provide strategic insights into an organization's security posture.
 
 - active: false
   day: 1
