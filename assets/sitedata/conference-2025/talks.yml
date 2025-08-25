@@ -701,7 +701,7 @@
   track: 1
   title: 'From Reactive to Proactive: AI-powered threat modeling and code review in the SSDLC'
   name: Sharon Ohayon Pshoul
-  org: Axonius / OWASP Isreal
+  org: Axonius / OWASP Israel
   anchor: singh-fails
   abstract: |-
     With a lean security team, maintaining full coverage is challenging. We started with AI-driven code reviews 
