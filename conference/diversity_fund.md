@@ -16,7 +16,7 @@ sponsorsEventName: OWASP New Zealand Day 2025
 
 ## OWASP New Zealand Day 2025
 
-**Applications for support through our Diversity and Financial Fund opened on 15th July, and will be accepted on a continuing basis, until 22nd August (or sooner, if funds are exhausted).**
+**Applications for support through our Diversity and Financial Fund opened on 15th July, and have now closed.**
 
 Each year, we have some funding available to help people from around New Zealand attend the OWASP New Zealand Day conference, who would otherwise find it hard to attend. In particular, we welcome applications from women, people of colour, LGBTQ2IA, Pacific Island indigenous peoples, and all others. You all deserve to be able to learn more about security, and we’ll do our best to help make that happen!
 
