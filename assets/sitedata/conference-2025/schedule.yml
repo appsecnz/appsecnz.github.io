@@ -54,7 +54,7 @@
     start: '16:40'
     end: '17:00'
     plenary: true
-  - block: 14
+  - block: 12
     plenary: true
 - day: 1
   dayofweek: Friday
