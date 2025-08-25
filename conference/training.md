@@ -41,7 +41,7 @@ The registration and information desk is located in the lower level (Level 0) fo
 
 ## Training Schedule
 
-In addition the main conference on Thursday and Friday, we are offering a selection of world-class training opportunities on Tuesday and Wednesday. Our training schedule includes a mix of two-day and half-day classes, offered in different formats (face-to-face, instructor-remote, and live online), as listed for each class.
+In addition the main conference on Thursday and Friday, we are offering a selection of world-class training opportunities on Tuesday and Wednesday. Our training schedule includes one (1) two-day live online class and two (2) half-day face-to-face classes.
 
 Each day, regardless of format, classes will follow this schedule (all times are NZST):
 
@@ -67,9 +67,9 @@ Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From
 
 #### Two-day, classroom training - Tuesday and Wednesday, 2-3 September:
 
-* *[Reverse Engineering Proprietary Protocols](training-reverse_engineering_proprietary_protocols.md)* (Face-to-Face), Munawwar Hussain Shelia
+* **CANCELLED:** *[Reverse Engineering Proprietary Protocols](training-reverse_engineering_proprietary_protocols.md)* (Face-to-Face), Munawwar Hussain Shelia
 
-* *[Full-Stack Pentesting Laboratory: 100% Hands-On](training-full_stack_app_pentesting.md)* (Instructor-Remote), Dawid Czagan
+* **CANCELLED:** *[Full-Stack Pentesting Laboratory: 100% Hands-On](training-full_stack_app_pentesting.md)* (Instructor-Remote), Dawid Czagan
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 3 September:
 

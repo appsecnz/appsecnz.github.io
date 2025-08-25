@@ -11,54 +11,48 @@
     start: '08:00'
     plenary: true
   - block: 1
-    start: '09:00'
-    plenary: true
-  - block: 2
     start: '09:10'
     end: '09:55'
     plenary: true
-  - block: 3
+  - block: 2
     start: '10:00'
     end: '10:50'
     plenary: true
-  - block: 4
+  - block: 3
     start: '10:55'
     end: '11:25'
     plenary: false
-  - block: 5
+  - block: 4
     start: '11:30'
     end: '12:00'
     plenary: false
-  - block: 6
+  - block: 5
     start: '12:00'
     end: '13:30'
     plenary: true
-  - block: 7
+  - block: 6
     start: '13:30'
     end: '14:20'
     plenary: false
-  - block: 8
+  - block: 7
     start: '14:25'
     end: '14:55'
     plenary: false
-  - block: 9
+  - block: 8
     start: '14:55'
     end: '15:30'
     plenary: true
-  - block: 10
+  - block: 9
     start: '15:30'
     end: '16:00'
     plenary: false
-  - block: 11
+  - block: 10
     start: '16:05'
     end: '16:35'
     plenary: false
-  - block: 12
+  - block: 11
     start: '16:40'
     end: '17:00'
-    plenary: true
-  - block: 13
-    start: '18:00'
     plenary: true
   - block: 14
     plenary: true

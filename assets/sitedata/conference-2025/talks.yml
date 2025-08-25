@@ -43,47 +43,35 @@
   day: 0
   block: 1
   track: 0
-  info: true
-  title: Delegate Lounge Opens
-
-- plenary: true
-  day: 0
-  block: 2
-  track: 0
   info: false
   title: Opening Session - Welcome to OWASP New Zealand Day 2025!
 
 - plenary: true
   day: 0
-  block: 6
+  block: 5
   track: 0
   info: true
   title: Break for Lunch
+  name: On Your Own
 
 - plenary: true
   day: 0
-  block: 9
+  block: 8
   track: 0
   info: true
   title: Break for Afternoon Tea
+  name: On Your Own
 
 - plenary: true
   day: 0
-  block: 12
+  block: 11
   track: 0
   info: false
   title: Wrap-Up - Day 1
 
 - plenary: true
   day: 0
-  block: 13
-  track: 0
-  info: true
-  title: Delegate Lounge Closes
-
-- plenary: true
-  day: 0
-  block: 14
+  block: 12
   track: 0
   info: true
   name: Evening Activities - On Your Own
@@ -94,7 +82,6 @@
   track: 0
   info: true
   title: Registration Opens - Level 1 Foyer, Sir Owen G. Glenn Building (OGGB)
-  name: Delegate Lounge Opens
 
 - plenary: true
   day: 1
@@ -108,7 +95,8 @@
   day: 1
   block: 5
   track: 0
-  title: Break for Lunch
+  title: Break for Lunch 
+  name: On Your Own
 
 - plenary: true
   info: true
@@ -116,6 +104,7 @@
   block: 8
   track: 0
   title: Break for Afternoon Tea
+  name: On Your Own
 
 - plenary: true
   info: false
@@ -138,7 +127,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 3
+  block: 2
   track: 0
   anchor: wilson-llm
   title: The Machines Are Learning, But Are We? 
@@ -168,7 +157,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 3
+  block: 2
   track: 1
   title: OWASP Top 10 Introduction
   name: Austin Chamberlain
@@ -204,7 +193,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 4
+  block: 3
   track: 0
   title: 'Security Champions: From paper to reality'
   name: Anna Lezhikova
@@ -245,7 +234,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 4
+  block: 3
   track: 1
   title: Lessons from Real-World Campaigns against Web Apps
   name: Kade Morton
@@ -273,7 +262,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 5
+  block: 4
   track: 0
   title: 'Good Vibes Only: A security guide to AI programming'
   name: Oliver Szimmetat
@@ -310,7 +299,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 5
+  block: 4
   track: 1
   title: Credential Management API
   name: Matt (TC) Cotterell
@@ -349,7 +338,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 7
+  block: 6
   track: 0
   title: "Baking Security In: An AppSec 'critical path' for developers"
   name: John DiLeo
@@ -387,7 +376,7 @@
   confirmed: true
   remote: true
   day: 0
-  block: 7
+  block: 6
   track: 1
   title: "Security and Accessibility Can Be Friends!"
   name: Gian Wild
@@ -420,7 +409,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 8
+  block: 7
   track: 0
   title: 'How to Secure a Cup of Black Gold (coffee, not oil)'
   name: David (Moss) Jennings
@@ -454,7 +443,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 8
+  block: 7
   track: 1
   title: Making Security a Business Priority with Rapid Threat Modelling
   name: Michael Matthee
@@ -495,7 +484,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 10
+  block: 9
   track: 0
   title: Supply Chain Vulnerabilities in the Supply Chain Vulnerability Ecosystem
   name: Kris Hardy
@@ -553,7 +542,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 10
+  block: 9
   track: 1
   title: Thoughts on Threat Modelling
   name: John DiLeo
@@ -586,7 +575,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 11
+  block: 10
   track: 0
   title: Securing Your Next Application through Security Architecture
   name: Htaik Htaik Thone
@@ -638,7 +627,7 @@
   confirmed: true
   remote: false
   day: 0
-  block: 11
+  block: 10
   track: 1
   title: Insights from a Year of Security Testing
   name: Ian Peters
@@ -710,33 +699,48 @@
   day: 1
   block: 2
   track: 1
-  title: 'Same-Origin Policy: The core of web security'
-  name: Kirk Jackson
-  org: Lightspeed
-  anchor: jackson-origin
+  title: 'From Reactive to Proactive: AI-powered threat modeling and code review in the SSDLC'
+  name: Sharon Ohayon Pshoul
+  org: Axonius / OWASP Isreal
+  anchor: singh-fails
   abstract: |-
-    The "same-origin policy" is a loosely defined set of rules that has evolved over the years since Javascript 
-    was first introduced in 1995. In this talk, Kirk will explain how origins work in your web browser, and why 
-    they are the fundamental protection against attacks like cross-site request forgery.
+    With a lean security team, maintaining full coverage is challenging. We started with AI-driven code reviews 
+    and expanded AI's role earlier in the SSDLC, using AI-powered threat modeling to identify risks before development 
+    begins — allowing us to scale security coverage without scaling the team.
   description: |-
-    The "same-origin policy"" is a loosely defined set of rules that has evolved over the years since Javascript 
-    was first introduced in 1995. 
+    Even with an optimal AppSec-to-Developer ratio, traditional manual security reviews struggle to keep up with the 
+    speed and scale of modern software development. Our first major improvement came when we automated code reviews using 
+    generative AI, embedding security directly into the development pipeline. While this enhanced oversight and reduced 
+    manual effort, it was still a reactive approach, catching vulnerabilities only after the code was written. To truly 
+    transform security, we needed to push AI beyond just reviewing code and integrate it earlier in the development lifecycle.
     </p>
     <p>
-    In this talk, Kirk will explain how origins work in your web browser, and why 
-    they are the fundamental protection against attacks like cross-site request forgery.
+    By expanding AI's role to the design phase, we built a system where AI-powered threat modeling predicts security risks 
+    before development even begins. Instead of waiting for a pull request to identify security flaws, our AI-enhanced workflow 
+    assesses architectural decisions early, providing security insights at a stage where issues are easier and cheaper to fix. 
+    This proactive approach ensures that security considerations are part of the development process from the start rather than 
+    being applied as a last-minute checkpoint.
     </p>
     <p>
-    Along the way, we'll look at how you can leverage the same-origin policy to protect data on your site, and 
-    how you can bend it to your will to allow functionality to be hosted on multiple URLs – such as cross-origin 
-    resource sharing (CORS), PostMessage, and JSONP.
+    With this shift, security teams can focus their time and expertise where it matters most. Instead of being overwhelmed by 
+    an unmanageable volume of manual reviews, they can prioritize complex, high-impact risks while still ensuring that every 
+    feature undergoes a thorough security assessment. When AI detects an issue, it escalates it to human experts only when necessary, 
+    allowing security professionals to step in for the decisions that require judgment, experience, and deeper analysis. This approach 
+    has strengthened security oversight while improving collaboration between security and R&D, fostering a development culture where 
+    security is built in rather than bolted on.
+    </p>
+    <p>
+    By leveraging AI to bridge the gap between design and implementation, we have made security more scalable, efficient, and 
+    developer-friendly. In this session, we'll share how we successfully integrated AI-driven threat modeling and automated 
+    code reviews, the challenges we encountered, and the lessons we learned. Attendees will gain insights into practical AI 
+    applications in security and learn how to transition from reactive security reviews to a proactive approach that aligns 
+    security with modern development workflows.
   bio: |-
-    works at Lightspeed, and has previously been involved in helping organise the OWASP Wellington Meetup and the
-    annual OWASP New Zealand Day conference in Auckland.
-    </p>
-    <p>
-    Kirk worked as a web developer before switching to the defence team - setting up Xero's security practice, 
-    working as a pen tester, and in defence roles at several companies.
+    is a security architect and team leader at Axonius, and a board member of the OWASP Israel chapter. She leads 
+    cross-functional security initiatives and support teams in building secure, scalable systems. Before stepping into 
+    architecture, Sharon spent seven years in hands-on penetration testing, which gave her a strong foundation in understanding 
+    how real-world threats work — and how to approach them effectively. She's passionate about bridging the gap between security 
+    and development, making security more approachable, and creating space for curiosity, collaboration, and continuous learning.
 
 - plenary: false
   selected: true
@@ -892,48 +896,33 @@
   day: 1
   block: 6
   track: 1
-  title: 'From Reactive to Proactive: AI-powered threat modeling and code review in the SSDLC'
-  name: Sharon Ohayon Pshoul
-  org: Axonius / OWASP Isreal
-  anchor: singh-fails
+  title: 'Same-Origin Policy: The core of web security'
+  name: Kirk Jackson
+  org: Lightspeed
+  anchor: jackson-origin
   abstract: |-
-    With a lean security team, maintaining full coverage is challenging. We started with AI-driven code reviews 
-    and expanded AI's role earlier in the SSDLC, using AI-powered threat modeling to identify risks before development 
-    begins — allowing us to scale security coverage without scaling the team.
+    The "same-origin policy" is a loosely defined set of rules that has evolved over the years since Javascript 
+    was first introduced in 1995. In this talk, Kirk will explain how origins work in your web browser, and why 
+    they are the fundamental protection against attacks like cross-site request forgery.
   description: |-
-    Even with an optimal AppSec-to-Developer ratio, traditional manual security reviews struggle to keep up with the 
-    speed and scale of modern software development. Our first major improvement came when we automated code reviews using 
-    generative AI, embedding security directly into the development pipeline. While this enhanced oversight and reduced 
-    manual effort, it was still a reactive approach, catching vulnerabilities only after the code was written. To truly 
-    transform security, we needed to push AI beyond just reviewing code and integrate it earlier in the development lifecycle.
+    The "same-origin policy"" is a loosely defined set of rules that has evolved over the years since Javascript 
+    was first introduced in 1995. 
     </p>
     <p>
-    By expanding AI's role to the design phase, we built a system where AI-powered threat modeling predicts security risks 
-    before development even begins. Instead of waiting for a pull request to identify security flaws, our AI-enhanced workflow 
-    assesses architectural decisions early, providing security insights at a stage where issues are easier and cheaper to fix. 
-    This proactive approach ensures that security considerations are part of the development process from the start rather than 
-    being applied as a last-minute checkpoint.
+    In this talk, Kirk will explain how origins work in your web browser, and why 
+    they are the fundamental protection against attacks like cross-site request forgery.
     </p>
     <p>
-    With this shift, security teams can focus their time and expertise where it matters most. Instead of being overwhelmed by 
-    an unmanageable volume of manual reviews, they can prioritize complex, high-impact risks while still ensuring that every 
-    feature undergoes a thorough security assessment. When AI detects an issue, it escalates it to human experts only when necessary, 
-    allowing security professionals to step in for the decisions that require judgment, experience, and deeper analysis. This approach 
-    has strengthened security oversight while improving collaboration between security and R&D, fostering a development culture where 
-    security is built in rather than bolted on.
-    </p>
-    <p>
-    By leveraging AI to bridge the gap between design and implementation, we have made security more scalable, efficient, and 
-    developer-friendly. In this session, we'll share how we successfully integrated AI-driven threat modeling and automated 
-    code reviews, the challenges we encountered, and the lessons we learned. Attendees will gain insights into practical AI 
-    applications in security and learn how to transition from reactive security reviews to a proactive approach that aligns 
-    security with modern development workflows.
+    Along the way, we'll look at how you can leverage the same-origin policy to protect data on your site, and 
+    how you can bend it to your will to allow functionality to be hosted on multiple URLs – such as cross-origin 
+    resource sharing (CORS), PostMessage, and JSONP.
   bio: |-
-    is a security architect and team leader at Axonius, and a board member of the OWASP Israel chapter. She leads 
-    cross-functional security initiatives and support teams in building secure, scalable systems. Before stepping into 
-    architecture, Sharon spent seven years in hands-on penetration testing, which gave her a strong foundation in understanding 
-    how real-world threats work — and how to approach them effectively. She's passionate about bridging the gap between security 
-    and development, making security more approachable, and creating space for curiosity, collaboration, and continuous learning.
+    works at Lightspeed, and has previously been involved in helping organise the OWASP Wellington Meetup and the
+    annual OWASP New Zealand Day conference in Auckland.
+    </p>
+    <p>
+    Kirk worked as a web developer before switching to the defence team - setting up Xero's security practice, 
+    working as a pen tester, and in defence roles at several companies.
 
 - plenary: false
   selected: true
