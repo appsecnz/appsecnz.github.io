@@ -264,35 +264,20 @@
   day: 0
   block: 4
   track: 0
-  title: 'Good Vibes Only: A security guide to AI programming'
-  name: Oliver Szimmetat
-  org: TAXbit
-  anchor: szimmetat-vibes
-  abstract: |-
-    AI programming boosts speed but creates security risks — SQL injections, weak auth, XSS vulnerabilities. 
-    Learn prompt engineering techniques to get secure AI code and safely integrate it into CI/CD pipelines 
-    without sacrificing development velocity.
+  title: 'Digital Safety - Building Apps That are Designed to be Hacked…'
+  name: Andy Prow
+  org: Qubit Cyber
+  anchor: prow-safety
   description: |-
-    AI-assisted "vibe programming" accelerates development, but introduces critical security risks. 
-    AI models prioritize working code over secure code, often generating SQL injection vulnerabilities, 
-    weak authentication, and XSS attack vectors. This talk demonstrates real-world security failures in 
-    AI-generated code and teaches practical prompt engineering techniques to guide models toward secure 
-    patterns. Through live examples, we'll cover embedding security requirements in prompts, reviewing 
-    AI code for vulnerabilities, and safely integrating AI-generated code into CI/CD pipelines while 
-    maintaining development velocity.
+    “Digital Safety” is maturing the cyber-security conversation from “is this system secure?” to the more meaningful
+    question of “is this product safe?”. We need to accept that our modern complex web-apps and eServices are a system-of-systems,
+    and therefore it’s infeasible that they won’t have bugs and vulnerabilities. How do we therefore engineer systems that fail-safe
+    and safely-fail, and accept that failure is not an aberration, but an expected state to be designed for.  
   bio: |-
-    is the Chief Privacy Office and Director of Security at TAXbit, where he manages 
-    all aspects of security and compliance, including Incident Management, Corporate Security, Cloud Security, 
-    Security Guidance, Product Security, Physical Security, and Compliance audits. Before joining TAXbit in 
-    2023, he was Head of Cloud Security at Uber Engineering in Seattle. There, he built a team working on 
-    secure-by-default architecture, best practices, engineering standards, automated compliance, monitoring tools, 
-    data security, and threat detection/response solutions for all of Uber’s cloud assets and engineering efforts.
-    </p>
-    <p>
-    Prior to that, Oliver spent more than 18 years at Microsoft, where he worked in various engineering and 
-    engineering management roles contributing to Windows client security (developing, testing, and releasing 
-    security updates), anti-piracy, cloud security standards, security testing, and continuous 
-    integration/delivery for all the company's commercial online services.
+    has been in the industry 32 years of experience, being an EY Entrepreneur of the Year 2017 and inducted into the iSANZ InfoSec Hall
+    of Fame 2023. Founder of Aura InfoSec, RedShield Security and now Qubit Cyber, Andy is a Digital Safety advocate, sitting on both the
+    Boards of NZITF and NZTech. In his spare time he’s a manic DIYer with a current remote, off-grid build, and is studying for a PhD at
+    Victoria University in “Digital Safety and Cyber-Engineering”.
 
 - plenary: false
   selected: true
