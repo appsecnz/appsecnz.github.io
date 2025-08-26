@@ -21,6 +21,10 @@
 					"url": "/conference/speakers.html"
 				},
 				{
+					"title": "Demos/Breakouts",
+					"url": "/conference/breakouts.html"
+				},
+				{
 					"title": "Pre-Conference Training",
 					"url": "/conference/training.html"
 				},
