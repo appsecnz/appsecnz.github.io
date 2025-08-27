@@ -264,20 +264,20 @@
   day: 0
   block: 4
   track: 0
-  title: 'Digital Safety - Building Apps That are Designed to be Hacked…'
+  title: 'Digital Safety: Building apps that are designed to be hacked'
   name: Andy Prow
   org: Qubit Cyber
   anchor: prow-safety
   description: |-
-    “Digital Safety” is maturing the cyber-security conversation from “is this system secure?” to the more meaningful
-    question of “is this product safe?”. We need to accept that our modern complex web-apps and eServices are a system-of-systems,
-    and therefore it’s infeasible that they won’t have bugs and vulnerabilities. How do we therefore engineer systems that fail-safe
-    and safely-fail, and accept that failure is not an aberration, but an expected state to be designed for.  
+    "Digital Safety" is maturing the cyber-security conversation from "Is this system secure?" to the more meaningful
+    question of "Is this product safe?" We need to accept that our modern complex web-apps and eServices are a system-of-systems,
+    and therefore it's infeasible that they won't have bugs and vulnerabilities. How do we therefore engineer systems that fail-safe
+    and safely fail, and accept that failure is not an aberration, but an expected state to be designed for?  
   bio: |-
     has been in the industry 32 years of experience, being an EY Entrepreneur of the Year 2017 and inducted into the iSANZ InfoSec Hall
-    of Fame 2023. Founder of Aura InfoSec, RedShield Security and now Qubit Cyber, Andy is a Digital Safety advocate, sitting on both the
-    Boards of NZITF and NZTech. In his spare time he’s a manic DIYer with a current remote, off-grid build, and is studying for a PhD at
-    Victoria University in “Digital Safety and Cyber-Engineering”.
+    of Fame 2023. Founder of Aura InfoSec, RedShield Security and now Qubit Cyber, Andy is a Digital Safety advocate, sitting on the
+    Boards of both NZITF and NZTech. In his spare time he's a manic DIYer with a current remote, off-grid build, and is studying for a PhD at
+    Victoria University in "Digital Safety and Cyber-Engineering."
 
 - plenary: false
   selected: true
