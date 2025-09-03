@@ -20,13 +20,9 @@
   day: 0
   block: 1
 
-- active: false
-  day: 0
-  block: 2
-
 - active: true
   day: 0
-  block: 3
+  block: 2
   name: CyberCX
   title: Rapid Design Review - A Simulation
   description: |-
@@ -37,7 +33,7 @@
 
 - active: true
   day: 0
-  block: 4
+  block: 3
   name: Exabeam
   anchor: exabeam-secops
   title: AI-Powered Security Operations
@@ -51,7 +47,7 @@
 
 - active: true
   day: 0
-  block: 5
+  block: 4
   name: SecDim
   anchor: secdim-attack-defence
   title: 'SecDim Attack &amp; Defence Challenge'
@@ -63,11 +59,11 @@
     
 - active: false
   day: 0
-  block: 6
+  block: 5
 
 - active: true
   day: 0
-  block: 7
+  block: 6
   name: Secure Code Warrior
   anchor: scw-tournament-1
   title: 'Battle the Balrog: An SCW tournament'
@@ -80,7 +76,7 @@
   
 - active: true
   day: 0
-  block: 8
+  block: 7
   name: Secure Code Warrior
   anchor: scw-tournament-2
   title: "Battle the Balrog (con't)"
@@ -93,11 +89,11 @@
   
 - active: false
   day: 0
-  block: 9
+  block: 8
 
 - active: true
   day: 0
-  block: 10  
+  block: 9
   name: Secure Code Warrior
   anchor: scw-tournament-3
   title: "Battle the Balrog (con't)"
@@ -110,19 +106,15 @@
   
 - active: false
   day: 0
-  block: 11
+  block: 10
     
 - active: false
   day: 0
+  block: 11
+
+- active: false
+  day: 0
   block: 12
-
-- active: false
-  day: 0
-  block: 13
-
-- active: false
-  day: 0
-  block: 14
 
 - active: false
   day: 1
@@ -169,10 +161,6 @@
 - active: false
   day: 1
   block: 6
-  anchor: veracode-fix
-  name: Veracode
-  title: Veracode FIX - AI assisted remediation of code vulnerabilities
-  description:  AI in DevOps - Friend or Foe? Join us for a discussion on AI pair programming and how to safely harness the increase in code these tools can generate.  
   
 - active: false
   day: 1
@@ -194,6 +182,3 @@
   day: 1
   block: 11
 
-- active: false
-  day: 1
-  block: 12
