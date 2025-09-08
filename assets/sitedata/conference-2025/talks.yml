@@ -846,6 +846,9 @@
   org: PrivSec Consulting
   anchor: jakowetz-no
   title: Computer Says No
+  slides: /assets/presentations/conference-2025/Jakowetz--Computer_Says_No.pdf
+  format: PDF
+  size: 5.0 MB
   description: |-
     Have you ever been told that you can't do something because of "security reasons"? Building and shipping things 
     doesn't have to be a constant trade-off between security and speed.
