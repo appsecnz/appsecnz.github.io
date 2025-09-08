@@ -44,10 +44,10 @@
   block: 1
   track: 0
   info: false
+  title: Opening Session - Welcome to OWASP New Zealand Day 2025!
   slides: /assets/presentations/conference-2025/Opening_Session_Day_1.pdf
   format: PDF
   size: 1.1 MB
-  title: Opening Session - Welcome to OWASP New Zealand Day 2025!
 
 - plenary: true
   day: 0
@@ -70,10 +70,10 @@
   block: 11
   track: 0
   info: false
+  title: Wrap-Up - Day 1
   slides: /assets/presentations/conference-2025/Closing_Session_Day_1.pdf
   format: PDF
   size: 879 kB
-  title: Wrap-Up - Day 1
 
 - plenary: true
   day: 0
@@ -95,6 +95,9 @@
   track: 0
   info: false
   title: Welcome to OWASP New Zealand Day 2025 - Day 2
+  slides: /assets/presentations/conference-2025/Opening_Session_Day_2.pdf
+  format: PDF
+  size: 1.0 MB
 
 - plenary: true
   info: true
@@ -119,6 +122,9 @@
   track: 0
   title: Conference Closing Session
   name: Recognition, Prize Giving
+  slides: /assets/presentations/conference-2025/Closing_Session_Day_2.pdf
+  format: PDF
+  size: 1.5 MB
 
 - plenary: true
   info: false
