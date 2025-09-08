@@ -337,9 +337,9 @@
   anchor: dileo-baking
   twitter: gr4ybeard
   linkedin: john-dileo
-  slides: /assets/presentations/conference-2025/DiLeo--Thoughts_on_Threat_Modelling.pdf
+  slides: /assets/presentations/conference-2025/DiLeo--Baking_Security_In.pdf
   format: PDF
-  size: 1.1 MB
+  size: 867 kB
   description: |-
     "We're Agile, so there's no time for that!" -- This response, or something similar, is what I frequently 
     hear after telling a development team they should include threat modelling, security testing, or other 
@@ -542,9 +542,9 @@
   name: John DiLeo
   org: Gallagher Security / OWASP NZ
   anchor: dileo-thoughts
-  slides: /assets/presentations/conference-2025/DiLeo--Baking_Security_In.pdf
+  slides: /assets/presentations/conference-2025/DiLeo--Thoughts_on_Threat_Modelling.pdf
   format: PDF
-  size: 867 kB
+  size: 1.1 MB
   abstract: |-
     Working in various AppSec consulting roles, I've had numerous opportunities over the years, to present training and talks on threat modelling
     - even spending a year where selling a commercial tool was my day job. 
