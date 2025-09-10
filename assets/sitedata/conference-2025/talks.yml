@@ -761,7 +761,7 @@
   anchor: mason-sanctuary
   slides: /assets/presentations/conference-2025/Mason--Digital_Sanctuary.pdf
   format: PDF
-  size: 1.2 MB
+  size: 29.5 MB
   description: |-
     Aotearoa's unique native species are <em>taonga</em>, treasures, needing protection from the pests and predators that 
     threaten them. Let's follow the story of Zealandia to explore the approaches taken in biosecurity, find lessons and 
@@ -782,7 +782,7 @@
   anchor: oleary-legacy
   slides: /assets/presentations/conference-2025/OLeary--Legacy_to_Legendary.pdf
   format: PDF
-  size: 1.2 MB
+  size: 1.0 MB
   abstract: |-
     Lots of successful software runs at least partially on legacy code and/or architecture. Modernisation 
     to keep abreast of emergent tech and vulnerabilities should be on-going, ideally. This talk explores tools, 
@@ -1057,7 +1057,7 @@
   anchor: ragtah-jwt
   slides: /assets/presentations/conference-2025/Ragtah--JWT_WTF.pdf
   format: PDF
-  size: 1.2 MB
+  size: 1.6 MB
   abstract: |-
     JWTs are widely used for authentication, but small implementation flaws can lead to serious risks. This talk explores 
     common JWT vulnerabilities, real-world attack scenarios, and practical tips developers can use to secure their applications.
