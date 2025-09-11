@@ -175,6 +175,9 @@
   name: Austin Chamberlain
   org: Defence Science and Technology, NZDF
   anchor: chamberlain-owasp
+  slides: /assets/presentations/conference-2025/Chamberlain--OWASP_Top_10_Introduction.pdf
+  format: PDF
+  size: 2.5 MB
   abstract: |-
     The OWASP Top 10 is a standard awareness document for developers and web application security. 
     It represents a broad consensus about the most critical security risks to web applications.
@@ -381,10 +384,13 @@
   day: 0
   block: 6
   track: 1
-  title: "Security and Accessibility Can Be Friends!"
+  title: "Security and Accessibility CAN Be Friends!"
   name: Gian Wild
   org: AccessibilityOz
   anchor: wild-friends
+  slides: /assets/presentations/conference-2025/Wild--Security_and_Accessibility_CAN_Be_Friends.pdf
+  format: PDF
+  size: 12.7 MB
   abstract: |-
     Many a security expert has been told that security may be compromised due to accessibility needs. 
     Many an accessibility expert has been told accessibility must be reduced to allow for security. 
@@ -418,6 +424,9 @@
   name: David (Moss) Jennings
   org: Fluid Security
   anchor: jennings-coffee
+  slides: /assets/presentations/conference-2025/Jennings--How_to_Secure_a_Cup_of_Black_Gold.pdf
+  format: PDF
+  size: 1.8 MB
   abstract: |-
     Let me take you on a journey to explain, in simple terms, the concept of adding multiple security controls 
     to secure a system with data residing on-prem or in the cloud, by using the analogy of a cup with coffee 
@@ -587,6 +596,9 @@
   name: Htaik Htaik Thone
   org: Natixis Corporate &amp; Investment Banking
   anchor: thone-architecture
+  slides: /assets/presentations/conference-2025/Thone--Securing_Next_Application_through_Security_Architecture.pdf
+  format: PDF
+  size: 1.6 MB
   abstract: |-
     Secure architecture is the backbone. It's not just a feature, it's a philosophy. Build resilient apps 
     intentionally, like skyscrapers against storms. Secure from inception, create unbreakable digital steel. 
@@ -882,6 +894,9 @@
   title: 'Epic Fails in AppSec: How not to set up an AppSec program'
   name: Iqbal Singh
   anchor: singh-fails
+  slides: /assets/presentations/conference-2025/Singh--Epic_Fails_in_AppSec.pdf
+  format: PDF
+  size: 1.6 MB
   abstract: |-
     In 2025, application security is more complex than ever, yet too many organizations find themselves stuck in endless 
     CVE firefighting, tooling sprawl, alert fatigue, and massive JIRA backlogs. If you're ready to trade epic fails for 
@@ -950,6 +965,9 @@
   name: James Cooper
   org: 2degrees
   anchor: cooper-primitive
+  slides: /assets/presentations/conference-2025/Cooper--Be_Less_Primitive_to_Be_More_Secure.pdf
+  format: PDF
+  size: 623 kB
   abstract: |-
     Imploring people to avoid 'primitive obsession,' which should both help make their software better architected and much 
     more resistant to injection attacks. Likely to be somewhat a talk version of "parse, don't validate."
@@ -1021,6 +1039,9 @@
   title: "Being Technically Correct Isn't Always Helpful"
   name: Dave (Karit) Robinson
   anchor: robinson-correct
+  slides: /assets/presentations/conference-2025/Robinson--Being_Technically_Correct_Isnt_Always_Helpful.pdf
+  format: PDF
+  size: 600 kB
   abstract: |-
     Security is full of best practices and standards. Regurgitating them to devs, admins, etc., is not always helpful. 
     The best security solution for the business is often not the correct security answer. All too often, advice isn't 
