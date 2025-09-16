@@ -258,6 +258,9 @@
   name: Kade Morton
   org: Arachne Digital
   anchor: morton-campaigns
+  slides: /assets/presentations/conference-2025/Morton--Lessons_from_a_Real_World_Campaign.pdf
+  format: PDF
+  size: 2.0 MB
   description: |-
     Web applications remain one of the most common, and most attractive, targets for attackers, from 
     opportunistic script kiddies to advanced persistent threats (APTs). This talk examines real-world 
@@ -502,6 +505,9 @@
   name: Kris Hardy
   org: VioletBeacon
   anchor: hardy-ecosystem
+  slides: /assets/presentations/conference-2025/Hardy--Supply_Chain_Vulnerabilities_in_the_Supply_Chain_Vulnerability_Ecosystem.pdf
+  format: PDF
+  size: 2.1 MB
   abstract: |-
     In March 2025, the Common Vulnerabilities and Exposures (CVE) project was nearly defunded by the US 
     Government, causing panic in the security industry. We will discuss the CVE project, how it fits into 
@@ -721,6 +727,9 @@
   name: Sharon Ohayon Pshoul
   org: Axonius / OWASP Israel
   anchor: singh-fails
+  slides: /assets/presentations/conference-2025/Ohayon--From_Reactive_to_Proactive.pdf
+  format: PDF
+  size: 3.5 MB
   abstract: |-
     With a lean security team, maintaining full coverage is challenging. We started with AI-driven code reviews 
     and expanded AI's role earlier in the SSDLC, using AI-powered threat modeling to identify risks before development 
