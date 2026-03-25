@@ -1,20 +1,20 @@
 ---
 title: Diversity Fund - OWASP NZ Day
-tags: owaspnz26
+tags: owaspnz25
 
 layout: conference/full-width
-dataDir: conference-2026
-sponsorsEventName: OWASP New Zealand Day 2026
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
 
-[![Web Banner](/assets/images/2026_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Diversity and Financial Aid Fund
 
-## OWASP New Zealand Day 2026
+## OWASP New Zealand Day 2025
 
 **Applications for support through our Diversity and Financial Fund opened on 15th July, and have now closed.**
 

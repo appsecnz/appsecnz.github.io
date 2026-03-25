@@ -1,21 +1,21 @@
 ---
-title: Call for Sponsors - OWASP NZ Day 2026
-tags: owaspnz26
+title: Call for Sponsors - OWASP NZ Day 2025
+tags: owaspnz25
 
 layout: conference/full-width
-dataDir: conference-2026
-sponsorsEventName: OWASP New Zealand Day 2026
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
-[![Web Banner](/assets/images/2026_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Call for Sponsors
 
-## 2026 OWASP New Zealand Day
+## 2025 OWASP New Zealand Day
 
-The 2026 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 4-5 September 2026. This event 
+The 2025 OWASP New Zealand Day conference will be held in Auckland on Thursday and Friday, 4-5 September 2025. This event 
 is unique among New Zealand security conferences, in that it's entirely dedicated to application security. AppSec New Zealand Incorporated is, once again, managing the logistics and finances for the event, with the event's traditional "OWASP New Zealand Day" branding used under license from the OWASP Foundation.
 
 We're thrilled that we are able to return to the University of Auckland campus, and the Sir Owen G. Glenn Building (OGGB), this year.
@@ -70,11 +70,11 @@ To express interest in supporting the conference as a sponsor, please
 
 ## Premium Sponsorship Packages
 
-### Highlights of Changes for 2026
+### Highlights of Changes for 2025
 
-For 2026, we've made NO changes to our Premier Sponsorship packages, from last year - including NO increase in sponsorship fees!
+For 2025, we've made NO changes to our Premier Sponsorship packages, from last year - including NO increase in sponsorship fees!
 
-Some key changes we made in recent years will continue in 2026:
+Some key changes we made in recent years will continue in 2025:
 
 * We discontinued the distribution of "SWAG Bags" to conference attendees in 2024.
 * We added up-front pricing for sponsors who wish to combine a 'regular' sponsorship package with the LEGO Build Sponsorship. The LEGO Build Sponsorship is still available as a stand-alone sponsorship package, with benefits similar to those at the Silver Sponsor level. However, if you would like to sponsor the LEGO Build *and* have the benefits associated with higher-tier packages (Diamond, Platinum, or Gold), you can pay the **LEGO Build Add-On Fee** (see table below) for both.

@@ -1,14 +1,14 @@
 ---
 title: Restaurants and Cafes
-tags: owaspnz26
+tags: owaspnz25
 
 layout: conference/full-width
-dataDir: conference-2026
-sponsorsEventName: OWASP New Zealand Day 2026
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
 
-[![Web Banner](/assets/images/2026_Banner_Graphic.jpg)](/conference/){: style="width: 100%;" }   
+[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/){: style="width: 100%;" }   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 

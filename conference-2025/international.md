@@ -1,20 +1,20 @@
 ---
 title: International Participants
-tags: owaspnz26
+tags: owaspnz25
 
 layout: conference/full-width
-dataDir: conference-2026
-sponsorsEventName: OWASP New Zealand Day 2026
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
 
-[![Web Banner](/assets/images/2026_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Attending the Conference from Outside New Zealand
 
-## OWASP New Zealand Day 2026
+## OWASP New Zealand Day 2025
 
 **Please be aware of the current visa / travel authorisation requirements below.**
 

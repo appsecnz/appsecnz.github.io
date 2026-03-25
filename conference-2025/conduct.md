@@ -1,19 +1,19 @@
 ---
 title: Code of Conduct
-tags: owaspnz26
+tags: owaspnz25
 
 layout: conference/full-width
-dataDir: conference-2026
-sponsorsEventName: OWASP New Zealand Day 2026
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
-[![Web Banner](/assets/images/2026_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Conference Code of Conduct
 
-## OWASP New Zealand Day 2026
+## OWASP New Zealand Day 2025
 
 We want to make the OWASP New Zealand Day conference a welcoming environment for all attendees. To that end, we would like to remind you that all activities associated with this event are subject to [AppSec New Zealand's Conference Policies](https://appsec.org.nz/about/policies.html). At their core, these policies are intended to promote and maintain an inclusive, welcoming environment for all participants - actions detrimental to that environment are unwelcome.
 

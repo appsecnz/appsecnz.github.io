@@ -1,31 +1,31 @@
 ---
 title: Conference
-description: OWASP New Zealand Day 2026
-tags: owaspnz26
+description: OWASP New Zealand Day 2025
+tags: owaspnz25
 currency: NZD
 region: Oceania
 country: New Zealand
 
 layout: conference/tabbed-full-width
-dataDir: conference-2026
-sponsorsEventName: OWASP New Zealand Day 2026
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
-![Web Banner](/assets/images/2026_Banner_Graphic.jpg)   
+![Web Banner](/assets/images/2025_Banner_Graphic.jpg)   
 
 # {{ page.description }}
 
-## 1 - 4 September 2026
+## 2 - 5 September 2025
 
 ## Sir Owen G. Glenn Building (OGGB), University of Auckland
 
-### Pre-Conference Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } to book your seats now!
+### Pre-Conference Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2025-training){: target="_blank" } to book your seats now!
 
-### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2026){: target="_blank" } to secure your tickets now!
+### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2025){: target="_blank" } to secure your tickets now!
 
 -----
 
-We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 4th and 5th, 2026. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/){: target="_blank" } and organised by [AppSec New Zealand Incorporated](../index.md){: target="_blank" }.
+We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 4th and 5th, 2025. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/){: target="_blank" } and organised by [AppSec New Zealand Incorporated](../index.md){: target="_blank" }.
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
@@ -42,7 +42,7 @@ Who is the Conference for?
 
 ## Conference Structure
 
-**Date:** Thursday and Friday, 4-5 September 2026   
+**Date:** Thursday and Friday, 4-5 September 2025   
 **Time:** 9:15 a.m. - 5:00 p.m., Thursday; 10:00 a.m. - 5:00 p.m., Friday   
 
 The main conference on Thursday and Friday will have two streams throughout both days:
@@ -95,8 +95,8 @@ Please follow us on Twitter ([@AppSecNZ](https://www.twitter.com/AppSecNZ)).
 
 **Delegate Lounge Hours:**   
 
-   * Thursday (3 September): 10:15 a.m. - 6:00 p.m.
-   * Friday (4 September): 8:00 a.m. - 5:00 p.m.
+   * Thursday (4 September): 10:15 a.m. - 6:00 p.m.
+   * Friday (5 September): 8:00 a.m. - 5:00 p.m.
 
 <!-- Commented out - No LEGO Build currently funded
 **LEGO Build -** In the **Delegate Lounge**, we'll have a table set up, for conference participants to help out with building a number of LEGO sets throughout the event. The conference A/V team will create a stop-motion video of the builds during the conference, and we'll view the finished video during the Closing Session on Friday.
@@ -110,19 +110,19 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 
 ## Important Dates
 
-* **Main Conference Dates:** 3-4 September 2026
-* **Pre-Conference Training Dates:** 1-2 September 2026
-* **Training Registration Closes:** 22 August 2026
-* **Last Day to Pre-Order Lunches:** 22 August 2026
-* **"Early Bird" Conference Registration Ends:** 15 August 2026<br />From 16 August, there's an additional "Procrastinator Fee" ($25 Regular, $20 Student/Unwaged)
-* **Last Day for T-Shirt Purchases:** 11 August 2026 - Orders go to the printer the next morning!
-* **Call for Presentations(CFP) Closed:** 30 June 2026
-* **[Diversity Fund](diversity_fund.md) Applications Opened:** 1 May 2026
-* **[Training Registration](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } Opened:** 15 July 2026
-* **Call for Training (CFT) Closed:** 15 April 2026
-* **[Conference Registration](https://events.humanitix.com/owaspnz2026){: target="_blank" } Opened:** 1 May 2026
-* **Call for Training (CFT) Opened:** 4 March 2026
-* **Call for Presentations (CFP) Opened:** 4 March 2026
+* **Main Conference Dates:** 4-5 September 2025
+* **Pre-Conference Training Dates:** 2-3 September 2025
+* **Training Registration Closes:** 22 August 2025
+* **Last Day to Pre-Order Lunches:** 22 August 2025
+* **"Early Bird" Conference Registration Ends:** 15 August 2025<br />From 16 August, there's an additional "Procrastinator Fee" ($25 Regular, $20 Student/Unwaged)
+* **Last Day for T-Shirt Purchases:** 11 August 2025 - Orders go to the printer the next morning!
+* **Call for Presentations(CFP) Closed:** 30 June 2025
+* **[Diversity Fund](diversity_fund.md) Applications Opened:** 1 May 2025
+* **[Training Registration](https://events.humanitix.com/owaspnz2025-training){: target="_blank" } Opened:** 15 July 2025
+* **Call for Training (CFT) Closed:** 15 April 2025
+* **[Conference Registration](https://events.humanitix.com/owaspnz2025){: target="_blank" } Opened:** 1 May 2025
+* **Call for Training (CFT) Opened:** 4 March 2025
+* **Call for Presentations (CFP) Opened:** 4 March 2025
 
 ## Conference Venue
 

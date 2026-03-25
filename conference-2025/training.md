@@ -1,21 +1,21 @@
 ---
 title: Pre-Conference Training
-description: Pre-Conference Training, 2-3 September - 2026 OWASP NZ Day
+description: Pre-Conference Training, 2-3 September - 2025 OWASP NZ Day
 
 layout: conference/full-width
-dataDir: conference-2026
-sponsorsEventName: OWASP New Zealand Day 2026
+dataDir: conference-2025
+sponsorsEventName: OWASP New Zealand Day 2025
 ---
 
-[![Web Banner](/assets/images/2026_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
 # Pre-Conference Training - 2-3 September
 
-## OWASP New Zealand Day 2026
+## OWASP New Zealand Day 2025
 
-### Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2026-training) to secure your seats now.
+### Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2025-training) to secure your seats now.
 
 ### Registration Fees
 
@@ -61,7 +61,23 @@ The Call for Training (CFT) closes on 15th April. Training classes will be selec
 
 Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From 23rd August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
 
+#### Two-day, live online training - Tuesday and Wednesday, 2-3 September:
 
+* *[AI SecureOps: Attacking &amp; Defending GenAI Applications and Services](training-ai_secureops.md)*, Abhinav Singh
+
+#### Two-day, classroom training - Tuesday and Wednesday, 2-3 September:
+
+* **CANCELLED:** *[Reverse Engineering Proprietary Protocols](training-reverse_engineering_proprietary_protocols.md)* (Face-to-Face), Munawwar Hussain Shelia
+
+* **CANCELLED:** *[Full-Stack Pentesting Laboratory: 100% Hands-On](training-full_stack_app_pentesting.md)* (Instructor-Remote), Dawid Czagan
+
+#### Half-day, in-person (classroom) training - Wednesday morning, 3 September:
+
+* *[Application Security Overview/Refresher Training](training-appsec_overview.md)* (Face-to-Face), John DiLeo   
+
+#### Half-day, in-person (classroom) training - Wednesday afternoon, 3 September:
+
+* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)* (Face-to-Face), Toby Reynolds
 
 **NOTES:**
 
