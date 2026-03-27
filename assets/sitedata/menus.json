@@ -55,6 +55,56 @@
 			]
 		},
 		{
+			"title": "2025 OWASP NZ Day",
+			"url": "/conference-2025",
+			"items": [
+				{
+					"title": "Conference Home Page",
+					"url": "/conference-2025"
+				},
+				{
+					"title": "Conference Schedule",
+					"url": "/conference-2025/schedule.html"
+				},
+				{
+					"title": "Speakers and Abstracts",
+					"url": "/conference-2025/speakers.html"
+				},
+				{
+					"title": "Demos/Breakouts",
+					"url": "/conference-2025/breakouts.html"
+				},
+				{
+					"title": "Pre-Conference Training",
+					"url": "/conference-2025/training.html"
+				},
+				{
+					"title": "About Our Sponsors",
+					"url": "/conference-2025/sponsors.html"
+				},
+				{
+					"title": "Diversity Fund",
+					"url": "/conference-2025/diversity_fund.html"
+				},
+				{
+					"title": "Code of Conduct",
+					"url": "/conference-2025/conduct.html"
+				},
+				{
+					"title": "Volunteers",
+					"url": "/conference-2025/volunteers.html"
+				},
+				{
+					"title": "International Attendees",
+					"url": "/conference-2025/international.html"
+				},
+				{
+					"title": "Call for Sponsors",
+					"url": "/conference-2025/sponsorship.html"
+				}
+			]
+		},
+		{
 			"title": "2024 OWASP NZ Day",
 			"url": "/conference-2024",
 			"items": [
