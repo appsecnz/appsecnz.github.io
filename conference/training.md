@@ -15,7 +15,9 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 ## OWASP New Zealand Day 2026
 
+{% comment %}
 ### Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2026-training) to secure your seats now.
+{% endcomment %}
 
 ### Registration Fees
 

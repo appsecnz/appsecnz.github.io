@@ -1,0 +1,7 @@
+# Definitions for this file
+# active: true if the company is an active sponsor, false otherwise - Set to false, to preload info before agreement signed
+# level: 1 = Diamond, 2 = Platinum, 3 = Gold, 4 = Silver, 5 = Bronze, 6 = Supporting, for others enter exact description, including 'Sponsor'
+# name: name of company
+# image: relative URL to the logo image
+# url: url of the company website
+# description: description of the company

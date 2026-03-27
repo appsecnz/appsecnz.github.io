@@ -35,3 +35,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## 2026 TODO
+
+- assets/2026_Banner_Graphic.jpg
+- sitedata/banner-data.yml
+- sitedata/conference-2026/schedule
+- conference/sponsorship.md - Add 2025 registration numbers
+- conference/training.md - Add info on Call for Trainers
+- conference/international.md - Review Visa recommendations
+- conference/index.md - Review fees

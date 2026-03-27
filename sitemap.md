@@ -4,16 +4,16 @@ layout: full-width
 title: Sitemap
 permalink: /sitemap/
 
-dataDir: conference-2025
-sponsorsEventName: OWASP New Zealand Day 2025
+dataDir: conference-2026
+sponsorsEventName: OWASP New Zealand Day 2026
 
 ---
 
 # Sitemap
 
-## OWASP New Zealand Day 2025
+## OWASP New Zealand Day 2026
 
-* [OWASP New Zealand Day 2025](conference/index.md)
+* [OWASP New Zealand Day 2026](conference/index.md)
 * [Conference Schedule](conference/schedule.md)
 * [Speakers and Abstracts](conference/speakers.md)
 * [Demos/Breakouts](conference/breakouts.md)
@@ -24,6 +24,20 @@ sponsorsEventName: OWASP New Zealand Day 2025
 * [Call for Volunteers](conference/volunteers.md)
 * [International Attendees](conference/international.md)
 * [Call for Sponsors](conference/sponsorship.md)
+
+## OWASP New Zealand Day 2025
+
+* [OWASP New Zealand Day 2025](conference-2025/index.md)
+* [Conference Schedule](conference-2025/schedule.md)
+* [Speakers and Abstracts](conference-2025/speakers.md)
+* [Demos/Breakouts](conference-2025/breakouts.md)
+* [Pre-Conference Training](conference-2025/training.md)
+* [About Our Sponsors](conference-2025/sponsors.md)
+* [Diversity Fund](conference-2025/diversity_fund.md)
+* [Code of Conduct](conference-2025/conduct.md)
+* [Call for Volunteers](conference-2025/volunteers.md)
+* [International Attendees](conference-2025/international.md)
+* [Call for Sponsors](conference-2025/sponsorship.md)
 
 ## OWASP New Zealand Day 2024
 

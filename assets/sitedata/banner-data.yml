@@ -1,31 +1,35 @@
 - type: alert
   text: |-
     <h3 align="center">
-      The 2025 OWASP New Zealand Day conference will take place Tuesday-Friday, 2-5 September 2025. 
+      The 2026 OWASP New Zealand Day conference will take place Tuesday-Friday, 1-4 September 2026. 
       <br />
       Pre-Conference Training: Tuesday &amp; Wednesday; Main Conference: Thursday &amp; Friday
     </h3> 
-  start: 2025-01-01 00:00:00+1200
-  end: 2025-09-05 23:59:59+1200
+  start: 2026-01-01 00:00:00+1200
+  end: 2026-09-04 23:59:59+1200
+- type: alert
+# TODO: Update papercall URL
+  text: |-
+    <h3 align="center">
+      The <a href="https://www.papercall.io/owaspnz26-training" target="_blank">Call for Training (CFT)</a> and
+      <a href="https://www.papercall.io/owaspnz2026" target="_blank">Call for Presentations (CFP)</a> are now open!
+    </h3> 
+# TODO: Update start and end datetime
+  start: 2026-05-01 00:00:00+1200
+  end: 2026-09-05 23:59:59+1200
 - type: alert
   text: |-
     <h3 align="center">
-      The <a href="https://www.papercall.io/owaspnz25-training" target="_blank">Call for Training (CFT)</a> and
-      <a href="https://www.papercall.io/owaspnz2025" target="_blank">Call for Presentations (CFP)</a> are now open!
+      The OWASP NZ Day 2026 <a href="https://www.papercall.io/owaspnz2026" target="_blank">Call for Presentations (CFP)</a> is now open!
     </h3> 
-  start: 2025-03-04 00:00:00+1200
-  end: 2025-04-15 23:59:59+1200
+# TODO: Update start and end datetime
+  start: 2026-05-01 00:00:00+1200
+  end: 2026-09-05 23:59:59+1200
 - type: alert
   text: |-
     <h3 align="center">
-      The OWASP NZ Day 2025 <a href="https://www.papercall.io/owaspnz2025" target="_blank">Call for Presentations (CFP)</a> is now open!
+      <a href="https://events.humanitix.com/owaspnz2026" target="_blank">Registration for OWASP NZ Day 2026</a> is open! Get your tickets now!
     </h3> 
-  start: 2025-04-16 00:00:00+1200
-  end: 2025-06-30 23:59:59+1200
-- type: alert
-  text: |-
-    <h3 align="center">
-      <a href="https://events.humanitix.com/owaspnz2025" target="_blank">Registration for OWASP NZ Day 2025</a> is open! Get your tickets now!
-    </h3> 
-  start: 2025-05-01 00:00:00+1200
-  end: 2025-09-03 23:59:59+1200
+# TODO: Update start and end datetime
+  start: 2026-05-01 00:00:00+1200
+  end: 2026-09-03 23:59:59+1200

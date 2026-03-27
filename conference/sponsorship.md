@@ -43,7 +43,9 @@ Attendance for the first [AppSec New Zealand Conference](/conference-2021), in F
 
 In 2022, we returned to the OWASP New Zealand Day brand. We were able to hold a hybrid conference in July, after many COVID-related restrictions had been relaxed; despite this, in-person attendance (450) was lower than hoped, while we enjoyed a strong online participation through our live-stream offering. The event was supported by 17 sponsors, and our first-ever sponsored LEGO Build was popular with conference attendees.
 
-The OWASP New Zealand Day events in 2023 and 2024 were also strong successes, with 693 and 818 registrations, respectively. This year, we anticipate registrations for the conference will once again increase, particularly with our return to the larger spaces provided by the OGGB.
+The OWASP New Zealand Day events in 2023, 2024 and 2025 were also strong successes, with 693, 818 and ? registrations, respectively.
+
+This year, we anticipate registrations for the conference will continue to increase, particularly with our return to the larger spaces provided by the OGGB.
 
 The activities of AppSec New Zealand, including this conference, are organised to align with and support the educational objectives of the Open Worldwide Application Security Project (OWASP) Foundation and its local chapter, OWASP New Zealand ([owasp.org.nz](https://owasp.org.nz)). The OWASP New Zealand community is strong, with more than 500 people currently subscribed to the mailing list 
 ([sign up](https://lists.owasp.org/mailman/listinfo/owasp-newzealand)). 
