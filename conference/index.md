@@ -19,9 +19,13 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 ## Sir Owen G. Glenn Building (OGGB), University of Auckland
 
+{% comment %}
 ### Pre-Conference Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } to book your seats now!
+{% endcomment %}
 
+{% comment %}
 ### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2026){: target="_blank" } to secure your tickets now!
+{% endcomment %}
 
 -----
 
