@@ -2,8 +2,8 @@
 layout: col-sidebar
 title: Home
 tags: appsecnz
-dataDir: conference-2025
-sponsorsEventName: OWASP New Zealand Day 2025
+dataDir: conference-2026
+sponsorsEventName: OWASP New Zealand Day 2026
 ---
 
 ![Web Banner](/assets/images/AppSecNZ_Web_Banner.png)
