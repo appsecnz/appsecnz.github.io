@@ -18,11 +18,9 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 **Please be aware of the current visa / travel authorisation requirements below.**
 
-From 1 October 2019, new travel requirements took effect for visitors to New Zealand from Visa Waiver countries.
-
 Here are the requirements, as we (the conference committee) understand them - the usual "does not constitute legal advice" disclaimers apply:
 
-1. If you are in one of the groups listed on Immigration New Zealand's [Travelers who do not need an NZeTA](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta#https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/your-journey-to-new-zealand/before-you-travel-to-new-zealand/travellers-who-do-not-need-nzeta/slider) page: no worries, you can just turn up;
+1. Most visitors will need either a New Zealand Electronic Travel Authority (NZeTA) or a visa. [New Zealand Immigration](https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/) has a page with the details, and a [tool that helps walk you through whether you need a visa or an NZeTA](https://www.immigration.govt.nz/visit/what-you-need-to-visit-new-zealand/visa-tool-test/).
 
 2. If you are traveling on a passport meeting the conditions listed on the New Zealand [Visa Waiver Countries](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/general-information/visa-waiver-countries) page: You will need to obtain a **[New Zealand Electronic Travel Authority (NZeTA)](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta)**;
 
@@ -35,5 +33,3 @@ Here are the requirements, as we (the conference committee) understand them - th
 If you're unsure what travel documentation you need, we highly recommend you [contact Immigration New Zealand](https://www.immigration.govt.nz/contact) early.
 
 **IMPORTANT NOTE:** The conference team **will not** provide Invitation Letters to individuals *attending* the conference. Selected/invited speakers and trainers will be provided Invitation Letters, upon request.
-
-
