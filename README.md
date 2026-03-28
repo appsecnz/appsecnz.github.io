@@ -43,5 +43,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 - sitedata/conference-2026/schedule
 - conference/sponsorship.md - Add 2025 registration numbers
 - conference/training.md - Add info on Call for Trainers
-- conference/international.md - Review Visa recommendations
 - conference/index.md - Review fees
