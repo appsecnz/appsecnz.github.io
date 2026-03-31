@@ -120,7 +120,7 @@ All amounts listed are in New Zealand dollars (NZD), and are exclusive of GST.
 
 |        |Diamond     |Platinum    |Gold    |Silver    |Bronze    |LEGO Build |
 |-------:|:----------:|:----------:|:------:|:--------:|:--------:|:---------:|
-|**Rate**|$12,800|$8,000|$6,000|$3,800|$2,500|$5,500|
+|**Rate**|$11,000|$7,000|$5,000|$3,300|$2,200|$5,300|
 |**Exhibition Space Fee**|**Incl.**|**Incl.**|$500|$350|$350|$350|
 |**Exhibition Spaces**| 1 | 3 | 9 | 6<sup>&dagger;</sup> | 6<sup>&dagger;</sup> | 1<sup>&dagger;</sup> |
 |**LEGO Build Upgrade** (see notes)|$8,000|$3,500|$2,000|N/A|N/A| -- |
@@ -159,9 +159,9 @@ Unless otherwise requested, each exhibition space will be provided power strips 
 
 **Optional Video Displays:** 
 
-**55" Flat-Panel Displays:** The venue's A/V support team can provide 55" HDMI-compatible displays on stands, for use in sponsor exhibition spaces. The cost is $550 each, which includes use of the display during the main conference (Thursday and Friday), delivery/pick-up, and on-site setup. Diamond and Platinum sponsor exhibition spaces can accommodate up to two (2) displays, and Gold/Silver/Bronze Sponsor spaces can accommodate one (1).
+**55" Flat-Panel Displays:** The venue's A/V support team can provide 55" HDMI-compatible displays on stands, for use in sponsor exhibition spaces. The cost is $600 each, which includes use of the display during the main conference (Thursday and Friday), delivery/pick-up, and on-site setup. Diamond and Platinum sponsor exhibition spaces can accommodate up to two (2) displays, and Gold/Silver/Bronze Sponsor spaces can accommodate one (1).
 
-**Video Wall:** There is a permanently installed projection screen and projector, located above a corner Gold Sponsor booth space. The option is available (on a first-in, first-served basis) for one sponsor to reserve the video wall and display content throughout the main conference (Thursday and Friday). The cost for this option is $600.
+**Video Wall:** There is a permanently installed projection screen and projector, located above a corner Gold Sponsor booth space. The option is available (on a first-in, first-served basis) for one sponsor to reserve the video wall and display content throughout the main conference (Thursday and Friday). The cost for this option is $650.
 
 ### Notes
 
