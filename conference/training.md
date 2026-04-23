@@ -19,6 +19,8 @@ sponsorsEventName: OWASP New Zealand Day 2026
 ### Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2026-training) to secure your seats now.
 {% endcomment %}
 
+### Call for Training (CFT) is now open! [Please submit your training proposals now](https://www.papercall.io/owaspnz26).
+
 ### Registration Fees
 
 * Half-day in-person class: $250 per person      
