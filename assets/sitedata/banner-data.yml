@@ -10,7 +10,7 @@
 - type: alert
   text: |-
     <h3 align="center">
-      The <a href="https://www.papercall.io/owaspnz26-training" target="_blank">Call for Training (CFT)</a> and
+      The OWASP NZ Day 2026 <a href="https://www.papercall.io/owaspnz26-training" target="_blank">Call for Training (CFT)</a> and
       <a href="https://www.papercall.io/owaspnz26" target="_blank">Call for Presentations (CFP)</a> are now open!
     </h3> 
   start: 2026-04-23 00:00:00+1200
