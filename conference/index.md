@@ -125,8 +125,8 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **[Training Registration](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } Opened:** 15 July 2026
 * **Call for Training (CFT) Closed:** TBD {% comment %}15 April 2026{% endcomment %}
 * **[Conference Registration](https://events.humanitix.com/owaspnz2026){: target="_blank" } Opened:** 1 May 2026
-* **Call for Training (CFT) Opened:** 4 March 2026
-* **Call for Presentations (CFP) Opened:** 4 March 2026
+* **[Call for Training (CFT)](https://www.papercall.io/owaspnz26-training){: target="_blank" } Opened:** 23 April 2026
+* **[Call for Presentations (CFP)](https://www.papercall.io/owaspnz26){: target="_blank" } Opened:** 23 April 2026
 
 ## Conference Venue
 
