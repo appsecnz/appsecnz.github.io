@@ -23,6 +23,7 @@ Our primary activity is organising and conducting the annual [OWASP New Zealand 
 
 In addition to the annual conference, AppSec NZ supports:
 
-* annual [security.ac.nz](https://security.ac.nz) conferences, at universities in Auckland and Wellington; 
+* the [New Zealand Information Security Forum](https://nzisf.org.nz) (NZISF);
+* student-focused events at universities, such as the [security.ac.nz](https://security.ac.nz) conferences; 
 * occasional Training Day events, organised in collaboration with the OWASP New Zealand Chapter; and
 * other AppSec-related education and outreach activities, as resources and volunteer time permit.
