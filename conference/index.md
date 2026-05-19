@@ -29,7 +29,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 -----
 
-We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 3rd and 4th, 2026. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/){: target="_blank" } and organised by [AppSec New Zealand Incorporated](../index.md){: target="_blank" }.
+We are proud to present the 16th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 3rd and 4th, 2026. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/){: target="_blank" } and organised by [AppSec New Zealand Incorporated](../index.md){: target="_blank" }.
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
