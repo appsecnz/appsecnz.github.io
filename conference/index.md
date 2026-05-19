@@ -23,9 +23,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 ### Pre-Conference Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } to book your seats now!
 {% endcomment %}
 
-{% comment %}
-### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2026){: target="_blank" } to secure your tickets now!
-{% endcomment %}
+### Conference Registration opens on Monday, 25th May! Visit our [Registration Site](https://events.humanitix.com/owaspnz2026){: target="_blank" } to secure your tickets and t-shirts!
 
 -----
 
@@ -121,7 +119,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Last Day for T-Shirt Purchases:** 10 August 2026 - Orders go to the printer the next morning!
 * **Call for Presentations(CFP) Closes:** 30 June 2026
 * **[Diversity Fund](diversity_fund.md) Applications Open:** 22 June 2026
-* **[Training Registration](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } Opens:** 15 June 2026
+* **Training Registration Opens:** 15 June 2026
 * **Call for Training (CFT) Closes:** 30 May 2026
 * **[Conference Registration](https://events.humanitix.com/owaspnz2026){: target="_blank" } Opens:** 25 May 2026
 * **[Call for Training (CFT)](https://www.papercall.io/owaspnz26-training){: target="_blank" } Opened:** 23 April 2026
