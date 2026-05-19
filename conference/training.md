@@ -1,6 +1,6 @@
 ---
 title: Pre-Conference Training
-description: Pre-Conference Training, 2-3 September - 2026 OWASP NZ Day
+description: Pre-Conference Training, 1-2 September - 2026 OWASP NZ Day
 
 layout: conference/full-width
 dataDir: conference-2026
@@ -11,7 +11,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
-# Pre-Conference Training - 2-3 September
+# Pre-Conference Training - 1-2 September
 
 ## OWASP New Zealand Day 2026
 
@@ -23,10 +23,9 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 ### Registration Fees
 
-* Half-day in-person class: $250 per person      
-* One-day in-person class: $500 per person       
-* Two-day in-person class: $1,000 per person   
-* Two-day online class: $900 per person   
+* Half-day class: $225 per person (in person) / $200 per person (online)      
+* One-day class: $450 per person (in person) / $400 per person (online)      
+* Two-day class: $900 per person (in person) / $800 per person (online)  
 
 ### Team Discounts
 
@@ -41,11 +40,13 @@ We're offering the following discount rates, which will be applied automatically
 
 ### Training Check-in
 
-The registration and information desk is located in the lower level (Level 0) foyer ('Room' 071) and will open at 8:00 a.m. each day. Conference volunteers will be available at the information desk, throughout both days, to provide assistance as needed.
+The registration and information desk is located in the lower level (Level 0) foyer ('Room' 071) and will open at 8:00 a.m. each day. Conference volunteers will be available at the information desk, throughout both days, to provide assistance as needed. 
+
+For half-day, afternoon classes, check-in will open at 1:00 p.m.
 
 ## Training Schedule
 
-In addition the main conference on Thursday and Friday, we are offering a selection of world-class training opportunities on Tuesday and Wednesday. Our training schedule includes one (1) two-day live online class and two (2) half-day face-to-face classes.
+In addition the main conference on Thursday and Friday, we will be offering a selection of world-class training opportunities on Tuesday and Wednesday.
 
 Each day, regardless of format, classes will follow this schedule (all times are NZST):
 
@@ -59,13 +60,9 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ## Classes on Offer
 
-{% comment %} // Commented out since the CFT is now closed.
-The Call for Training (CFT) closes on 15th April. Training classes will be selected shortly thereafter, and training registration will open on Monday, 12th May.
-{% endcomment %}
+The Call for Training (CFT) closes on 30th May. Training classes will be selected shortly thereafter, and training registration will open on Monday, 15th June.
 
 Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From 23rd August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
-
-
 
 **NOTES:**
 

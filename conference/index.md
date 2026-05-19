@@ -29,11 +29,11 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 -----
 
-We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 4th and 5th, 2026. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/){: target="_blank" } and organised by [AppSec New Zealand Incorporated](../index.md){: target="_blank" }.
+We are proud to present the 15th OWASP New Zealand Day conference, to be held in the Sir Owen G. Glenn Building (OGGB) at the University of Auckland Campus on Thursday and Friday, September 3rd and 4th, 2026. OWASP New Zealand Day is a two-day conference dedicated to web and application security, with an emphasis on secure architecture and development techniques to help Kiwi developers build more secure applications. The conference is presented by the [OWASP New Zealand Chapter](https://owasp.org/www-chapter-new-zealand/){: target="_blank" } and organised by [AppSec New Zealand Incorporated](../index.md){: target="_blank" }.
 
 There will be two presentation streams throughout the conference. The first stream will include introductory talks on application and information security topics, as well as on policy, compliance, and risk management. The second stream will primarily address deeper technical topics. Talks featuring OWASP projects and tools are particularly encouraged, as are talks by members of under-represented communities.
 
-In addition to these principal streams, there will be a third, smaller "stream," supporting sponsor presentations, demos of OWASP tools, and interest/user group meetings. Diamond, Platinum, and Gold Sponsors will be given priority for time slots in this "stream." Further details will be published closer to the date, regarding opportunities for other groups to present.
+In addition to these principal streams, there will be a third, smaller "stream," supporting sponsor presentations, demos of OWASP tools, and interest/user group meetings. Diamond, Platinum, and Gold Sponsors will be given priority for presentation time slots in this "stream." Further details will be published closer to the date, regarding opportunities for other groups to present.
 
 Who is the Conference for?
 
@@ -46,7 +46,7 @@ Who is the Conference for?
 
 ## Conference Structure
 
-**Date:** Thursday and Friday, 4-5 September 2026   
+**Date:** Thursday and Friday, 3-4 September 2026   
 **Time:** 9:15 a.m. - 5:00 p.m., Thursday; 10:00 a.m. - 5:00 p.m., Friday   
 
 The main conference on Thursday and Friday will have two streams throughout both days:
@@ -69,15 +69,15 @@ Early registration (on or before 14 August):
 
 ## Training
 
-In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (2-3 September), at the same venue.
+In addition to the main conference on Thursday and Friday, we are pleased to offer training opportunities on Tuesday and Wednesday (1-2 September), at the same venue.
 
-Training Registration will open approximately 12 May. Information on the classes offered can be found on our **[Pre-Conference Training](training.md)** page.
+Training Registration will open approximately 15 June. Information on the classes offered can be found on our **[Pre-Conference Training](training.md)** page, once the CFT closes and classes have been confirmed.
 
 ### Training Registration Fees
 
-* Half-day class: $250 per person (classroom); $225 per person (online)
-* One-day class: $500 per person (classroom); $450 per person (online)
-* Two-day class: $1,000 per person (classroom); $900 per person (online)
+* Half-day class: $225 per person (classroom); $200 per person (online)
+* One-day class: $450 per person (classroom); $400 per person (online)
+* Two-day class: $900 per person (classroom); $800 per person (online)
 
 Group registration discounts (single purchase):   
 * 6-10 attendees: 10% off
@@ -117,14 +117,13 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 * **Main Conference Dates:** 3-4 September 2026
 * **Pre-Conference Training Dates:** 1-2 September 2026
 * **Training Registration Closes:** 22 August 2026
-* **Last Day to Pre-Order Lunches:** 22 August 2026
 * **"Early Bird" Conference Registration Ends:** 15 August 2026<br />From 16 August, there's an additional "Procrastinator Fee" ($25 Regular, $20 Student/Unwaged)
-* **Last Day for T-Shirt Purchases:** 11 August 2026 - Orders go to the printer the next morning!
-* **Call for Presentations(CFP) Closed:** 30 June 2026
-* **[Diversity Fund](diversity_fund.md) Applications Opened:** 1 May 2026
-* **[Training Registration](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } Opened:** 15 July 2026
-* **Call for Training (CFT) Closed:** 30 May 2026
-* **[Conference Registration](https://events.humanitix.com/owaspnz2026){: target="_blank" } Opened:** 1 May 2026
+* **Last Day for T-Shirt Purchases:** 10 August 2026 - Orders go to the printer the next morning!
+* **Call for Presentations(CFP) Closes:** 30 June 2026
+* **[Diversity Fund](diversity_fund.md) Applications Open:** 22 June 2026
+* **[Training Registration](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } Opens:** 15 June 2026
+* **Call for Training (CFT) Closes:** 30 May 2026
+* **[Conference Registration](https://events.humanitix.com/owaspnz2026){: target="_blank" } Opens:** 25 May 2026
 * **[Call for Training (CFT)](https://www.papercall.io/owaspnz26-training){: target="_blank" } Opened:** 23 April 2026
 * **[Call for Presentations (CFP)](https://www.papercall.io/owaspnz26){: target="_blank" } Opened:** 23 April 2026
 

@@ -24,12 +24,10 @@ For more information, feel free to [contact us](mailto:info@appsec.org.nz).
 
 ## Conference Committee
 
-* Austin Chamberlain - Program, Diversity Fund, AppSec NZ Secretary/Treasurer
-* John DiLeo - Conference Chair, OWASP New Zealand Chapter Leader, AppSec NZ President
+* Austin Chamberlain - Conference Chair, Diversity Fund, AppSec NZ Secretary/Treasurer
+* John DiLeo - Conference and Training Program, OWASP New Zealand Chapter Leader, AppSec NZ President
 * Kirk Jackson - Program, Diversity Fund
 * Lech Janczewski
 * Ramandeep Kaur, AppSec NZ Vice President
 * Noah Miller
-* Anneke Smitheram - Volunteer Coordinator
-* Kit Sumabat - Quartermaster
-* Pete Teale - Sponsor Liaison, AppSec NZ Committee
+* Pete Teale - AppSec NZ Committee

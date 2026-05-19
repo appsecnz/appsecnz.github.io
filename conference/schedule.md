@@ -11,7 +11,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }
 
-# Conference Schedule - 4-5 September
+# Conference Schedule - 3-4 September
 
 ## AppSec New Zealand Day 2026
 
