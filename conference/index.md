@@ -136,7 +136,7 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
     **Map:** [Google Maps](https://maps.app.goo.gl/EEy51eCvYYZRwXma7){: target="_blank" }   
     
 **Stream One:** Level 1   
-**Room:** Fisher and Paikel Appliances Auditorium (F&amp;PAA, Room 115)   
+**Room:** Fisher and Paykel Appliances Auditorium (F&amp;PAA, Room 115)   
 
 **Stream Two:** Level 0   
 **Room:** Lecture Theatre (Room 098)   
