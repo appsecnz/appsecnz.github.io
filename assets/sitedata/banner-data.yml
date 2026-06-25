@@ -16,7 +16,7 @@
 # TODO: Update start and end datetime
   start: 2026-06-01 00:00:00+1200
   end: 2026-09-03 23:59:59+1200
-  - type: alert
+- type: alert
     text: |-
       <h3 align="center">
         The OWASP NZ Day 2026 <a href="https://pretalx.com/owaspnz2026/cfp" target="_blank">Call for Presentations (CFP)</a> is now open!
