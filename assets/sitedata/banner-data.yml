@@ -1,27 +1,19 @@
 - type: alert
   text: |-
     <h3 align="center">
+      The OWASP NZ Day 2026 <a href="https://pretalx.com/owaspnz2026/cfp" target="_blank">Call for Presentations (CFP)</a> is now open!
+    </h3> 
+  start: 2026-06-01 00:00:00+1200
+  end: 2026-07-25 23:59:59+1200
+- type: alert
+  text: |-
+    <h3 align="center">
       The 2026 OWASP New Zealand Day conference will take place Tuesday-Friday, 1-4 September 2026. 
       <br />
       Pre-Conference Training: Tuesday &amp; Wednesday; Main Conference: Thursday &amp; Friday
     </h3> 
   start: 2026-01-01 00:00:00+1200
   end: 2026-09-04 23:59:59+1200
-- type: alert
-  text: |-
-    <h3 align="center">
-      The OWASP NZ Day 2026 <a href="https://www.papercall.io/owaspnz26-training" target="_blank">Call for Training (CFT)</a> and
-      <a href="https://www.papercall.io/owaspnz26" target="_blank">Call for Presentations (CFP)</a> are now open!
-    </h3> 
-  start: 2026-04-23 00:00:00+1200
-  end: 2026-05-31 23:59:59+1200
-- type: alert
-  text: |-
-    <h3 align="center">
-      The OWASP NZ Day 2026 <a href="https://www.papercall.io/owaspnz26" target="_blank">Call for Presentations (CFP)</a> is now open!
-    </h3> 
-  start: 2026-06-01 00:00:00+1200
-  end: 2026-06-30 23:59:59+1200
 - type: alert
   text: |-
     <h3 align="center">
