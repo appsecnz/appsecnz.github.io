@@ -23,7 +23,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 ### Pre-Conference Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } to book your seats now!
 {% endcomment %}
 
-### Conference Registration opens on Monday, 25th May! Visit our [Registration Site](https://events.humanitix.com/owaspnz2026){: target="_blank" } to secure your tickets and t-shirts!
+### Conference Registration is now open! Visit our [Registration Site](https://events.humanitix.com/owaspnz2026){: target="_blank" } to secure your tickets and t-shirts!
 
 -----
 
