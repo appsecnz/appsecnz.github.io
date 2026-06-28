@@ -6,3 +6,10 @@
     </h3> 
   start: 2026-06-01 00:00:00+1200
   end: 2026-07-25 23:59:59+1200
+- type: alert
+  text: |-
+    <h3 align="center">
+      The <a href="https://pretalx.com/owaspnz2026/cfp" target="_blank">Pre-Conference Training registration</a> is now open! Register now to secure your seats!
+    </h3> 
+  start: 2026-06-29 00:00:00+1200
+  end: 2026-08-22 23:59:59+1200

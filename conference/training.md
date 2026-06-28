@@ -15,17 +15,14 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 ## OWASP New Zealand Day 2026
 
-{% comment %}
 ### Training Registration is now open! Visit our [Training Registration Site](https://events.humanitix.com/owaspnz2026-training) to secure your seats now.
-{% endcomment %}
 
-### Call for Training (CFT) is now open! [Please submit your training proposals now](https://www.papercall.io/owaspnz26-training){: target="_blank" }.
 
 ### Registration Fees
 
-* Half-day class: $225 per person (in person) / $200 per person (online)      
-* One-day class: $450 per person (in person) / $400 per person (online)      
-* Two-day class: $900 per person (in person) / $800 per person (online)  
+* Half-day class: $225 per person      
+* One-day class: $450 per person      
+* Two-day class: $900 per person  
 
 ### Team Discounts
 
@@ -46,7 +43,7 @@ For half-day, afternoon classes, check-in will open at 1:00 p.m.
 
 ## Training Schedule
 
-In addition the main conference on Thursday and Friday, we will be offering a selection of world-class training opportunities on Tuesday and Wednesday.
+In addition to the main conference on Thursday and Friday, we will be offering a selection of world-class training opportunities on Tuesday and Wednesday.
 
 Each day, regardless of format, classes will follow this schedule (all times are NZST):
 
@@ -60,13 +57,50 @@ Each day, regardless of format, classes will follow this schedule (all times are
 
 ## Classes on Offer
 
-The Call for Training (CFT) closes on 30th May. Training classes will be selected shortly thereafter, and training registration will open on Monday, 15th June.
-
 Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From 23rd August, no refunds or class changes will be permitted, but attendee substitutions will be accepted.
+
+#### Two-day, classroom training - Tuesday and Wednesday, 1-2 September:
+
+* *[The Art of Practical Threat Modelling](training-practical_threat_modelling.md)*, Ralph Nicole N. Andalis
+
+* *[Mobile Adversary Exploitation Breakout](training-mobile_exploitation.md)*, Blessen Thomas
+
+* *Incident Response Four-Class Bundle*, David Jennings - Includes:
+  * *[Incident Response 101](training-incident_response.md)*
+  * *[Quick Threat Modelling](training-quick_threat_modelling.md)*
+  * *[Cyber Threat Intelligence](training-cyber_threat_intelligence.md)*
+  * *[Functional TTX - IR Day](training-functional_ttx_ir.md)*
+
+#### One-day, in-person (classroom) training - Tuesday, 1 September:
+
+* *[Assess and Improve Your AppSec Programme using OWASP SAMM](training-owasp_samm.md)*, John DiLeo   
+
+#### One-day, in-person (classroom) training - Wednesday, 2 September:
+
+* *[Android AppSec in Practice](training-android_appsec.md)*, Shofe Miraz   
+
+#### Half-day, in-person (classroom) training - Tuesday morning, 1 September:
+
+* *[Incident Response 101](training-incident_response.md)*, David Jennings   
+
+#### Half-day, in-person (classroom) training - Tuesday afternoon, 1 September:
+
+* *[Quick Threat Modelling](training-quick_threat_modelling.md)*, David Jennings
+
+#### Half-day, in-person (classroom) training - Wednesday morning, 2 September:
+
+* *[Application Security Overview/Refresher Training](training-appsec_overview.md)*, John DiLeo   
+* *[Cyber Threat Intelligence](training-cyber_threat_intelligence.md)*, David Jennings
+
+#### Half-day, in-person (classroom) training - Wednesday afternoon, 2 September:
+
+* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)*, Toby Reynolds
+* *[Functional TTX - IR Day](training-functional_ttx_ir.md)*, David Jennings
 
 **NOTES:**
 
 * Registration for classes may close earlier, if all spots are filled.
+
 
 -------------
 
