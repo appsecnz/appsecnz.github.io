@@ -27,7 +27,7 @@ Incorporating a mix of lectures and workshops, this training delivers an in-dept
 
 **Time:** 8:45 a.m. to 5:30 p.m. (NZDT)
 
-**Instructor:** John DiLeo, Application Security Lead, [Gallagher Security](https://security.gallagher.com)   
+**Instructor:** John DiLeo, Application Security Lead, [Gallagher Security](https://security.gallagher.com){: target="_blank" }   
 
 **Course Fee:** NZ $450.00 (plus GST and ticketing fees)
 

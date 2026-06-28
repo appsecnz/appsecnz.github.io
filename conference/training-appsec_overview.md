@@ -1,6 +1,6 @@
 ---
 title: Classroom Training - AppSec Overview/Refresher Training
-description: Pre-Conference Training Class, 3 September - OWASP New Zealand Day 2026
+description: Pre-Conference Training Class, 2 September - OWASP New Zealand Day 2026
 
 layout: conference/full-width
 dataDir: conference-2026
@@ -23,7 +23,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 **Time:** 8:45 a.m. to 12:30 p.m. (NZST)
 
-**Instructor:** John DiLeo, Application Security Lead, [Gallagher Security](https://security.gallagher.com)   
+**Instructor:** John DiLeo, Application Security Lead, [Gallagher Security](https://security.gallagher.com){: target="_blank" }   
 
 **Course Fee:** NZ $225.00 (plus GST and ticketing fees)
 
