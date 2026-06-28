@@ -7,7 +7,7 @@ dataDir: conference-2026
 sponsorsEventName: OWASP New Zealand Day 2026
 ---
 
-[![Web Banner](/assets/images/2025_Banner_Graphic.jpg)](/conference/)   
+[![Web Banner](/assets/images/2026_Banner_Graphic.jpg)](/conference/)   
 [Back to Pre-Conference Training Page](training.md)
 {: style="text-align: right; font-size: small;" }   
 [Back to Conference Home Page](index.md)
