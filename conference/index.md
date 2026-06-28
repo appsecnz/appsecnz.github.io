@@ -114,14 +114,14 @@ The **LEGO Build** is brought to you by our **LEGO Build Sponsor, [IriusRisk](ht
 
 * **Main Conference Dates:** 3-4 September 2026
 * **Pre-Conference Training Dates:** 1-2 September 2026
-* **Training Registration Closes:** 22 August 2026
+* **Training Registration Closes:** 21 August 2026
 * **"Early Bird" Conference Registration Ends:** 15 August 2026<br />From 16 August, there's an additional "Procrastinator Fee" ($25 Regular, $20 Student/Unwaged)
 * **Last Day for T-Shirt Purchases:** 10 August 2026 - Orders go to the printer the next morning!
 * **Call for Presentations(CFP) Closes:** 25 July 2026
-* **Training Registration Opens:** 1 July 2026
-* **[Diversity Fund](diversity_fund.md) Applications Open:** 22 June 2026
+* **[Training Registration](https://events.humanitix.com/owaspnz2026-training){: target="_blank" } Opened:** 28 June 2026
+* **[Diversity Fund](diversity_fund.md) Applications Opened:** 22 June 2026
 * **Call for Training (CFT) Closed:** 30 May 2026
-* **[Conference Registration](https://events.humanitix.com/owaspnz2026){: target="_blank" } Opens:** 25 May 2026
+* **[Conference Registration](https://events.humanitix.com/owaspnz2026){: target="_blank" } Opened:** 25 May 2026
 * **Call for Training (CFT) Opened:** 23 April 2026
 * **[Call for Presentations (CFP)](https://pretalx.com/owaspnz2026/cfp){: target="_blank" } Opened:** 23 April 2026
 

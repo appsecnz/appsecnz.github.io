@@ -80,9 +80,9 @@ The main goal of this training is to equip participants with an understanding of
 * STRIDE vs. DREAD vs. PASTA vs. NIST
 * Q&A
 
-** Threat Modelling Tools (OWASP Threat Dragon, Lucid Chart and any other diagramming software)
-** More interactive workshop examples of threat modelling (depends on the group's pace)
-** Q&A
+* Threat Modelling Tools (OWASP Threat Dragon, Lucid Chart and any other diagramming software)
+* More interactive workshop examples of threat modelling (depends on the group's pace)
+* Q&A
 
 
 ## Your Instructor

@@ -13,7 +13,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }   
 
-# Assess and Improve Your AppSec Programme using OWASP SAMM
+# Assess and Improve Your AppSec Program using OWASP SAMM
 
 ## One-Day Interactive (Classroom) Training - OWASP New Zealand Day 2026
 

@@ -73,7 +73,7 @@ Pre-Conference Training registration will **CLOSE** on Friday, 22nd August. From
 
 #### One-day, in-person (classroom) training - Tuesday, 1 September:
 
-* *[Assess and Improve Your AppSec Programme using OWASP SAMM](training-owasp_samm.md)*, John DiLeo   
+* *[Assess and Improve Your AppSec Program using OWASP SAMM](training-owasp_samm.md)*, John DiLeo   
 
 #### One-day, in-person (classroom) training - Wednesday, 2 September:
 
