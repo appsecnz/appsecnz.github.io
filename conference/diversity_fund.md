@@ -16,7 +16,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 ## OWASP New Zealand Day 2026
 
-**Applications for support through our Diversity and Financial Fund will open on 22nd June.**
+**Applications for support through our Diversity and Financial Fund will open on 29th June.**
 
 Each year, we have some funding available to help people from around New Zealand attend the OWASP New Zealand Day conference, who would otherwise find it hard to attend. In particular, we welcome applications from women, people of colour, LGBTQ2IA, Pacific Island indigenous peoples, and all others. You all deserve to be able to learn more about security, and we’ll do our best to help make that happen!
 
@@ -30,8 +30,8 @@ Our funds are limited, and we'll be reviewing applications every week, starting 
 
 ### Process for Applying for Diversity Fund Support
 
-* Fill out our **Application Form**, on or after 22nd June. 
-* We will review and approve applications approximately every fortnight, beginning the week of 6th July. 
+* Fill out our **[Application Form](https://forms.gle/iqA9C9VEjRyYdyF1A)**, on or after 29th June. 
+* We will review and approve applications approximately every fortnight, beginning the week of 13th July. 
 * We will contact all applicants and let them know the results of the review.
 * Successful applicants are responsible for booking their own travel and accommodations.
 * Diversity Fund travel support is provided as a reimbursement, *after* the conference, of actual expenses incurred - up to the specified allowance for each item.
