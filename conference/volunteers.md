@@ -18,16 +18,16 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 ### We're always looking for a few good women and men, to assist with conference preparations and to help things go smoothly during the event.
 
-If you're keen to help out, please fill out our [Volunteer Information Form](https://forms.gle/S1wtMBcf4vzvPvgr6).
+If you're keen to help out, please fill out our [Volunteer Information Form](https://forms.gle/1u4JwzyoFbj9DRJ39).
 
 For more information, feel free to [contact us](mailto:info@appsec.org.nz).
 
 ## Conference Committee
 
-* Austin Chamberlain - Conference Chair, Diversity Fund, AppSec NZ Secretary/Treasurer
-* John DiLeo - Conference and Training Program, OWASP New Zealand Chapter Leader, AppSec NZ President
+* Austin Chamberlain - Conference Chair, Diversity Fund, AppSec NZ Officer
+* John DiLeo - Conference and Training Program, OWASP New Zealand Chapter Leader
 * Kirk Jackson - Program, Diversity Fund
-* Lech Janczewski
-* Ramandeep Kaur, AppSec NZ Vice President
+* Lech Janczewski - AppSec NZ Officer
+* Ramandeep Kaur, AppSec NZ Officer
 * Noah Miller
-* Pete Teale - AppSec NZ Committee
+* Pete Teale - AppSec NZ Officer
