@@ -33,7 +33,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 
 ## Course Description
 
-Tabletop exercises (TTXs) allow participants to test assumptions by communicating how they would react and rehearsing what 
+Table-top exercises (TTXs) allow participants to test assumptions by communicating how they would react and rehearsing what 
 actions they would take in an incident.
 
 Like most things, conducting tabletop exercises allows your teams to practice and improve their abilities at responding 
@@ -44,7 +44,7 @@ mitigate the impact of a cybersecurity incident.
 * A low-stakes environment helps in training personnel without the pressure of real-world consequences
 * Allows participants to familiarise themselves with procedures and the roles they would have to undertake during a real crisis
 * Creates opportunities to uncover weaknesses that might not have been apparent otherwise
-* Participants learn how to eff ectively communicate, share information, and coordinate responses across teams, which is crucial during emergencies
+* Participants learn how to effectively communicate, share information, and coordinate responses across teams, which is crucial during emergencies
 * Enables decision-makers to practice making critical decisions under pressure and gain agreement on those decisions that can be made ahead of time
 * Builds confidence in responding to incidents, reduces panic during a real incident and ensures a more coordinated response
 
