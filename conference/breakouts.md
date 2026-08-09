@@ -32,3 +32,14 @@ Normally run as a single instance, we will be running a Multi-Juicer setup which
 
 This event is kindly sponsored by [Gallagher Security](https://gallagher.com/).
 
+### Secure Vibe Coding with AI
+
+In this workshop, you'll use AI to vibe-code a small feature together with the instructor and group, allow a few realistic AI-generated mistakes to slip through, and then prevent those issues using better specifications, guardrails, secure principles and practices in AI-assisted software engineering.
+
+Approximately 90-120 minutes (combines hands-on participation with a live demonstration).
+
+#### Attendee Requirements
+Please bring a laptop if you'd like to follow along with the hands-on exercises.
+
+This event is kindly sponsored by [CyberCX](https://cybercx.co.nz/)
+
