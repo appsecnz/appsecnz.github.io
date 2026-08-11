@@ -57,7 +57,7 @@ This session is the fourth in our four-module course. To wrap things up, we brin
 participants then get tested in multiple functional tabletops to ensure their new knowledge sticks by actively 
 using it under pressure.
 
-Visit [https://fluidsecurity.co.nz/training/irtraining/](https://fluidsecurity.co.nz/training/irtraining/){: target="_blank" } for more details.
+Visit [https://fluidsecurity.co.nz/services/irtabletops/](https://fluidsecurity.co.nz/services/irtabletops/){: target="_blank" } for more details.
 
 ## Your Instructor
 
