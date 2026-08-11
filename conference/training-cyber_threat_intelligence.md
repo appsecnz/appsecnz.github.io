@@ -53,7 +53,7 @@ This session is the third in our four-module course. By this point, participants
 in an incident and how to perform quick threat models, this now teaches them what CTI is and how to leverage it in 
 multiple scenarios, getting them ready for the final session.
 
-Visit [https://fluidsecurity.co.nz/training/irtraining/](https://fluidsecurity.co.nz/training/irtraining/){: target="_blank" } for more details.
+Visit [https://fluidsecurity.co.nz/training/cti/](https://fluidsecurity.co.nz/training/cti/){: target="_blank" } for more details.
 
 ## Your Instructor
 
