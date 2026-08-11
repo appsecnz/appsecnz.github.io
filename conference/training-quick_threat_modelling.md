@@ -58,7 +58,7 @@ This session is the second in our four-module course. By this point, participant
 incident and learned skills of how to respond. This session teaches them how to triage quickly with threat models of what 
 would be critical to an organisation and gets them ready for the following sessions.
 
-Visit [https://fluidsecurity.co.nz/training/irtraining/](https://fluidsecurity.co.nz/training/irtraining/){: target="_blank" } for more details.
+Visit [https://fluidsecurity.co.nz/training/threatmodelling/](https://fluidsecurity.co.nz/training/threatmodelling/){: target="_blank" } for more details.
 
 ## Your Instructor
 
