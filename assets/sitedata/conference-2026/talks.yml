@@ -55,7 +55,7 @@
   remote: false
   day: 0
   block: 3
-  track: 1
+  track: 0
   title: OWASP Top 10 Introduction
   name: Austin Chamberlain
   org: Defence Science and Technology, NZDF
