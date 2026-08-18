@@ -50,6 +50,27 @@
   size: 1.1 MB
 
 - plenary: false
+  selected: true       # must be true to appear at all — this is the "accepted" gate
+  confirmed: true      # speaker has confirmed
+  remote: false
+  day: 0                # 0 = Day 1, 1 = Day 2
+  block: 2              # time slot number
+  track: 0               # 0 = Track One, 1 = Track Two
+  anchor: dileo-owasp   # unique, whitespace-free ID
+  title: Leveraging OWASP Projects and Tools
+  name: John DiLeo
+  org: OWASP/Gallagher Security
+  abstract: |-
+    An overview of OWASP Project and Tools and how to apply them.
+  bio: |-
+     leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher 
+     Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom, 
+     providing support and guidance to clients in launching, managing, and maturing their enterprise software 
+     assurance programs. Before turning to full-time roles in security, John was active as a Java enterprise 
+     architect and Web application developer. In earlier lives, John has been a full-time professor and had 
+     specialized in developing discrete-event simulations of large distributed systems.
+
+- plenary: false
   selected: true
   confirmed: true
   remote: false
