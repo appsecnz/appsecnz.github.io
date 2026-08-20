@@ -280,7 +280,7 @@
 - plenary: false
   selected: true
   confirmed: true
-  remote: false
+  remote: true
   day: 0
   block: 2
   track: 1
