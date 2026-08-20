@@ -301,9 +301,9 @@
   selected: true
   confirmed: true
   remote: false
-  day: 1
-  block: 9
-  track: 0
+  day: 0
+  block: 10
+  track: 1
   title: How Exposed are Your Bones? - Medical System Vulnerabilities and Exposure
   name: Max
   org: Plexure
@@ -480,7 +480,7 @@
   confirmed: true
   remote: false
   day: 1
-  block: 10
+  block: 9
   track: 0
   title: 'Your AI Agent Will Be Prompt-Injected: Runtime Detection and Defense for MCP-Based Systems'
   name: Keita Higak
@@ -537,4 +537,106 @@
     The Open Web Application Security Project (OWASP) boasts over 200 Projects, whose volunteers have developed tools and resources covering nearly every aspect of application security and software assurance. The challenge lies in knowing what they are, where to find them, and how they can help. In this talk, we'll present brief glimpses of more than 30 interesting and useful OWASP Projects - including the current Flagship and Production Projects. We'll provide insights into how each can be used to build and improve your AppSec program, in every phase of the development lifecycle.
   bio: |-
     leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom, providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs. Before turning to full-time roles in security, John was active as a Java enterprise architect and Web application developer. In earlier lives, John has been a full-time professor and had specialized in developing discrete-event simulations of large distributed systems.
+
+# --- Auto-generated null placeholders below ---
+# These fill every (day, block, track) slot that had no talk entry, so the
+# schedule renderer's positional array indexing never comes up short again.
+# confirmed: false makes build_talk_td render a blank cell - safe to leave as-is,
+# or replace with a real talk (keep the same day/block/track) as one is confirmed.
+#
+# NOTE: Day 1, Block 10 currently has BOTH a plenary entry (Conference Closing
+# Session) and a separate non-plenary talk (Your AI Agent Will Be Prompt-Injected)
+# in the same block. This likely wasn't intended - the plenary entry renders as a
+# full-width row, and the talk will render as an extra trailing cell on that same
+# row. Worth moving that talk to its own block before publishing.
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 0
+  block: 6
+  track: 0
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day0-block6-track0
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 0
+  block: 10
+  track: 1
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day0-block10-track1
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 1
+  block: 2
+  track: 1
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day1-block2-track1
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 1
+  block: 3
+  track: 1
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day1-block3-track1
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 1
+  block: 4
+  track: 1
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day1-block4-track1
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 1
+  block: 6
+  track: 0
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day1-block6-track0
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 1
+  block: 6
+  track: 1
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day1-block6-track1
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 1
+  block: 7
+  track: 1
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day1-block7-track1
+
+- plenary: false
+  selected: false
+  confirmed: false
+  day: 1
+  block: 9
+  track: 1
+  title: <PLACEHOLDER>
+  name: <PLACEHOLDER>
+  anchor: placeholder-day1-block9-track1
 
