@@ -12,3 +12,113 @@
 # format: File format for slide deck
 # size: File size of slide deck
 # description: full-length description of the talk
+#
+# IMPORTANT: schedule.html indexes this data by ARRAY POSITION within each day, not
+# by matching the 'block' field. There MUST be exactly one entry per block number,
+# in sequential order with no gaps, matching schedule.yml's block numbering for that
+# day - even for plenary/break blocks where a breakout slot doesn't apply. Do not
+# delete or skip a block entry, or every later block that day will be misaligned.
+#
+# TODO: Two known 2026 breakout sessions (Juice Shop MultiJuicer CTF, Secure Vibe
+# Coding with AI - see breakouts.md) still need their block/day slots confirmed and
+# set to active: true below, with anchor/title/org/description filled in to match.
+
+- active: false
+  day: 0
+  block: 0
+
+- active: false
+  day: 0
+  block: 1
+
+- active: false
+  day: 0
+  block: 2
+
+- active: false
+  day: 0
+  block: 3
+
+- active: false
+  day: 0
+  block: 4
+
+- active: false
+  day: 0
+  block: 5
+
+- active: false
+  day: 0
+  block: 6
+
+- active: false
+  day: 0
+  block: 7
+
+- active: false
+  day: 0
+  block: 8
+
+- active: false
+  day: 0
+  block: 9
+
+- active: false
+  day: 0
+  block: 10
+
+- active: false
+  day: 0
+  block: 11
+
+- active: false
+  day: 0
+  block: 12
+
+- active: false
+  day: 1
+  block: 0
+
+- active: false
+  day: 1
+  block: 1
+
+- active: false
+  day: 1
+  block: 2
+
+- active: false
+  day: 1
+  block: 3
+
+- active: false
+  day: 1
+  block: 4
+
+- active: false
+  day: 1
+  block: 5
+
+- active: false
+  day: 1
+  block: 6
+
+- active: false
+  day: 1
+  block: 7
+
+- active: false
+  day: 1
+  block: 8
+
+- active: false
+  day: 1
+  block: 9
+
+- active: false
+  day: 1
+  block: 10
+
+- active: false
+  day: 1
+  block: 11
