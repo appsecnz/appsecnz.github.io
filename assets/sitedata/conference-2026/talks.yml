@@ -49,26 +49,26 @@
   format: PDF
   size: 1.1 MB
 
-- plenary: false
-  selected: true       # must be true to appear at all — this is the "accepted" gate
-  confirmed: true      # speaker has confirmed
-  remote: false
-  day: 0                # 0 = Day 1, 1 = Day 2
-  block: 2              # time slot number
-  track: 0               # 0 = Track One, 1 = Track Two
-  anchor: dileo-owasp   # unique, whitespace-free ID
-  title: Leveraging OWASP Projects and Tools
-  name: John DiLeo
-  org: OWASP/Gallagher Security
-  abstract: |-
-    An overview of OWASP Project and Tools and how to apply them.
-  bio: |-
-     leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher 
-     Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom, 
-     providing support and guidance to clients in launching, managing, and maturing their enterprise software 
-     assurance programs. Before turning to full-time roles in security, John was active as a Java enterprise 
-     architect and Web application developer. In earlier lives, John has been a full-time professor and had 
-     specialized in developing discrete-event simulations of large distributed systems.
+#- plenary: false
+#  selected: true       # must be true to appear at all — this is the "accepted" gate
+#  confirmed: true      # speaker has confirmed
+#  remote: false
+#  day: 0                # 0 = Day 1, 1 = Day 2
+#  block: 2              # time slot number
+#  track: 0               # 0 = Track One, 1 = Track Two
+#  anchor: dileo-owasp   # unique, whitespace-free ID
+#  title: Leveraging OWASP Projects and Tools
+#  name: John DiLeo
+#  org: OWASP/Gallagher Security
+#  abstract: |-
+#    An overview of OWASP Project and Tools and how to apply them.
+#  bio: |-
+#     leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher 
+#     Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom, 
+#     providing support and guidance to clients in launching, managing, and maturing their enterprise software 
+#     assurance programs. Before turning to full-time roles in security, John was active as a Java enterprise 
+#     architect and Web application developer. In earlier lives, John has been a full-time professor and had 
+#     specialized in developing discrete-event simulations of large distributed systems.
 
 - plenary: false
   selected: true
@@ -95,7 +95,7 @@
     Defence Force. 
     </p>
     <p>
-    Austin started his career as a system administrator working predominantly on web-facing systems. 
+    started his career as a system administrator working predominantly on web-facing systems. 
     This provided a fast understanding of information security and he focused increasingly on 
     information and cyber security, making the jump to a cyber role in due course. He served part 
     time in the British Army reserve, initially as a logistics officer, and later transferring to a 
@@ -190,3 +190,351 @@
   track: 0
   title: Post-Conference Gathering
   name: Location TBC
+
+# NOTE: Every entry below needs day / block / track assigned by the Programme Committee
+# once the schedule grid position is decided. selected/confirmed are placeholders
+# pending committee decisions. 'org' was not present in the source CSV for any talk.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 6
+  track: 1
+  title: A Crash Course in Input-Based Vulnerability Discovery
+  name: Denis Andzakovic
+  org: Pulse Security
+  anchor: andzakovic-crash
+  abstract: |-
+    What do SQL injection, remote command execution, cross-site scripting, server-side request forgery, XXE attacks, path traversal, arbitrary file upload, and a bunch more[1] all have in common? They are all instances of vulnerabilities which occur when processing input. 
+
+    This talk runs through the process of finding input-based vulnerabilities in web applications and APIs by sending crafted test input to a target system. We'll cover how to build an input testing methodology, where manual analysis and automated analysis complement each other, how to extend and improve your approach over time, and how you, too, can start to find vulnerabilities in a robust and repeatable way.
+
+    How do we find these vulnerabilities? "Simple[2]", we map the inputs into a target, submit mutated or specifically crafted payloads, analyse the responses for anomalies, and triage those anomalies to determine whether a vulnerable condition caused the behaviour. We'll dig into what that actually looks like in practice, and explore how access to source code, logs, and application runtimes can meaningfully improve test coverage.
+
+    If all goes according to plan, this talk will leave you with a starting point to go find not just some input-based vulnerabilities, but all of them[3]!
+
+    [1] CWE SFP Primary Cluster: Tainted Input (896) has more examples, list big. Metho must cover whole list. Panik.
+    [2] "Simple" is load bearing, process actually really hard, thus why this whole talk.
+    [3] "All" is a stretch goal and unfortunately limited by annoying things like thermodynamics and computer science. I'll explain whats reasonable to expect to find with this process, it'll be okay.
+  bio: |-
+    is a Principal Security Consultant at Pulse Security, whose day job involves screaming at computers to see if they do something weird. Denis spends, arguably, far too much time thinking about state-of-the-art in offensive security reviews and what it would take to complete them without melting people's brains.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 3
+  track: 1
+  title: Bring Your Own CSRF Token - Abusing Unescaped Tokens to Attack Your Internet Neighbours
+  name: Webbed
+  anchor: webbed-bring
+  abstract: |-
+    Security controls are meant to _stop_ hacks, but _sometimes_ they can do the opposite. Cross-Site Request Forgery tokens prevent applications from accepting potentially forged requests from unsuspecting users. Since these tokens need to be sent back to the server, developers need to remember to sanitise them. If the framework implementing CSRF forgets to do this, application users can be at risk of having rogue JavaScript pillage their browsers. 
+
+    In February of 2026, an unexpected vulnerability was discovered in Litestar - a popular Python-based web framework with over 1 million downloads per month. If the target application ran Litestar and had the right features enabled, the CSRF token could be poisoned and allow for arbitrary JavaScript to be executed in a victim user's browser. 
+
+    By breaking down the exploit chain, we will see how a vulnerability in your own application can put your internet neighbours at risk. You'll walk away from this talk with a renewed ~~paranoia~~ awareness of the importance of sanitising **everything** that the client gives you.
+  bio: |-
+    is a former developer turned penetration tester. Having spent the first 4 years of his career building software, he now spends his time pulling it apart. He is also an avid Hack The Box player, with two HTB certifications and 71 machines under his belt. Nathan frequently gives back to the community through organising CTF teams, co-hosting regular meetups, and encouraging anyone with an interest in being a (responsible) computer menace to give it a go.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 9
+  track: 0
+  title: Everything is a graph, and you need a map
+  name: Kirk Jackson
+  org: Lightspeed Commerce
+  anchor: jackson-everything
+  abstract: |-
+    Everything in the world around you is a graph: objects, and relations between them.
+
+    How can a graph of your organisation help you in your security role? We'll explore the kinds of queries you can perform on a graph database, what you can learn from them, and the benefit of using a graph-based tool like the open-source Cartography project to map all of your infrastructure.
+  bio: |-
+    works at Lightspeed, and has previously been involved in helping organise the OWASP Wellington Meetup and the annual OWASP New Zealand Day conference in Auckland.
+
+    Kirk worked as a web developer before switching to the defence team - setting up Xero's security practice, working as a pen tester, and in defence roles at several companies.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 2
+  track: 0
+  title: 'Hack Your Way Into Security Engineering: Beating the Hiring Pipeline'
+  name: Monish Alur Gowdru
+  anchor: gowdru-hack
+  abstract: |-
+    Security Engineer roles can be difficult to break into, as many candidates struggle with navigating the hiring process and preparing effectively. Candidates are often filtered out by ATS systems, fail to present their experience effectively, or underperform during interviews. Interviews can be challenging, the right strategy and preparation can significantly improve chances of success.
+
+    Whether you're a cybersecurity beginner looking to break into the field or an intermediate professional aiming to advance your career, this session will demystify practical strategies for applying to roles more effectively, optimizing your resume for security positions, and approaching interviews with the confidence and structure needed to succeed.
+  bio: |-
+    is a cybersecurity professional with more than six years of experience spanning application security, cloud security, AI, and software development. Throughout his career, he has led comprehensive security assessments and developed strategic security programs that drive meaningful business and client outcomes. He enjoys helping product teams build and secure applications throughout the software development lifecycle, from design through deployment. He is an active contributor to the cybersecurity community, serving as a speaker, mentor, and reviewer at industry events, including IEEE, DEF CON, and BSides.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 2
+  track: 1
+  title: 'Hardening AI Coding Agents with Hooks: Enforcing Least Privilege on Autonomous Developers'
+  name: Karan Bansal
+  org: ArmorCode
+  anchor: bansal-hardening
+  abstract: |-
+    Your AI coding agent can run rm -rf, force push to main, install a typosquatted package, and read your .env file, all on its own, at machine speed. Most teams have zero runtime defense for this.
+
+    This talk shows how event-driven hooks fix it. Hooks intercept every tool call an AI agent makes, then block, allow, or modify it before execution. The hook runs outside the model as a separate process, so prompt injection cannot bypass it. The session maps hooks to 6 of the OWASP Top 10 for LLM Applications, walks through real blocking scripts (dangerous commands, secret exfiltration, audit logging), and shares performance data on keeping these controls under 100ms per invocation.
+
+    Backed by the open-source claude-code-hooks toolkit (439 stars, MIT, 262 tests). Live demo. Copy-paste defenses attendees can deploy the same day.
+  bio: |-
+    is Global Head of AI and Security Innovation at ArmorCode, with over 10 years in security. He previously led security and privacy at Urban Company (a $2.8B unicorn) and was a founding engineer at AvidSecure, acquired by Sophos in 2019. He authored "Claude Code's Most Underrated Feature: Hooks" and maintains the open-source claude-code-hooks toolkit (439 stars), a collection of security hooks for AI coding agents mapped to the OWASP LLM Top 10. He also built reddit-mcp-buddy (748 stars) and curates awesome-claude-skills (420 stars). He contributes to SGLang and vLLM, and speaks at DEFCON and OWASP.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 9
+  track: 0
+  title: How Exposed are Your Bones? - Medical System Vulnerabilities and Exposure
+  name: Max
+  org: Plexure
+  anchor: max-how
+  abstract: |-
+    This talk focuses on DICOM (Digital Imaging and Communications in Medicine) and PACS (Picture Archiving and Communication Systems), which form the backbone of medical imaging technology worldwide. This talk introduces these technologies, presents novel research into the public internet exposure of medical imaging systems, and demonstrates a novel vulnerability in DICOM software before concluding with security challenges posed by legacy protocols and modern deployment practices.
+  bio: |-
+    : I have been doing security for the better part of five years with varying success.
+
+    I found my fit in Application Security and Engineering and as Senior Engineer I run around doing a mix of developing capabilities and wrangling fixes for things. Security outside of work involves researching niche vulns, submitting weird research and bug bounties, and trying not to join the AI paranoia.
+
+    Outside of security, I am fanatical about the gym and warhammer.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 7
+  track: 0
+  title: 'Instant threat modelling: take one worksheet, add business system owners, simmer for 60 minutes'
+  name: Stephen Coates
+  anchor: coates-instant
+  abstract: |-
+    Imagine you're going to get one hour with business system owners to talk about likely threat actors, their goals, and the attacks that matter. This talk introduces a simple worksheet you can use to structure that discussion, capture high‑level security requirements against key assets, and show that your control choices are risk‑based and consultative, rather than dropped in from some generic checklist.
+  bio: |-
+    is a cyber security consultant who helps organisations move from “we’ve got the paperwork” to “we’re actually ready when things go sideways”, specialising in tabletop exercises, threat modelling, and ISO/IEC 27001-driven security systems.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 3
+  track: 0
+  title: Scores and traffic lights feed the illusion of security, but does security happen between annual audits?
+  name: Stephen Coates
+  anchor: coates-scores
+  abstract: |-
+    Many organisations proudly present a single security score of 1.83, or a neat table in traffic‑light colours, but then hope nobody questions what is happening between annual audits. My talk looks at the gap between scorekeeping and assurance: why periodic assessments (against NIST CSF, CIS Controls, ISO/IEC 27002 or a custom controls library) are only ever semi-useful snapshots. I’ll show how a working ISO/IEC 27001 ISMS gives boards and business leaders a much better answer to questions about “how much security is actually happening here?”
+  bio: |-
+    is a cyber security consultant who helps organisations move from “we’ve got the paperwork” to “we’re actually ready when things go sideways”, specialising in tabletop exercises, threat modelling, and ISO/IEC 27001-driven security systems.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 9
+  track: 1
+  title: 'The $25 Million Token: Shifting Vectors, Velocity, and the Cracks in the Supply Chain'
+  name: Karthik
+  anchor: karthik-million
+  abstract: |-
+    In 2026, attackers reportedly walked into Novo Nordisk on a single leaked GitHub token and walked out with 1.3TB of drug IP and private AI models,demanding $25 million. Novo Nordisk refused, and the data leaked anyway. No zero-day. They just authenticated. The same year, self-replicating worms tore through npm, one stolen maintainer token poisoning thousands of downstream projects automatically. The attack frontier has moved out of the network, into the developer pipeline and the bearer token is its soft centre.
+
+    Through a security-architecture lens, this talk unpacks why one stolen credential now has a blast radius no exploit ever did, and why "velocity" is measured in hours of propagation, not patch cycles. You will leave with a concrete, vendor-neutral defensive playbook mapped to the OWASP Top 10 CI/CD Security Risks and one uncomfortable closing question: every one of these fixes hardens a trust model that auto-executes strangers' code. In a world where AI can write a package over a weekend, should we keep depending on it this much at all?
+  bio: |-
+    is a Security Architect at Southern Cross Health Society, with a special interest in AppSec and AI security. Years working in identity and access management sharpened his eye for how credentials and trust fail under real-world attack.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 4
+  track: 1
+  title: 'The AppSec Poverty Line: Building a local LLM-powered SAST tool'
+  name: Monish Alur Gowdru
+  anchor: gowdru-appsec
+  abstract: |-
+    Enterprise AppSec SAST tooling can be expensive, leaving startups, independent developers, and cash-strapped security teams below the "AppSec Poverty Line."
+
+    This talk demonstrates a demo on how to bootstrap your security program from day one by building a free, local-first, LLM-assisted SAST tool.
+
+    Let us look at how to use lightweight Large Language Models (LLMs) running on local infrastructure as a foundational starting entry point for early vulnerability discovery. The goal isn’t replacing enterprise SAST. The goal is to show how AppSec practitioners can quickly convert security knowledge into working automation while keeping source code private and fully within organizational boundaries. Attendees will leave with a practical framework to spin up an immediate, zero-dollar security baseline when commercial tools are out of reach.
+  bio: |-
+    is a cybersecurity professional with more than six years of experience spanning application security, cloud security, AI, and software development. Throughout his career, he has led comprehensive security assessments and developed strategic security programs that drive meaningful business and client outcomes. He enjoys helping product teams build and secure applications throughout the software development lifecycle, from design through deployment. He is an active contributor to the cybersecurity community, serving as a speaker, mentor, and reviewer at industry events, including IEEE, DEF CON, and BSides.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 4
+  track: 0
+  title: 'The Room AI Can''t Read: People Skills for Threat Modelling'
+  name: Michael Matthee
+  org: CyberCX/Accenture New Zealand
+  anchor: matthee-room
+  abstract: |-
+    After presenting on 'How to Make Security a Business Priority' at OWASP New Zealand Day 2025, I keep coming back to a different question: what happens when the threat model is technically sound, but the room is not?
+
+    There are times when I've walked into sessions with strong technical answers and left embarrassed. I've also walked into sessions where everything clicked: the right people spoke up, risks were surfaced, and the group made better decisions. The difference was rarely technical.
+
+    People factors play an outsized role, both within the facilitator and the group, and perhaps more so in the era of AI. Cognitive overload, roles and authority, conflict management, and whether the right person feels safe enough to say "I think this design is broken" are just some of the human parts of facilitation that AI cannot fully replace.
+
+    This talk explores emotional intelligence, group dynamics, facilitator biofeedback, and how to read a room: a silent one, a dominated one, or one where everyone is nodding but nobody really agrees.
+
+    I share stories and practical techniques drawn from research into biofeedback, behavioural analysis, social group dynamics, and emotional intelligence, including work by Lisa Feldman Barrett, Robert Sapolsky, Robert Cialdini, Leah Lagos, and Jack Schafer.
+
+    Let's keep the conversation going, connect with me on LinkedIn: https://www.linkedin.com/in/michaelhmatthee/
+  bio: |-
+    is an application security leader at CyberCX/Accenture New Zealand, where he manages a team of eight and leads security design review and security architecture assessment services for Accenture globally. His ongoing work on Human Threat Modelling explores how people, pressure, culture, and decision-making shape security design and business priorities.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 10
+  track: 0
+  title: 'The Sovereignty Paradox: When Rigid Data Residency Undermines Security, Availability and Quality'
+  name: Aswathy Sundaresan Nair
+  org: Foster Moore
+  anchor: nair-sovereignty
+  abstract: |-
+    Government systems are the backbone of our economy and demand absolute data integrity. With growing geopolitical tensions, many organisations now insist on strict data sovereignty - forcing systems to be hosted locally and completely cutting off cross-border data flows. But does keeping data strictly within our borders actually make it safer?
+    This presentation walks through three real-world scenarios, where well-intentioned compliance rules introduced severe unintended consequences. In addition, this session will assess mitigation strategies and an actionable checklist for risk managers for these scenarios.
+    We will analyse:
+    1. An availability crisis: How local infrastructure limits turned a simple manual mistake in a server room into permanent data loss.
+    2. A security crisis: How locking data into a single geographic location left it completely exposed when a nation-state cyber conflict broke out.
+    3. A data quality crisis: How strict cross-border access rules blocked an offshore support team from fixing production bugs, forcing the local team into massive manual cleanups.
+  bio: |-
+    is Technical and Application Support Manager at Foster Moore, where he leads global support operations with a strong focus on customer-centric delivery and continuous improvement. He plays a critical role in ensuring registry systems run smoothly for governments and users around the world.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 4
+  track: 0
+  title: 'Turning Noise Into Action: AI Agents for Threat, Regulatory, and Best-Practice Intelligence'
+  name: Oliver Szimmetat
+  org: TaxBit
+  anchor: szimmetat-turning
+  abstract: |-
+    Security and compliance teams don't have a data problem — they have a signal-to-noise problem. New CVEs, threat reports, regulatory changes, and best-practice updates arrive faster than any team can triage manually, and most of it isn't relevant to any given environment. This talk walks through a production system of AI agents that continuously discover new cyber-security data sources across threat intelligence, regulatory intelligence, and industry best practices; evaluate and monitor those sources for relevance and reliability; apply context specific to each customer or environment; and normalize, de-duplicate, summarize, and prioritize the result into actionable recommendations. In practice this eliminates over 90% of raw noise before a human ever sees it. I'll cover the agent architecture, the evaluation criteria used to trust (or drop) a source, the context-scoring logic that makes recommendations environment-specific rather than generic, and the guardrails needed to keep an autonomous discovery-and-ingestion pipeline itself from becoming an attack surface.
+  bio: |-
+    is the Chief Privacy Officer and Director of Security and Compliance at TaxBit, where he leads the Systems, Security & Compliance team, spanning security operations, privacy, AI governance, third-party risk, product security, and compliance certifications (SOC 2, ISO 27001, ISO 42001).
+    Before joining TaxBit in 2023, he was Head of Cloud Security at Uber Engineering in Seattle, where he built a team working on secure-by-default architecture, engineering standards, automated compliance (SOC II, SOX, PCI, HIPAA, GDPR, ISO 27001), monitoring tooling, data security, and threat detection/response across Uber's cloud estate.
+
+    Before that, Oliver spent over 18 years at Microsoft in engineering and engineering-management roles across Windows client security, anti-piracy, cloud security standards, security testing (Windows, Office, and Azure), and CI/CD for the company's commercial online services.
+    In his spare time, he volunteers delivering security engineering training to schools and start-ups in Ethiopia, Kenya, and Tanzania.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 7
+  track: 1
+  title: Who Did it? Understanding security assurance when the author is an agent
+  name: Sean
+  anchor: sean-who
+  abstract: |-
+    Learn how to setup a secure environment for AI-assisted coding.
+
+    When an agent engages in coding, accountability for that process still sits with the human who authorized it, scoped its permissions, and merged its output. But many of the engineering controls, testing, and review practices used by development teams were modeled around a human author; someone operating at human speed, with explainable intent, and a workflow shaped by conventional review.
+
+    Agentic coding tools disrupt that model. They read unreviewed content, invoke tools, act with delegated permissions, and can move through a development environment far faster than a person would. That makes the development environment itself a primary security concern, not just the code an agent produces, but what it can see, what it can execute, and what it can change along the way.
+
+    This talk focuses on how to secure that environment. We’ll look at how the threat model changes when agents are embedded in day-to-day engineering workflows, where existing controls begin to fail, and what new guardrails are needed around identity, permissions, isolation, tooling, review, and deployment.
+
+    Finally, we’ll map practical mitigations to the OWASP Top 10 for Agentic Applications, with a focus on controls teams can apply to reduce risk while still getting value from coding agents.
+
+    For developers and AppSec practitioners adopting coding agents or reviewing their output.
+  bio: |-
+    is a consultant working across full stack development and security, with a focus on usability and simplicity. He has mentored hundreds of students, worked for clients worldwide, and has bits of code reaching millions of users. Lately he has been working out what changes when an agent is doing the typing.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 10
+  track: 0
+  title: 'Your AI Agent Will Be Prompt-Injected: Runtime Detection and Defense for MCP-Based Systems'
+  name: Keita Higak
+  org: Sysdig
+  anchor: higak-agent
+  abstract: |-
+    AI agents that call tools through the Model Context Protocol (MCP) are being deployed faster than they are being secured. Prompt injection is no longer a parlor trick: a single poisoned document, web page, or tool response can turn an agent's legitimate MCP tools into an attacker's toolkit - exfiltrating data, calling internal APIs, or executing code, all while application logs and dashboards look perfectly normal.
+
+    This session demonstrates the attack live, then builds the defense layer by layer: least-privilege MCP tool design, egress controls, and - the part most teams are missing - runtime detection with eBPF and Falco that catches tool abuse the moment it touches a process, file, or network socket. Detections are mapped to the OWASP Top 10 for LLM Applications and the OWASP Agentic Security Initiative's threat taxonomy. All demo material, based on a production deployment, will be released as open source.
+  bio: |-
+    is a Sales Engineer at Sysdig, helping organizations secure cloud-native and AI workloads. He works daily with Kubernetes, eBPF-based runtime security, and OpenTelemetry - including instrumenting AI agents to trace token usage, tool calls, and MCP communication. A frequent conference speaker, his recent talks include Open Source Summit Korea, AWS Summit Japan, JAWS FESTA, and SRE NEXT 2026, covering DevSecOps, Kubernetes runtime security, and AI agent security.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 1
+  block: 7
+  track: 0
+  title: From Chaos to Opportunities via security.txt
+  name: Matt Decker
+  org: Privsec Consulting
+  anchor: decker-chaos
+  abstract: |-
+    Security researchers are fickle beasts who sometimes just can't help themselves when curiosity strikes. They might be legitimate users of your app who care about the app's security as much as you do, dredging up security issues from the unknown and presenting them to you. Always when you least expect it and probably before you know how to deal with it.
+
+    This talk will discuss how small and medium sized teams can implement some basics which enable their friendly neighbourhood hacker to help them while leaving everyone feeling good. Key points:
+    - Having a security.txt and a defined process.
+    - How to validate reports and respond to researchers.
+    - Leveraging a process to help mitigate "beg bounty" hunters and other low effort or bad actors.
+    - Ways to motivate security researchers and keep them on your side without just giving them money.
+
+    Inspired by some recent experiences, this talk will include a couple of examples of disclosures to businesses that didn't have defined processes. Highlights include thanks from a CEO and the most unexpected job offer of my career.
+    - What is the NZISM (NZ Information Security Manual)?
+    - How do you work through the process of becoming compliant (certified and accredited)?
+    - What are the roles and responsibilities involved?
+    - What are some lessons learned from working with similar security standards?
+    - Will there be a 30 year reunion tour for the Spice Girls?
+  bio: |-
+    is the technical testing lead at PrivSec Consulting. He focuses on application security, often spending hours grappling with small misconfigurations and imagining what they could become.
+
+- plenary: false
+  selected: true
+  confirmed: true
+  remote: false
+  day: 0
+  block: 2
+  track: 0
+  title: Leveraging OWASP Projects and Tools
+  name: John DiLeo
+  org: OWASP/Gallagher Security
+  anchor: dileo-leveraging
+  abstract: |-
+    The Open Web Application Security Project (OWASP) boasts over 200 Projects, whose volunteers have developed tools and resources covering nearly every aspect of application security and software assurance. The challenge lies in knowing what they are, where to find them, and how they can help. In this talk, we'll present brief glimpses of more than 30 interesting and useful OWASP Projects - including the current Flagship and Production Projects. We'll provide insights into how each can be used to build and improve your AppSec program, in every phase of the development lifecycle.
+  bio: |-
+    leads the OWASP New Zealand Chapter. In his day job, John is the Application Security Lead at Gallagher Security in Hamilton. Before joining Gallagher, John led the Application Security Services team at Datacom, providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs. Before turning to full-time roles in security, John was active as a Java enterprise architect and Web application developer. In earlier lives, John has been a full-time professor and had specialized in developing discrete-event simulations of large distributed systems.
+
