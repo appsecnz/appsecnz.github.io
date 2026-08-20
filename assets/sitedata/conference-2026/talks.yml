@@ -551,14 +551,20 @@
 # row. Worth moving that talk to its own block before publishing.
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
+  remote: false
   day: 0
   block: 6
   track: 0
-  title: <PLACEHOLDER>
-  name: <PLACEHOLDER>
-  anchor: placeholder-day0-block6-track0
+  title: Was Compliant, Still Hacked
+  name: Peter Jakowetz
+  org: PrivSec Consulting
+  anchor: jakowetz-was
+  abstract: |-
+    Passing audits feels like a win - and can sometimes instil a fake sense of confidence in the security of your (or others) services. However compliance and security are not the same thing, and we see over and over again that just because you’ve had testing done, passed an audit, or met a compliance tick box - you can still be open to being pwnd.
+  bio: |-
+    is the Managing Director of PrivSec Consulting, a Pōneke-based security consultancy who work with Government and Commercial organizations to provide high quality assurance and pen testing services to the NZ market. When he's not behind a computer, he's hanging out with his kids or attempting to tame the jungle that is his backyard.
 
 - plenary: false
   selected: false
@@ -605,7 +611,7 @@
   confirmed: false
   day: 1
   block: 6
-  track: 0
+  track: 1
   title: <PLACEHOLDER>
   name: <PLACEHOLDER>
   anchor: placeholder-day1-block6-track0
