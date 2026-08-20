@@ -611,14 +611,24 @@
   anchor: placeholder-day1-block6-track0
 
 - plenary: false
-  selected: false
-  confirmed: false
+  selected: true
+  confirmed: true
   day: 1
   block: 6
   track: 1
-  title: <PLACEHOLDER>
-  name: <PLACEHOLDER>
-  anchor: placeholder-day1-block6-track1
+  title: Agentic AI Governance
+  name: Ricky Gummadi
+  org: Microsoft
+  anchor: gummadi-agentic
+  abstract: |-
+    As AI systems evolve from assistants to autonomous agents, the focus shifts from what the model says to what the system actually does. 
+    This talk introduces the Agent Governance Toolkit (AGT), a framework for bringing deterministic, runtime governance to agentic systems. 
+    We’ll explore why prompt-based safety is not sufficient for production scenarios, walk through the OWASP Agentic Top 10 risks, and look 
+    at how policies, identity, sandboxing, and observability can be applied to mitigate these risks in real-world architectures.
+  bio: |-
+    is a Senior Solution Architect at Microsoft, based in Auckland, focused on AI, cloud architecture, and developer platforms. He works closely 
+    with enterprise customers across New Zealand to design and implement production-ready AI systems. Ricky is also part of the core development 
+    team contributing to the Agent Governance Toolkit, with a focus on enabling safe, reliable, and governed agentic AI workloads.
 
 - plenary: false
   selected: false
