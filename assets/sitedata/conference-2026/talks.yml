@@ -336,9 +336,12 @@
   track: 0
   title: 'Instant threat modelling: take one worksheet, add business system owners, simmer for 60 minutes'
   name: Stephen Coates
+  org: Aura Information Security (powered by Kordia)
   anchor: coates-instant
   abstract: |-
-    Imagine you're going to get one hour with business system owners to talk about likely threat actors, their goals, and the attacks that matter. This talk introduces a simple worksheet you can use to structure that discussion, capture high‑level security requirements against key assets, and show that your control choices are risk‑based and consultative, rather than dropped in from some generic checklist.
+    Imagine you're going to get one hour with business system owners to talk about likely threat actors, their goals, and the attacks that 
+    matter. This talk introduces a simple worksheet you can use to structure that discussion, capture high‑level security requirements against 
+    key assets, and show that your control choices are risk‑based and consultative, rather than dropped in from some generic checklist.
   bio: |-
     is a cyber security consultant who helps organisations move from “we’ve got the paperwork” to “we’re actually ready when things go sideways”, specialising in tabletop exercises, threat modelling, and ISO/IEC 27001-driven security systems.
 
@@ -351,9 +354,13 @@
   track: 0
   title: Scores and traffic lights feed the illusion of security, but does security happen between annual audits?
   name: Stephen Coates
+  org: Aura Information Security (powered by Kordia)
   anchor: coates-scores
   abstract: |-
-    Many organisations proudly present a single security score of 1.83, or a neat table in traffic‑light colours, but then hope nobody questions what is happening between annual audits. My talk looks at the gap between scorekeeping and assurance: why periodic assessments (against NIST CSF, CIS Controls, ISO/IEC 27002 or a custom controls library) are only ever semi-useful snapshots. I’ll show how a working ISO/IEC 27001 ISMS gives boards and business leaders a much better answer to questions about “how much security is actually happening here?”
+    Many organisations proudly present a single security score of 1.83, or a neat table in traffic‑light colours, but then hope nobody 
+    questions what is happening between annual audits. My talk looks at the gap between scorekeeping and assurance: why periodic assessments 
+    (against NIST CSF, CIS Controls, ISO/IEC 27002 or a custom controls library) are only ever semi-useful snapshots. I’ll show how a working 
+    ISO/IEC 27001 ISMS gives boards and business leaders a much better answer to questions about “how much security is actually happening here?”
   bio: |-
     is a cyber security consultant who helps organisations move from “we’ve got the paperwork” to “we’re actually ready when things go sideways”, specialising in tabletop exercises, threat modelling, and ISO/IEC 27001-driven security systems.
 
@@ -368,9 +375,16 @@
   name: Karthik
   anchor: karthik-million
   abstract: |-
-    In 2026, attackers reportedly walked into Novo Nordisk on a single leaked GitHub token and walked out with 1.3TB of drug IP and private AI models,demanding $25 million. Novo Nordisk refused, and the data leaked anyway. No zero-day. They just authenticated. The same year, self-replicating worms tore through npm, one stolen maintainer token poisoning thousands of downstream projects automatically. The attack frontier has moved out of the network, into the developer pipeline and the bearer token is its soft centre.
-
-    Through a security-architecture lens, this talk unpacks why one stolen credential now has a blast radius no exploit ever did, and why "velocity" is measured in hours of propagation, not patch cycles. You will leave with a concrete, vendor-neutral defensive playbook mapped to the OWASP Top 10 CI/CD Security Risks and one uncomfortable closing question: every one of these fixes hardens a trust model that auto-executes strangers' code. In a world where AI can write a package over a weekend, should we keep depending on it this much at all?
+    In 2026, attackers reportedly walked into Novo Nordisk on a single leaked GitHub token and walked out with 1.3TB of drug IP and private AI 
+    models,demanding $25 million. Novo Nordisk refused, and the data leaked anyway. No zero-day. They just authenticated. The same year, self-replicating 
+    worms tore through npm, one stolen maintainer token poisoning thousands of downstream projects automatically. The attack frontier has moved out 
+    of the network, into the developer pipeline and the bearer token is its soft centre.
+    </p>
+    <p>
+    Through a security-architecture lens, this talk unpacks why one stolen credential now has a blast radius no exploit ever did, and why "velocity" 
+    is measured in hours of propagation, not patch cycles. You will leave with a concrete, vendor-neutral defensive playbook mapped to the OWASP Top 
+    10 CI/CD Security Risks and one uncomfortable closing question: every one of these fixes hardens a trust model that auto-executes strangers' code. 
+    In a world where AI can write a package over a weekend, should we keep depending on it this much at all?
   bio: |-
     is a Security Architect at Southern Cross Health Society, with a special interest in AppSec and AI security. Years working in identity and access management sharpened his eye for how credentials and trust fail under real-world attack.
 
