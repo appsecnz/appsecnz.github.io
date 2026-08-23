@@ -501,26 +501,27 @@
   block: 7
   track: 0
   title: From Chaos to Opportunities via security.txt
-  name: Matt Decker
+  name: Matt Dekker
   org: Privsec Consulting
-  anchor: decker-chaos
+  anchor: dekker-chaos
   abstract: |-
-    Security researchers are fickle beasts who sometimes just can't help themselves when curiosity strikes. They might be legitimate users of your app who care about the app's security as much as you do, dredging up security issues from the unknown and presenting them to you. Always when you least expect it and probably before you know how to deal with it.
+    Security researchers are fickle beasts who sometimes just can't help themselves when curiosity strikes. They might be legitimate 
+    users of your app who care about the app's security as much as you do, dredging up security issues from the unknown and presenting 
+    them to you. Always when you least expect it and probably before you know how to deal with it.
 
-    This talk will discuss how small and medium sized teams can implement some basics which enable their friendly neighbourhood hacker to help them while leaving everyone feeling good. Key points:
+    This talk will discuss how small and medium sized teams can implement some basics which enable their friendly neighbourhood hacker 
+    to help them while leaving everyone feeling good. Key points:
+    
     - Having a security.txt and a defined process.
     - How to validate reports and respond to researchers.
     - Leveraging a process to help mitigate "beg bounty" hunters and other low effort or bad actors.
     - Ways to motivate security researchers and keep them on your side without just giving them money.
 
-    Inspired by some recent experiences, this talk will include a couple of examples of disclosures to businesses that didn't have defined processes. Highlights include thanks from a CEO and the most unexpected job offer of my career.
-    - What is the NZISM (NZ Information Security Manual)?
-    - How do you work through the process of becoming compliant (certified and accredited)?
-    - What are the roles and responsibilities involved?
-    - What are some lessons learned from working with similar security standards?
-    - Will there be a 30 year reunion tour for the Spice Girls?
+    Inspired by some recent experiences, this talk will include a couple of examples of disclosures to businesses that didn't have defined 
+    processes. Highlights include thanks from a CEO and the most unexpected job offer of my career.
   bio: |-
-    is the technical testing lead at PrivSec Consulting. He focuses on application security, often spending hours grappling with small misconfigurations and imagining what they could become.
+    is the technical testing lead at PrivSec Consulting. He focuses on application security, often spending hours grappling with small 
+    misconfigurations and imagining what they could become.
 
 - plenary: false
   selected: true
