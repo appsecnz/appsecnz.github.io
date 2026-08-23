@@ -229,16 +229,26 @@
   block: 3
   track: 1
   title: Bring Your Own CSRF Token - Abusing Unescaped Tokens to Attack Your Internet Neighbours
-  name: Webbed
-  anchor: webbed-bring
+  name: Nathan Ellison
+  org: CyberCX/Accenture
+  anchor: ellison-bring
   abstract: |-
-    Security controls are meant to _stop_ hacks, but _sometimes_ they can do the opposite. Cross-Site Request Forgery tokens prevent applications from accepting potentially forged requests from unsuspecting users. Since these tokens need to be sent back to the server, developers need to remember to sanitise them. If the framework implementing CSRF forgets to do this, application users can be at risk of having rogue JavaScript pillage their browsers. 
-
-    In February of 2026, an unexpected vulnerability was discovered in Litestar - a popular Python-based web framework with over 1 million downloads per month. If the target application ran Litestar and had the right features enabled, the CSRF token could be poisoned and allow for arbitrary JavaScript to be executed in a victim user's browser. 
-
-    By breaking down the exploit chain, we will see how a vulnerability in your own application can put your internet neighbours at risk. You'll walk away from this talk with a renewed ~~paranoia~~ awareness of the importance of sanitising **everything** that the client gives you.
+    Security controls are meant to stop_ hacks, but _sometimes_ they can do the opposite. Cross-Site Request Forgery tokens prevent applications from accepting 
+    potentially forged requests from unsuspecting users. Since these tokens need to be sent back to the server, developers need to remember to sanitise them. If 
+    the framework implementing CSRF forgets to do this, application users can be at risk of having rogue JavaScript pillage their browsers. 
+    </p>
+    <p>
+    In February of 2026, an unexpected vulnerability was discovered in Litestar - a popular Python-based web framework with over 1 million downloads per month. 
+    If the target application ran Litestar and had the right features enabled, the CSRF token could be poisoned and allow for arbitrary JavaScript to be executed 
+    in a victim user's browser. 
+    </p>
+    <p>
+    By breaking down the exploit chain, we will see how a vulnerability in your own application can put your internet neighbours at risk. You'll walk away 
+    from this talk with a renewed <del>paranoia</del> awareness of the importance of sanitising <strong>everything</strong> that the client gives you.
   bio: |-
-    is a former developer turned penetration tester. Having spent the first 4 years of his career building software, he now spends his time pulling it apart. He is also an avid Hack The Box player, with two HTB certifications and 71 machines under his belt. Nathan frequently gives back to the community through organising CTF teams, co-hosting regular meetups, and encouraging anyone with an interest in being a (responsible) computer menace to give it a go.
+    is a former developer turned penetration tester. Having spent the first 4 years of his career building software, he now spends his time pulling it apart. 
+    He is also an avid Hack The Box player, with two HTB certifications and 71 machines under his belt. Nathan frequently gives back to the community through 
+    organising CTF teams, co-hosting regular meetups, and encouraging anyone with an interest in being a (responsible) computer menace to give it a go.
 
 - plenary: false
   selected: true
