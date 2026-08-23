@@ -233,7 +233,7 @@
   org: CyberCX/Accenture
   anchor: ellison-bring
   abstract: |-
-    Security controls are meant to stop_ hacks, but _sometimes_ they can do the opposite. Cross-Site Request Forgery tokens prevent applications from accepting 
+    Security controls are meant to <em>stop</em> hacks, but <em>sometimes</em> they can do the opposite. Cross-Site Request Forgery tokens prevent applications from accepting 
     potentially forged requests from unsuspecting users. Since these tokens need to be sent back to the server, developers need to remember to sanitise them. If 
     the framework implementing CSRF forgets to do this, application users can be at risk of having rogue JavaScript pillage their browsers. 
     </p>
