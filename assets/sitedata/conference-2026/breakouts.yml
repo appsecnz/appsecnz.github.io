@@ -41,7 +41,8 @@
   name: Gallagher Security
   title: OWASP MultiJuicer CTF
   org: OWASP
-  description: OWASP NZ Day will be hosting a CTF based on OWASP Juice Shop. We will be running a Multi-Juicer setup   which allows multiple users to each access their own instance of Juice Shop.
+  description: |-
+  OWASP NZ Day will be hosting a CTF based on OWASP Juice Shop. We will be running a Multi-Juicer setup   which allows multiple users to each access their own instance of Juice Shop.
   </p>
   <p>
   Even better, this will be running on a Raspberry Pi cluster in a Lego tower, and some of the associated hardware will be offered as a prize draw for participants.
