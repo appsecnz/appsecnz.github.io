@@ -31,15 +31,15 @@
   day: 0
   block: 1
 
-- active: false
-  day: 0
-  block: 2
+#- active: false
+#  day: 0
+#  block: 2
 
 - active: true
   day: 0
-  block: 3
+  block: 2
   name: Gallagher Security
-  title: OWASP MultiJuicer CTF
+  title: OWASP MultiJuicer CTF (all day)
   org: OWASP
   description: |-
     OWASP NZ Day will be hosting a CTF based on OWASP Juice Shop. We will be running a Multi-Juicer setup   which allows multiple users to each access their own instance of Juice Shop.
@@ -50,9 +50,9 @@
     <p>
     This event is kindly sponsored by <em>Gallagher Security</em>.
 
-#- active: false
-#  day: 0
-#  block: 3
+- active: false
+  day: 0
+  block: 3
 
 - active: false
   day: 0
@@ -98,9 +98,24 @@
   day: 1
   block: 1
 
-- active: false
+- active: true
   day: 1
   block: 2
+  name: Gallagher Security
+  title: OWASP MultiJuicer CTF (all day)
+  org: OWASP
+  description: |-
+    OWASP NZ Day will be hosting a CTF based on OWASP Juice Shop. We will be running a Multi-Juicer setup   which allows multiple users to each access their own instance of Juice Shop.
+    </p>
+    <p>
+    Even better, this will be running on a Raspberry Pi cluster in a Lego tower, and some of the associated hardware will be offered as a prize draw for participants.
+    </p>
+    <p>
+    This event is kindly sponsored by <em>Gallagher Security</em>.
+    
+#- active: false
+#  day: 1
+#  block: 2
 
 - active: false
   day: 1
