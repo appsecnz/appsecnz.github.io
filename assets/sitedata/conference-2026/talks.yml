@@ -445,14 +445,23 @@
   org: Foster Moore
   anchor: nair-sovereignty
   abstract: |-
-    Government systems are the backbone of our economy and demand absolute data integrity. With growing geopolitical tensions, many organisations now insist on strict data sovereignty - forcing systems to be hosted locally and completely cutting off cross-border data flows. But does keeping data strictly within our borders actually make it safer?
-    This presentation walks through three real-world scenarios, where well-intentioned compliance rules introduced severe unintended consequences. In addition, this session will assess mitigation strategies and an actionable checklist for risk managers for these scenarios.
+    Government systems are the backbone of our economy and demand absolute data integrity. With growing geopolitical tensions, many organisations now 
+    insist on strict data sovereignty - forcing systems to be hosted locally and completely cutting off cross-border data flows. But does keeping data 
+    strictly within our borders actually make it safer?
+    </p>
+    <p>
+    This presentation walks through three real-world scenarios, where well-intentioned compliance rules introduced severe unintended consequences. In addition, this session will 
+    assess mitigation strategies and an actionable checklist for risk managers for these scenarios.
+    </p>
+    <p>
     We will analyse:
-    1. An availability crisis: How local infrastructure limits turned a simple manual mistake in a server room into permanent data loss.
-    2. A security crisis: How locking data into a single geographic location left it completely exposed when a nation-state cyber conflict broke out.
-    3. A data quality crisis: How strict cross-border access rules blocked an offshore support team from fixing production bugs, forcing the local team into massive manual cleanups.
+    <ol>
+    <li>An availability crisis: How local infrastructure limits turned a simple manual mistake in a server room into permanent data loss.</li>
+    <li>A security crisis: How locking data into a single geographic location left it completely exposed when a nation-state cyber conflict broke out.</li>
+    <li>A data quality crisis: How strict cross-border access rules blocked an offshore support team from fixing production bugs, forcing the local team into massive manual cleanups.</li>
+    </ol>
   bio: |-
-    is Technical and Application Support Manager at Foster Moore, where he leads global support operations with a strong focus on customer-centric delivery and continuous improvement. He plays a critical role in ensuring registry systems run smoothly for governments and users around the world.
+    is Technical and Application Support Manager at Foster Moore, where she leads global support operations with a strong focus on customer-centric delivery and continuous improvement. He plays a critical role in ensuring registry systems run smoothly for governments and users around the world.
 
 - plenary: false
   selected: true
