@@ -129,21 +129,34 @@
   day: 1
   block: 5
 
-- active: false
+- active: true
   day: 1
   block: 6
+  name: Michael Matthee
+  title: Secure Vibe Coding with AI
+  org: CyberCX/Accenture
+  description: |-
+    In this workshop, you’ll use AI to vibe-code a small feature together with the instructor and group, allow a few realistic 
+    AI-generated mistakes to slip through, and then prevent those issues using better specifications, guardrails, secure principles 
+    and practices in AI-assisted software engineering.
 
-- active: false
+- active: true
   day: 1
   block: 7
+  name: Michael Matthee
+  title: Secure Vibe Coding with AI
+  org: CyberCX/Accenture
 
 - active: false
   day: 1
   block: 8
 
-- active: false
+- active: true
   day: 1
   block: 9
+  name: Michael Matthee
+  title: Secure Vibe Coding with AI
+  org: CyberCX/Accenture
 
 - active: false
   day: 1
