@@ -13,7 +13,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }   
 
-# AppSec Overview/Refresher Training
+# AppSec Overview/Refresher Training - CANCELLED
 
 ## Half-Day Interactive (Classroom) Training - OWASP New Zealand Day 2026
 
