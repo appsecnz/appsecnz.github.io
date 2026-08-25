@@ -13,7 +13,7 @@ sponsorsEventName: OWASP New Zealand Day 2026
 [Back to Conference Home Page](index.md)
 {: style="text-align: right; font-size: small;" }   
 
-# Wifi - Novice to Professional
+# Wifi - Novice to Professional - CANCELLED
 
 ## Half-Day Interactive (Classroom) Training - OWASP New Zealand Day 2026
 
