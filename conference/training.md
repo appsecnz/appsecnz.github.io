@@ -63,7 +63,7 @@ Pre-Conference Training registration will **CLOSE** on Sunday, 23rd August. From
 
 * *[The Art of Practical Threat Modelling](training-practical_threat_modelling.md)*, Ralph Nicole N. Andalis
 
-* *[Mobile Adversary Exploitation Breakout](training-mobile_exploitation.md)*, Blessen Thomas
+* *[Mobile Adversary Exploitation Breakout](training-mobile_exploitation.md)* CANCELLED, Blessen Thomas
 
 * *Incident Response Four-Class Bundle*, David Jennings - Includes:
   * *[Incident Response 101](training-incident_response.md)*
@@ -73,7 +73,7 @@ Pre-Conference Training registration will **CLOSE** on Sunday, 23rd August. From
 
 #### One-day, in-person (classroom) training - Tuesday, 1 September:
 
-* *[Assess and Improve Your AppSec Program using OWASP SAMM](training-owasp_samm.md)*, John DiLeo   
+* *[Assess and Improve Your AppSec Program using OWASP SAMM](training-owasp_samm.md)* CANCELLED, John DiLeo   
 
 #### One-day, in-person (classroom) training - Wednesday, 2 September:
 
@@ -89,12 +89,12 @@ Pre-Conference Training registration will **CLOSE** on Sunday, 23rd August. From
 
 #### Half-day, in-person (classroom) training - Wednesday morning, 2 September:
 
-* *[Application Security Overview/Refresher Training](training-appsec_overview.md)*, John DiLeo   
+* *[Application Security Overview/Refresher Training](training-appsec_overview.md)* CANCELLED, John DiLeo   
 * *[Cyber Threat Intelligence](training-cyber_threat_intelligence.md)*, David Jennings
 
 #### Half-day, in-person (classroom) training - Wednesday afternoon, 2 September:
 
-* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)*, Toby Reynolds
+* *[Wifi: Novice to professional](training-wifi_novice_to_professional.md)* CANCELLED, Toby Reynolds
 * *[Functional TTX - IR Day](training-functional_ttx_ir.md)*, David Jennings
 
 **NOTES:**
