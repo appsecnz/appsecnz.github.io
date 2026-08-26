@@ -52,7 +52,7 @@ Each day, regardless of format, classes will follow this schedule (all times are
 * 10:15 a.m. - Morning Tea
 * 12:30 p.m. - Lunch Break; Morning half-day class ends
 * 1:45 p.m.  - Class sessions resume; Afternoon half-day class begins
-* 3:15 p.m.  - Afternoon Tea
+* 3:15 p.m.  - Afternoon Break
 * 5:30 p.m.  - Classes end
 
 ## Classes on Offer
