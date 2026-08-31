@@ -5,3 +5,130 @@
 # image: relative URL to the logo image
 # url: url of the company website
 # description: description of the company
+- active: true
+  level: 1
+  name: RedShield
+  anchor: redshield
+  image: /assets/images/2026-sponsors/RedShield_logo.svg
+  url: https://redshield.co/
+  spotlight: |-
+    RedShield is a managed security service for web applications that delivers rapid risk reduction without
+    code changes. Combining expert people, proven processes, advanced security tooling, and an AWS-powered service platform, RedShield 
+    provides continuous monitoring, continuous auditing of all your controls, managed WAF protection, bot and DDoS defence, 
+    and 24/7 security operations support to protect critical applications at scale.
+  description: |-
+    <b>RedShield is a managed security service for web applications that delivers rapid risk reduction without
+    code changes.</b>
+    </p>
+    <p>
+    Security teams already know where many vulnerabilities exist. The challenge is remediating them quickly enough. 
+    RedShield bridges this gap by identifying exploitable paths and deploying tailored mitigations that neutralise 
+    vulnerabilities at the traffic layer, often within days.
+    </p>
+    <p>
+    By addressing application-specific risks, including access control weaknesses, input handling flaws, and business 
+    logic vulnerabilities, RedShield helps organisations reduce exposure while development teams work through long-term 
+    remediation plans.
+    </p>
+    <p>
+    Combining expert people, proven processes, advanced security tooling, and an AWS-powered service platform, RedShield 
+    provides continuous monitoring, continuous auditing of all your controls, managed WAF protection, bot and DDoS defence, 
+    and 24/7 security operations support to protect critical applications at scale.
+    
+- active: true
+  level: 3
+  name: 2 Degrees
+  anchor: 2degrees
+  image: /assets/images/2026-sponsors/2degrees-Logo-White-RGB.jpg
+  url: https://www.2degrees.nz/
+  spotlight: |-
+    In 2022 New Zealand's leading challenger telecommunications companies – 2degrees and Vocus – came together under the 
+    2degrees brand to form New Zealand's third largest, full-service telecommunications provider. 2degrees offers 
+    broadband and mobile services covering 98.5% of places Kiwis live and work, a nationwide fibre network and modern 
+    technology platforms, as well as energy services – all supported by an award-winning customer care team and a 
+    network of 58 retail stores. It operates the 2degrees, Slingshot, and Orcon brands.
+  description: |-
+    In 2022 New Zealand's leading challenger telecommunications companies – 2degrees and Vocus – came together under the 
+    2degrees brand to form New Zealand's third largest, full-service telecommunications provider. 2degrees offers 
+    broadband and mobile services covering 98.5% of places Kiwis live and work, a nationwide fibre network and modern 
+    technology platforms, as well as energy services – all supported by an award-winning customer care team and a 
+    network of 58 retail stores. It operates the 2degrees, Slingshot, and Orcon brands.
+
+- active: true
+  level: 4
+  name: Layer9
+  anchor: layer9
+  image: /assets/images/2026-sponsors/Layer-9-sub-1.svg
+  url: https://www.layer9.co.nz/
+  spotlight: |-
+    Strategic security initiatives for organisational resilience.     Our services enable you to obtain a pragmatic independent perspective on your organisation’s information security initiatives, implement targeted improvement, and apply your technology in a way that delivers maximum risk reduction.
+  description: |-
+    Layer 9 was founded by a team of specialists committed to delivering strategic value and passionate about organisational 
+    security. Some of our customers outsource their security functions to us, others lean on us to bring a fresh perspective 
+    and lead specific security initiatives that demand a holistic approach.
+    </p>
+    <p>
+    We provide services that enable organisations to develop and continuously improve their security capabilities, and 
+    obtain maximum value from their technology investments. These initiatives are strategically aligned with the 
+    organisation’s goals and deliver measurable risk reduction outcomes.
+    </p>
+    <p>
+    Our broad range of clients have commercial objectives, underpin our critical infrastructure, and contribute 
+    to social, health, and wellbeing outcomes for all of New Zealand. They trust us to operate with objective 
+    independence and build strategic alignment so that we can make a positive impact and contribute to their mission.
+    
+- active: true
+  level: 5
+  name: Plexure
+  anchor: plexure
+  image: /assets/images/2026-sponsors/Plexure-logo-black-1060329652.png
+  url: https://www.plexure.com/
+  spotlight: |-
+    Plexure was founded in 2010 and has grown to over 120 million active users in 65 countries and 40 languages.
+    </p>
+    <p>
+    As a key strategic technology partner of McDonald's, Plexure's platform is providing the identity, engagement, 
+    and loyalty capabilities that power the likes of MyMacca's rewards through the mobile app.
+    </p>
+    <p>
+    Plexure is an Auckland-based company boasting a 60+ strong engineering group in Auckland, with additional remote 
+    staff in NZ, Japan, Poland and the UK.
+  description: |-
+    Plexure was founded in 2010 and has grown to over 120 million active users in 65 countries and 40 languages.
+    </p>
+    <p>
+    As a key strategic technology partner of McDonald's, Plexure's platform is providing the identity, engagement, 
+    and loyalty capabilities that power the likes of MyMacca's rewards through the mobile app.
+    </p>
+    <p>
+    Plexure is an Auckland-based company boasting a 60+ strong engineering group in Auckland, with additional remote 
+    staff in NZ, Japan, Poland and the UK.
+
+- active: true
+  level: 5
+  name: CyberCX
+  anchor: cybercx
+  image: /assets/images/2026-sponsors/CCX_ACN_Logo_Dark.png
+  url: https://cybercx.co.nz/
+  spotlight: |-
+    With a workforce of over 1,300 professionals, CyberCX is the leading provider of professional cyber 
+    security and cloud services across Australia and New Zealand. Our New Zealand team of over 170 professionals 
+    is trusted by private and public sector organisations to confidently manage cyber risk, respond to incidents 
+    and build resilience in an increasingly complex and challenging threat environment. 
+    </p>
+    <p>
+    CyberCX's world renowned Security Testing and Assurance team will identify, manage, and reduce security issues 
+    and vulnerabilities through comprehensive testing of applications and infrastructure.    
+  description: |-
+    With a workforce of over 1,300 professionals, CyberCX is the leading provider of professional cyber 
+    security and cloud services across Australia and New Zealand. Our New Zealand team of over 170 professionals 
+    is trusted by private and public sector organisations to confidently manage cyber risk, respond to incidents 
+    and build resilience in an increasingly complex and challenging threat environment. 
+    </p>
+    <p>
+    CyberCX's world renowned Security Testing and Assurance team will identify, manage, and reduce security issues 
+    and vulnerabilities through comprehensive testing of applications and infrastructure.    
+    </p>
+    <p>
+    Find out more at <a href="https://www.cybercx.co.nz" rel="sponsored nopener noreferrer" target="_blank">www.cybercx.co.nz</a>.
+
