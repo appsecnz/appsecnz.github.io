@@ -471,7 +471,7 @@
 
 - plenary: false
   selected: true
-  confirmed: true
+  confirmed: false
   remote: false
   day: 1
   block: 4
