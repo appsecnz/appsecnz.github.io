@@ -395,20 +395,21 @@
   day: 0
   block: 4
   track: 1
-  title: 'The AppSec Poverty Line: Building a local LLM-powered SAST tool - CANCELLED'
-  name: Monish Alur Gowdru
-  anchor: gowdru-appsec
+  title: 'Adventures in Shielding Pre-CVE Vulnerabilities'
+  name: Sam Pickles
+  anchor: pickles-adventures
   abstract: |-
-    CANCELLED DUE TO SPEAKER UNAVAILABILITY
-    
-    Enterprise AppSec SAST tooling can be expensive, leaving startups, independent developers, and cash-strapped security teams below the "AppSec Poverty Line."
-
-    This talk demonstrates a demo on how to bootstrap your security program from day one by building a free, local-first, LLM-assisted SAST tool.
-
-    Let us look at how to use lightweight Large Language Models (LLMs) running on local infrastructure as a foundational starting entry point for early vulnerability discovery. The goal isn’t replacing enterprise SAST. The goal is to show how AppSec practitioners can quickly convert security knowledge into working automation while keeping source code private and fully within organizational boundaries. Attendees will leave with a practical framework to spin up an immediate, zero-dollar security baseline when commercial tools are out of reach.
+    As LLMs make it easier to discover vulnerabilities in open source code, it is also becoming easier to develop working exploits before a CVE 
+    is published, or a patch becomes available. Threat actors are using this window of opportunity to exploit even fully patched systems.
+    </p>
+    <p>
+    In this talk we’ll explore how defenders can use AI tools to their advantage, and move from a reactive process for treating risks after a CVE 
+    is flagged, to a more proactive approach which closes the gap.
   bio: |-
-    is a cybersecurity professional with more than six years of experience spanning application security, cloud security, AI, and software development. Throughout his career, he has led comprehensive security assessments and developed strategic security programs that drive meaningful business and client outcomes. He enjoys helping product teams build and secure applications throughout the software development lifecycle, from design through deployment. He is an active contributor to the cybersecurity community, serving as a speaker, mentor, and reviewer at industry events, including IEEE, DEF CON, and BSides.
-
+    With over 20 years in security, Sam specialises in defending critical web applications and APIs, serving clients globally in healthcare, government, 
+    finance, and service provider sectors. As a founder of RedShield, a three-time winner at NZ Hi Tech Awards, Sam holds multiple patents and is an alumnus 
+    of Stanford, Oxford, and Otago Universities, has presented at conferences and on TV and podcasts, including OWASP, AT&T, TAG Cyber, CIO Live, and TV3 Newshub.
+    
 - plenary: false
   selected: true
   confirmed: true
