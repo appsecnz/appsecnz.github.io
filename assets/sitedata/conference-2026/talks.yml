@@ -294,7 +294,7 @@
   day: 0
   block: 2
   track: 1
-  title: 'Hardening AI Coding Agents with Hooks: Enforcing Least Privilege on Autonomous Developers'
+  title: 'Hardening AI Coding Agents with Hooks: Enforcing Least Privilege on Autonomous Developers (30 minute talk)'
   name: Karan Bansal
   org: ArmorCode
   anchor: bansal-hardening
@@ -303,9 +303,11 @@
 
     This talk shows how event-driven hooks fix it. Hooks intercept every tool call an AI agent makes, then block, allow, or modify it before execution. The hook runs outside the model as a separate process, so prompt injection cannot bypass it. The session maps hooks to 6 of the OWASP Top 10 for LLM Applications, walks through real blocking scripts (dangerous commands, secret exfiltration, audit logging), and shares performance data on keeping these controls under 100ms per invocation.
 
-    Backed by the open-source claude-code-hooks toolkit (439 stars, MIT, 262 tests). Live demo. Copy-paste defenses attendees can deploy the same day.
+    Backed by the open-source claude-code-hooks toolkit (484 stars, MIT, 1,570 tests). Live demo. Copy-paste defenses attendees can deploy the same day.
+
+    (30 minutes talk)
   bio: |-
-    is Global Head of AI and Security Innovation at ArmorCode, with over 10 years in security. He previously led security and privacy at Urban Company (a $2.8B unicorn) and was a founding engineer at AvidSecure, acquired by Sophos in 2019. He authored "Claude Code's Most Underrated Feature: Hooks" and maintains the open-source claude-code-hooks toolkit (439 stars), a collection of security hooks for AI coding agents mapped to the OWASP LLM Top 10. He also built reddit-mcp-buddy (748 stars) and curates awesome-claude-skills (420 stars). He contributes to SGLang and vLLM, and speaks at DEFCON and OWASP.
+    is Global Head of AI and Security Innovation at ArmorCode, with over 10 years in security. He previously led security and privacy at Urban Company (a $2.8B unicorn) and was a founding engineer at AvidSecure, acquired by Sophos in 2019. He authored "Claude Code's Most Underrated Feature: Hooks" and maintains the open-source claude-code-hooks toolkit (484 stars), a collection of security hooks for AI coding agents mapped to the OWASP LLM Top 10. He also built reddit-mcp-buddy (748 stars) and curates awesome-claude-skills (420 stars). He contributes to SGLang and vLLM, and speaks at DEFCON and OWASP.
 
 - plenary: false
   selected: true
