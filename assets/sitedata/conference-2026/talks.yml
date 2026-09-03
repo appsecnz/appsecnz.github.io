@@ -471,23 +471,22 @@
 
 - plenary: false
   selected: true
-  confirmed: false
+  confirmed: true
   remote: false
   day: 1
   block: 4
   track: 0
-  title: 'Turning Noise Into Action: AI Agents for Threat, Regulatory, and Best-Practice Intelligence'
-  name: Oliver Szimmetat
-  org: TaxBit
-  anchor: szimmetat-turning
+  title: 'Software Supply Chain Security'
+  name: James Cooper
+  org: 2Degrees
+  anchor: cooper-software
   abstract: |-
-    Security and compliance teams don't have a data problem — they have a signal-to-noise problem. New CVEs, threat reports, regulatory changes, and best-practice updates arrive faster than any team can triage manually, and most of it isn't relevant to any given environment. This talk walks through a production system of AI agents that continuously discover new cyber-security data sources across threat intelligence, regulatory intelligence, and industry best practices; evaluate and monitor those sources for relevance and reliability; apply context specific to each customer or environment; and normalize, de-duplicate, summarize, and prioritize the result into actionable recommendations. In practice this eliminates over 90% of raw noise before a human ever sees it. I'll cover the agent architecture, the evaluation criteria used to trust (or drop) a source, the context-scoring logic that makes recommendations environment-specific rather than generic, and the guardrails needed to keep an autonomous discovery-and-ingestion pipeline itself from becoming an attack surface.
+    James will present a talk on software supply chain security.
   bio: |-
-    is the Chief Privacy Officer and Director of Security and Compliance at TaxBit, where he leads the Systems, Security & Compliance team, spanning security operations, privacy, AI governance, third-party risk, product security, and compliance certifications (SOC 2, ISO 27001, ISO 42001).
-    Before joining TaxBit in 2023, he was Head of Cloud Security at Uber Engineering in Seattle, where he built a team working on secure-by-default architecture, engineering standards, automated compliance (SOC II, SOX, PCI, HIPAA, GDPR, ISO 27001), monitoring tooling, data security, and threat detection/response across Uber's cloud estate.
-
-    Before that, Oliver spent over 18 years at Microsoft in engineering and engineering-management roles across Windows client security, anti-piracy, cloud security standards, security testing (Windows, Office, and Azure), and CI/CD for the company's commercial online services.
-    In his spare time, he volunteers delivering security engineering training to schools and start-ups in Ethiopia, Kenya, and Tanzania.
+    holds a PhD in Computer Science and currently works at 2degrees as an Application Developer. Besides the many non-security facets of software development, 
+    he also has a keen interest in application security (and cyber security more generally), which he demonstrates by being overly active in the InfoSecNZ 
+    Discord, occasionally giving security talks, collaborating with the security team at work, and not shutting up about AppSec around his colleagues. He reads 
+    books on software development, application security, and related topics in his own time just because he is that interested (and boring).
 
 - plenary: false
   selected: true
