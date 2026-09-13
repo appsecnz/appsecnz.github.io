@@ -567,6 +567,7 @@
   bio: |-
     is the technical testing lead at PrivSec Consulting. He focuses on application security, often spending hours grappling with small 
     misconfigurations and imagining what they could become.
+  slides: /assets/presentations/conference-2026/Dekker--From_Chaos_to_Opportunities_via_security_txt.pdf
 
 - plenary: false
   selected: true
