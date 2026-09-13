@@ -298,6 +298,9 @@
   name: Karan Bansal
   org: ArmorCode
   anchor: bansal-hardening
+  slides: /assets/presentations/conference-2026/Bansal--Hardening_AI_Coding_Agents_with_Hooks.pdf
+  format: PDF
+  size: 317 kB
   abstract: |-
     Your AI coding agent can run rm -rf, force push to main, install a typosquatted package, and read your .env file, all on its own, at machine speed. Most teams have zero runtime defense for this.
 
