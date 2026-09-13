@@ -286,6 +286,9 @@
     Whether you're a cybersecurity beginner looking to break into the field or an intermediate professional aiming to advance your career, this session will demystify practical strategies for applying to roles more effectively, optimizing your resume for security positions, and approaching interviews with the confidence and structure needed to succeed.
   bio: |-
     is a cybersecurity professional with more than six years of experience spanning application security, cloud security, AI, and software development. Throughout his career, he has led comprehensive security assessments and developed strategic security programs that drive meaningful business and client outcomes. He enjoys helping product teams build and secure applications throughout the software development lifecycle, from design through deployment. He is an active contributor to the cybersecurity community, serving as a speaker, mentor, and reviewer at industry events, including IEEE, DEF CON, and BSides.
+  slides: /assets/presentations/conference-2026/Gowdru--Hack-your-way-into-Security-Engineering.pdf
+  format: PDF
+  size: 671 kB
 
 - plenary: false
   selected: true
@@ -571,6 +574,8 @@
     is the technical testing lead at PrivSec Consulting. He focuses on application security, often spending hours grappling with small 
     misconfigurations and imagining what they could become.
   slides: /assets/presentations/conference-2026/Dekker--From_Chaos_to_Opportunities_via_security_txt.pdf
+  format: PDF
+  size: 2.7 MB
 
 - plenary: false
   selected: true
